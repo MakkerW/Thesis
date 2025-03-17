@@ -1,0 +1,49 @@
+Thesis notes
+
+
+Data sources:
+
+- Seeking Alpha (Transcripts that come about 6 hours after the earnings call, recordings)
+
+- EarningsCall (Live audio and recorded files, FREE!!)
+
+- FInnhub (Easy to use API that gives transcripts of calls, unsure how long after)
+
+-
+
+"What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cue" notes:
+
+-Collects transcripts from seeking Alpha and uses it together with audio data.
+
+-GloVe-300 for embedding text and isolates 27 vocal features to use in the model (pitch intensity, jitter etc.). They use Praat software for vocal feature extraction.
+
+-Used Iterative Forced Allignment (IFA) to match text and audio
+
+-Only look at one speaker (the one who talks the most)
+
+-The biggest improvement after using this model was seen in the 3-7 day period after the call.
+
+-Case study: AMD Q1 2017 earnings call. The CEO had a higher pitch than usual even though she said positive Things. The stock fell.
+
+
+
+
+
+"The Tone of Voice Provides a Novel Source of Alpha" Helios life Enterprises summary:
+
+- They believe that the tone of the speaker is especially important during the Q&A section of a earnings call
+
+-Extract 25 tonal features, 204 voice-based features per earnings call. The mean and standard deviation of each feature is used in analysis.
+
+-Support vector regression with spearman correlation for evaluation.
+
+-Tonal feature alone performs well. They find it very relevant to look at contradictions between tonal sentiment and text sentiment. This shows mispricing opportunity!!!
+
+-They fond that the vocal features can statistically significantly predict mergers (r=0.0365, P << 0.001). Signs of mergers come up 5 quarters before announcement. VERY INTERESTING
+
+-Pre M&A tone is a big indicator of post merger performance. Trading strategy using voice-based M&A yielded 700 basis points in excess returns.
+
+
+
+
+-

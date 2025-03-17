@@ -1,0 +1,17 @@
+Plan for this week:
+
+Monday: 
+
+Fix practical Things;
+-Git
+-File sharing/management
+-DTU merit
+-Project description
+-All the software needed
+-Claude (?)
+
+
+Wednesday:
+-Delete new files
+-Run on all dataset with all audio (170)
+-Maybe start writing while it runs

@@ -4,7 +4,7 @@ import time
 
 # Base folder containing MP3 files
 base_folder = "Data/revdotcom/combined_21"
-
+script_directory = os.path.dirname(os.path.abspath(__file__))
 for root, dirs, files in os.walk(base_folder):
     dirs.sort()  # Ensure folders are processed alphabetically
     files.sort()  # Ensure files are processed alphabetically
@@ -30,7 +30,12 @@ for root, dirs, files in os.walk(base_folder):
                 output_file.write(transcription_text)
 
             print(f" Transcription saved: {txt_path}", flush=True)
-
+            file_nomp3 = os.path.splitext(file)[0]
+            resampled_path = os.path.join(script_directory, file_nomp3 + "_resampled.wav")
+            print("resampled_path: ", resampled_path)
+            if os.path.exists(resampled_path):
+                os.remove(resampled_path)
+                print(f" Removed resampled file: {resampled_path}", flush=True)
             # Close the WebSocket and destroy the client
             client.client.close_websocket()
             del client  #Force Python to delete the client object

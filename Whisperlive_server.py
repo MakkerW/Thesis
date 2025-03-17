@@ -1,5 +1,9 @@
 import argparse
 import os
+import whisper
+from whisper_live.server import TranscriptionServer
+print("Whisperlive file", flush=True)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -37,7 +41,6 @@ if __name__ == "__main__":
     if "OMP_NUM_THREADS" not in os.environ:
         os.environ["OMP_NUM_THREADS"] = str(args.omp_num_threads)
 
-    from whisper_live.server import TranscriptionServer
     server = TranscriptionServer()
     server.run(
         "0.0.0.0",
@@ -47,5 +50,4 @@ if __name__ == "__main__":
         whisper_tensorrt_path=args.trt_model_path,
         trt_multilingual=args.trt_multilingual,
         single_model=not args.no_single_model,
-        chunk_size=500,
     )

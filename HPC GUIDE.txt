@@ -1,0 +1,14 @@
+https://thinlinc.gbar.dtu.dk/
+
+
+Nodes: https://www.hpc.dtu.dk/?page_id=2129 (voltash for interactive)
+
+
+
+module load python3/3.9.19
+
+source ~/myenv/bin/activate
+
+module load cuda/11.8
+
+module load cudnn/v9.6.0.74-prod-cuda-11.X

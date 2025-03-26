@@ -15,3 +15,8 @@ Wednesday:
 -Delete new files
 -Run on all dataset with all audio (170)
 -Maybe start writing while it runs
+
+
+
+Final update:
+Running the code on 2021

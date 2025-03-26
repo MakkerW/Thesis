@@ -21,9 +21,11 @@ for root, dirs, files in os.walk(base_folder):
             print(f" Transcribing: {mp3_path}", flush=True)
 
             #  Create a NEW client for each file
-            client = TranscriptionClient("localhost", 9090, lang="en", model="small")
+            client = TranscriptionClient("localhost", 9090, lang="en", model="small",max_connection_time=7200)
 
             transcription = client(mp3_path)
+            print("Waiting for transcription to complete...", flush=True)
+            time.sleep(3)  # Allow time for WebSocket to finalize transcription
             transcription_text = "\n".join(seg["text"] for seg in client.client.transcript)
 
             with open(txt_path, "w") as output_file:

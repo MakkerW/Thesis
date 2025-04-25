@@ -1,22 +1,9 @@
-Plan for this week:
+Next tasks:
 
-Monday: 
+-Make plan for max and min models as well
 
-Fix practical Things;
--Git
--File sharing/management
--DTU merit
--Project description
--All the software needed
--Claude (?)
+-Look at cosine similarity
+
+-Write in overleaf
 
 
-Wednesday:
--Delete new files
--Run on all dataset with all audio (170)
--Maybe start writing while it runs
-
-
-
-Final update:
-Running the code on 2021

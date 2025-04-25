@@ -1,0 +1,130 @@
+ Thank you, Lisa, and good afternoon, everyone.
+ I'm...
+ ...
+ pleased with our performance for the third quarter of 2017.
+ We increase revenue 26% year over year.
+ Expanded gross margin and achieve both operating in net income with net income of 110 million and
+ and diluted earnings of 10 cents per share.
+ We are executing well with our strongest portfolio of products in many years, including
+ of Verizon, Epic, and Radeon Vega offerings.
+ Let me provide some specifics for the third quarter.
+ Revenue of 1.64 billion grew 26% year over year and 34% sequentially.
+ This is our highest quarterly revenue since the 4th quarter of 2011.
+ The year-over-year growth was primarily due to our computing and graphic segment while
+ sequential growth was driven by the enterprise embedded and semi-custom segment revenue seasonality
+ as well as higher competing and traffic segment revenue.
+ We also took another step in our IP monetization efforts
+ by closing a pattern licensing agreement that had a positive impact on both our segments.
+ Gross margin was 35%, up 4 percentage points year-over-year, primarily driven by the benefit
+ of IP related revenue, and richer mix from the computing
+ and graphic segment, which were partially
+ offset by cost associated with our global foundry's wafer supply agreement for wafer
+ purchase and another foundry. We continue to make good progress on the ramp of our
+ our new high performance products which had a positive impact on our gross margins.
+ expenses for $419 million compared to $353 million a year ago.
+ The increase was primarily due to higher R&D related investments and expenses related to
+ annual employee incentive programs driven by our better financial performance.
+ income was 155 million in the third quarter of 2017, a solid improvement from 70 million
+ a year ago.
+ water, net interest expense, Texas and other was 45 million up slightly from 43 million
+ a year ago. Lower interest expense from a year ago was largely offset by withholding taxes
+ for licensing revenue.
+ income was $110 million for diluted earnings of $0.10 per share as compared to $27 million
+ for three cents per share a year ago.
+ The diluted earnings per share calculation for the third quarter of 2017 was based on
+ 1.
+ 1.143 million shares, which includes 100.6 million shares related to our 2026 convertible
+ nodes.
+ adjusted EBITDA was 191 million compared to 103 million a year ago.
+ Now, turning to the business segments.
+ Computing and Graphic Segment Revenue was 819 million,
+ up 74% year over year.
+ primarily due to strong sales
+ of our Radeon graphics and Ryzen test sub-processors.
+ Computing and graphic segment operating income was 70 million compared to a loss of 66 million
+ year ago. The solid improvement was primarily due to higher revenue. Enterprise embedded
+ and semi-custom revenue was 824 million approximately flat year over year due to lower semi-custom
+ S.O.C. sales partially offset by IP related revenue.
+ Additionally, server revenue increased from a year ago, driven by the increased sales
+ of Epic products.
+ As you heard earlier from Lisa, customer interest and deployment plans are strong.
+ income was 84 million down 52 million from 136 million a year ago primarily due to higher
+ cost.
+ Turning to the balance sheet, our cash-cash equivalence and marketable securities total
+ $879 million at the end of the quarter, up from $844 million in the prior quarter primarily
+ due to higher revenue. Inventory, at the end of the quarter, was 794 million, down 5% from
+ 833 million in the prior quarter. Long-term debt on the balance sheet was 1.36 million.
+ total principle that including our secured revolving line of credit was 1.74 billion.
+ In the third quarter, we used 28 million from our lower interest secured revolving line
+ of credit to pay down long term debt, which has a higher interest rate.
+ Free cash flow was 32 million compared to 20 million in the year ago period.
+ Before turning to our outlook for the fourth quarter of 2017, which is the 13th big quarter,
+ let me show you a little bit of what happened in the last quarter of 2017, which is a 13th
+ Thank you for watching.
+ Please subscribe.
+ comparative purposes that the fourth quarter of 2016 was a 14-week quarter.
+ For the 4th quarter of 2017, we expect revenue to decrease approximately 15% sequentially
+ plus or minus 3%.
+ At the midpoint, this equates to revenue growth of approximately 26 percent year-over-year.
+ non-gap close margin to be approximately 35%,
+ non-gap operating expenses to be approximately 410 million,
+ non-gap interest expense taxes and other to be approximately $30 million and inventory
+ to be down sequentially.
+ We now expect 2017 annual revenue to increase by greater than 20 percent over 2016 compared
+ to the prior guidance of mid to high teens percentage growth.
+ We do not anticipate significant changes to the diluted share count in the fourth quarter
+ and you can find additional information regarding the share count in the CFO commentary which
+ is posted online. In closing, the third quarter was a strong
+ quarter and we are pleased with the momentum of our new premium products.
+ We are making solid progress towards our growth and margin-expansion objectives and as our
+ financial performance improves, we remain committed to investing in our multi-generational
+ road maps in achieving our long-term financial targets.
+ With that, I'll turn it back to Laura for the Q&A session.
+ Laura?
+ All right.
+ Yeah, so Vivek, just to remind you, I mean, in line, you know, you've heard us talk about
+ about our IP monetization efforts, and this is very much in line with that, and as Lisa
+ And the benefit is played over both the segments.
+ Okay.
+ if you if I can just add you know if you look at the if you look at the margin
+ try and compare to 2016. In 2016, we had 31 percent gross margin, and we expect to be
+ at 34% this year and that's primarily based on the strength of the new products that lease
+ our reference and from a long-term model standpoint, we are on track with what we
+ laid out in the financial analyst's day of going from 31 to 34 and then expecting to
+ be greater than 36% in 2018 on the strength of the new premium products that are ramping
+ into 2018.
+ I think the way I look at that is if you look at Q3 from a volume standpoint and the volume
+ is pretty high, and that's why it's highlighted from a viewpoint of the cause.
+ But the way you want to look at it going forward, Q4, and be honest, all of the costs are related
+ with the WSA that's referenced in the script,
+ it's contemplated within our guidance and our long-term models.
+ I think the first thing I'll say is, you know, we do want to invest in the business, especially
+ with the growth opportunities we have, and primarily targeting the OPEX investments towards
+ R&D. They are in the current moment with a lot of products ramping. Just in the last
+ a few months, you heard about the rise and ramp,
+ You know about RAPEC, you talk about Vega,
+ and obviously they are go-to-market cost
+ for ramp of new products.
+ but as far as 2017 guidance is concerned,
+ I had said previously 31% has potential of revenue,
+ But I think right now, where the numbers are coming out,
+ especially with the strength of the revenue
+ out of the equation how we think we end up at about 30% on an expense to
+ revenue ratio in 2017, which you as you probably recall is at the upper end of what we have
+ of a long-term target model, which is 26 or 30.
+ So actually, I'm pretty pleased because, you know, if all else, if everything works out
+ in the Q4 guidance that we gave, and in 2016 would have been a 32% of revenue in 2017,
+ approximately 30% and then obviously we'll see where we get into 2018, but very please
+ some of you point of being able to make the investments in the business to support the
+ product roadmap, the go-to-market cost for the ramp up new products and at the same time
+ and bring down the percentage of OPEC's over revenue.
+ Yeah, I think if you look at it from an over-stand point, if you look at the cost impact, it's
+ all within our guidance. I think, you know, if you look at IP from that standpoint, you
+ We have several IPDs in the pipeline for QTSIS,
+ because clearly we thought it was likely that we would be able to close an IP in the later
+ the deal in the quarter and that's how it turned out and you see the benefit across
+ segments and from a go-forward standpoint, you know, despite the cost of being there,
+ You know, we look at it overall from a viewpoint of the trend of the margin, major provider
+ of the gross margin uplift is the premium new product that we are launching.
+ And then obviously there's opportunities from an IP standpoint to benefit the PNL.
+ we go ahead and put that in the equation.

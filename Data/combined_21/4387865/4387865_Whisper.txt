@@ -1,0 +1,566 @@
+ Good afternoon. Welcome to Identives' presentation of its third quarter 2020 earnings call.
+ My name is Teran, and I'll be your operator this afternoon.
+ Joining us for today's presentation are the companies CEO Steve Humphries and CFO Sondra
+ Wallach.
+ Follow-
+ following management's remarks, we will open the call for questions.
+ Before we begin, please note that during this call, management may be making references
+ to non-gap measures or projections, including adjusted EBITDA and free cash flow.
+ In addition, during the call,
+ management will be making forward-looking statements.
+ Any statement that refers to expectations,
+ projections or other characteristics of future events, including financial projections and
+ future market conditions is a forward-looking statement.
+ actual results may differ materially from those expressed in these forward-looking statements.
+ For more information, please refer to the risk factors discussed in documents filed
+ from time to time with the SEC, including the company's latest annual report on Form
+ Identity.
+ Identity assumes no obligation to update these forward-looking statements, which speak as
+ up today.
+ I will now turn the call over to CEO Steve Humphries for his comments.
+ Sir, please proceed.
+ Thanks, operator, and thank you all for joining us today.
+ In our preliminary results, we said we expected to beat the aggressive growth projections we outlined on our second quarter call,
+ including 80% growth in RFID for the full year,
+ 20% sequential growth in physical security in Q2 to Q3.
+ and federal sales up 80 percent sequentially.
+ with our finalized financial results.
+ we're confirming that we beat each of those expectations.
+ This shows both the strong industry trends driving our business and our leadership within the industry.
+ Overall, revenues grew 30% sequentially to $24.9 million, showing strength across the business.
+ We projected our premises business, which is about two-thirds federal, to grow 20 percent sequentially.
+ We actually were 26% sequentially in premises.
+ Our R&P business grew more than 50% sequentially and over 100% year-over-year is on track for 80% full-year growth.
+ and our federal revenues grew nearly 90% sequentially.
+ This has us lined up for a strong fourth quarter.
+ and the second half of the year,
+ that it'll be more than 30% higher than our first half.
+ We're seeing business momentum continuing.
+ Backlog building, and the pipeline for 2021 becoming stronger.
+ But before we talk too much about the future, let's review the operational and financial
+ results in the third quarter.
+ Now our key focus areas of RFID and our federal business were particularly strong.
+ within our identity business, which is predominantly RFID,
+ revenue increased sequentially by 33% to 15.4 million.
+ And year-over-year, identity in total grew 53% from $10.1 million in Q3 2019 to $15.4 million in Q3 2020.
+ The growth was mainly driven by RFID, of course, where we ramped up production volumes for a number of customers.
+ In particular, a major customer whose production started in Q2 came through in Q3 even stronger
+ than we expected.
+ As a result, our RFID business more than doubled the volume we produced a year ago.
+ Even with our ramp up, there was nearly a million dollars shipments we didn't fulfill.
+ balance customer requirements to make sure that most critical deliveries were covered.
+ Now the business implication is that the industry launches we expected are well underway.
+ The mass market adoption of RFID-integrated products is happening.
+ Our major customers...
+ are incorporated RFID devices into health care products, mobility, consumer products,
+ libraries, pharmaceuticals, and app enabling the physical world.
+ The point is that each of these are 100 million or billion plus unit applications.
+ It's a huge market that's just beginning to grow.
+ The overall trend clearly showed in our third quarter results,
+ as well as in the continuing back walk strength
+ where he went into the fourth quarter with backlog
+ of fourth quarter shipments up 68% over last year.
+ that will talk about the implications going forward
+ of all these trends later on the call.
+ Also, it's an identity in the third quarter.
+ our identity readers grew strongly.
+ up 38% over last year's third quarter.
+ that we all expected to work from home trend to plateau
+ after the initial lockdowns in the spring.
+ but this really shows that demand is continuing.
+ The third quarter is always strong for SmartGuard readers because of the federal year end.
+ So the growth comes over in normally strong year prior period.
+ The reason is that the federal government, and especially the DOD, are adopting policies
+ supporting...
+ work from home and work mobile for the long term.
+ So we do expect these trends to sustain.
+ We'll talk more about them as we look at 2021.
+ So turning to our premises business in Q3, this shows the strength of our full product
+ as well as of our federal government focus.
+ As I mentioned before, premises grew 26% sequentially.
+ The federal business for our Velocity security platform was the strongest vertical growing 90% sequentially.
+ but we also saw activity in banking, retail, utilities, and others.
+ For example, in financial services, we quoted our first large 3-VR crime-managed video
+ which is now closed.
+ Leading banks adopting our platform across almost 100 branches.
+ The six years $650,000 agreement provides video surveillance, analytics, and case management
+ on a subscription basis, saving tens of thousands of dollars
+ and capital expense for our customer,
+ and assuring a predictable revenue stream
+ of over $100,000 annually for our business.
+ Now, to be clear, we've had continuing strong business progress, but in our industry, some
+ of small dealers and small businesses are under pressure,
+ as are our competitors who focus there.
+ Now, since federal, state, and local government customers
+ are more than two-thirds of the business
+ for our physical access platforms.
+ We're seeing strong performance and premises.
+ and our quick pivot to recurring revenues
+ with lower cost of entry.
+ put us in a strong position overall.
+ These include our Velocity Serious Product, Mobile SID, 3DR Prime, our Freedom Cloud and Freedom Mobile, which we just launched this week.
+ All of these are recurring revenue products, all launched in the last 12 months.
+ Now, as we talked about in the second quarter, the broad adoption of RFID and our major
+ customers' core products is what really gives us reason to believe this growth is a long
+ a long-term trend that we're just starting to see take off.
+ backlog for the fourth quarter and for 2021. So overall the third
+ was highlighted by 30 percent sequential revenue growth.
+ Over 100% year-over-year are HE growth.
+ and 90 percent sequential growth in federal sales,
+ 38% year-over-year identity reader growth, and Q4 backlog up 68% for last year.
+ There are certainly challenges in the economic environment we're all in, but the strong
+ sectoral growth we're experiencing RFID, our strength and federal work from home going
+ you do a second wave of demand.
+ the products we've launched in the third quarter.
+ to take advantage of return-to-work needs
+ that built the base for a strong fourth quarter in 2021.
+ So let me turn it over to Sandra to go through the third quarter financial results.
+ Afterwards, I'll go into more metrics and the industry-wide trends that are really accelerating
+ our business into the fourth quarter and into 2021.
+ Go.
+ As Steve mentioned, our results show the continued delivery
+ of what we committed with a solid trajectory for 2021.
+ Please note that these results are all within the preliminary results announced October 29th prior to market open.
+ The first metric is revenue growth,
+ even with the continued impact of COVID-19.
+ We closed out the third quarter of 2020 with $24.9 million in total revenue,
+ up 30% compared to the second quarter of 2020,
+ and up 8% compared to the third quarter of 2019.
+ Our recurring revenue accounted for six percent of our third quarter revenue and eight percent
+ of our total revenue in the first nine months of 2020.
+ This part of our business remains steady
+ at 8% of our total trailing 12-month revenue.
+ for the third quarter of 2020.
+ gap and non-gap adjusted gross profit margins were 40 and 41 percent respectively for the
+ The trailing 12-month period, our non-gap adjusted gross profit margin was 42 percent.
+ For the third quarter 2020, our non-gap adjusted EVA.margin was positive 11 percent, with a
+ positive 4% for the trailing 12-month period.
+ Our gap net income for the third quarter, 2020, was 0.4 million, compared with a loss
+ of $2.7 million in Q2 2020 and that income of $1.1 million in Q3 2019.
+ With the dividends on the series be preferred our gap net income attributable to stockholders
+ for $0.1 million or net income of $0.1 per share compared with a loss of $0.17 per share
+ in Q2 2020 and positive five cents per share in Q3 of 2019.
+ We have provided in the appendix a full box affiliation of GAP
+ to non-gap information, which is also included in our earnings release.
+ on our next slide for further analyzing trans by segment.
+ Our premises segment, which includes sales of physical access control and video products.
+ video products and services accounted for 9.4 million or 38% of our total revenue in Q3.
+ representing an increase in dollars of 26% from Q2 2020,
+ and a decrease of 27% from Q3 2019.
+ revenue from our identity products, which includes sales of access credentials, smart
+ card readers, RFID transponders, and mobile security products totaled $15.4 million, or
+ 62% of our total revenue in Q3 2020, an increase of dollars of 33% from Q2 2020, and an increase
+ at 53% from Q3 2019.
+ Our non-GAP gross profit was 41% in the third quarter of 2020.
+ This compares with 42% in Q2 2020.
+ and 47% in Q3 2019.
+ driven by both the mix of products across segments
+ and within segments.
+ Our premises segment margins were 55%.
+ relatively flat compared to Q2, 2020,
+ and Q3 2019 at 55% and 56% respectively.
+ Our identity segment margin is for 30%.
+ relatively flat compared to Q2, 2020 at 31% and lower than Q3, 2019 at 33% due to a higher
+ proportion of lower-margin transponder cells.
+ Now moving to our operating expense management.
+ our GAP operating expenses for the third quarter
+ were 8.9 million, which was down from 10 million in Q2 2020,
+ and down year-over-year from 9.3 million in Q3 2019.
+ The sequential decrease was primarily due to the non-recurring 1.2 million restructuring
+ steps in Q2 2020.
+ non-gap operating expenses as a percentage of revenue decreased to 30 percent in the third
+ quarter of 2020 compared with 40% in the second quarter of 2020 and 34% in the third quarter
+ of 2019.
+ Our non-GaF operating expenses totaled $7.5 million in the third quarter of 2020.
+ This compares to 7.6 million in Q2 2020 and 7.9 million in Q3 of 2019.
+ Bringing all the pieces back together are non-gap-adjusted EBITDA with $2.8 million in the third quarter of 2020.
+ a sequential increase of $2.3 million over Q2 2020.
+ Turning to the balance sheet, we'll be comparing our position
+ It's September 2020.
+ to the position one quarter ago, June 2020,
+ and the prior year quarter ended September 2019.
+ We exited the third quarter with cash at $12.3 million.
+ a net decrease of 0.8 million from Q2 2020
+ and a 1.2 million increase from Q3 2019.
+ Net cash activity for the quarter was driven
+ by $2.2 million of cash provided by our net income excluding non-cash items, $3.6 million
+ of cash used for working capital and CAPEX, driven primarily by late Q3 buildings that
+ that were not collectible within the quarter,
+ and by an increase in working capital
+ to support our Singapore growth.
+ under financing and foreign currency.
+ We had a 0.6 million net cash provided,
+ driven by a 0.9 million increase in net borrowings
+ under our revolver and a 0.5 million reduction
+ through scheduled payments on the term loan facility.
+ We believe that we have adequate capital available
+ to fund our business growth, and return to positive non-gap
+ cash flow exiting Q4 2020, as well as retiring the term and note debt on schedule in Q1 2021.
+ In our 10Q filings, we will be providing a full reconciliation of the year-to-date cash flows.
+ For completeness, we have included the full balance sheet for the earnings release and the appendix.
+ Even with the global disruption continuing, today we are confirming our guidance for the
+ consolidated results of the company for full year 2020 at revenue between 86 and 88 million
+ within our original guidance entering this year.
+ We achieved GAP EPS profitability in Q3 2020 ahead of expectations and continues to see
+ the benefits of our actions to optimize costs to carry forward.
+ In addition, we believe we will be non-gap pre-cash flow positive as committed during
+ Q4 2020 and beyond.
+ In addition, today we're providing guidance for the full year 2021,
+ 2021, building on the strong base of growth that we have delivered.
+ Our full year 2021 guidance is for revenue between $96 million and $102 million, which
+ Reflex growth year-over-year from the midpoint of our 2020 guidance, exceeding the market
+ growth by a factor of two.
+ We expect our normal seasonality to continue with our lowest quarter in Q1 2021 and building
+ up quarter over quarter through the end of 2021.
+ We will be issuing a full set of guidance at RQ4 in full year 2020, earnings released
+ targeted for March 2021.
+ With that, I will conclude the financial discussion
+ and pass it back to Steve.
+ Thanks, Andrew.
+ As I said earlier, our RFID growth is predictable for two reasons.
+ It's heavily back blood driven and it's driven by major companies who've incorporated our
+ RFID devices into their products.
+ Planning for global products is a year-long process, so even now we're getting visibility into plans throughout 2021.
+ First backlog, joining the fourth quarter, our total backlog stood at 10.5 million,
+ up 68% for last year.
+ And our RFID backlog for shipment in the fourth quarter is up 125 percent over the last year.
+ We've now gotten in orders for about 95% of our expected shipments for the quarter in RFID.
+ And that means most additional orders either contribute to upside within the quarter or
+ drive more backlogs for 2021. This is a key driver of our growth for 2021, and we expect
+ the RFID portion of our business to grow well over 50%
+ in the first half of 2021 versus the first half of 2020.
+ with full year growth in the mid-20% range for 2021.
+ Now the core driver of our RFID business is the mass market adoption of RFID integrated
+ products.
+ Our customers are
+ in the
+ in their own industries, incorporating RFID devices
+ into their products.
+ each with volumes of tens or hundreds of millions of units.
+ So this is a huge market that's just beginning to grow.
+ In the third quarter, two strong use cases were launched in the market, one by CVS and
+ and the other, of course, by apple.
+ Now, we don't generally disclose customers.
+ So these are just industry examples to be clear.
+ but both are great examples of the RFID market accelerating.
+ They're both basic uses that establish platforms.
+ and then drive multiple products from already big first launches.
+ So the first, some of you saw in the demo session,
+ We had a couple of weeks back.
+ CPS has spoken our acts for visually impaired people.
+ You tap your phone to the RFID tag on the prescription bottle
+ and it reads out the medication with dosage
+ and all the other information
+ for people who can't read the label.
+ Now, about 13% of prescriptions go to people with some visual impairment, and they're about
+ about four and a half billion prescriptions annually.
+ So in the U.S. alone, that's over half a billion R.
+ by DTAG every year just for the visually impaired sector.
+ Now that's the current use case and the first use case, so now extrapolate.
+ With the platform deployed, every CVS pharmacy now is set up to program and put RFID tags
+ on every prescription, and that's really where they should be on everyone, so when you open
+ in your prescription bottle, you tap each time you take it.
+ You'll know if you've taken it morning or evening
+ or whatever the prescription regimen is.
+ It'll auto refill as you get loaded.
+ all kinds of capabilities you can do there.
+ You can even opt in and your doctor could get information about how consistently you're
+ taking your meds because anyone who studies this area knows that it's the biggest issue
+ with the prescription pharmaceuticals is people complying with taking their meds.
+ So there's a number of things that companies like CVS are thinking about now that they've made that initial investment
+ they can really expand into other categories.
+ So ultimately, we think the opportunity is for all four and a half billion of the prescriptions in the U.S. annually.
+ The U.S. is about a quarter of the world prescription, so again, you can see to the visually impaired application
+ that's a couple of billion units worldwide, and nearly 20 billion units for all prescriptions worldwide.
+ Now, of course, it's going to take time, but you can see the volume of potential.
+ Again, the investment's really now done.
+ And, of course, the reader and the app technology
+ is already in everybody's pockets in their phones.
+ Now, related to mobile space in the phones,
+ The biggest event, of course, was Apple's launch
+ full NFC support in iOS 14 and the iPhone 12, and especially the new ecosystem of products
+ around Bank State.
+ Apple's made it very easy and secure to connect peripherals to the iPhone, and then through
+ or NFC to connect them into core iPhone features.
+ So just as a couple of examples, the first Apple-branded case is, for example, we buy
+ By an orange case, you pop it on your phone, but the screen turns orange, it goes through
+ an animation.
+ You don't...
+ you've connected it and you know it's an Apple purified phone.
+ It seems pretty trivial.
+ But what it's showing is the peripherals are actually
+ communicating securely with the phone, launching processes in the phone, and all secured and
+ controlled by Apple through secure NFC links.
+ And this enables the whole world of new peripherals to connect to the phone and seamlessly that
+ securely.
+ and experiences.
+ So this is really the vision for this type of connected device that Apple's deploying.
+ with over 200 million iPhones just a year,
+ connecting multiple MagSafe-enabled devices each.
+ Again, you can see the market in the billion unit plus range annually.
+ Additionally, of course, where Apple and CVS go, Samsung, Walgreens, Amazon Pharmacy and
+ but others have to match.
+ So you can see the scale of the markets we're going after and the volumes that already are happening.
+ of gaining traction right now.
+ We've been the trusted co-developer and supplier for some of the most advanced applications
+ and the most demanding companies.
+ This is where the growth is and it's where our competitive advantage is strongest.
+ So how are we going to keep our advantage?
+ We're expanding our technical capabilities, and for 2021, we're launching services to
+ to help companies put RFID into their products.
+ Now, we're unique in our ability to go from concepts
+ to optimize design, to early production,
+ to scaling production and then to immediately start back into the next generation of devices
+ and that's exactly the cycle that the customer needs.
+ We're also innovating with new products, answering needs we know from our own customers.
+ An example is the new product we've launched, what we think is the industry's lowest carbon
+ footprint RFID tag or ECO tag. Instead of being an etched antenna on a plastic
+ substrate. We developed a unique laser cutting process and it's on recyclable
+ paper substrates. We even use recited aluminum for the antenna. So there's no etching,
+ chemicals, no lost metals, no plastic layers, no chemical runoff.
+ Why do we do all this?
+ Well, the biggest users of high-end RFID are consumer-facing companies and
+ and sustainability matters to them.
+ Companies like Amazon and Apple have made public commitments to being carbon neutral.
+ And ARPID tags are consumer-visible devices, so our eco tag shows their eco commitment
+ and eliminates what otherwise would be a negative
+ on their carbon footprint.
+ Now, our customers told us this is what they want.
+ It's very tricky technology, but we developed it.
+ And fundamentally, this is exactly why we're going to keep our lead in the fast-growing
+ R by D market.
+ So that's RFID.
+ Now let's look at premises, which has some similarly exciting opportunities.
+ And remember, the core technology in our RFID tag
+ shared with our access cards, door readers, identity readers, and other parts of our
+ on data security solutions.
+ So, one gross driver really supports the other.
+ So, with the premises industry overall going about 6%, we grew 26% sequentially, and we're
+ expecting premises to grow about 25% year over year this quarter.
+ For 2021, we expect growth in the mid-teens more than double the industry rate.
+ Now, the fundamental drivers are recurring revenue growth, the shift to IT driven buyers, and federal growth.
+ So why would we be growing faster than the market in these dynamics?
+ Just like an RFID, we're both a trusted provider and we've got some of the most advanced technology and broadest product range.
+ as customers move to software-defined platforms.
+ They need to migrate their entire platform across readers, credentials, controllers,
+ access video and audio.
+ and it's all going to be integrated with their Active Directory
+ or other sensitive data repositories.
+ Now, we're the only company that delivers all of this.
+ And we think total solutions and IT-centric recurring revenue
+ platforms will be the fastest growth sector in physical security and the strategic position
+ of combined access, video, and audio management
+ is the key for anyone trying to win.
+ A great example of this is our Freedom Cloud platform,
+ that we just launched this week.
+ It's the lightest weight implementation in the industry.
+ totally web and mobile-based.
+ And especially on the hardware side,
+ our freedom bridges are extremely compact and cost-effective.
+ by your key devices.
+ The bridge that can control two doors is the size of a pack of playing cards.
+ This is what customers are looking for.
+ hard to be noticeable, really intuitive to deploy and manage, and a platform that the
+ the IT department is totally comfortable owning and managing.
+ software.
+ and the hardware is managed just like a network switch.
+ So we've described the growth in each segment.
+ So to put it together, in the fourth quarter, we're expecting overall revenues to grow in the 25% to 30% year-up-a-year range.
+ We're looking at the business drivers for next year.
+ We have RFID use cases that each can be hundreds of millions of units over time.
+ give us clear line of sight into 2021.
+ There's strong federal government demand for our physical security, identity readers, and mobility apps.
+ And our complete range recurring revenue product is now in place.
+ Now, with all these growth drivers, we could see faster growth in any given quarter.
+ But to keep our predictability, we've given a strong phase growth outlook, and we'll
+ updates as we get further into the market's takeoff.
+ The 2020 has been a challenging year, but we're in markets that are taking off and we've
+ been
+ able to strengthen our leadership even at their
+ accelerates.
+ The result is we're looking forward
+ to a strong finish to the year.
+ and an exciting 2021.
+ So with that, let me open the discussion to questions.
+ Operator?
+ Thank you, ladies and gentlemen, we will now take questions.
+ If you do have a question, please press star 1 on your telephone keypad at this time.
+ If you're using a speakerphone, we ask that while posing your question, you pick up your
+ hand set to provide the best sound quality.
+ Again, ladies and gentlemen, if you do have a question or comments, please press star
+ a one on your telephone keypad at this time.
+ We'll take our first question from Jason Smith
+ with Lake Street Capital Market.
+ Please go ahead.
+ Hey, guys. Thanks for taking my questions.
+ Steve, I appreciate all the color and sort of why you're feeling so confident in 2021,
+ I'm curious if you could talk about the backlog coverage to 2021, and if some of this comes
+ up.
+ is really just driven by some sizable orders already in hand,
+ hand or if it's just general confidence, especially on the RFID side that you are just seeing
+ scoring to see this big general adoption.
+ Yeah, thanks for the question, Jason.
+ And yes, backlog has been growing nicely.
+ I think we earlier indicated that at the time it was up,
+ We just doubled from what it had been just a couple of months earlier.
+ And I mentioned that we've already got over 95% of our Q4 shipments already covered in
+ and backlog, so all the orders coming in are 2021 orders.
+ we actually have orders that go throughout all of 2021.
+ So we've got disability both front-ended, you know,
+ as I said, to be expected the first half of the year.
+ already to be 50% growth over the year prior.
+ And obviously, we wouldn't be saying that clear numbers.
+ we didn't have a fair amount of visibility in it.
+ And that's really driven by our backlog.
+ Okay, that's helpful and in your preparatory remarks you noted about a million dollars in business
+ not being able to shift in Q3.
+ Could you just comment on what sort of constraints you're seeing there and if those constraints
+ heavies now in Q4?
+ Yeah, also thanks for picking up on that one.
+ Yes, as I mentioned, in the second quarter call,
+ we've been expanding our capacity rapidly.
+ but when you look at doubling your capacity,
+ and then we talked about in Q4,
+ We've got a backlog day, 125% of the year prior,
+ That's indicating, you know, more than double worry
+ over a year ago.
+ We're building out space and we're putting in more equipment.
+ and some of the devices that we're producing
+ are particularly complicated at the high end,
+ which is great for us because it's more differentiated,
+ but they take more machine capacity
+ because there's multiple process with multiple passes
+ versus some of the more straightforward products.
+ And those of you who are watching this video,
+ and more complicated products often go to the more sensitive and high-end customers.
+ So we always want to favor those, and so we did have some that we couldn't ship.
+ we're catching up in this quarter, and we'll have the capacity built out by the end of
+ this quarter.
+ We talked about building capacity.
+ You're talking, you know, $150,000 in facilities to build out and a few hundred thousand dollars
+ in equipment.
+ a major capital absorption.
+ We have been catching up to the third quarter and we'll be all caught up in a good shape going into 2021.
+ Okay, and then just the last one and I'll jump back into Q.
+ I mean, obviously, the school and education market could be a little challenging with
+ budgetary pressures and whatnot.
+ but just curious if you could comment
+ of what your expectations in that market are going forward.
+ If it is choppy, as you say, but it's also, you know, highly motivated for security,
+ You know, we put out a white paper on remote school in cybersecurity, for example, with
+ our...
+ or fighter keys that we just launched.
+ you know, one of the dirty secrets that a lot of people haven't, you know, focused on is
+ We've taken all the kids in our country and put them online to go to school, and if anyone
+ Everyone thinks that we've actually properly secured their data pipes for their learning.
+ and they're being a little optimistic.
+ And so there's opportunities there, for example, to cyber secure more of the distance learning
+ environment and there's also, as we go back to school, physical security is as important
+ as ever, and especially physical security infrastructure is now being integrated with
+ health and safety infrastructure.
+ so there's opportunities there.
+ We're seeing a lot of interesting bids.
+ but also, you know, schools are in financial, you know,
+ challenges and so some of them are going ahead fast and some of them are really frankly hunkered down so I
+ I don't know on a month-by-month basis how it's going to emerge, but from a market opportunity,
+ you know, over the course of the next year,
+ I actually think schools and universities are going to be a very good segment for us,
+ on the cybersecurity side and on the health and safety
+ a pre-disabled spirit aside.
+ Okay, that's really helpful.
+ Thanks a lot.
+ As a reminder, ladies and gentlemen,
+ If you do have a question or comment, please press Jar 1 on your telephone keypad at this
+ time.
+ We'll take our next question from Mike Latimore with Northland Capital Market.
+ Please go ahead.
+ Great. Thanks a lot. Yeah, great quarter there. Steve, I couldn't tell, did you give some guidance on what you thought premises would grow in the fourth quarter?
+ I couldn't tell if he said that or not.
+ Bye!
+ Typically for premises in the fourth quarter, I don't know that we've got to go back and
+ and look at that.
+ I'm going to give it,
+ No, we did.
+ We did.
+ I'm sorry.
+ I'm looking at my notes here.
+ So we set up a 25% year over the year for the post-border.
+ So that's like up sequentially.
+ And is that driven by non-government or is that government driving that sequential pattern then?
+ Yeah, good question. It's across the board.
+ and displace government and non-government.
+ on the growth.
+ As I think about underneath the numbers,
+ It's probably more commercial than government
+ in terms of increases sequentially.
+ Okay. Okay. Very good.
+ We have seen a rebound in activity on the premises side.
+ You know, you can only defer these things so long and now a lot of the installers are
+ getting out there, getting back in line.
+ and also customers, you know, things like videos, systems,
+ where Microsoft stops supporting Windows 7 or something,
+ They have to do something.
+ So there's a built-in migration and growth pattern
+ that we're starting to see come back.
+ Yeah, yeah, I got it.
+ And then on the identity, it just seems like a ton of opportunity there.
+ I guess, how diverse do you see that revenue stream being in terms of, you know, customer
+ based over the next year, is it going to be, you know, very diverse or is it going to be
+ be a couple, a customer's really driving the growth.
+ Are you asking primarily about RFID and identity?
+ Yes.
+ Okay.
+ So actually, I think it's going to be quite diverse.
+ certainly when some of these global corporations, you know, launched their numbers of big, but
+ But there's several of them that are either already launching or in pilot and building
+ in the launch for 2021.
+ And you might notice we didn't have any 10% concentration
+ customers, you know, disclosed.
+ So it's certainly some gorillas, but a range of them.
+ And then the other interesting thing is a range of applications that are not just in
+ in one vertical either.
+ There's several different use cases that are getting momentum.
+ Yes, and then you have a number of cloud operands now
+ You know, I'm sure you're going to be promoting that even more aggressively next year.
+ I mean, what would be, you know, when you book a clock, it doesn't always show up within
+ in a quarter of a year, obviously, but like,
+ So what would be sort of a good amount of cloud booking
+ for next year if you're successful?
+ Is it, you know, $1 million?
+ Is it $5 million?
+ Like what would be a successful cloud looking at here?
+ I think we're just learning what the profile looks like,
+ But I think, you know, the six years, $650,000 years.
+ All right.
+ Thanks.
+ that we did is on the high end, but it's characteristic of how this thing works.
+ So if you mean how much will be recognized within the year, you know, probably, you know,
+ a couple of million dollars incremental to the 60% were already asked, but that would
+ and represent, of course, five to six times that much
+ in terms of, you know, book business.
+ Yeah, I guess that's more what I was referring to.
+ Okay, great.
+ Okay.
+ Good.
+ Thank you for your time.
+ At this time, this concludes our company's question and answer session.
+ If your question was not taken, you may contact Identity and Devestre Relations Team at I
+ N-
+ I'd now like to turn the call back over to Mr. Humphries for his closing remarks.
+ All right and an operator just want to confirm we don't have any other questions in there. That's right
+ No further questions in the queue at this time.
+ Terrific.
+ All right, thank you very much.
+ Thank you all for joining us.
+ Very much.
+ Also, please join us at some of the virtual investor events coming up this quarter.
+ We've got Imperial Capital the first week in December.
+ and Northland the week after that.
+ So I look forward to continuing to update you on the business.
+ And until then, best wishes, be well, be safe,
+ and have a good evening.
+ Thank you.
+ Ladies and gentlemen, this does conclude today's teleconference.
+ We thank you again for your participation.
+ You may disconnect your lines at this time.
+ Have a great...

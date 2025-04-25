@@ -1,0 +1,1332 @@
+ Good afternoon, this is the Coruscant Conference Operator.
+ Welcome, and thank you for joining the next C3rd Quarter 2021 Financial Results Conference
+ As a reminder, all participants are in listen-only mode.
+ After the presentation there will be an opportunity to ask questions.
+ Should anyone need assistance during the conference call, they may signal an operator by pressing
+ star and zero on their telephone.
+ At this time, I would like to turn the conference over to Mr. Paolo Bertoluzzo, CEO of Nexi.
+ Please go ahead, sir.
+ Good morning.
+ We want to everybody on this call, and thank you for joining us in our third quarter results
+ session.
+ As usual, I'll see you in the next session.
+ Bye.
+ I'm here with Renato Mingru and I work with FONS, the fundamental gas that is leading
+ in best relations, but we have also a few other colleagues
+ connected in here with us in case that is needed.
+ As usual, I will start giving you a little bit of an update on where we see the volumes
+ going and evolving on the back of the evolution of COVID and I will also give you a short
+ business update with focus on merchant services, then I will end over to Bernardo who covered
+ financial results, I will come back to give you a quick update on where we are in creating
+ the European Patriotic Leader and bring the new group together and obviously I will conclude
+ commenting on guidance that, as you know, has been confirmed for the full year already.
+ Before I go in, let me remind everybody this is the first time for us in presenting the
+ aggregated numbers of NEXY and NET. Last time, you may remember, Bernardo gave you an overview
+ of what perform the profile of the new group
+ would have looked like to kind of introduce the topic.
+ And this time, we are reporting integrated next in that.
+ We will cover the performances by region, which will give you an indication of how things
+ We are going.
+ We'll probably make a few more comments on the standalone performances, but as I said,
+ we are working for the first time in an integrated way.
+ And then at the end of the presentation, we'll
+ the time is always for your questions.
+ Now, let me start as usual with key messages at page three.
+ The three messages basically are reinforcing the same three messages we had over the last
+ a couple of quarters.
+ Number one, insert a continued volume recovery
+ and acceleration across the various geographies.
+ In Italy, we continue to see a strong volume performance
+ with Italian cars growing anywhere between 20% to 25% versus 2019.
+ that again I remember to everybody is always our benchmark here, because it was the pre-COVID
+ Here, next to Italy, we see also a good recovery in the Nordics that came back to positive
+ over the last few weeks as a total with some stronger performances across many sectors.
+ The dark region is still recovering not back to the previous level at full, but actually
+ seeing a strong basic consumption growth and also more recently we've seen the discretionary
+ Coming back to positive here, the travel sector impacted that for our business there.
+ there is still relevant in volumes is the one that is still behind the door recovering.
+ Third point, we see an acceleration stronger in SMEs than in LACA, this has to do also
+ with the different profiles of the different sectors in terms of mix-office and ease, and
+ But we believe this is really positive for our positioning and for the outlook as well.
+ And last but not least, we continue to see clear signals of acceleration of cash to digital
+ payment transition across all sectors and visible in all geographies also the ones that
+ that are already more penetrated.
+ Message number one, message number two, also in the third quarter, we've seen a stronger
+ in growing financial performance,
+ revenues for the group were at 10.1% in the quarter in acceleration versus the previous
+ two quarters for a total of 9.6% in the nine months.
+ we've seen in particular strong revenue growth
+ performance in metro services and solutions for both next and next at very similar levels
+ plus 12.2% for the total in the third quarter, 10.6 a year to date, and again here you see
+ and acceleration, e-commerce revenue were particularly strong at plus 32 percent despite
+ the fact that the travel-related sectors are still affected by COVID, EBITDA in the quarter
+ was up for 10.6%, up to 12.3% from the beginning of the year with continued margin expansion
+ that in the third quarter was at 53% up to percentage points versus last year.
+ Third message, we continue to progress in the creation of the European Paytech Leader.
+ see as reported that, again, stronger,
+ spend a long performance and we'll comment on a dedicated page.
+ As you know, we have received the antitrust approval on October 14th on the combination
+ of an extension here and the closing is now expected by your end.
+ In the meantime, we have closed the deal with Inpeza on the Ubi merchant book.
+ Yesterday, we've also signed the deal with Alphabet to create a joint venture in matching
+ services feel in Greece, closing the stack at some point in the second half, probably
+ the second quarter of, sorry, the second half, probably the second quarter of next year.
+ And last but not least, we made them, then, a small barrage of strategic investment for
+ our future in a company called Orderbird and he's the leading dark commercial software
+ solution for hospitality sector present also in other geographies, it's a small investment
+ talking about 16 euros. We've increased our ownership from 20 percent. We were already
+ there to 40% with a clear path to control and you're very happy for this because it's
+ the first real SML test for us in entering in a deeper way the software space especially
+ for SMEs stocking from Germany,
+ It is a very strategic market for us and expanding in other places as well.
+ On the back of all of this, we have confirmed our ambition for 2021 on a next-in-net combined
+ A level of revenues respect them to grow at about 10% year-over-year and EBITDA respect
+ And that will grow at 11 to 13 percent year over year.
+ Now, before I go into volumes, let me jump to page 5 as a big reminder, this is the new
+ profile of the group.
+ We have a group that sees about 60% of the revenue as a match on services and solutions
+ with a strong exposure to e-commerce.
+ 29% is what we call cash and digital payments, and remaining 10% is what we call digital
+ banking and corporate solutions. Second, the group is highly, highly exposed to markets
+ with super strong and very, very long-term and secular growth opportunity and digital
+ payments, 71% of our revenues are in low penetration markets such as Italy, such as Germany, such
+ as the central European ones and southern European ones.
+ Our arrival is at number three, 64 percent of our arrival is coming from volume and 36
+ percent from installed or installed like a type of a regular last month, at least we
+ We have a fairly strong operating leverage.
+ Now, let me jump into volumes and we'll cover it very first and then I will also give you
+ highlights on what we see at Teninga in the other key geographies. Page number six is the
+ The usual page, the dark blue line, is the total here, we're focusing on merchant services
+ where we have more insights and therefore the dynamics are more interesting.
+ The back blue line is the total, the lighter blue one is actually on Italian card, the
+ The gray one is an international card and there are four visitors to Italy.
+ Here you see that after the summer, we continue to basically grow revenues compared to 2019
+ anywhere in between the 10% to 20%, sometimes also above 20%.
+ And here, there is a clear strong contribution
+ from Italian cars that have been growing anywhere in between 20 to 30 percent over the last
+ few months.
+ I would say particularly interesting is also the dynamic in the intermation of visitor's
+ Here you see that we had a very, very fast recovery in the summer, leading to August
+ where now we went back to the levels of pre-COVID,
+ mainly driven by European visitors
+ with Americans and Asians being still not present
+ or present in a very limited way.
+ And then we have to slow down again, but then I'll have a strong recovery over the last
+ a few weeks, this dynamic is probably explained by the fact that the two risks that we have
+ side of international travel is recovering fast people are really keen to travel as soon
+ as they can do it, while actually the business traveler dynamic is still behind and therefore
+ depending on the moment of the season.
+ I probably will continue to see these dynamics happening.
+ Hopefully, the recovery of October is also due to the fact that we have less restrictions
+ also for business travelers, so it's sort of a combination of business travelers coming
+ a bit back and actually holidays in some countries in Europe in the latter part of October as
+ Jumping to pitch seven, we have the usual split by macro sectors.
+ This is the total, so this is not separating Italian cars versus international cars, and
+ for the sectors that are also affected by the dynamic that we was explaining before.
+ Here we see a very strong container growth in the basic consumption sectors like groceries,
+ groceries, utilities, medical and so on and so forth are growing anywhere around the 30%,
+ And we see the other two sectors now moving kind of similarly, and we're in between, I
+ I would say 5% to 10% here over here with a super strong recovery, I would say definitely
+ faster than expected, in particular in the impact
+ sectors, and I would say in particular in restaurants and bars.
+ So this is the dynamic we're observing in Italy.
+ We'll come back in a moment.
+ to give you a bit more insight on specific sub-secros because I think it's interesting
+ On page 8, we see, instead, the dynamics, the absurd dynamics in the Nordics area and
+ in the dark region.
+ if you just take the total before going
+ to the subsectors, space.
+ We have observed a plus 12% growth in October
+ across both, across the net, if you like, geographies,
+ geographies, 12% growth of our SNEs versus 2019, LACA instead were still behind, but
+ Actually, if you strip out the effect of the impulse
+ perception sector is growing as well, plus 8%.
+ Last one, please.
+ a good recovery in issuing, now growing 5% in net geographies and basically disease
+ mainly relating to the Nordics.
+ As we're talking about the Nordics, here you see in the top graph, the dynamic Nordics
+ getting back to positive from September and actually going further in October as a total
+ They've been growing 7% versus 2019 in terms of volumes.
+ Actually, the last week, it was actually double digit, with 12%.
+ very strong and continued performance on the basic consumption
+ sectors, about 30 percent, I should fortify in the last week, the discretionary consumption
+ sector trending a bit slower but now close to zero and a good recovery over the last
+ months also for the high-impact sectors over the last month at minus 1%.
+ Last but not least, in the DAC region, and here, most of the volumes are actually associated
+ to Germany.
+ Here, you see a continued strong performance of growth in the basic consumption sectors.
+ You see ...
+ Actually, discretionary services are going back to a positive 8% last week, 2% in the
+ October versus 2019, here the sector is still behind is actually the one that is related
+ to travel and here in Germany, you know,
+ This is an important impact on the total mix,
+ and this is one of the reasons why, the key reason why actually Germany is still behind
+ compared to 2019 volumes.
+ So this is the top of picture, page nine, big more
+ into the specific factors to reinforce the point that I think we've made that of the
+ the last many calls, I would say that we have been observing underneath these COVID related
+ dynamics, a very strong acceleration of the transition from cash to digital payments,
+ not only in underprivileged markets like Italy,
+ But also in more connected markets like the Nordics in here,
+ If you see page nine, a few examples here with the pick up from top to bottom, the top eight
+ sectors of per markets, some of them may be at less relevant in size, but here you see
+ actually also very relevant sectors.
+ I think at the restaurant and bars in Italy 34% growth or grocery is 25% growth nicely
+ growing all double digits next to some very special ones, like doctors, it's 2%.
+ For example, Nordics seemingly grossed its 25% versus 2019.
+ Again, for a market that we tend to believe that is already highly penetrated, it's a
+ pig is a big positive in our opinion and you see some more specialized and smaller sectors
+ such as, for example, cosmetic or hardware, going at 40%,
+ And so on.
+ and so on. Last but not least, also in the dark region, grocery is 49%, also restaurants
+ despite some limitations being still in place,
+ 13 percent in many other sectors growing double digits with actually department stores growing
+ triple digit, but I would look at it with a lot of sympathy that is flowing off the
+ the benchmark for the other sex as a treatment for now.
+ So this is basically the picture in terms of volumes.
+ Before I end over to Bernardo to cover financial results,
+ I'll go up to the dive with you for a few minutes on the dynamics and the key initiatives
+ that we are observing in particular in merchant services that, as you know, is more than half
+ of our revenues and is always up here focusing just for us but also for you and for investors
+ more broadly.
+ more broadly. And here we try to give a little bit of a feeling of what we're doing in the
+ in the different segments.
+ And we covered this by a semi that represents almost 60% of our revenues in national services
+ Econ that represents about 25% and also LACA that is a bit less than 10% of total revenues.
+ If you're asking yourself, what's the difference between LACA and LACA?
+ y, it goes from up to 100.
+ The reason is that there is a 7% that has to do with acquiring at 80 answers.
+ We call it cash and that is not allocatable to any segment for simplicity reasons we have
+ located post-term and as a revenue to SMEs because most of it is really SMEs.
+ Now, going one by one, in SNES, we see a strong acceleration on our digital proposition in
+ in Germany, positive result in Germany on the back of the very positive result we had
+ in the Nordics, as well as in Italy, we are promoting more and more the mobile policy
+ proposition for new to merchant a subsector at the same time know we are very successfully
+ pushing on vertical propositions in the specific sectors
+ We started in Italy with dedicated go-to-market for very nano-verticals.
+ For example, restaurants, cafes, hotels, retail, and so on and so forth, where we package
+ very often from the distribution, go-to-market point of view, but sometimes also pricing
+ and product itself, and this is really eating the ground well with customers.
+ At the same time, we are increasing our focus on ISVs and more in general, the software
+ space. And here, basically, the two things we're doing on the one side, we're expanding
+ again, our partnerships across all geographies, I would say, with ISVs, and if you count them
+ across the board would you count them actually for this cooler. It's actually more than five
+ landed partnerships in the ISV space.
+ And then a mix of the punishes with local leaders
+ on merchant CRM and ERP softwares.
+ for example, team system, you need to just to mention one, and many, many, many smaller,
+ smaller vertical specialist that very often are local companies as well and we normally
+ and we do technical integration with some of them,
+ We do also go to masquettes together.
+ As anticipated now with all the bird we're going one level deeper as now we will integrate
+ more on the proposition side as well, and we'll test it in one segment in one market
+ to expand it further as we go along.
+ In the S&E segment, basically, we have not seen any major news in terms of competitive
+ dynamics.
+ We know, I mean, we've discussed it in the past, that we have important competition
+ in the new two digital payments segment of the smaller merchants that are starting to
+ to use each appearance for the first time,
+ In particular, in Italy, in particular, it's also a journey from basically one player that
+ is a map that actually successful in the market in winning a number of customers, but actually
+ the value associated with these customers, even the size of them, is normally very small,
+ We have also increased, in Italy, our focus in that segment and we're actually quite successful.
+ we have doubled our acquisition bonus,
+ but you're also focusing on winning back these customers
+ as they grow, and when they need a proposition,
+ is more structural and more complete.
+ This is it in terms of SMEs, the volumes across our georgas were up about 14% in the fourth
+ compared to the same quarter 2019.
+ E-commerce represents about 25% of our revenues in match and services, seeing a lot of dynamics,
+ A lot of new players are coming.
+ some of them going as well to be honest with you and by the way it is a sector where we
+ We have a new segment and new propositions emerging as well.
+ We will talk more about it in our Q&A sessions, but let me give you a flavor of what we're
+ doing here. First of all, when it comes to the more PSP-like type of a proposition for
+ With acceptance propositions, we are launching easy in Germany after a pretty good success
+ in the Nordics as a collecting PSP proposition at the same time we are extending our PSP
+ position in terms of capability in Italy. It's called X-Pay, and we are expanding this
+ propositions also in the back of the experience and the capabilities that we have in net,
+ For example, in one-page accounts and card pre-onboarding, in the nine months, our e-commerce
+ activations in Italy have been up 70% compared to the same period two years ago just to give
+ At the same time, we are seeing a lot of activity in the alternative payment method space here.
+ Our angle is two-folder. We know we own alternative payment methods at the same time we partner
+ We serve our payment methods to meet them available through our gateways to our merchant
+ customers. If you focus for a moment on account to account propositions, we actually have
+ that there is strong position, a successful position,
+ both in Poland and Finland, and they're going very, very strongly at the same time we are
+ that are onboarding more and more account-to-account solutions to our gateways, for example, back
+ a pay in Italy. Similarly, similarly, and by now, a later, we have a very strong proposition
+ call it a day in Germany on that proposition.
+ That proposition is growing very, very strongly, but again, it is the proposition that is made
+ available not only for our gateway solutions in Germany, but also to basically every other
+ ...
+ international, international PSP active in the country, at the same time in the other
+ geographies, we are partnering more and more with FATI by now, believe it, providers because
+ At the end of the day, as a PSP, we must be able to offer all possible payment methods
+ to our merchant customers in order to allow them
+ to basically maximize their conversion rates at checkout.
+ Thank you.
+ Last but not least, we continue to strike partnerships with e-commerce enabler platforms
+ across all markets, we have
+ about, well, there will be more than 10 partnerships
+ across the group.
+ And many of them are with players that are present in more than one market.
+ Today, we cover about 76% of the data market.
+ Today, commerce and aid was covered across our geography about 10 per cent of the volumes
+ that basically serve the tiniest of the micro merchants, the micro Sennies in e-commerce
+ we cover through technology integration and in certain cases also go to market partnership
+ 76% of that.
+ Again, here, volumes are growing 13 percent, despite now the private sector still being
+ a...
+ Okay.
+ The reason why the growth rate of revenues is actually well above 30% is because when
+ it comes to a counter-account and by now,
+ the later solutions that we own, the growth rate is very, very strong and it's contributing
+ to be total grand loss.
+ Last but not least, the LACA segment represents about 9% of all total revenues in merchant
+ services. Here, we don't see any major news in terms of competition. Obviously, we continue
+ to see active, very active players like Agnian in very specific segments of our basic segments
+ of the global brands, in particular, I would say in luxury and in fashion.
+ To be very clear, we continue to compete successfully and win in the sectors that, instead, are
+ more local in nature, such as, for example, food retail,
+ House of Good, Mobility, Insurance, Public Administration, and so on and so forth.
+ Basically, we win and continue to win, where the physical component of the Michana solutions
+ is actually relevant for these companies where
+ they need the complex needs in terms of terminals and terminals
+ acquiring acceptance of integration, where the local integration with local payment methods
+ is important, where the vertical sector integration is important, where customization is important,
+ No.
+ At the end of the day, no, that's the core of what we do thanks to our local entrenchment.
+ And here we continue to serve successfully, not only the local large merchants, but also
+ So global brands that are present in market with the characteristics they just described
+ So across our geographies, we cover any server,
+ Let's just such as, for example, Ikea, Sky,
+ Decathlon, Vodafone, Zara, I mean names that are clearly
+ international names, but require their specific local support, integration, and
+ and delivery.
+ Now, before I move on, let me use one example of something that we have announced yesterday.
+ It is actually today's mall, but I think it's also a good example of what we see as the
+ the core of the nature of the new next group.
+ I think we said in the past that many want
+ that at the end of the day our strategy is quite simple.
+ We want to combine the scale that is necessary to drive hard innovation, digital innovation
+ in particular, and then to send confidence is important,
+ and best not to put it on a full scale.
+ So once we remain competitive with the global players,
+ specialized players when it comes to product,
+ proposition innovation, but at the same time, now, we also want to be very, very locally
+ entrenched.
+ Thanks to all the people.
+ to be ecosystem integration that we have
+ in the different geographies.
+ And one simple example of this on top of the many
+ I gave it to you over the last few minutes.
+ To do with the product we launched yesterday,
+ is called a pago in conto.
+ is available as a pay-by-account.
+ It is a very nice product because it is an account-to-account payment product that we
+ I'm making available to begin with in e-commerce, but it will be available also on the channel
+ solutions for lacquers and SNEs as well.
+ This is actually integrating many capabilities that we have in next year, not only in our
+ and services, but also independent space, European banking space.
+ Now, to believe a solution that we're making available to our PSP merchant customers, and
+ I would believe the progress will also to other PSPs that want to operate in Italy and this
+ The solution is basically leveraging open banking enablement that we provide because
+ We are the provider of the open banking system for Italy, our capability in this space, plus
+ our local license is plus our local integration plus our local capabilities on the commerce
+ And basically, a merchant can offer the opportunity to its own customer to pay by the bank account
+ without registering on anything.
+ Because thanks to open banking, the customer will find a click
+ bottom on the checkout page, and we click on the bottom, then
+ And basically the page of the bank will open, the customer will identify himself with the
+ standard identification method of the bank, and the transaction will happen because it
+ it will be pre-ready filled on the different components of the transaction itself and the
+ Reconciliation will happen automatically.
+ Again, it's a small thing, but I believe it gives you an idea of what it means
+ They're not having global scale, but also being locally entrenched and integrated clearly
+ is targeting not necessarily this low transaction, but actually large transaction because being
+ pay-by-counter, you can pay for the moment up to 15,000 euros per transaction and going
+ forward even more.
+ Let me now, in order to burn up the story,
+ I just took a bit more time here,
+ I really wanted to try and give you a flavor of what is happening in this space.
+ Thanks, Pablo.
+ So just we'll try and be quick here to relieve as much space as possible for Q&A.
+ Starting on slide 12, we've seen how revenues have grown approximately 10% in the quarter
+ and 10 percent for the nine months, as Paulo said earlier, this is how what we discussed
+ in terms of volumes and in terms of the business updates translates into the financials.
+ I think it's important to underline how growth in revenues is very similar to both NETs and
+ next year, I guess that's the message I'd like to leave you with.
+ In terms of EBITDA, we can see there's been a two-percentage point accretion here in
+ year and a quarter in the same applies if you look at the nine months. Most of the secretion
+ actually comes from NETS. We have less of an accretion this year on NETS as we've discussed
+ in the past due to the fact that we're unwinding or, let's see, there is the coming out of
+ of last year, we have the effect of certain costs, the cost cutting actions that we have
+ last year, which impacts our growth and cost to next year as expected.
+ So two percentage points, secretion, which is in line with our expectations.
+ On site number 13, we see how the various geographies performed, Italy, a strong performance
+ in the quarter with 12% growth accelerating compared to, compared to a 12% sorry, versus
+ 2019, accelerating compared to 8% we had in the first nine months.
+ So again, good signs of recovery from COVID.
+ South and Poland had even stronger growth.
+ We have an 18%, close to 18% growth in nine months, 19% if you look at it in the quarter,
+ actually, Germany growing more than Poland.
+ Thanks to this strong exposure we have in Germany
+ to e-commerce and NBNPL, which Paolo also referred to earlier.
+ in the Nordics and Southeast Europe,
+ slightly different dynamic.
+ Again, there is less exposure, I would say,
+ to e-commerce compensated in Germany and Poland for the slow recovery in terms of coming out
+ of lockdown in some of the former, or in some of the geographies, and that's just present
+ And plus, as we will see later, the effect in the Nordics of the, as we had mentioned
+ in the past the fact that we have renegotiated the last major contract at NETs and that has
+ hit us in 2021.
+ Moving on to the various divisions of Site 14, we have merchant services and solutions
+ where we've had a very strong quarter
+ with double-digit revenue growth across the group,
+ And this is true, as I said, both at net sea and at net level.
+ Nets has proved to be extremely resilient in all its geographies.
+ You can see that transactions have recovered very nicely throughout the group and into
+ We have 15% year-in-year growth for the nine months.
+ This was only partially upset by slightly slower growth
+ some of the other geographies due to the different phasing of lockdown.
+ I think it's important to underscore how e-commerce is continuing to grow nicely.
+ We have 37% growth in the third quarter this year, 32% if you look at the nine months.
+ And this is also sustained, as I said earlier, through a strong performance in Germany and
+ Poland. Just a word of explanation with regards to a trend which in the past has been different
+ in terms of the growth and volumes of international schemes which is lower than the overall volume
+ This is due to a factor in Italy of domestic debit cards now being able to transact conflictless,
+ transacting on the domestic scheme rather than the
+ international schemes and this has caused this inversion of the trend.
+ On site 15, we can see the data for cards and digital payments, even in this division
+ We're going to have good revenue growth with good volume recovery.
+ Here the volume recovery, as you can see, is what we're more used to, where the trend
+ that highlighted earlier the shift to domestic debilitating
+ on contactless transactions is more than offset
+ by the fact that we are moving some of our,
+ or we're progressively moving our domestic debit cards
+ international debit cards which fuel the growth in the national schemes, but overall we have
+ strong will in the quarter also in cards and digital payments.
+ In 2016, we can see how DBS or Digital Banking Corporate Solutions is now called performed
+ This, we've discussed this in the past, is a division in which Project Rated Revenue,
+ which is recurring by nature, even though it's not
+ contractualize, but every year we have project work for our partner banks, mainly in the
+ various geographies has been, from a seasonality perspective,
+ present in our P&L more in the first half of the year.
+ Hence the deceleration you can see from 11% to 5%, so 11% for the first nine months and
+ 25% for the last quarter.
+ Overall, I would say that performance has been in line with our overall expectations,
+ patients, maybe in Italy, we have had a bit of a slowdown, which will also impact us,
+ has impacted us this year on Montelipas as they were discussing the potential transaction
+ credit that was no longer the case so hopefully we'll recover some of the lost
+ revenues there in 2022.
+ 2017 shows us the cost dynamic.
+ I think it's important to look at the commentary we put into the side of this slide where we
+ We try and give you a picture of what the cost dynamics really look like if we normalize
+ for last year. I mentioned earlier that the next year we had reminded you that the next
+ we had a cost containment program which was 100 million euros of cash cost cut last year
+ to protect our P&L in our hospital.
+ This unwinds this year, and hence we have a bounce back of the tools on variable compensation
+ compensation, a bounce back of travel expenses and the likes.
+ If we normalize for those, you know, I'd say two items in HR costs, for instance, the
+ the overall HR cost would actually be flat here on here.
+ There's some slight, let's say, increase due to the
+ of people who were hired last year.
+ But overall, basically flat HR cost if we normalize for a variable comp.
+ With regards to other non-HR costs, these will be up 1.4 percent if we normalize for
+ the growth in volume. So, effectively, obviously, revenues are growing. We've seen a double
+ digit, our cost base grows by 1.4% if we take out the growth in volume driven processing
+ costs, that's meant to the fixed nature of most of our cost base.
+ In regards to, let's say, that position of the group, we should look at it with SIA or
+ or at least I look at it with C included,
+ We have received antitrust approval,
+ and Paolo will speak to this in a second,
+ but basically, you know, now we have the uncertainty.
+ If we look at the combined numbers, both of net debt and EBITDA, so adding on to our last
+ 12 months that EBITDA also sees 327 million euros of EBITDA for the last 12 months and
+ and we include CSAs, 820 million euros of net debt,
+ Our overall ratio is 3.6 times leverage, which is three times if you include also runway
+ which we announced as part of this transaction.
+ And this we expect to unwind pretty quickly in the leverage with the profile we highlighted
+ of the announcement.
+ Just a reminder that three-quarters of our indebtedness is fixed rates, so moving into
+ would say potentially higher rate environment, I think we feel pretty comfortable with regards
+ to our capital structure.
+ So, that said, I will pass the floor back on to Bala, so he can take us through the
+ Thank you, Bernardo.
+ Thank you very much.
+ Thank you, Bernardo.
+ In Bernardo, page 20, a quick update on CSE reported over the last few days, there is
+ up for the quarter, the revenues were up 9.3 percent, and EBITDA was up 12.9 percent,
+ so very close to the rest of the group performance here today's results are even higher than
+ I think has been anticipated that at the beginning of the conversation around SIA, first half
+ of the year is...
+ ...
+ is a bit richer than the second alpha, basically due to phasing and a very specific event and
+ nothing to do with underlying it, as far as the cruising genre is concerned, as you know,
+ Italian
+ tracers approved
+ The deal on October 14th, there were remedies specifically in the areas that are connected
+ to national products, and this is something consistent with what our expectation is, what
+ we believe is very much correct.
+ In terms of remedies, there is only one of them
+ that is structural and this remedy has to do with what I would call the National Clearing
+ non-separate clearing. To be precise, the size of that business is about 6 million euros
+ of revenues a full year, about two to three of EBITDA,
+ more or less with by the way revenues declining
+ because we're talking about products such as, for example,
+ We will be obviously implementing and working to implement these remedies as we speak.
+ peak and we expect to close by the end of the year. We still have two or three
+ alterations missing, but they tend to be either a bit more technical or in any case that you
+ at the end of the process, as for example,
+ of exchange regulator for the approval of the prospectus.
+ And everything else is in line in terms of preparing for the execution of the closing
+ in these time frame.
+ On page 21, you have a bit broader update on what is happening on the various fronts.
+ You may remember we did tell you the possible restructuring
+ our transformation plan on different work streams and so on and so forth, a quick update on
+ the technology side that basically we already have a one new group technology plan and we
+ already started to execute around some areas, for example,
+ capex saving the duplication, pulling together a group of each
+ delivery under one hub, optimizing infrastructure ready to execute process platform consolidation
+ and as soon as we close, see, and many other areas of initiatives, as far as instruction
+ operation action is concerned, we have already started to optimize to novel management in
+ the chair side, and we are ready to execute the full integration of NEXIA in Italy, while
+ There are many other operational activities already ongoing, as far as procurement is
+ These constraints are working on this a few months back and we have a very detailed plan
+ defined in that we've already closed close to close already 12 strategic negotiations
+ and as far as reminiscing, you are concerned with the touch
+ on a few of them before but things are already working together starting from the lower-ending
+ And even on the sear side, we did use a green team approach to prepare a very detailed commercial
+ plan to be able to go out as soon as we close in upselling more products and services to
+ our customers in Italy to begin with.
+ All in, we expect to have synergies for about 100 million euro of cash for next year.
+ part of this is CAPEX, as you can imagine, is one of the areas where it's easier to optimize
+ and faster to optimize, but we're progressing on all the initiatives here until about one
+ under new year of cash changes in the year and therefore obviously the exit rate would
+ be much higher than that.
+ Let me now move to page 23.
+ In short, we are basically simply confirming the guidance that we gave you last time when
+ And we talked for the first time about the new aggregated group.
+ This is valid, obviously, for next end net.
+ And I just remember that we did upgrade our guidance report to one result that when we
+ we're talking about next year.
+ And we're now confirming all of this, about 10% revenue growth in the year about 11 to
+ 13 percent, a bit of growth with margin expansion, both versus 2021, 2020 and even more, 2019
+ It was a more normal year, about 3 percentage points, about 37-19, broadly stable capital
+ I think I shoulda ratio.
+ Thank you very much.
+ with the participation of the M&A in CNGES and last but not least, as Bernardo showed you,
+ to continue the cash flow generation and progress in the leveraging over the long-term starting
+ from a new level that is exactly in line with what the plan was, with what we did announce
+ when we define that, that use it with sia and omit.
+ So page 24, I will not go through all of it again.
+ key messages for today.
+ Continue the recovery and acceleration of volumes across all geographies with clear signals
+ of acceleration of cash to digital payment across, again, all geographies, very strong
+ performance with double-digit revenue growth in the quarter and further margin expansion
+ as well, and a particular stronger performance in merchant services and solutions.
+ And last but not least, progressing according to our plan and matching ahead input in the
+ the new group together as a combination of the next net and SIA.
+ Last one, please, as I just said, confirm the ambition for the full year.
+ I'll stop there and open up for your questions.
+ Excuse me, this is the Coruscant Conference Operator.
+ We will now begin the question and answer session.
+ Anyone who wishes to ask a question may press star and one on their touchstone
+ cell phone.
+ To remove your SAP from the question queue, please press star and two.
+ please pick up the receiver when asking questions.
+ Anyone who has a question may press star and one at this time.
+ The first question is from Sebastian Stabowicz with Kepler-Schöwre, please go ahead.
+ Yeah, hello everyone and thanks for taking the question.
+ So, I know it is a bit too early to provide any precise indication for 2022, but just
+ wondering if you could help us a little bit understand the dynamic behind yourself and
+ your margin movie into 2022.
+ We are seeing a dash or Nordic gradually recovering.
+ Is it reasonable to assume a kind of acceleration
+ of the trends moving into next year.
+ And the second question would be more on a competitive landscape
+ to understand a little bit what is happening
+ in your main market, Italy.
+ We discussed a couple of times.
+ competitive landscape, but on your new markets like Nordics or Dash, who do you see usually
+ in those markets, and do you see any start-growing quios in those markets moving from online
+ to installs and trying to compete on the SMBs or it is not already the case.
+ Thank you.
+ All right, Sebastian, thank you for the questions.
+ So listen, 2022, we'll talk about guidance for 2022 in February.
+ That's when I try to give you our view for the year.
+ I think when we did announce this, we said that our ambition was to obviously increase
+ the speed of growth of the company on a larger and more resilient perimeter.
+ previous pre-COVID, if you wish. Gainas was 5% to 7% revenues and I remember 13% to 16%
+ Our plan is to do, obviously, better than that on the back of the new context and the
+ a new group profiler. Then every single region has its own dynamics. Clearly, we see it as
+ We are preparing the budget as you can imagine.
+ We're actually adding, in terms of volumes,
+ good expectations from the Nordics, but then there are many other specific dynamics that
+ have to do with a specific contract, specific areas of investment, so I would really prefer
+ two ways and give you more detailed commentary when we come to February and within a broader
+ picture, but I believe that what we are observing, as we speak, and the data that we show you
+ in terms of specific individual sectors are confirming that we see growth potential in
+ Nordics as well on top of Italy or Germany and obviously places like Poland or Central
+ based on Europe.
+ Listen, when it comes to the dynamics in the other markets, I think that in the other markets
+ We are seeing a little bit of dynamics that I mentioned before.
+ I mean, in the SME space, you see these new answers.
+ But to be honest with you, it's a little bit more,
+ We don't see for the moment in our geographies other players becoming more visible or more
+ aggressive. So this is a competition that we know and is very much focused on new two-car
+ segments. In the commerce space, you tend to see a little bit the same players around
+ I mean, the strikes and the paypal, and like I would say, no major new dynamic there.
+ clearly like making a more inroads, smaller merchants on the back of the strong punishability
+ the data in Shopify, in the markets where Shopify is strong, but, as I said before, now
+ We're also strengthening that our position for the partnerships with the other content
+ management systems and e-commerce enablers.
+ And when it comes to LACA, I would say a bit more of the same of what I said before, no,
+ So adding the more present and in general international acquires being present but nothing
+ really major.
+ As you know, by now, Pilates is becoming a bigger phenomena, and we're actually benefiting
+ from that ourselves with rate pay,
+ Klarna is becoming more active in the Nordics and I would say in Germany as well, you know,
+ Now it's particularly successful in Sweden where, honestly, we're not very exposed as
+ of discussing the path.
+ When it comes to online players moving more in store, in particular SMEs, to begin with
+ you for the moment, we don't see a lot of movement.
+ You don't have yet any successful case of other PSPs or account or account providers
+ or by now you'll be able to provide us in a semi-semi-space.
+ which is actually, as you've seen, is the one majority of our revenues in that channel.
+ So it remains a very, very specific space.
+ It's very local.
+ is very still, very much connected with banks, requires a lot of specific attention and the
+ more segmented, more realized that.
+ because he didn't want to look us in the eye.
+ So I would say nothing really new from that angle.
+ Thank you very much.
+ The next question is from James Goodman with Barclays. Please go ahead.
+ Yeah, good afternoon. Thank you very much. I'm just looking into the fourth quarter firstly. I mean you've reiterated
+ related to the guidance for the year, 10% growth.
+ I mean previously specified an H2 gross to get there I think was 11% to 13% and obviously
+ you can sort of do the calculation around Q4.
+ But I guess my question is, is it fair to expect an acceleration, perhaps, across all
+ all your geographies into Q4, I mean, we've got a weaker comparative base, I think, in
+ the Italian business, including the progressive reopening across the Nordics, but particularly
+ DAC, I mean, given the travel exposure that you have there. That's the first question.
+ And then maybe to sort of follow up on the EBITDA for the quarter and for the outlook,
+ Can you make a comment?
+ I mean, we can see the revenue, I suppose, more or less,
+ So it's a next-year net for the quarter,
+ but can you just make a comment on the EBITDA performance
+ between next year and next for the quarter
+ and as we, you know, look out to the full year there,
+ I mean, you're sort of in the middle of your 11% to 13% range at the moment, but depending
+ on what you say about revenues for Q4.
+ Is there any reason to expect that it are not to grow similar to revenues in the fourth
+ Thank you.
+ Okay.
+ Did you install it, Bernardo, you want to take it?
+ Yeah, sure.
+ So the question on the fourth quarter is, and I would say it's a difference between our
+ guidance and where we are on the third quarter. So as you said, the math is pretty easy. What
+ What we can say is that we expect the fourth quarter revenue growth to accelerate compared
+ to the third quarter, and this is primarily
+ driven by merchant services performance
+ to be stronger in the fourth quarter and stronger if you want
+ than the third quarter.
+ Overall, for the year, though, I would take what Paolo said with regards to overall guidance,
+ which is to grow revenues double-digit.
+ The second question you asked was, was it on EBIT Agro for Next in Nets, is that right?
+ Yeah, just in the quarter,
+ between the two businesses.
+ And, yeah, the relationship in the fourth quarter between revenue and EBITDA.
+ Yeah, so in the third quarter, David, as I said, when we discussed the margin of accretion
+ came primarily from the growth at NETS, right, where we had a significant step up from second
+ 43rd quarter of the 19% rule for Nibbata.
+ I think that's what we would like to stick to for now in the comments.
+ the fourth quarter, the top performance.
+ Having said that, we've confirmed guidance
+ you have a guidance for you to develop as well.
+ Great.
+ Thank you.
+ The next question is from Stefan Urivic with Odo, please go ahead.
+ Yes.
+ Good afternoon. First of all, I'd like to ask an update, maybe, on the SIA process
+ if you have any view on when you will start to consolidate the CI into the group.
+ The second question is also regarding Italy, where you said that there was a 20 to 25%
+ growth.
+ Do you see this trend continuing into 2020?
+ And if you expect kind of help plan from the Italian government to push further this penetration, thank you.
+ I sit and then thank you for the session. Let me take the second one and then I will ask Bernardo to cover the first one
+ and give you more details to what I've already done.
+ Listen, I think we are very happy with what you're seeing in terms of growth of volumes
+ that in particular on Italian cards, we expect this actually to continue into next year even
+ inside the comparison, we can learn more and more.
+ difficult. The reality is that today you still have a little bit of limitations here and
+ there but only three even we project the fourth quarter this year we expect us continue to
+ see a bit of further recovery and potentially, therefore, volume acceleration, but we remain
+ quite optimistic on the outlook, taking into consideration the fact that even if most of
+ all the appeal is still open,
+ So I'm now open to still add some kind of complexities
+ for some of these activities.
+ The current initiatives, I think, as we've commented in the past, we believe ever go
+ We will continue to support this opportunity because of the many, many positive contributions
+ that it gives the society, the economy, taxation, transparency, and so on and so forth in these
+ government has decided not to basically stop the cashback that was the most
+ visible initiative and because basically it was not convinced on some of the mechanics
+ And it's obviously fine.
+ As we said in the past, our plans, our expectations
+ are not driven by that.
+ Well, we said the cash movers are very good,
+ initiative, a nice initiative, but basically changing the shape of our profile.
+ The good thing is that this government has actually decided to implement two more to
+ newer initiatives that are more on the merchant side, and therefore incentivizing the merchants
+ to basically upgrade their shop equipment and the terms basically.
+ and the
+ in time basically for one year.
+ They're also supporting the new to cut merchants in terms of giving them the possibility to
+ that from the taxes, the commissions that they pay.
+ So it's a changing direction on cashback,
+ But actually, a confirmed belief of importance of supporting digital payments through, I
+ I would say the merchants and they're happily cooperating as much as we can with the government
+ and institutions are probably implementing all of this
+ and continuously provide further ideas and opportunities.
+ Bernardo, you want to call her?
+ Sorry, on CIM, in terms of the processors,
+ bullet points on slide 20. Where are we? We're expecting a buff in approval anytime soon.
+ It's a pretty, I would say, administrative process here.
+ there's actually a typo in the presentation,
+ Danish investment authorities have approved the transaction and then we will need to have
+ the prospectus with the performance numbers approved by FAN stock exchange regulators
+ similarly to what we did with NETS and that should happen again somewhere in mid-December.
+ show.
+ I'd say you're certainly given that antitrust approval, which was the one where most of
+ work needed to be done has been obtained and we're looking to close at midnight of the 31st
+ of December.
+ That means going back to your question. We will be consolidating from the 1st of January next year. So you'll have a full year
+ of
+ validated numbers per SEA, and we will obviously, as part of this, provide you with comparison
+ numbers for 2021, which includes the up and nets as if we had bought it from the first
+ to January of this year.
+ So you will have a same perimeter.
+ and the same will go with the database
+ that Daniel puts on the website.
+ This, by the way, is also true for the Ubi book acquisition which closed on the 26th
+ of October but has retroactive effects from the 1st of January and the same will happen
+ when we close the Alpha Bank deal, which will be in the second quarter next year.
+ So we will always try to make sure you have a meaningful life-life comparison in the same
+ But the closing of SIA is midnight this year, so from 1st to the 29th year, you have the
+ to consolidate the numbers in the actual accounts.
+ Thank you. I have a quick follow-up on Germany. Did you see any weakness in Q3 compared to
+ what you were expecting and are you concerned about the rise in number of COVID cases that
+ could probably or potentially have some impact on your fourth quarter.
+ Thank you.
+ Well, I think in Germany, we see super strong as you understood the e-commerce in particular
+ And in terms of COVID, yes, I mean, you write that on the fact that in the third quarter,
+ there were still restrictions in Germany more than in the other geographies.
+ There is an index that is actually called the refrigeration index that is quite telling
+ From this point of view, in Germany, it was across Europe, at the country, we're still
+ ...
+ restrictions and I was there two weeks ago and you could really feel it.
+ You could really feel it from the smaller things in hotels to the more visible ones.
+ And this is actually, as we said before, affecting, in particular, we say the lacquer
+ sector.
+ The larger merchants were.
+ We have, as I said, still an important exposure to the travel industry, and I would say there
+ There are two angles that are particularly relevant that are a kind of intersecting between
+ international travellers coming in and business travel more broadly and as you can imagine
+ While in places like Italy, you have a huge amount of inbound from tourists, so international
+ There has been tourism in the summer.
+ that many people are going to Germany to enjoy the summer is actually the other way around.
+ So the traffic there is much more business-related
+ in a disease-filled suffering.
+ But again, said that we've seen a good recovery also there.
+ Listen, on what is happening these days, it's difficult to comment honestly.
+ I think that...
+ I need to understand exactly what will happen in terms of measures I was reading before
+ coming, the news before coming into this call about cases growing again, but at the same
+ time the measures that we're thinking about implementing were not really comparable to
+ real organs and stuff like that the things we're talking about asking the
+ green pass to enter in certain places like restaurants or clubs and stuff like that which
+ is already happening.
+ So let's see.
+ I think it is really too early to say.
+ I think the good news is that we have more or less of the percentage of people with vaccine
+ are now high and the case is increasing, the impact on the health of the people is more
+ and therefore, hopefully, the need for restrictions.
+ Thank you very much.
+ The next question is from Hannes Leitner with UBS.
+ Please go ahead.
+ Yes, thanks for letting me on. A couple of questions also for my side. Maybe on the partnership
+ strategy with ISV.
+ Maybe you can talk a little bit about the economics there, and then also is there a geographic
+ kind of statistics around what is currently served by those partners, especially then
+ maybe also breaking down between in-store and online.
+ And then maybe you can give some more color on e-commerce,
+ growth for the group. You have stated here e-commerce revenue growth, but it would be
+ helpful to understand also the transaction volume growth.
+ And then, just in general, did you see throughout the quarter, as it developed, some shifts
+ between in-store and e-commerce, that's what we did.
+ Hi, Aniston, thank you for your questions.
+ So let me start from the first one in here.
+ I mean, maybe you can follow up a more precise case.
+ I think in general, as I said, that these partnerships are
+ I mean, that are happening, I would say, in every single geographies, and probably that
+ actually a bit more new to Italy, even if we are very active, are happening with two
+ type of players, the ones that are, and obviously the independent geography, and let me give
+ you tell in case it is probably a more loser one.
+ if you take into these two types of players,
+ They are the ones that are coming from the ERP systems, the CRM systems, and they are
+ to integrate payments and interact with across merchants from all possible industries, something
+ We have products that are more specialized for certain industries, and we have a primary
+ They've been partnering.
+ They're partnering the same punishes with the two super key ones.
+ At the same time, you have a bit more developments with the ones that we call vertical ones.
+ I don't know, here's an example, pharma.com that is serving pharmacies.
+ just to mention one of them.
+ But what are you talking about?
+ I mean, in Italy, talking about statistics,
+ We have 48 of these partnerships today, Denmark, Morgan,
+ Sweden more than 100, Norway almost 100, Finland more than 100, Germany more than 100 and so
+ on and so forth.
+ So there are many, many of those.
+ It's very locked, depending on what is the relationship.
+ Sometimes these punishes are more technical integration,
+ So there is not a very specific economic punishment in some of the cases, like the one that was
+ mentioned before. Instead, you have a go-to-market initiative. You invest together, go-to-market
+ together and you share the benefit together.
+ So, very, very different situations, but also evolving in an important, in an important
+ way.
+ Um
+ As far as the media on e-commerce volume and revenue growth, you can comment, Bernardo,
+ on the shift on the diesel engine quality
+ but it's a very important question, I think, is the
+ The clearance with you over the last time, I would say a few quarters, we have not seen
+ any further acceleration of e-commerce in terms of people moving even more from physical
+ to e-commerce.
+ If anything, you add that in some sectors direction, the opposite direction, and therefore
+ people are keen to go out and shop again in the physical world, I guess, obviously because
+ now stores are open again, but more in general people being
+ to go out and socialize and buy and eat in real places.
+ I think that, I mean, the trend to more e-commerce remains there, but it's interesting because
+ some of the acceleration that we've seen in COVID started in this first period of COVID
+ Now, he's going down a bit in certain cases, working a little bit, but again, in general,
+ the trend was...
+ continue.
+ Very good.
+ You can come in now.
+ Thank you very much.
+ I mean, we saw that revenues grow, you know, in the third quarter, grew 36, 37 percent,
+ to remember correctly from the slide in the document.
+ The volume growth was actually approximately 13%
+ students like 10 of the of the document. Within this clearly SME, a growing lack of
+ suffers from the fact that LACA has an e-commerce component including trial-high-impact which
+ you know, just close it actually to shrink in the quarter.
+ So if you look at LACA without the high impact here, it's actually growing 9%, overall e-commerce
+ volumes is a set of growing 13 percent and it's a mix of both.
+ Okay, so it's about 25 billion e-commerce volumes in QP, approximately 3.3 billion.
+ They're the group.
+ Yeah, okay. Okay. Thank you
+ The next question is from Sandeep Deshpande with JP Morgan.
+ Please go ahead.
+ Thanks for letting me on.
+ I didn't share all the questions, so please excuse me if some of this was asked before.
+ In your nonics or in your overall business, you're saying that the LACA accounts are
+ are lagging behind the recovery compared to the SME accounts.
+ We have seen quite a different effect at players like Addian.
+ Maybe you can explain why necktree is different
+ in this regard as such really.
+ And then secondly, is there an explanation
+ why you think that the dark regions are lagging so much behind in terms of the recovery in
+ in terms of the volumes and thus the revenues as such.
+ Thank you.
+ Thank you for the questions.
+ Listen.
+ The dynamic that we are observing is very much driven by the industry in XM and is very,
+ very clear.
+ I mean, if you make it from the high impact sectors, like airlines, to use a typical example
+ or travel agencies, and so on and so forth,
+ The overall balance is going into a sense,
+ to pre-COVID levels, actually even more so in places like Italy, and a four-year growth
+ coming back despite the fact that there is still some film restrictions around I think
+ at the different dynamic that you observe with adding
+ is driven by two elements, number one is that they're less exposed to travel sectors, I
+ I think more broadly.
+ And number two, you should also consider
+ that they're actually entering new markets and expanding further.
+ And if you are pointing precisely on the relative dynamics with a player like them, I go back
+ 24, clearly adding the player that we immensely respect to be very, very clear, they continue
+ them to see them successful when they play on a global merchant with global
+ CRM systems integrated with a lot of online and more limited in store and we continued
+ to be successful also against them.
+ So instead, you have more local regional merchants,
+ more locally integrated that require local assistance and require more specialized solutions
+ and more customized solutions and so on and so forth.
+ When it comes up to DACA, DACA has two elements that explain the dynamic there, and I think
+ is very visible when you go at page eight of the presentation where you have the volumes
+ for DAC by microsector. And as you can see there, on the one side, there is a mixed
+ factor, and the mixture factor has to do with the fact that the net set, no, no, no, not
+ not Germany, but SEBANET was more exposed in speed,
+ more exposed in terms of mix of sectors to the impact sectors, in terms of volumes, in
+ of volume to travel and airlines in particular, this exposure has been diminished over time,
+ but still is a relatively high exposure.
+ And therefore, there's a mixed effect in Germany.
+ when you look at the other sectors instead,
+ No, you see a very strong performance in the building
+ consumption growing anywhere around 30% to 30% plus versus 2019 and also the more discretionary
+ products and services sectors coming back to growth. And at page 9 on the right you see
+ some very visible examples of sectors growing double-digit in that space as well.
+ So I would say it's more driven by the exposure to traveling in the mix.
+ I'd say also probably the Italian SMEs were under-penetrated, but I think there's a structural
+ on the penetration day which is now closing.
+ Yeah.
+ Thank you.
+ The next question is from Mohammed Mouawalla with a Goldman Sachs. Please go ahead.
+ Yes, good afternoon. Hi Paolo, hi Bernardo. I had a couple as well. So firstly just
+ you know coming back to sort of the progression in the end of the year
+ are given the easy comparisons and I think you've kind of grown broadly broad based across
+ both cornexine and cornet is the kind of a, essentially,
+ your findings being perhaps a bit more prudent or constructive, and it's going to be the
+ kind of thinking behind that prudence.
+ And then secondly, a question around, again,
+ on to the competition.
+ And here I just want to nuance it a bit more in that there's clearly an appetite for larger
+ merchants to take kind of more traditional on the channel, but we also see the likes of
+ to the valley and moving in with a kind of platform approach to address the longer tail
+ with the mid-market.
+ Now, what's your sort of strategy to sort of compete against that?
+ And if I kind of nuance that further, the Nordics is a fairly well-finitrated market.
+ And we have...
+ Okay.
+ You know, a number of kind of digital first players there.
+ So what's your strategy to perhaps defend your position
+ or even kind of grow your business there.
+ And then the last one for Bernardo,
+ when we look at the kind of EBITDA performance,
+ This was quite strong.
+ In terms of sort of the synergy realisation of nets, it seemed like they were sort of
+ making
+ teams type cost savings. Could you give us a bit more colour around where those savings
+ came from and as we go forward, what's kind of the path and what are the kind of levers
+ in terms of the synergies that you expect to extract to sort of hit the milestones for
+ will be the next kind of payout to be achieved.
+ Thank you.
+ Hi, Mohan. Thank you for the few questions.
+ questions. I will cover the second and I will end over to Daraa Riza if there is a question.
+ And let me try to be specific here.
+ First of all, LACA, as you understood for the group,
+ is about 5%, a bit less than 10% of total revenues,
+ Revenue is about nine on total a much answer is about
+ about half or 60%, so about more or less 5% of the time to begin with.
+ Nevertheless, we believe it's actually an opportunity for the new NEXY in particular and to be clear,
+ The competition from players like Abien is there.
+ As I said before, they are very good, they are more focused on certain matters than others,
+ And I'm sure they will try to move a bit more into the market on smaller players.
+ At the same time, no, I think the good news is that in those markets,
+ the markets were represented, were very interesting,
+ And we're actually investing to build stronger
+ in the camp of omnichannel products and services, omnichannel integration, analytics capabilities,
+ and that would continue.
+ So you will see a nice, competitive dynamic where there
+ We will try to do it and we will defend our turf from the back off being local but also
+ scale up and for being able to invest in new products and services.
+ At the end of the day, if you wish, each one of the two of us is strong and weak at the
+ the same time based on our strategies, in a sense that the key strength of place like
+ Agony is the one platform theme that has many positives, but also a lot of
+ limitations when you have to start playing with smaller players, more complex players,
+ more integrated players at New York,
+ that don't have integrated CRNs that are less sophisticated
+ that require a lot of the local care.
+ And so forth.
+ position is the other way around.
+ Yeah, it's true.
+ We are a more complex in terms of a technology set up and class and so on and so forth.
+ But at the end of the day, it makes us quite effective in serving the local needs in the
+ being closer to the customers, being able to integrate effectively with their needs.
+ And, for example, segmenting by industry more effectively for what is relevant, so I think
+ we continue to see this dynamic in each one of the two last
+ will do its best.
+ I think the good news is that, in many cases,
+ the market that is growing, yeah?
+ No, so I'm sure that there will be space for place like that, yeah, there will be space
+ that are placed like us, and customs will choose depending
+ and what is the prevailing need that they have.
+ Fernando, is this the third?
+ Yeah, so it's, I think we're going back to, so I think James asked a similar question
+ earlier on so I can only go back to what we said earlier we expect the fourth
+ quarter to be better than the third quarter in terms of top-line growth and that, you know,
+ I think with regards to the degree of prudence in this, we won't comment on that.
+ our guidance, since our guidance were committed to deliver it, hopefully we will do better,
+ but that's what I'm prepared to say on that front.
+ With regard to NET, as I mentioned earlier, the EBITDA growth in the third quarter for
+ net was 19%, 18.8%, if I remember correctly, and 19% compared to 2020.
+ I expect that to improve in the fourth quarter of this year.
+ I think that's also implicit in what we had said some time ago, how we were aiming to
+ hit an EBITDA for NETS, which lies within the earn-out range for NETS, it was agreed
+ with the sellers back at the end of last year.
+ So, this growth in EBITDA, which is obviously, you know, fueled by tough land growth, is
+ is also aided by the realization of synergies within NETS.
+ And I think that was your question,
+ because of synergies coming from the next net integration.
+ Well, those this year are, I would say,
+ total approximately 10 million euros, mostly CAPEX, a small portion of that would be in
+ in our fourth quarter numbers.
+ And with regards to next year follows,
+ already said, we're targeting 100 million euros of cash synergies from the three entities
+ approximately, I'd say 60% of that will be PNL synergies and the rest will be CAPEX synergies.
+ Okay, thank you
+ Next question is from Alberto Villa with Intermontasim. Please go ahead.
+ Good afternoon. Thank you for the presentation. I have just one question is on the
+ By now, pay later business, can you give us some color on the revenues you are generating
+ in this unit, the growth you are expecting and if you have any thoughts on the strategy
+ on this segment going forward.
+ if you want to expand it or to exit or what's your thought on the opportunity there.
+ Thank you very much.
+ So our strategy in the space is at the end of the day, two-fold, no, we are happy to
+ disaster that is called a red pay, just to be explicit, this is operating at the moment
+ in Germany, in Germany only with potential to stand up as we are at some point, and it
+ an autopilot therapy is focused on the merchant side.
+ So we don't have a consumer-facing strategy like the Klarnaz.
+ They're really fine with the merchants.
+ they normally wipe label and afford really the best possible partner for merchants that's
+ where they are successful.
+ The business is going better rapidly, depending on the court,
+ is anywhere between 50% and 100%.
+ So I think last quarter was about 70, 75.
+ and it's become a sizable business.
+ to provide the details of this data is getting bigger and bigger, so we're talking about
+ the tens and tens and tens of millions of euros per quarter now.
+ So this is one side of the strategy, at the same time we also recognize the fact that
+ If you want to, if you have as your core,
+ e-commerce strategy.
+ strategy, the one providing a great acceptance to merchants, now you have to be able to provide
+ And the relevant, the locality relevant binoculator methods together with other alternative payment
+ methods, and therefore, in our geographies, we're also offering more and more the possibility
+ to use other, by now, critical methods that we partner with.
+ And I believe these will continue to be the way forward.
+ Now, clearly, the other way around, it works as well.
+ and for a company like Red Pay,
+ because it's technically a company,
+ is also partnering with other PSPs.
+ So in Germany, they're used by the add-ons, the wallpays, the DSP1s, and the computops
+ So at the moment we have these two parallel strategies.
+ He's very, very, very clear that going forward,
+ continue to partner with more and more of them and we have the owners of these past growing
+ being insizable by now for the rest of it.
+ You said it.
+ Yes.
+ San Gropo.
+ Yeah.
+ Okay, thank you.
+ Thank you, Bertha.
+ The next question is from Paul Cratt with Jeffries.
+ Please go ahead.
+ questions.
+ Just three questions from my end.
+ And I think, firstly, when I look at your next figures on the presentation, that excludes
+ volumes from Dancourt. So it would be helpful if you maybe give us some color over how kind
+ as the volumes looked including these figures and if they differ materially I guess from
+ what you presented.
+ The other thing that I'd also be interested in hearing as well is on the Jira card side,
+ I appreciate the minority of your volumes in Germany, but how have the volumes on the
+ Jurokart5.
+ trended where historically I think you guys have been actually a shared gainer in that
+ market admittedly off of a relatively low base.
+ And I guess the final question is a little bit bigger picture,
+ but when we start thinking about capital allocation
+ of the combined entity, I mean you guys will be able to deliver the business relatively
+ rapidly at the current pace.
+ I mean, is there any kind of updated thoughts you have around potential M&A, whether that
+ switch is...
+ maybe more towards e-com, maybe looking at assets, for example, like a computop in Germany
+ to maybe strengthen your presence in e-com.
+ Thanks.
+ Hi Paul, good mix of the 10 questions and a super strategic one as well, that's great.
+ Listen, on the first Zoom, I think we'll come back to you with a bit more detail if it's
+ It's important to you.
+ I think in general, and I think you're on the second one,
+ On Jair Karujarra clearly challenges in that space.
+ And before we want to grow in the state,
+ No, it's not that.
+ but concurrence is coming from a position
+ or they were mainly acquired for international schemes.
+ A little bit like what Carter C. was in Italy back five years ago, six years ago.
+ from there that move the of the last year or two into offering the full package. So the
+ terminal and basically acquiring across all schemes including gyrocast, so I don't have
+ time what the numbers by
+ ...
+ but really that's a space for development.
+ I think we'll come back to you because, honestly, we don't have a precise answer.
+ But, probably, instead of capitalizing on this, I think we'll come back to you because,
+ the location coming to the very question.
+ Our focus today is really, really, really on getting the three companies together,
+ delivering these energies and most importantly building a stronger and stronger and stronger
+ company for our customers, our people, and our shareholders.
+ Along the way, as you always said, we will continue to consider opportunities, but it's
+ our beauty, somehow, but we really, really focus on the ones that make the absolute sense
+ for us. I think what we've done with Ubi or Alphabet Bank is very clear. We'll be looking
+ And I don't know if you didn't do it for very good reasons,
+ about it was about UT, to look at it.
+ And I think we continue to do so going forward, as you can imagine, we cannot talk about specific
+ taking into account the fact that with the leverage and the divest with the potential
+ the rest of the assets that are not core and so on and so forth and we also consider putting
+ more investments, more organic investments, not because there is always this feeling that
+ that M&A is either than massive organic investments, actually not given where we are as a company
+ And given that, no, I'll match it.
+ We are keen to invest in jobs such as German or in spaces such as e-commerce, and that
+ is also another important area of investment.
+ So I believe you will see a portfolio of those, but really,
+ Our focus today is now to deliver in a watch we have already committed to you.
+ I'm not really trying to give you a proper safe answer on what.
+ That's probably best if we come back to you on this.
+ Okay, let us come back to you before we give an answer that is not reliable.
+ That's absolutely fair. Thank you very much. Just maybe one quick follow-up is on the divestment of non-core assets.
+ I mean, how should we start thinking of that?
+ Is that part of a regular portfolio review that you would do on an annual basis, or are
+ Are we just talking more about, you know, concessions that would come as a result of
+ empty trust?
+ No, no.
+ No, no, no, I want to be very clear.
+ Thank you.
+ Thank you for giving me the opportunity to clarify this.
+ On the antitrust thing we will have to do
+ because it's a request by the antitrust,
+ But again, it's about a business that is 6 million euros of revenues, probably two or
+ We'll see you in the next video.
+ declining revenues because it's a legacy business, checks and the likes, so there's nothing
+ to do with the best strategy.
+ I don't even know.
+ that is worth, that we are doing our own work, but we're really talking about a very, very
+ small thing. Instead, what is very much right is the first of the two things you said that
+ It is an ongoing, a regular, strategic review of our portfolio of assets to make sure that
+ to put our resources and focus and energy on what is strategic for our future, and instead
+ we let the other assets to be owned by better owners than us for whom they are strategic.
+ strategic.
+ Let's forget, as a benchmark data, before the company was listed, actually, we need
+ We did do a 506 M&A deal where we bought stuff.
+ We did do 12 when we solved stuff.
+ So we like to clean as much as possible the portfolio and focus, and we continue to do
+ And some of these businesses would love them, would love to continue to have them, but actually
+ doesn't make sense for them and for us. So I think it's very rational. I think we always
+ It could be very rigorous.
+ We very continue to be very regressive.
+ Look at what, for example, also next exam, when they solve the corporate services in
+ and services to masquerade, by the way,
+ It's a very interesting and attractive evaluation, and we'll continue to do so.
+ I think it's good discipline, right?
+ I tried to give you an update on this, ideally, in February,
+ together with Daukins for the new year.
+ That's really clear.
+ The next question is from Alexander Ford with exam PMP Paribas. Please go ahead.
+ Hi, good afternoon. Thanks for squeezing in.
+ had a couple of questions.
+ And one is going back on your sort of own alternative
+ statement in the first few to account to accounting for them or rate rate in Germany
+ I was wondering if you could go back on the economics of explaining to me whether they're
+ to your take rate, for instance.
+ And as a side question to that, I was wondering,
+ should you then have differentiating factors to win wallet share with a given account,
+ you know, have you found yourself in a position where you went to a merchant to sell on the
+ rate paid and you ended up selling, you know, a much wider range of services. So that'd
+ That would be my first two-part question.
+ question is on Italy with time. I think we mentioned in the past that there's quite a
+ to be provided to the digital payment in Italy,
+ I think on the consumer side, I was wondering if you have your own initiative to perhaps
+ to lower access and costs for merchants
+ and that company has transitioned to digital, new pricing plans, low cost terminals, any
+ in a specific initiative you're pushing as we go into 2022.
+ Thank you.
+ Hi, Alexandra.
+ So in the end, APNs are both economics and strategy, and Italy, if you are doing anything,
+ on that lower cost for much of it.
+ So listen, let me start from the second one around it today.
+ I think the good news for merchants actually is that prices are actually going down in
+ in our sector, it's absolutely normal because when the volumes go up, you need to repress
+ is go down. It's almost a low of the economy unless you have monopolies or Duopolis, which
+ is not the case in our industry, that is very competitive.
+ The good news is that the combination of volume growth and a new unit of pressure is going
+ down is positive, and on top of it, you also have a very good story.
+ So prices are trying to go down, as always happened.
+ If you like it, the one thing that you're doing more fast in range is driven by complete
+ dynamics is also to design prepositions for the merchants that are newer to these products
+ and services.
+ become new to card segment 10, we are offering a nice entry level, almost tri and bi-type
+ of situations we believe is important, although it is not necessarily on the rate, because
+ a customer that is new to cards doesn't know how much they will use.
+ For them, the body of 20 is more the terminal.
+ And that's where we have launched, as well, the mobile post-terminal that doesn't have
+ fixed rate per month, but it is basically a small one after depending on the campaign
+ So, I support these.
+ that normally below 50 euros, 49 euros.
+ Again, with a higher merchant feed, and then we upgrade the merchant to a proposition that
+ more suited for higher volumes.
+ and can instead on the APM method and so on and so forth.
+ Let me try to give you the overview of Enna,
+ Fernando, can Elvion comment a bit better?
+ First of all, economics.
+ But clearly the economics are very different if you are talking about APNs that you own
+ or IPMs that you distribute on your partner website, we should distinguish between account
+ to account and by now Pelletor for the ones that you own.
+ By now, Perlator has an amazing growth.
+ profitability wise is actually lower, because obviously it comes with a certain cost of risk.
+ It is very much under control, but is actually material, and by the way, in the specific
+ case, rate pay is also investing in growth, as well as every other player in the industry.
+ I'm sure you've seen the numbers from some of these players and they're quite explicit
+ about it.
+ Actually, it pays profitable.
+ This is good news.
+ I'll keep on investing in growth.
+ Account-to-account is normally more profitable and there is a cost to develop the ecosystem
+ because it's a two-sided business model.
+ So you have to sell it to the consumer and sell it to the merchant once they see the
+ the system. If you have normally, it comes with a nice variable, variable margin. Instead,
+ When you distribute, you can really have any type of build,
+ to be honest with you.
+ Now, the more you are the one facing the customer
+ and distributing to the customer,
+ the better the economics are if it is just a technical integration than your economics
+ that are much lighter.
+ But actually, for some of them, the economics are quite comparable with the ones that we
+ I have one card to be clear, you know, and I cannot give you a specific example because
+ I could, but I cannot, in terms of disclosure, but I have in mind at least a couple of examples
+ was where the economy started, exactly one in Italy and one in another place where the
+ had been to the same that we had on CARB.
+ I mean, I think I'm not sure I understand exactly your question because the communication
+ was
+ It's not very clean, but if your question is,
+ How do you guys balance on the strategy when I have a strong APM, do I give it to everybody?
+ to expand it, or do I monetize it by differentiating myself on the acceptance side?
+ I think that's a very, very, very relevant strategic question that does not have one
+ and ask her that he's always the same.
+ product and buy market because it really depends on the specific market dynamics but again
+ If I use the example I said before on binopilator, it's quite clear, right?
+ rate pay is a binopulator acceptance method on basically every merchant, merchant, e-commerce
+ merchant, sorry, e-commerce, a quieter e-commerce PSP in Germany.
+ Why?
+ market share, and therefore, if you are leaving it only to us, it would be too much of a restriction
+ for the full potential of the product.
+ but maybe in another market with a different starting
+ complete the position of the market share
+ different direction.
+ So I think we need to distinguish as Paula did between accounts account and BMPL starting
+ with BMPL, we should rethink it as a different product
+ So in terms of the margin accretion or the take rate accretion, it really depends where
+ you cut the PNL because there is a cost of risk element there that you have in the NBNPL
+ but not in account to account.
+ So cake rates would be higher, but then if you go to the very bottom line right now,
+ obviously, as you've seen in some of the other larger
+ just to those for players and to be in a tail space.
+ you have the cost of risk and the need to take into account.
+ Whereas accounts account, I think in terms of the top line,
+ should think of it as being priced in the various geographies in which it's present,
+ more similar to domestic rails, but depending on how lean or efficient they are with the
+ margin being similar to what a card acquirer could be in that same market.
+ So in terms of margins, it shouldn't be diluted.
+ Got it. Thank you. Thanks very much for all them on the call ahead
+ The next question is from Simonetta Kiriotti with RadioBank.
+ Please go ahead.
+ Hi, good afternoon.
+ Just a quick question on synergies during the presentation of the first type of results
+ You mentioned the possibility of increasing synergies by 10%
+ in the long term.
+ something that you are still considering possible.
+ Thank you.
+ So Simone, this is a short answer, yes.
+ Good job.
+ Thank you.
+ Yes, absolutely, I mean as we were defining better and better plans, that isn't why last
+ We'll give you these highlights that this time we're giving you our outlook for next
+ year.
+ We will continue to do it.
+ continue to clap the more we have the ability to be honest with you it goes
+ goes in phases, in the sense that we had that, obviously, when we did close it to this, we
+ We had our own view that was outside in on the opportunity.
+ Then as we're closing the deal, we do our first round of inside-out view of the opportunities
+ in the long term and then we go into the more year by year detailed plans and so this is
+ a little bit what is happening. We'll continue to keep you updated but the short answer is
+ Yes.
+ Thank you.
+ The next question is from Antonin Bodrivid, HSBC, please go ahead.
+ Hi, good afternoon, everyone, and thank you for taking my question.
+ two if I may.
+ I would have to, I really want to have your view on the current micro-economic environment
+ especially inflation.
+ We see inflation coming in the U.S. and certainly in Europe soon, so how do you see inflation
+ impacting your revenue growth.
+ I mean, your venue is starting to really hit you too.
+ the value of transaction at the same time
+ inflation could decrease the number of transactions.
+ So how do you see inflation on your revenue growth?
+ My second question is about M&A.
+ I understand that your focus will be to integrate the two
+ acquisition you did, but how do you consider
+ of your model to address adjacent segments like business to business, the payment for
+ for example. Thank you.
+ My entering let me take the second one on a minute and then I pass over to Bernardo because I'm a poor engineer is going to call me
+ So I can probably give you much more.
+ Yes, right.
+ That's what we're looking at, sir.
+ I think here we will have to remain focused not only on what we do, but also on what we
+ consider because also that screaming opportunities or engaging in processes is by itself an organizational
+ And we are trying to stay as much focused as we can.
+ I rated it probably what I said in the past, the two key areas of focus for us where we
+ engage and remain, our priorities remain at the end of the day in merchant, I mean, first
+ is mainly merchant services. Now, first one being merchant books especially in the markets
+ where we are ready and on a relationship
+ that we already have, because for us it's important
+ to follow our banks and other strategies
+ partner with them, and this is what we've done, for example, on Ubi, on Alfa Bank as
+ as well, and so on.
+ The secondary is more broadly e-commerce,
+ both in terms of geographies and also capabilities.
+ And if you wish, as an expansionist of this,
+ to work with.
+ Thank you.
+ world of software that can be
+ effectively integrated with
+ And these small examples of all the birds is a nice one.
+ That does not mean that we go after many of those necessarily.
+ We will base it very, very carefully, and we really want to understand it before.
+ We do it also because, again, the position where the market partnerships are also very
+ good, and therefore we want to learn more about the business, but clearly e-com and e-com
+ and that merchant books are for us the key areas.
+ Fernando?
+ I'm patient as well.
+ Thanks, Paolo, for his economist, but giving me my 10 cents worth, but I don't believe
+ Europe will definitely lag the U.S. and probably not have such a steep increase in inflation
+ even though it's lingering.
+ I argue or my view is that our business is actually geared to benefit from from inflation
+ as you were saying, two-thirds of our revenues are volume-driven, and most of that comes
+ and from the value of the transaction.
+ Conversely, our cost base is predominantly fixed and obviously there may be some wage
+ price inflation, Europe tends to be stickier or more resilient than the U.S. on that front.
+ but that should give us some protection,
+ but more importantly, we pay our processing costs
+ on a per transaction basis so we'd have a nice spread
+ between revenues growing because of volume growth.
+ Thanks for watching.
+ suggesting lower transaction numbers with lower processing costs.
+ In addition, on the capital structure front, I mentioned it earlier, I think two quarters
+ of our capital base is, or our fixed income capital bases effectively fixed rates, so
+ inflationary pressures should deflate the value of this debt, so beneficial to us.
+ And in the very short term, I think it's one and a half billion
+ of our liabilities are indexed to URIBOR, but URIBOR is forwarded at zero, and therefore
+ we have some adsorption capacity in that built into our
+ That's for sure.
+ And that net might take is that we're net beneficiaries of any pressures.
+ Thank you.
+ As a reminder, if you wish to register for a question, please press star and one on your telephone.
+ Mr. Bertoluz, there are no more questions registered at this time.
+ Do you perhaps have any closing comments?
+ Well, thank you. I think that's that's a simple comment. Thank you for for being with us. Thank you for the many
+ Any important questions?
+ I lived across numbers, outlook, and strategies,
+ But I think it's important to have always that at the core as well.
+ Again, simple messages for us continue the volume recovery across all geographies, I think
+ is really important strategically, not just financially for us, a good, strong financial
+ performance across the board in revenues and the margin as well and last but not least
+ that we continue to progress in the group coming together to have a stronger company
+ for the future across the board.
+ So thank you very much, and looking forward
+ to see many of you over the next few days and weeks and hopefully in person and in great
+ to see that some of the meetings are starting to be in person again.
+ Thank you very much.
+ Enjoy the rest of the day.

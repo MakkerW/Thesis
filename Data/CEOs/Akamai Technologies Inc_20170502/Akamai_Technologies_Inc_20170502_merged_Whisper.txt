@@ -1,0 +1,423 @@
+ Thank you, Tom. Good afternoon, everyone.
+ Tom highlighted Q1 with another solid quarter for Akamai with both revenue and earnings coming in at the high end of our guidance range
+ Revenue in the first quarter was $609 million, up 7% year-over-year,
+ or up 8% in constant currency.
+ and up 13% if you exclude our six large internet platform customers.
+ Revenue from our performance and security solutions was particularly strong, coming
+ in at $369 million, growing 18% year-over-year, and was the driver of delivering to the high
+ end of our guidance in the quarter.
+ Performance and security solutions contributed over 60% of our total revenue in Q1.
+ We are very pleased with the continued revenue diversification
+ into our highly differentiated, higher margin, and more stable subscription model offerings.
+ Within this solution category, we saw solid growth across all major product lines with
+ particularly strong growth continuing in our cloud security solutions.
+ First quarter revenue for our cloud security solutions was
+ $110 million, up 37% year over year.
+ Our security business now has an annualized revenue run rate of $450 million.
+ We are pleased with the continued strong growth and execution of our cloud security business.
+ Led by our flagship KonaSight Defender,
+ and pro-lexic offerings.
+ and our continued portfolio expansion.
+ into new areas, like bot management.
+ and enterprise application access.
+ And we plan to further broaden our performance,
+ security and enterprise offerings, where we see substantial long-term growth potential.
+ our recent SOSA acquisition, which
+ close in early April is a good example of extending our market
+ leading web acceleration offerings into the natural adjacency of digital performance
+ management, focusing on cloud application monitoring and testing, and aligning performance
+ the business value.
+ Turning now to our media delivery solutions.
+ Revenue was $187 million in the quarter.
+ down 9% year over year, and up 3% excluding our large internet
+ platform customers.
+ This revenue growth rate was lower than the past several quarters and below our expectations,
+ driven by a moderation of traffic growth throughout the quarter in our America's region
+ and within our gaming vertical, most notably.
+ It is important to note that while the pricing environment in the media business
+ remains highly competitive.
+ aggregate price per bit declines.
+ remain roughly within historical norms.
+ As we have you discussed in the past, the drivers of the media business, namely traffic
+ volumes and price can lead to revenue variability from period to period given the timing of
+ customer renewals at lower price points, the size, timing, and delivery mechanism of software
+ and gaming releases, as well as the adoption of social media and video
+ platform capabilities.
+ And while media growth rates have moderated more than we expected in the near term, we
+ We continue to remain bullish on the longer-term secular growth trends for our media business,
+ particularly in the OTT area as more video content moves online.
+ Finally, revenue for my services and support solutions was $53 million in the quarter.
+ up 15% year over year.
+ Turning now to our Q1 revenue results by customer division.
+ Revenue from our web division customers was $305 million, up 15% year over year.
+ We continue to see solid growth in this customer base, particularly with cloud security offerings.
+ Revenue from our media division customers was $285 million in the quarter, up 1% year
+ over a year, and up 11% excluding the impact of the large
+ internet platform customers.
+ This growth rate was lower than 2016 levels,
+ driven by the moderation in media traffic that I mentioned earlier.
+ Finally, revenue from our emerging enterprise and carrier division customers was $19 million
+ in the quarter.
+ up 24% year over year.
+ Moving on to our geographies.
+ Sales in our international markets represented 33% of total revenue in Q1 up two points from Q4 levels
+ International Market Revenue was $203 million in the first quarter.
+ up 19 percent year over year or up 21 percent in constant currency driven by continued strong
+ growth in our Asia Pacific region.
+ exchange fluctuations had a negative impact on revenue of four million dollars
+ on a year-over-year basis and $2 million on a sequential basis.
+ Revenue from my U.S. market was $407 million.
+ up 2% year over year.
+ So large internet platform customers are
+ b-
+ in the U.S. continue to weigh heavily on the U.S. market growth rates.
+ moving on to costs
+ Cash gross margin was 77% consistent with few four levels
+ and the same period.
+ last year.
+ gap gross margin, which includes both depreciation and stock-based
+ compensation was 66%, down one point from Q4 levels and
+ consistent with the same period last year.
+ GAP operating expenses were $288 million in the quarter.
+ These gap results include depreciation, amortization
+ and tangible assets, stock-based compensation, acquisition-related charges, and other non-recurring
+ items.
+ Excluding these charges, non-gap cash operating expenses were $228 million, down seasonally
+ from Q4 levels, but above our guidance range.
+ driven by higher commissions and performance incentives,
+ as well as increased recruiting-related spend associated with an uptick in hiring activity.
+ adjusted EBITDA for the first quarter was $241 million.
+ down $6 million from Q4 levels due to seasonal revenue declines,
+ and up $7 million from the same period last year.
+ Our adjusted EBITDA margin came in at 39 percent.
+ Down one point from Q4 levels, and down two points from Q1 last year, and within our guidance range.
+ You have to appreciation and amortization expenses for $87 million in the first quarter.
+ These GAP results include depreciation associated with stock-based compensation, amortization
+ of intangible assets and amortization of capitalized interest
+ expense. Excluding these charges, non-gap depreciation was $75 million, up slightly
+ of Q4 levels and in line with our guidance.
+ non-gap operating income for the first quarter
+ was $165 million, down 9 million from Q4 levels from the seasonal revenue declines, and up
+ $1 million from the same period last year.
+ non-gap operating margin came in at 27%.
+ down one point from Q4 levels and down two points from the same period last year and
+ within our guidance range.
+ Moving on to other income and expense items.
+ interest income for the first quarter was $5 million, up slightly from Q4 levels.
+ non-cash interest expense related to our convertible debt,
+ was roughly $5 million.
+ As a reminder, this non-cash expense is excluded from our non-GAP results.
+ moving on to earnings
+ Gap net income for the first quarter was $81 million,
+ or 46 cents of earnings per diluted share.
+ Non-gap net income was $120 million or $0.69 of earnings per due to the year and at the
+ high end of our guidance driven by the strong revenue achievement.
+ For the quarter, total taxes included in our gap earnings were $34 million, based on an
+ an effective tax rate of 29%.
+ Taxes included in our non-gap earnings were $49 million,
+ based on an estimated, based on an effective tax rate of 29%.
+ Finally, our weighted average diluted share account for the first quarter was 175 million
+ Cheers.
+ unchanged from Q4 levels and down 2 million shares from Q1 of last year.
+ Now I'll reduce some balance sheet items.
+ Day sales outstanding for the first quarter was 58 days up four days from Q4 levels and down two days from the same period last year
+ Capital expenditures in Q1, excluding equity compensation and capitalized interest expense, were $94 million, and at the midpoint of our guidance.
+ The cash flow generation continued to be solid with cash from operations of $143 million
+ in the first quarter.
+ Our balance sheet also remains very strong, with roughly $1.6 billion in cash, cash equivalents,
+ and marketable securities on hand
+ at the end of the quarter.
+ If you're factoring out convertible debt,
+ Our net cash is just under $900 million.
+ During the quarter, we spent $72 million on sharey purchases.
+ buying back roughly 1.1 million shares.
+ And as we discussed in the past, we believe the strength of our balance sheet and cash
+ position in an important competitive differentiator that
+ that provide us with the financial flexibility
+ to make key investments at opportune times,
+ including the repurchase program.
+ Over the past five years, we have lowered the company's share
+ by over 7 million shares, or 4%, while also spending nearly $1 billion in strategic acquisitions.
+ by deploying capital in areas that we believe are in the best long-term interests of the
+ company, and our shareholders.
+ In summary, we are pleased with how the business performed in Q1, and we remain confident in the long-term prospects of profitable growth for the company.
+ Before we look ahead to Q2, I want to spend just a minute on our recent investor summit.
+ For those of you that joined us in person or via the webcast, the themes we shared this
+ year with the same as in prior years. There has been a level of consistency in what we've
+ talked about every year, the favorable market trends, the uniqueness and
+ the differentiation of the Akamai platform.
+ the leadership position we maintain.
+ in a very rapidly changing and evolving cloud ecosystem.
+ and a tremendous amount of innovation we've seen across the business and new
+ product adjacencies, as well as continued enhancements
+ within our existing core offerings.
+ innovation is alive and well across all the divisions,
+ and we believe it will be a key enabler
+ for accelerating growth back to double digits
+ for the company.
+ The fundamentals of our business remain strong.
+ We're continuing to innovate rapidly.
+ And while our investments in new adjacencies will pressure
+ margins in the near term, we believe they will drive significant future top line and
+ and bottom line growth.
+ As I said at the investor summit,
+ We are committed to balancing both top line and bottom line over the long term.
+ And I certainly believe that if we continue to execute,
+ we will remain a compelling investment proposition for investors.
+ Looking ahead to the second quarter,
+ we expect media growth rates to continue to moderate from Q1 levels,
+ levels and within America's gaming vertical most notably. While it is also
+ It's also possible that media growth rates
+ moderate in the back half of 2017 as well, we remain bullish in the medium to long term
+ growth prospects for this business, especially the potential for an increase in the amount
+ amount of video traffic that could move online.
+ in the anticipated moderation of media growth, we are expecting overall Q2 revenue in the
+ in the range of $597 to $609 million.
+ At the high end of this ring,
+ year-over-year growth would be 8% in constant currency.
+ consistent with Q1 levels, and up two points from Q2,
+ in 2016 levels.
+ at common spot rates, foreign exchange fluctuation,
+ are expected to have a negative impact on revenue of $6 million compared to Q2 of last
+ year and a positive impact of $3 million sequentially.
+ At these revenue ranges, we expect gap-prose margins
+ of 65% and cash growth margins of 76%.
+ Q2 non-gap operating expenses are projected to be $235 to $241 million.
+ roughly $10 million sequentially at the midpoint.
+ This increase is driven partly by our continued investment
+ and new product innovation, service delivery enablement,
+ and platform scaling, and partly from absorbing
+ recent SOAS to acquisition.
+ Factoring in the cash gross margin and operating expense expectations I just provided, we anticipate
+ even the margins of roughly 37 percent.
+ And while we are not providing specific guidance,
+ on Q2 during this call, we want to be transparent about our plans to continue to make investments
+ in the business throughout 2017 in the areas outlined earlier.
+ even while the media business experiences a near term moderation and revenue growth.
+ We believe these are important investments that will enable us to drive accelerated,
+ Sustainable, long-term, double-digit top and bottom line
+ growth. We are confident we can manage the company within our 37% to 39% EBITDA model.
+ model. But we may go through some quarters where EBITDA margins fall slightly below
+ of these levels.
+ possibly even in the second half of 2017.
+ As I said in the past, our ability to maintain EBITDA margins within our
+ range is heavily dependent on revenue volumes.
+ possible M&A and needed investments in the business.
+ Moving now to depreciation, we expect non-gap depreciation expense to be $77 to $79 million.
+ Factoring in this depreciation guidance, we expect non-gap operating margin of 24% for Q2.
+ and with the overall revenue and spend configuration I just outlined,
+ We expect Q2 non-GAP EPS in the range of 59 to 61 cents.
+ The ZPS guidance assumes taxes of $42 to $44 million, based on an estimated quarterly
+ a non-gap tax rate of 29%.
+ This guidance also reflects a fully diluted shear count
+ of 174 million shares.
+ On CapEx, we expect to spend $110 to $115 million, excluding equity compensation in the second quarter.
+ This is an uptake from Q1 levels.
+ primarily due to some plant facility and IT upgrades,
+ as well as continued expansion of our secure delivery network and pro-electric scrubbing capacity.
+ In summary, I am very excited about the opportunities that lie ahead for Akamai and our ability
+ to execute on our plans for the long term.
+ Thank you.
+ And Tom and I would like to take your questions.
+ Operator.
+ Thank you, sir.
+ Ladies and gentlemen, at this time, if you have a question.
+ Thank you.
+ Thank you for your question.
+ the star followed by the one key on your touchstone file.
+ If your question has been answered or you wish to remove yourself from Q, you can do so by pressing the power key.
+ Thanks.
+ You know, let me start with we are very bullish on the media business. So that has not changed nothing has changed about
+ about what we believe are the growth prospects
+ to the media business.
+ You know, Ralph is our investor summit, that what we did see is that we did see traffic
+ growth moderate, as I mentioned, in the America's region in particular, and very
+ notably in our gaming vertical and it moderated throughout the quarter so it
+ was relatively strong in January, and then it moderated in February, and then it moderated
+ further in March. And that was really the driver of kind of, you know, I would say missing
+ our internal expectations, but I'd say we have very, very
+ optimistic about the media business long term and as we've said to you guys
+ before. The nature of the media business is it does go through periods where
+ traffic spikes, traffic softens at times, but you know over the long term we think
+ This is a very good business and it will be a very good grow for the company.
+ And then maybe one follow-up question.
+ Yeah, well you have to be careful because the Americans also includes our media customers
+ as well as our web customers.
+ I think America's growth, if you exclude the larger today platform customers, was roughly
+ Yeah, Jim, you know, your comment about performance and security continues to be a very strong
+ growth of the company, you know, that 18% growth in Q1 last year
+ consistently grew kind of in the high teens.
+ So what you see here really is just a little softening in media growth kind of in our America's
+ region in the area that we mentioned that, you know, again, this tends to be the nature
+ of the media business.
+ I think as we go through, we've gone through these spells before, where media surges and
+ you start to see media accelerate.
+ So, it's not uncommon to go through these periods,
+ You know, but I believe we are very, you know, we're optimistic about the long-term growth potential.
+ Not just for OTT, but also within gaming.
+ that is gaining becomes more and more latency-sensitive
+ And performance-sensitiveness, you see more and more things like AR and VR that, you know,
+ I think that all of a sudden the differentiation for akamai becomes more and more apparent.
+ We're bullish about the prospects for media.
+ I think we're going to go through some near-term slowing in media, but, you know, optimistic
+ what the long term.
+ I'm not sure what else to tell you about the guidance, and we don't guide necessarily
+ by product category that our media products were about 3%
+ growth, kind of excluding the large internet platform
+ customers, and our media division customer growth was about 10.
+ So we expect that to further moderate for the areas that I
+ mentioned which is in the Americas and notably within gaming. We do expect to
+ to have continued strong growth in performance and security.
+ Can you expect that good growth within services?
+ So, I think what you're gonna see here in the guide is,
+ You know, you kind of do it at the midpoint.
+ at the midpoint you're gonna see a further moderation
+ media growth rates, and that's really kind of what it's all about.
+ Yeah, well, let me start and then I can have Tom can talk a little about the products that I think you're right
+ that the growth rates and security were in kind of the high 40s and in the low 40s
+ and now they're in the high 30s, you know, this is a business that is now an annualized
+ run rate of $450 million.
+ Five years ago, this was just an idea.
+ So this business is growing very, very rapidly.
+ And its growth rate on a percentage basis is lower because it's on a much, much bigger
+ So we're very, very positive about the security business and our execution of the security business.
+ security business and you got to remember this is all subscription model
+ offering. So this is not a licensed model. This is literally a subscription model business
+ that now is approaching a half a billion dollars.
+ So Tom can talk a little bit about the product categories,
+ but there's a lot of things that you can do to help you
+ There's a lot going on there.
+ Yes, it helps.
+ There was really no revenue for any of those.
+ Those are more technology tuck-ins.
+ There's certainly some revenue that comes with SOSTA,
+ As I mentioned, but the first three that you mentioned,
+ really remove more technology capability acquisitions.
+ Yeah, no, you're actually right about the international growth that the growth rates
+ are very different in the European markets than the Asia-Pacific markets, and I mentioned
+ in my kind of prepared remarks that we're seeing very, very strong growth in the Asia
+ Pacific markets.
+ We are not seeing nearly the same level of growth in the European markets, but we have
+ pretty good growth rates also in Europe.
+ They're not the same as in Asia Pacific,
+ but my international growth rate's at 21%.
+ heavily fueled by Asia-Pacific, but decent growth in EMEA.
+ and that's probably not uncommon.
+ We certainly have more opportunity in our Asia-Pacific markets where we're not nearly
+ penetrating, you know, and you can take the OTC question.
+ No, I think we always plan our CAFACs in alignment with where we believe traffic growth is going to be.
+ going to be. I think as Tom said, traffic is still growing very rapidly. It's just not
+ growing at as rapid a pace as we had projected. So, yes, we will dial capex and align with
+ with our revised projections,
+ but we need to continue to build out as traffic grows.
+ And we don't have CapEx just for our media business.
+ that, you know, while our media business is certainly the most capex-intensive that we
+ We do build out capital, as I mentioned, with our rapidly growing security business, we're
+ we're building out more attack capacity for prolexic.
+ And so there is a level of investment
+ that's going on in CapEx.
+ Even though security is not a heavily capex-oriented business, it does have some capex.
+ The other thing is, as we continue to make investments in R&D, we're going to capitalize
+ more R&D, which is basically new product incubation.
+ So, you know, there's a bunch of areas of capex that, you know, many of which will continue
+ to grow.
+ Now, our expectation is that we'll manage CapEx and align it with traffic and revenue projections.
+ Yeah, I'll take those, then Tommy, if you have anything else to offer.
+ So, uh, we're not guiding necessarily Michael for the back half.
+ I did signal that because I think you know that even though I was a function of a lot of things,
+ Revenue volume to be the most notable and as I mentioned that there are important investments that we believe we need to make that are in the
+ best interests of the company and our shareholders long term, which are investments in some
+ some of the enterprise areas, some of the security areas, some of the areas that we
+ mentioned that are going to be very significant, we believe,
+ top line and bottom line growers.
+ So we don't want a curtail investment there.
+ And so my caution for the back half was more that we're going to continue to make investments
+ And should you continue to see a top line moderation in media,
+ And again, we don't know whether that's gonna be the case.
+ I think we're really talking about media in particular.
+ I was just being cautious that, you know,
+ If we do dip below 37, I wanted to make sure that people realize our intention is to manage
+ the company to 37 to 39 percent each but there may be a quarter or two you go
+ going through something lower than that.
+ but we'll manage it back accordingly.
+ And I forget what your second question was.
+ We certainly have the expectation that we're going to return to double-digit growth in
+ in 2018 and that's still where we believe we can be.
+ You're right with the moderation in media that,
+ I don't believe this moderation in media
+ is gonna be a long-term phenomenon.
+ So we may be going through a spell here
+ for the next couple quarters where media growth softens,
+ But as you know, we've been through these periods before,
+ and then media grows roars again.
+ So I think there's enough opportunity in media
+ that we can get the media growing again
+ and get the company back to double digits.
+ potentially peer back on the incremental vestments
+ the enterprise of the security sector.
+ Yeah, I mean, I would say that, you know,
+ We manage the company as a portfolio and we look at all the investments that we want to
+ make in product areas and what we believe the kind of the return of an
+ on investment is going to be for each one of them.
+ them. And as Tom said in his prepared remarks that our performance, security and enterprise
+ offerings now have 50% even with us, even with the investments that we've
+ you've been making.
+ You know the media business that goes through spells like this and what ends up happening is when the media business goes through a softening
+ It does pressure near-term margins for the company, you know.
+ I can remind you of a couple of years ago when the media business was growing significantly,
+ You see margin expansion happen very, very rapidly.
+ That's a bit of the nature of the media business.
+ And so it wouldn't be wise for us to curtail investments
+ in the business because of some short-term disruption
+ and immediate growth rates.
+ I don't think that would be in the best interest of.
+ our shareholders of the company.
+ No, I think it comes to the media business.
+ It's a caress of across the board, you know, with the entities that you just, you know,
+ talked about.
+ and you know it's been that way for a long long time
+ You know, in fact, one group you didn't mention that you would have
+ three to five years ago is the carrier.
+ The carriers were aggressively competing with us, you know, three to five years ago or in
+ the past, and now they're mostly standardized on Akamai's capabilities.
+ I think we'll continue to see competition from startups,
+ from the traditional players and, you know,
+ from the cloud providers and, you know, we fare well, you know,
+ against the competition, especially in situations where
+ quality matters.
+ So the first question, you know, are we worried about the big broadcasters as they start their
+ own services and grow and so forth, doing more themselves.
+ I don't think so.
+ I think it's going in the other direction, you know, generally speaking, you know, those
+ folks are taking, doing less in-house,
+ maybe than they did before.
+ think they've recognized this is not their core area of expertise and doing
+ more outsourcing going forward.
+ So I don't see that's an issue.
+ Obviously, you know, with these giant platform companies,
+ Most of those guys spend billions of dollars a year in infrastructure and, you know, they're
+ just at a different scale where, you know, it becomes possible for them to think about
+ spending, you know, hundreds of millions more, you know, trying to do some, you know, content
+ delivery.
+ So, I don't see that being an issue, you know, in terms of OTT going forward.
+ anything that's going in the other direction. With the carriers, you know, I think we're
+ We're seeing actually the quality levels for video increase as opposed to a scenario
+ you're describing where it would decrease and you know as there's you know
+ competition there and their users, the end-viewers, demand the higher-quality
+ quality video as you get, you know, better devices, you know, into the home, I think
+ if the opposite happens, you get higher quality levels
+ and we see the carriers already experimenting,
+ You know, we're sort of super high quality, which means more traffic.
+ So that's, I think it is more likely to go that way than to lower quality levels.
+ You know, I think when you come to a renewal, you know, for the same product, there's they
+ always
+ want to lower price.
+ On the other hand, maybe there's more traffic, which helps.
+ The best part is we've got a lot of new products, you know, there's Image Manager, there's
+ spot manager, there's the next generation of Ion focused on mobile, the next generation
+ of Kona, again focused on mobile, so there's more to bring to bear in the account, which
+ helps us, you know, hold price or grow revenue in the base.
+ And so we are seeing revenue growth in the base of customers
+ with our performance and security products, growth.
+ You don't actually report a customer account, and we haven't done that for some time, so
+ there's really not much to comment there.

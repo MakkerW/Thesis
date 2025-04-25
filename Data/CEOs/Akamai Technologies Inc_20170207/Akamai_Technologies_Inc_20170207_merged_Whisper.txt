@@ -1,0 +1,502 @@
+ Thank you, Tom.
+ Good afternoon, everyone.
+ As Tom outlined, Q4 was another strong quarter for Akamai on both the top and bottom lines.
+ Q4 revenue came in above the high end of our guidance range at $616 million, up 6 percent
+ year over year for up 7% adjusted for foreign exchange movements.
+ revenue is up a healthy 15% if you exclude the six large internet platform customers
+ that Tom just mentioned.
+ revenue growth continued to be solid across the business
+ with the overachievement versus our guidance
+ by a higher than expected uptake in holiday season traffic with our media solutions and
+ customers.
+ I mentioned in our last call that holiday season traffic would play a large role in
+ way we would land relative to our fourth quarter guidance. And it did. Media-related
+ traffic was particularly strong in the quarter.
+ Before I get into the revenue details,
+ Please note that all revenue growth rate references
+ will be in constant currency.
+ Revenue from our media delivery solutions
+ was $196 million in the quarter.
+ down 10% year-over-year.
+ but up 8% excluding our large internet platform customers.
+ We saw healthy seasonal traffic growth
+ to both our gaming and software download
+ articles and continued robust growth in video delivery.
+ According to our performance and security solutions, revenue was $367 million in order,
+ 17% year-over-year. Within the solution category, we saw solid growth across all
+ all major product lines.
+ as Tom mentioned, we have been seeing strong traction
+ with our recently launched Image Manager
+ and block manager solutions.
+ and we have continued to see significant growth and demand
+ for all of our cloud security offerings.
+ Fourth quarter revenue for our cloud security solutions was a hundred and two million dollars up 41% year-over-year
+ year.
+ Wrapping off another tremendous year of revenue growth and customer adoption of our security
+ solutions globally.
+ Exiting Q4, our security business now has an annualized revenue run rate of over $400
+ million dollars
+ We are very pleased with the growth and execution of our cloud security business over the last
+ the past few years.
+ This growth was driven by targeted product innovation.
+ and go-to-market resource investments,
+ as well as a very successful acquisition.
+ to plan to maintain this aggressive investment posture
+ to further broaden not only our cloud security offerings,
+ but also our web performance and emerging enterprise solution
+ capabilities, where we see substantial long-term growth
+ potential.
+ Finally, revenue from our services and support solutions was $53 million in the quarter,
+ up 14% year-over-year.
+ Turning now to our Q4 customer division results.
+ Revenue from our web division customers was $300 million, up 14% year-over-year.
+ We continue to see solid growth in this customer base,
+ particularly with our cloud security offerings.
+ revenue from our media division customers,
+ which is three hundred and one million dollars in the quarter.
+ roughly flat year over year and up 15% excluding the impact of the six large Internet platform
+ customers. This strong growth rate was driven not only by media division
+ and customers driving more holiday season traffic.
+ but also from upgrading and penetrating
+ more of an optimized solution steeper into this customer base.
+ Finally, revenue from our emerging enterprise and carriage
+ 15.
+ $15,000 in the quarter.
+ up 26% year over year.
+ Moving on to our geographies.
+ Sales in our international markets represented 31% of total revenue in Q4,
+ consistent with the fire quarter.
+ International Revenue was $193 million in the fourth quarter, up 19 percent, driven by
+ continued strong growth in our Asia-Pacific region or in exchange fluctuations had a negative
+ impact on revenue of just under $2 million on a year-over-year basis and a $6 million
+ impact on a sequential basis as the dollar strengthens significantly through the quarter.
+ Revenue from our U.S. market was $424 million.
+ up 2% year over year.
+ If you exclude the large internet platform customers, which are based in the U.S., revenue
+ growth with a solid 13% across the rest of the business.
+ Moving on to costs, cash gross margin was 77%, up one point from Q3 levels, consistent
+ with the same period last year and in line with our guides.
+ gap gross margin, which includes both depreciation and stock-based compensation, was 67 percent,
+ up two points for Q3 levels.
+ consistent with the same period last year.
+ and a point higher than our guidance
+ due to the strong revenue achievement.
+ gap operating expenses for $289 million in the fourth quarter.
+ These gap results include depreciation, amortization of intangible assets, stock-based compensation,
+ acquisition-related charges, and other non-recurring items.
+ excluding these charges.
+ non-gap cash operating expenses with $230 million,
+ up $23 million from two to three levels.
+ above the high end of our guides, driven by increased year-end commission costs associated
+ with the revenue overachievement, as well as a significant
+ uptake and litigation spent associated with our limelight
+ patent infringement cases.
+ Moving into 2017, we expect to see similar elevated levels
+ of litigation spent.
+ adjusted EBITDA for the fourth quarter was $247 million.
+ up $9 million from Q3 levels and $10 million from the same period last year.
+ adjusted even though margin came in at 40%.
+ down one point from Q3 levels, and from Q4 last year,
+ and in line with our guides.
+ Gap depreciation and amortization expenses
+ were $84 million in the fourth quarter.
+ These gap results include depreciation associated
+ stock-based compensation, amortization of intangible assets, and amortization of capitalized
+ with interest expense.
+ including these charges, non-gap depreciation with $74 million.
+ consistent with Q3 levels and at the low end of our guidance.
+ through the timing of some network deployments that shifted into Q1.
+ Non-GAP operating income for the fourth quarter was $174 million.
+ up $10 million from Q3 levels and up $6 million from the same period
+ last year.
+ Non-gap opportunities.
+ operating margin came in at 28% consistent with Q3 levels and down one point from the same period last year.
+ And at the high end of our guidance.
+ Moving on to the other income and expense items.
+ interest income for the fourth quarter was about $4 million,
+ consistent with Q3 levels.
+ Non-cash interest expense related to our convertible debt was roughly $5 million, as a reminder,
+ nine-gap.
+ My cash expense is excluded from our nine app results.
+ Moving on to earnings, gap that income for the fourth board was $92 million, or 52 cents
+ of earnings produced here.
+ non-gap net income was $126 million, or $0.72 of earnings per annulment each year, $0.02
+ above the high end of our guidance range,
+ given by higher revenues and a slightly lower tax rate.
+ Adjusting for the range statement of the R&D tax credit in Q4 of 2015,
+ earnings from 8% year over year.
+ For the quarter, total taxes included in our GAAP earnings were $34 million, based on
+ on a Q4 effective tax rate of 27%.
+ taxes included in our non-gap earnings
+ for $50 million, based on a Q4 effective tax rate of 28%,
+ and coming in about two points lower than our guidance.
+ due to a higher mix of foreign earnings.
+ For the full year, the 2016 non-GAP effective tax rate
+ was just above 29%.
+ Finally, our weeded average diluted shear counts
+ the fourth quarter was 175 million chairs and in line with our guidance.
+ Now, we'll reduce some balance sheet items.
+ Day sales outstanding for the fourth quarter,
+ but it's 54 days.
+ down two days from Q3 levels.
+ capital expenditures in Q4, excluding equity compensation and capitalized interest expense,
+ for $78 million, and slightly below our guidance for the quarter, primarily due to the timing
+ of network build-outs that moved into Q1.
+ The full year 2016, capital expenditures came in at 14% of revenues and below our long-term
+ model as we grew into our existing capacity from the significant 2015 build-outs.
+ We expect 2017 capital expenditures to be back in line with our long-term model range.
+ generation continue to be strong with Q4.
+ 3 cash flow was $106 million in the fourth quarter and $550 million for the year, or 24% of revenue.
+ Our balance sheet also remains very strong, with roughly $1.6 billion in cash, cash equivalents,
+ and marketable securities on hand at the end of the quarter.
+ If you factor in our convertible debt, our net cash is approximately $1 billion.
+ In the quarter, we spent $79 million on cheery purchases buying back roughly $1.3 million
+ Thanks for watching.
+ I'll see you in the next video.
+ of the year, we spent $374 million buying back
+ approximately seven million shares.
+ In summary,
+ We are pleased with how the business performed in Q4.
+ we remain confident in the long-term prospects of growth of the company.
+ Looking ahead to the first quarter,
+ we expect to see a normal sequential revenue decline
+ due to seasonality.
+ perhaps a bit more pronounced in recent years.
+ due to the particularly strong media performance
+ this past quarter.
+ In addition, we expect further car safety headwinds
+ from the strengthening U.S. dollar over the past few months.
+ at current spot rates for an exchange fluctuation,
+ are expected to have a negative impact on Q1 revenue.
+ but just under four million dollars sequentially.
+ and $5 million compared to Q1 of last year.
+ Factoring in both of these variables, we are expecting Q1 revenue in the range of $596 to $610 million.
+ At the higher end of this range, year-over-year growth would be 8% in constant currency, a slight acceleration from Q4 levels.
+ At these revenue levels, we expect cash growth margins of 76%
+ in gap-gross margins of 65%.
+ on non-gap operating expenses are projected to be $217 to $222 million, down seasonally
+ from Q4 levels.
+ primarily due to less commission spend
+ and fewer customer events.
+ Factoring in the cash gross margin and operating expense expectations I just provided.
+ We anticipate Q1 EBITDA margins of 39% to 40%.
+ And as mentioned earlier, we plan to significantly increase our investment levels in 2017 in
+ and new product innovation, service delivery enablement,
+ and platform scaling.
+ important areas we believe will help us enable drive-to-drive accelerated
+ sustainable long-term growth and scale.
+ And while we're not providing specific guidance beyond Q1 during this call, we want to be
+ transparent about our plans to grow investments throughout 2017 at a faster pace than revenue
+ Our goal is to reaccelerate the top line growth back into double-digit levels in the longer term.
+ We are confident that success we have had with our cloud security investment strategy
+ can be duplicated in other areas of the business.
+ most notably in our new and emerging enterprise solutions portfolio.
+ We also plan to broaden our offerings within our security, web performance, and media solution portfolios.
+ This deliberate investment strategy will result in EBITDA margins in the high 30s in 2017
+ and for the foreseeable future.
+ Moving out is appreciation.
+ We expect non-gap depreciation expense to be between $74 and $76 million, factoring in
+ this depreciation guidance, we expect non-gap operating
+ margin 27 to 28 percent for Q1.
+ And with the overall revenue and spend configuration I outlined, we expect Q1 non-GAF EPS and the
+ range of $0.66 to $0.69.
+ The CPS Guides assumes taxes of $48 to $51 million
+ based on an estimated quarterly non-gap tax rate of just
+ That's about 129.5%.
+ guidance also reflects a fully diluted share count of 175 million shares.
+ CapEx.
+ we expect a significant uptick from recent spending levels
+ both the first quarter and throughout 2017.
+ This increase is driven partly by some platform deployments that's shifted from Q1, but mostly
+ by our desire to continue expanding our secure delivery network and increasing capacity to
+ to support our rapidly growing security business.
+ We expect to spend approximately $90 to $96 million excluding equity compensation.
+ It's also worth noting that our planned investment increases in product innovation and scaling
+ on your platform.
+ will impact CAPEX as well as OPEX as we capitalize more R&D development.
+ As such, we expect cap extending to return
+ for a long-term model range of 16 to 18% of revenue in 2017.
+ And with the increase in CAPEX, you will also see an uptick in depreciation levels throughout
+ in 2017. In closing, Akamai accomplished a great deal in 2016 and we remain confident
+ in our ability to execute on our plans for the long term.
+ We look forward to having an opportunity
+ to go into more details with you about the business
+ and future trends at our upcoming investor summit in Boston
+ on March 14th.
+ Thank you.
+ And now Tom and I would like to take your questions.
+ Operator?
+ Thirdly, ladies and gentlemen, if you have a question at this time, please press star
+ than one on your touchstone telephone.
+ Yeah, I'll take that.
+ As you can imagine with new products, it's going to take a fair amount of time to actually
+ fully penetrate the installed base.
+ But as Tom said, for both of these products,
+ Spot Manager launched earlier in the year.
+ the image manager launched mid-year.
+ Not manager in particular.
+ This is the fastest growing product
+ that we've had in a long, long time.
+ So the penetration is still early days, but it was a reasonably meaningful contributor
+ to growth in Q4, in particular our performance and security
+ portfolio, you'll see that continue to ramp and further penetrate in 2018, but it's probably
+ going to take a couple of years to see if she is kind of fully penetrated.
+ As an example...
+ ...
+ for cloud security, you know, which we've been in market now for, you know,
+ a little over four years.
+ And I think about 38% of our customers
+ buy a cloud security solution.
+ So still a lot of ramp to go, even in cloud security.
+ So it takes a while to have those customers ramp,
+ but you can certainly see that we started a few years ago
+ from, you know, roughly a few million dollars
+ in cloud security and now over $400 million.
+ So I think these new product offerings are kind of, again,
+ point to Tom's, you know, comments that, you know, innovation is alive and well and
+ more to sell into the install base to accelerate growth of the company.
+ Yeah, you know, we're in a good position, you know,
+ So the DDoS solution, because of our unique distributed platform, we're in a position
+ to defend and absorb the largest attacks out there.
+ And we've got a great track record.
+ And there's a lot of other folks that offer scrubbing services
+ or DDoS services of one kind or another and they've all, you know, pretty much had high
+ profile failures. AWS, we don't see really much in the marketplace. For DDoS, it would
+ be a different kind of approach, you know, so it's not, we don't see that as being a
+ that's a different threat to the DDoS business.
+ And DDoS is relevant for most of our customer base,
+ So there's a lot of cross-selling that takes place.
+ and the security services in general,
+ were leading with a sale there and a lot of new accounts
+ where they will join with Akamai because either of our,
+ either our DDoS solution or our application layer protection
+ capabilities with Kona.
+ And that brings new customers to Akamai.
+ Yeah, you know, as we talked about, they're now collectively
+ less than 10% of our revenues so the future impact is obviously limited and you know we
+ We expect to see some further decline, but nothing at the scale that we've seen over
+ over the last, you know, one to two years.
+ Not at all.
+ Not at all, but our balance sheet has a lot of firepower
+ a lot of firepower to do M&A, to do capex purchases,
+ Do I share?
+ And as we talked about, our share buyback is intended to offset dilution, but it's a
+ a programmatic trade that buys more shares
+ and the stock price is lower by fewer shares
+ and the stock price is higher.
+ but we have ample firepower to do full CAFEX purchases
+ Yeah, I think we're certainly going to see a step up in head count investments.
+ You're right that we had a little bit more headcount ramp here in the fourth quarter.
+ But we hired for the year about a little over 400 people, I think, including some acquisitions.
+ I think in years past, we averaged kind of more than 1,000 hires per year.
+ I think what you're going to see is that this step up in investment is that our head count
+ It's probably going to be more similar to what it's been historically than it was this
+ past year and as I mentioned it's going to be very heavily it'll it's going to be
+ targeted but very heavily focused in new product innovation is also investment
+ we're going to need to be making in our service delivery
+ Enablement that I mentioned that our services business is growing quite rapidly and we're going to be making investments in continuing continuing to scale the platform
+ So you should expect kind of headcount more similar to what has been in the past than
+ and basically what it's been in 2016.
+ Okay, and then just kind of a quick follow-up, Jim, you did say just in terms of looking at the Q1,
+ We can expect a bigger sequential decline from Q4 to Q1 on a revenue basis than typically
+ we've seen and just wanted to understand how much of that is being driven by, like you said,
+ the outcome.
+ performance on the media side and how much that is a continued expectation of and I know
+ I know it's not as significant as before, but just to continue to decline the revenue
+ from the, you know, top six internet platform customers.
+ Well, yeah.
+ I mean, as Tom mentioned, that we probably
+ We will see continued decline in the Internet platform
+ customers in the first quarter one because seasonally they declined Q4 to Q1 anyways because
+ They also have a seasonally stronger Q4.
+ But I think the bigger component of it is not that,
+ and it's more that we had a very strong Q4 for media.
+ media traffic was kind of seasonally very, very strong.
+ We had a large number of gaming releases, a fair number of software download events that
+ The media business can be a bit spiky that way.
+ So some of, I'd say the bigger part of the sequential decline
+ driven by the media business, certainly not the performance and security solutions.
+ I think it's also fair to comment that even outside of media that I think the company
+ is certainly much more diversified now than it was kind of even a year ago or two years
+ ago that our performance and security business now represents 60% of the company's revenue
+ You include kind of services.
+ call it 70 plus percent of the revenue.
+ So, media is becoming a much smaller percentage of the company's revenue and we know that
+ the media business can have variability, just given the nature of the business.
+ So I think what you're going to see going forward is that you're going to see more stability
+ and the company's growth rates, I do think that there's an opportunity for media to
+ ...
+ re-accelerate growth rates.
+ But I think the catalyst for that
+ is really going to be a significant uptick
+ and over-the-top of viewing.
+ I think we're seeing steady growth in that area right now, but if you see that become
+ more mainstream, I think we're poised to benefit significantly from that.
+ Yeah, I'll parse that that's certainly on the OTT side that that we out we're seeing very steady growth in 80 and OTT
+ It's been kind of, it's been that way for some time,
+ but it's steady growth.
+ So it's much more consistent growth and over the top.
+ than say gaming or software downloads,
+ which tend to be much more variable based on
+ games that get released or software updates that occur.
+ So, and I'd say that has been the bigger catalyst driving growth in the media business that
+ Those, the gaming and the software download area tends to be much more spiky, and you'll
+ have surges at times, and then you won't at other times.
+ So I think the catalyst for growth in the media
+ business is going to be OTT.
+ I don't think you're gonna see the cows.
+ You know, you may see even a catalyst as Tom mentioned,
+ that you see more VR and things like that in the gaming space that require
+ performance to work well, but I think that between things like that and OTT, that's going
+ That's going to be the cause of kind of re-acceleration
+ in the media business, and on your CapEx question,
+ I'm glad you asked because we certainly are not trying to signal that we're doing a buildout for some anticipation of further OTT
+ Actually, the build-out that we're doing is, as you can imagine, our security business
+ now is on an annualized round right of over $400 million.
+ it's rapidly growing and so there's build-out we're doing to support our
+ security business, and there's also build-up that we're doing with our security delivery
+ network. More customers want to have their traffic served over secure delivery networks,
+ So we're building out capacity in that area.
+ So it's not, it's really for other parts of the business,
+ It's not so much for the media.
+ Thanks for the question, Colby.
+ We will cover it more at the upcoming investors summit,
+ But I still think the long-term model for the company
+ in the low 40s is the right one.
+ I do think that what you're going to see in 2017,
+ and I say to the foreseeable future
+ because I think you're going to hear in 2017,
+ you're gonna hear about new product adjacencies
+ that we are going to enter.
+ And I think what you're going to see is we're going to make investments in those areas.
+ Those investments are probably gonna extend beyond 2017.
+ And so I think the interim model for the company,
+ not the long-term model, I think the interim model
+ with the company is going to be the high 30.
+ But I do think that once those businesses
+ get to a level of scale, because there'll be kind of early stage businesses.
+ And I think once they get the skills,
+ I think we will be able to get the company model back
+ to the low 40s EBITDA, but I think that even beyond 2017,
+ we intend to operate the company in the high 30s.
+ And I think that, given the nature of the adjacent areas,
+ I think that they have a significant opportunity
+ for EBITDA that's more like our performance
+ security EBITDA, but obviously it's going to take a time for those businesses to ramp
+ to be able to realize that and I think what we want to do is we don't want to
+ a strain investment, we want to make sure we're investing to capitalize on that because
+ Now's the opportunity.
+ Yes, yes.
+ I mean, we were 14% in 2016,
+ We'll be back in the 16th to 18th percent range in 2017.
+ Great. And then, um...
+ Yeah, I would say that the more of the growth has been coming from selling more into our
+ install base.
+ You know, we've been able to take the offerings that we have and further penetrate them into
+ the absolve base.
+ I think...
+ that security's been a product category that we've been able to penetrate with new customers.
+ And then once you get in, you can land and expand them.
+ expanded the other offerings.
+ But I'd say more of the growth today has come from
+ penetration at the install base,
+ there's still a significant opportunity to do more there.
+ I mentioned earlier that 38% of our customers buy security, so that means it's an opportunity
+ for 62% of the customers to actually buy one of our security solutions.
+ And so I think you're going to see that we're going to further penetrate the offerings and
+ And I think as we bring more innovation to the table,
+ There's more of an opportunity to sell more or to install base.
+ And I think you're going to see us do more in the way
+ a new customer acquisition in a land and expand model.
+ And I think some of the new offers are actually going to help us with that.
+ Well, I think, you know, again, I think you should look at our depreciation expense a bit as a percent of revenue to take the depreciation expense.
+ We've been occurring at the percent of revenue and as you ramp capex, you know as a percent of revenue
+ you should be ramping depreciation at the percent of revenue
+ in a similar way.
+ Yeah, we don't really operate on an overflow basis, so it's, you know, whatever you're
+ is not really attributed to that.
+ I don't think there's really been a fundamental change.
+ you know, in the internet platform companies,
+ in terms of their utilization quarter to quarter.
+ Generally, the trend that we expect to see
+ is they're gonna try to do more of the delivery themselves.
+ Obviously, they'll take the easier stuff and work on that first.
+ That's one thing that we've seen in the past.
+ I said this stuff is hard to do and to do well and actually to do it affordably.
+ So I think that we will continue to have business with these customers.
+ I just think it'll be a lower percentage of revenue going
+ No, I think you're going to see a steady increase in investment throughout the year.
+ I think you're going to see that investment occur.
+ It's going to begin the first quarter.
+ You won't see it manifest itself significantly
+ because it's going to take a while
+ to get the headcon on board and the spending to ramp.
+ So I think you're probably gonna begin to see that
+ effective in Q2.
+ And then my expectation is that, you know, again, it'll stay in the high 30s thereafter.
+ So I think you'll probably, you know, I'm not going to specifically guide for Q2, but
+ as I-
+ I said beyond the first quarter, which I said 39 to 40.
+ And I think that it will be 39 to 40,
+ depending upon where revenue lands in the range.
+ but I do expect that kind of in Q2 and beyond
+ and it's going to operate in the high.
+ Yeah, well, part of that is, you know, again, when you're talking about acceleration, that
+ you're talking about...
+ what year on year.
+ So, as Tom mentioned, the declines we've seen
+ in these large customers who are much more significant
+ in 2016. So the wraparound impact of that really began a little bit in Q4, and you're
+ I see that continuing Q1.
+ And so some of it is the wraparound effect
+ that these customers not having nearly the impact
+ on the company's growth rate as they did a year ago.
+ My comment was more of a sequential comment, the Q4 and Q1.
+ We always see some seasonal declines in the company revenues and also with these big customers
+ and I expect to see that happen.
+ You know, as I mentioned, I think some of the seasonal decline is going to be much more
+ notable in the media business. I think you're going to see steady growth in the
+ performance and security business.
+ Yeah, roughly, yes.
+ I wasn't referring to a specific time frame.
+ I think you know the company has been operating in double-digit revenue growth.
+ This is actually the first year we have not.
+ I think you know that some of the driver of that
+ has been what's been going on with these large internet platform customers, the company
+ growth rate, a side of them has been growing in the mid-teens, so we have been growing
+ and in the double digits.
+ So I think that my point was that if we make these investments, these investments are going
+ going to take a bit of time to see revenue ramp.
+ And so you're going to see the dividends from these
+ investments more in 2018 and
+ And I think that is what's going to lead to consistent double-digit growth for the company.
+ We're pretty pleased with our international growth that, you know, you're right, that our international growth has been growing very fast and growing very fast in particular in our Asia-Pacific region.
+ So our investments are much more weighted, I would say, on R&D innovation to be frank.
+ Investments are not heavily weighted towards more go-to-market.
+ I actually think the go-to-market side of the equation.
+ you will make some investments there.
+ It's a matter of giving our existing sales force more products to sell.
+ Our sales force is pretty competent at penetrating our products into their install-based set
+ of customers, it's a matter of giving them more products to sell.
+ And I think that, you know, by stepping up investment in R&D, getting more products announced,
+ I think will lead to kind of more revenue.
+ and we prove we can do that, security being the most recent example.
+ Yeah, I mean, I think in general that we continue to get good traction in upgrading ION into our customers that buy our web performance products.
+ you can imagine that it's a kind of hierarchy of, you know, it starts with
+ customers that really, really care about performance.
+ And so I think we have a further room there,
+ but I think that kind of the customers that are going to buy
+ you know, that many of them are already buying their products.
+ while there's more to sell there, I'd say, you know, that probably not a significant
+ significant opportunity there.
+ And yeah, we have seen when customers upgrade to ION that there is an Apple uplift at times,
+ But I also think there's other things to sell for our web performance solutions.
+ As Tom mentioned, image...
+ is another offering to sell into the install base.
+ So, you know, if they're buying ION, now they can buy Image Manager.
+ They're buying DSA, now they can buy Image Manager.
+ And I think you're going to see us have other adjacencies like that within web performance
+ Back to the top six customers, the platform customers.
+ Is there any change you guys are seeing in terms of your share of the traffic that you're
+ delivering relative to what the platform company
+ may be doing themselves or using a multi CDN strategy for.

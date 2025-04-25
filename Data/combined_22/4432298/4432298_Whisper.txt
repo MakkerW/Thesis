@@ -1,0 +1,516 @@
+ Good evening. Hello. Welcome to the teleconference dedicated to the project group results for the first quarter of 2021
+ My name is Adam Kiciński and I will run this call together with Piotr Nierubowicz and Mihal Nowakowski.
+ The webcast of the presentation along with the audio feed is also streamed on our corporate website at www.settheproject.com
+ and our IR YouTube channel.
+ channel.
+ Let's get started.
+ Please jump to slide 3.
+ improving cyberpunk 2077 remains our top priority.
+ Since the beginning of this year, we've released five updates.
+ And of course, there is more to come.
+ The next update is to be released in a few weeks.
+ as we announced before.
+ This year, you can also expect CDLCs, providing small bonus content for gamers, as well as
+ updated next-gen edition of the game, which is scheduled for the second half of the year.
+ On slide number four, you can see how our efforts improved cyberpunk stability.
+ the crush rate is getting lower and lower with each object.
+ Please bear in mind that it's somewhat natural for each new update to cause some extra short
+ them boost in statistics, which is strictly related to the process of downloading and
+ to installing the update itself.
+ That's why the chart shows local peaks around the time of releases.
+ but overall, we can definitely observe a downward trend here.
+ Given the recent improvement and motivation you have, we strongly believe that the game
+ would prop to success in the long run.
+ Moving on to the next two slides, the Witcher 5 slides.
+ On slide 6, you can see our plants related to the witcher universe for this year.
+ Spocco, the youngest member of the CD Projekt family, is about to launch The Woodish Monsters
+ layer.
+ a free-to-play, mobile location-based RPG that uses AR technology.
+ This release is expected this summer.
+ As for the second half of the year,
+ we plan to release the next gen edition of the Witcher 3 Wild Hunt.
+ That's all from my side.
+ Let's now, let's now, let's now move on to slide seven.
+ out. The floor is yours. Thank you, Adam. Let's start with our P&L statement. This year's
+ first quarter results are presented together with our 2021, which by then was the best
+ first quarter we ever had.
+ last year due to the pandemic, the release of the Witcher series and that of the Witcher
+ the Nintendo Switch Q1 2020 revenue wise was nearly two and a half times better than the
+ the first quarter of 2019.
+ This year, these gross drivers appear to be gone.
+ in the first quarter of 2021.
+ Cyberpunk was our leading IP, which generated nearly 60% of sales of products after the prior
+ It's worth mentioning that due to the non-existence of cyberpunk on the Sony digital store, which
+ which is potentially the second biggest marketplace for us.
+ With settlements of sales provisions we set in Q4, our cyberpunk revings, etc., have
+ have mainly been driven by PC digital channels.
+ The second source of revenue comes from goods and materials
+ fueled by the geogy.com segment, where the segment itself enjoyed a 12% increase quarter
+ the quarter. As always, our sales were accompanied by cost of sales. The main
+ increase here is visible in the cost of products and services salt line which we included where
+ Here we included 17 million depreciation of Cyberpunk 2077.
+ The gross profit from sales reached 135 million zlotys, 10 million zlotys less than a year
+ ago, despite the 17 million Slavic cyberpunk depreciation.
+ are operating costs increased driven by four main factors.
+ First, a big part of the DEF team was working on updating
+ cyberpunk and since this was a service to an already released games, game costs were
+ book directly into P&L into the selling cost line. Total service in cost dedicated to Cyberpunk
+ added to the much smaller grant-like operation service costs and all together amounted to
+ 30 million slotted in the first quarter of this year. Second, during first quarter we run research
+ prototyping works for our subsequent projects.
+ Such expenses need to be booked directly into P&L into the general and administrative costs.
+ These extensives amounted to over 9 million's logic and represent approximately half of the
+ increase of the GNA position.
+ Thirdly, the General and Administrative costs include 9.4 million Zlatykh of non-monetary
+ costs related to our employees' stock option plan.
+ This is five and a half million more than the respective costs of the previous program
+ booked in the first quarter of 2020. And last but not least, the increase in all our operating costs
+ also reflects the growth of the back office marketing, communication and sales teams over
+ over the last year.
+ Year on year, the headcount for this part of the team grew approximately by 1.6.
+ All in all, deducting financial expenses and income taxes,
+ our net profit for the period amounted to 32.5 million zlotys, which is proportionally
+ than usual, mainly due to the time-limited research and servicing works booked directly
+ into our costs of the squadron. Let's now move to the next page, our consolidated balance sheet.
+ Our fixed assets grew by 144 million Zlotyk reaching over 900 million Zlotyk.
+ This growth comes mostly from the increase of financial assets as a result of foreign
+ T-Burns acquisition, which was made to diverse iron
+ allocates some of our financial reserves.
+ The 64-meters-lobbing growth of other peaks and assets, as a boon is lying below,
+ It comes mostly from the recalculation of our deferred income taxes by nearly 60 million
+ but the most notable changes occurred among the overking assets.
+ The overall receivability increased by $1 billion, decreased by $1 billion and $91 million
+ to an increase of cash and by the thousands by 823 million.
+ and 114 million zlotys increased some domestic demons included in the other financial aspects line.
+ All in all, over the first three months of 2021, the total value of our cash bank deposits
+ and T-bonds increased by 1 billion and 40 million Zlatik reaching a total of 1 billion
+ and 915 million losses.
+ moving to the equity and liability side.
+ The sales provisions we set as long term at the end of 2020 were classified to short term provisions,
+ Hence the change from 145 NL to 0 for this position as of the end of March 2021.
+ At the same time, the total value of provisions among the short term liabilities increased
+ by 14 million Zlatans.
+ Together with the decrease of long-term provisions, this made the total balance of provisions
+ to decrease by 105 million zlotys.
+ over the first quarter of 2021.
+ We also reported an increasing number of liabilities.
+ This is mainly caused by the growth of our current income tax liabilities by 66 million
+ This growth was offset in big part by the deferred income tax asset decrease I mentioned
+ a minute ago. Let's move to the next page. Each time I comment on results, I typically
+ present a chart with our expenditures and development projects. This time I decided
+ to slightly modify it to visualize the allocation of our developers' efforts in recent quarters
+ and explain how respective costs were booked and influenced our P&L and balance sheet.
+ The blue part represents our expenditures and development projects.
+ It's a book perspective.
+ This is the quadruple increase in the capitalized volume.
+ Why was it so high in 2020 Q4?
+ mainly due to the final phase of development of cyberpunk-related costs, including provisions
+ for developers bonuses.
+ This year, the capitalized amount was smaller as many of the developers were moved to other tasks.
+ The yellow part represents costs of servicing already released games.
+ till the release of sagra punk on the 10th of December, these costs were mainly related
+ to Gwen. After the release of Cyberpunk, a big part of the team was moved to updating
+ the game.
+ Which translates to
+ it into the increase for Q4 and especially Q1 2021. And the green part represents the
+ so-called research costs, initial costs for prototyping of new projects. As you
+ You can see we had initiated this course last year, but the increase clearly occurred this
+ year.
+ both the yellow and the green parts which are servicing in the research
+ expenses were booked directly into our profit and loss calculation.
+ Please note that the Spocko company, which works full force on the timing of the witcher
+ monstrously okay is not included in the presented consolidated results yet. Let's
+ Let's move to the next stage.
+ quite cash flow presentation.
+ Putting aside the bookkeeping qualification of incomes, costs, and expenses, this quarter
+ We reported record high positive cash flows for the group.
+ The remaining revenues from the premiere of Cyberpunk were paid into the company which
+ resulted in the decrease of receivables.
+ We already know our cash, bank deposits, and T-bonds value increased by 1.4 billion tons
+ and reached an unprecedented total of 1,915 million lotus.
+ And this smoothly adjusts to the next page.
+ based on the strong financial position and taking into consideration the 455 million
+ of short-term liabilities over receivables as of the end of Q1.
+ the board of the project proposed to the general meeting to pay out a dividend in the total
+ amount of nearly 504 million zlotys, which translates into five zlotys per share.
+ the dividend day is set for tomorrow and the dividend is to be paid out on the 8th of June.
+ Thank you. That's all from my side. Now we can move to the Q&A section.
+ Thank you. So if you would like to ask a question, please signal by pressing star 1 on your telephony keypad and we start
+ with our first question from Nick Dempsey, Barclays. Your line is open. Please go ahead.
+ Yeah, good evening guys. Can you hear me okay?
+ Yes, you can.
+ Hello?
+ So two questions, please.
+ First of all, we'd love to get an understanding of the cyberpunk unit sales in the quarter.
+ And secondly, one if you could update us on your conversations with Sony about what
+ it would take to get you back on the PlayStation Store, then you've shown us the metrics have
+ been improving there, but does only have a particular set of metrics in their mind, which
+ which would then allow you to go back on the stool
+ or how those conversations progressed.
+ Thank you.
+ Okay, so I'll start with the first question.
+ question.
+ We usually communicate on unit sales where we use certain milestones, round numbers that
+ we can announce.
+ And this quarter, as usual, we presented revenues
+ divided into each segment.
+ and we went to the market, we also guided how much of the revenue was dedicated to cyber
+ banks.
+ 60% of product sales revenues came from cyber fund.
+ And as I mentioned, most of the sales
+ came from PC digital distribution channels.
+ Bye, and thanks for listening up, thanks for listening here.
+ Thank you.
+ I was just going to follow up on that.
+ Thank you.
+ But maybe if I can just follow up on that answer, and if we take sort of the average
+ sort of digital revenue per unit to be somewhere in the 135, 140 kind of
+ sloppy sort of range when I look at what I use for Ubisoft etc that would get me to 800,000ish
+ kind of sort of range of cyberpunk units sold. Am I at all in the right ballpark?
+ I'm afraid this kind of calculation is not to be applied on other product and especially for us very special
+ like the first quarter after the release.
+ and ease.
+ Please note that the revenues we present are the revenues we achieve from our distributors.
+ And in the case of Ubisoft, the situation is different.
+ you reserve directly distributes in any other games
+ and have direct access to retail channels, which we do not.
+ So our sales are based on wholesale cooperation
+ with partners that then supply the retail stores and therefore the characteristics and the
+ pricing is different.
+ I'm sorry to come back again, but you did say it was mostly PC and digital, so I was
+ thinking that that wholesale partner relationship would be less relevant to the average revenue
+ per unit in this particular quarter.
+ to give you some more light on that.
+ when a retail store sells a copy, it probably puts this copy back last year.
+ So, this number of copies was reported to us by distributors last year, and we reported
+ the revenue for this last year.
+ At the same time, last year, we set certain provisions for potential returns and refunds
+ we will be having with our distributors.
+ But all this time during Q1, the retail stores keep selling the game,
+ so that there are two totally different layers.
+ our cooperation with distributors and the retail stores which keep selling it again.
+ Therefore, direct comparison of the two cannot be made, and especially in such a first quarter,
+ after the release, where distributors still have the stock purchase on release, where retail
+ source, he still has the stock purchased on ROOS.
+ Okay, that's helpful. Sorry, I interrupted you.
+ And we take our next question from Matthew Walker, accredited by...
+ No, thanks.
+ I believe there was a...
+ Sorry, I believe there was a second question, which we then get to because the speakers
+ as I, you know, ongoing questioning about the units.
+ The second one was about the Sony and the playstation as a particular set of metrics
+ how the conversation progresses.
+ So I kind of go deep into the set of metrics
+ or how the conversation progresses,
+ has to remain at the discretion of the PlayStation, of course, ourselves. But yes, there is some
+ instead of metrics. Let's put it like that at a high level, but again, we're not going
+ we cannot go into the details of where we are with that.
+ But during the process, we're in the middle of that process.
+ And, you know, this conversation is happening.
+ That's as much as we can say the decision will be announced when it's ready to be announced.
+ Okay, thanks guys.
+ Thank you.
+ If the question is for much you walk or credit with, please go ahead. Your line is open.
+ Thanks a lot.
+ Good evening.
+ Just a few questions, please.
+ The first is, could you give us the actual digital percentage of sales in the quarter?
+ Secondly, can you tell us what discounting happened in the quarter and what you're doing
+ for discounting if anything in Q2 and then long term could you say has been a
+ you're doing the simultaneous gain of development.
+ Could you tell us when is work likely or has work started already on two new games or could
+ you tell us when work is likely to start on those games, thanks.
+ I will take the first one. I assume you mean that digital percent of cyberpunk sales or
+ or overall our sales.
+ I would look at overall.
+ Yeah.
+ So it was very much digital. I did not have the figure in front of myself that I could
+ truth I have to give you. But as I mentioned, retail stores in general still have the stock
+ They purchase on release and they keep selling it.
+ This means that our distributors do not ship additional quantities to them.
+ So our revenues do not include any additional sales on them.
+ What influences our revenues are the digital saves,
+ So then the sales are instant and the reporting is instant
+ without the sub-distributor in the middle of the process.
+ And most of this has occurred for PC
+ on all of the available PC platforms.
+ Obviously, the Xbox digital sales and since cyberpunk is not existent on the Sony storefront,
+ we didn't report any revenues and the sales from this one.
+ However, obviously, Witcher 3 was still selling, but for the overall picture,
+ Definitely, digital was doing most of the revings for us.
+ Hi.
+ I can take the second one.
+ So when it comes to discounting, there's basically two kinds of discounts.
+ one is what we call permanent markdown,
+ which is like a permanent slasher prize
+ and the other one is promotional.
+ So, within Q1, I am not aware of a permanent markdown
+ there's been a bunch of promotional markdowns happening,
+ both in physical and in physical.
+ You have to remember that we are not in direct control of the discounts that are happening
+ in the retail because there's that remains of the retail
+ discretion, there's, of course, special support funds, sort of like a marketing support fund
+ for retail, you know, to do those, which is normal for any game, to be honest, in a quarter
+ post-launch. This is nothing unusual here. So that's been happening for CP. I've seen
+ discounts between 20%, 30% and 40%, depending on the occasion, on the country, on the territory,
+ You know, there's as many stories as there are retailers around the world in terms of
+ I've seen discounts of 10% and 20% on the PC storefronts when it comes to plant discounting
+ policy for kids.
+ And we, of course, have certain assumptions and plans of what's going to be happening
+ there, but we are definitely not in a position to reveal that.
+ I've never actually seen anybody, you know,
+ We deal ahead that kind of plans.
+ So that's it.
+ And I'll take this, the third one, Adam Kaczynskii.
+ So, as we announced during the strategy update, we are planning to start
+ triple A, parallel triple A development from 2022.
+ But of course, and this year is a year of transformation, there is much more work on
+ cyberpunk, of course, a big part of the thing is still working on cyberpunk, but definitely
+ there are teams preparing future unannounced projects I would say that one
+ third of the of the cyberpunk team or triple-a content team is working on an
+ I mean, I don't think, but it's not like we are
+ in parallel to Pule development.
+ it's rather preparation for future works,
+ not develop in person.
+ Okay, thanks a lot.
+ Thank you.
+ Our next question is from Keen Rumpf, Jeff Frase.
+ Please go ahead, your line is open.
+ Good morning, everybody. Good evening, sorry.
+ So, three questions, if I may.
+ perhaps if you could just enlarge a little bit on that point about staff your
+ original plan had been that the cyberpunk team would kind of divide into three, third
+ moving on to a new project, a third working on DLCs,
+ maybe a third on on
+ the mobile game, I think. Anyway, tell me perhaps sort of how things divide up at the moment.
+ Secondly, regarding Xbox, it's on sale, but when you click through, there is a warning
+ saying there may be issues, pending patches and so on, is there a similar kind of discussion
+ going on with Xbox. And finally, in terms of next-gen versions of the game, and, you
+ I hope you're there for a relaunch of the whole game.
+ Is there a sort of any indication when in H2 you might plan to do that?
+ I would imagine at least after July and August,
+ those on holiday periods, but please guide me if that's wrong. Thank you.
+ I can, I'll start with the first one, Adam on this end.
+ so
+ Nearly half of cyberpunk teams still continue working on cyberpunk itself and cyberpunk next-gen edition.
+ Then we have teams working on unannounced and still not preparing works on to unannounced
+ AAA lines, I would say I'm not very precise because we don't want to pre-announce anything
+ Which is not announced yet, so I'm not referring directly to the question, but but there are things smaller things
+ in transformation, preparing words on future content, but I can just, I can just repeat
+ what
+ What I've already said that next year is the year when we want to split teams and to work
+ full scale, of course, depending on the project in the different phases on future AAA content.
+ Regarding the second question, it's Ian Holovakowski again.
+ The question was about the Xbox and the warning language
+ on the product page on the storefronts.
+ There's a similar conversation happening with the Xbox team as well, as the PlayStation
+ One.
+ OK.
+ All right, and the third Adam again, sorry, we can't comment on it.
+ I mean, definitely after our promise to start any communication closer to releases we don't
+ want to say anything more about make transition more than the second half of the year deliberately,
+ Of course we have, we got the date.
+ internally, but it's too early to say anything about this.
+ Okay, I thought I'd ask.
+ Thank you very much.
+ Our next question is from Vladimir Vyspalov, VTV Capital. Your line is open. Please go ahead.
+ Hello, thank you for taking my question.
+ My first question will be on the transfer in the second quarter.
+ The first code was very special and the major patch was released only by the end of the
+ do you see any improvement in the cell strength,
+ at least some pieces for cyberpunk in the second quarter, and on the fourth side again,
+ again with the major fixing and taking place in the first quarter.
+ Do you see any improvement in terms of profitability or lower costs which you incur in the second
+ but what should we expect from this perspective?
+ And I also have a question on your capital allocation,
+ application, apart from dividends, how are you going to spend the cash pile that you
+ We have, after you received a lot of questions in the first quarter, and maybe some date
+ on the MNA pipeline, thank you.
+ So I'll take the first and the second question.
+ We are not guiding future results, so I cannot do too much into precise information.
+ But definitely each year, the most important part of the second quarter is the June end
+ all the summer promos, and this is still in front of us.
+ But looking broader at the situation, as I mentioned on the annual conference regarding
+ the first quarter results, the general situation as long as we are not back on the sunny store
+ has not changed. One of the leading marketplaces for us is not available and we generate most
+ of the sales on the PC digital channels. Until the moment it changes, we will have more difficult
+ situation then then we would love to have so that's the general comment on
+ what may happen or what is happening over the second quarter.
+ As far as the profitability is concerned,
+ The size of the team involves in updating cyberpunk is slowly decreasing and also the
+ The research costs I mentioned in my part of the presentation should also be smaller
+ in the second quarter.
+ This is a natural process, and that's what we expect.
+ But the total profitability of the company
+ will depend on the proportion of cells less the fixed
+ appreciation of cyberpunk and all of our
+ or operating expenses, and that's something we will broadly discuss on our H1 results.
+ As far as the capital allocation, the significant part of the capital we earned over last year
+ will be paid via dividends, then, as I mentioned,
+ we still have some of the liabilities in our balance sheet that there is a significant
+ excess of liability of liabilities over receivables and this is also to be included in our cash
+ flow funds, actually part of that was already paid as the team bonuses, which we covered
+ in May in the second quarter and the rest is supposed to be kept at the company to find
+ our gross future projects, their marketing plans,
+ and potentially some of the MNA transactions,
+ Which is actually the fourth question Adam understand in terms of M&A if there will be anything to announce will announce it
+ I mean, that's the fact, that's the situation.
+ Now we are finalizing the deal with our Vancouver studio and with the Vancouver team.
+ And if any further plans like this or of this kind will appear, will inform the market.
+ Thank you very much.
+ Thank you.
+ Our next question is from Matty Lytunan from Bernstein.
+ Your lines open, please go ahead.
+ Hello, good afternoon. The first question, thank you for giving us the breakdown on the
+ the product research development and service costs.
+ just based on this in your earlier comments, just to clarify.
+ So there hasn't been any material development
+ of course, capitalised for any new project on anything resembling cyberpunk scale before
+ Q1 this year. And the second question is on Spoco. So do you have any colour to give
+ on what the soft launch process has looked like.
+ What other countries have you done in Russia, Australia, for monetization and any color
+ to give in terms of what the feedback so far has been.
+ So I'll take the first one. Yes, the direct development extendages during Q1 were smaller as part of the teamwork on
+ on updating cyberpunk, and another part of the team was also involved in the research,
+ So early works for subsequent projects that we have in the pipeline.
+ Once we finish the research phase, which should come shortly, this will be qualified as the
+ development expenditures and will be capitalized.
+ Hmm
+ I'll take the second one Adam. So what we are doing, we are soft launching when tweaking,
+ not only the game itself, but some retention and monetization mechanisms along with testing the game.
+ and we are closer and closer to the final result
+ And we are happy with what we can see, but of course, before the game is launched in
+ a full scale, we don't want to announce any internal data regarding how soft launches were
+ progressing but the extensive phase of soft launches enables us to tweak many many things
+ and we learned a lot.
+ and this project is definitely driven by design, of course.
+ on the first priority, but by statistics and data as well.
+ Thank you very helpful.
+ Thank you
+ Our next session is from Kent Rumpf to Freese.
+ Please go ahead, your line is open.
+ Hello, I'm back again.
+ Firstly, on the R&D that's being expensed on early-stage work, is that a new thing or
+ I simply don't remember this from kind of back in the day when I guess you were working on
+ on cyberpunk before Witcher 3 came out.
+ So is this kind of a new approach or just something perhaps that wasn't significant
+ I don't remember from the past.
+ Secondly, can I ask just about how expansion work is
+ expensed or capitalized?
+ So expansion is the cyberpunk, which you've said,
+ obviously that you plan expansions in the future.
+ And finally, on the discussions with Sonia and with Xbox, firstly, does it potentially
+ involve the next-gen version, or is it simply a discussion about the old last-gen, we should
+ call it current gen but you know the ps4 version or does it somehow involve kind of also satisfying
+ them about next gen and that probably you can answer one I'm not so optimistic about
+ about.
+ Does it?
+ Is it simply a technical discussion or does it involve financial and pricing issues for
+ the game?
+ So, I'll take the first two questions.
+ As far as I-
+ Okay.
+ remember, we had the same approach, however, back in the days it was not significant.
+ And regarding the extensions, I may say that currently they are the extendages on them
+ are capitalized.
+ Okay, thank you
+ Sorry.
+ And this is Nihara Vakosky and the question about Sonya and Xbox again.
+ The question was whether it involves the next gen, or on the current gen, or is it just technical,
+ but doesn't involve financial and pricing discussion.
+ It's...
+ It's still...
+ It's very good and very detailed questions, but all that has to remain, of course, at this
+ question between the parties. If 20 years from now, I'm going to be writing memoirs
+ I promise to answer that, but for now it really has to remain between PlayStation and us and
+ You know, we'll have announcements to share when they are ready.
+ And, of course, Xbox the same situation.
+ Okay, well, then I understand that.
+ Thank you.
+ Thank you
+ Our last question is from Ali Nakri from HSBC.
+ Please go ahead, your lunch is open.
+ Hi, can you think, I just had a couple of questions for you.
+ And your expectations for cyberbump once it gets back to the PlayStation Store.
+ Do they diminish from your previous expectations or do you think that you'll have to invest
+ in marketing to get back to where you had initially on launch.
+ second question and a bit of a reminder. How do you impaired anything on the side of
+ on development or do you plan to revisit this once, you know, when you launch it back on
+ the PS or if that gets delayed.
+ And then finally, in terms of timing of the downloadable content, the cyberpunk, what
+ which also distracts the intent of how much content that is
+ into pricing.
+ all going to be free or all paid for.
+ Thank you.
+ Hi, this is me because could you actually repeat the I didn't fully understand to be honest the Sony part the
+ the marketing and, sorry, can you repeat that?
+ Sure.
+ When the one-sided bunker launches back on the PlayStation Store, what are your expectations
+ for sales, do they return back to what you had previously or would you have to invest
+ in marketing to get back to that level.
+ Oh, okay. I mean, so I don't even think we're looking at it this way. I mean, of course,
+ I mean, it's going to be improvement on cells when we're back in the playstation because
+ the cells are currently none because we're just not in the store so when we get back
+ I mean, I'm assuming there will be some cells, of course, so that will be a positive information
+ its own.
+ However, in terms of bringing it back to the previous level, that is a pretty tough question
+ because the game left the store on the 18th of December and we're right now pretty much
+ in June, I just made it first right now. So, honestly speaking, I mean, it would be unheard
+ though, to go back to the level of sales from the month of the launch, you know, six months
+ six months post I mean I think that's as much as I should go in the details here
+ But it would be unrealistic to assume that we're going to go back to the December level
+ of sales with any kind of marketing, really, when it comes to marketing support of coming
+ back to the PlayStation, I would not really expect it when that happens, if that happens
+ And it's announced we would probably run some sort of, you know, information campaign that
+ a game is available but that's pretty much it. Nothing bombastic so to say.
+ Oh, I'm sorry, and there's the next question.
+ There was next question.
+ of the loadable content to CP.
+ I'm assuming this is about the expansions, so the bigger ones.
+ Expansions, when we were talking about expansions, what we meant was something similar to not
+ in wine or hearts of stone.
+ for the bigger expansions for the wishes of these expansions for Cyberpunk would be definitely
+ pay, they would not be for free.
+ I hope that helps.
+ Yeah, thank you
+ Thank you.
+ It appears there are no further questions at this time.
+ time.
+ Thank you. So now we have a section to answer the questions asked on chat.
+ So I'll read them and then we'll answer.
+ The first two are from Konrad Krasovsky, Bloomberg News.
+ first.
+ the percentage of employees or programmers still working on the improvement on the side
+ the part and the second and what are you seeing recently on employees chat.
+ So as I said, on cyberpunk there are still around 300 people, and in terms of Chan, the
+ The year after release is a natural year of higher chance, so we don't see anything unexpected
+ or surprises. That's the only thing I can say.
+ All right, the next question from Piotr Wopaciuk, PKLBP.
+ Do you observe significant increase and play turn over after paying out of the annual bonuses?
+ I will just answer this question.
+ The next from Lukasz Kosciarski, P.K.L.
+ How many large patches do you plan to release in the next two or three months?
+ That's tricky because actually our patches are larger, some are smaller, but we used to call smaller one hotfixes.
+ I wasn't very fortunate because the nature of Fox Fix is different than the national
+ Thank you.
+ So...
+ so from now on any update will be called patch and if there will be any hot fixes
+ So, so fix is needed after the patch is deployed, then we'll call them up fixes.
+ In terms of number, I don't want to pre-announce things which are not announced yet.
+ we were prepared just to say that the next patch, not the biggest one, I mean rather smaller
+ will be launched in the next couple of weeks. It's almost ready. But of course we are working
+ on the future patches as well.
+ to add some color in it, the first series of patches were mostly focused on low-level
+ technical areas, not only of course, we are fixing glitches and bugs as well, but we're
+ focused on stability, performance and so on and because those things were to our opinion
+ the most important and then we will be more and more into improving things without promising
+ anything, but the course of action will change a bit, so we'll be more focused on pushing
+ the perceived quality further.
+ The next question from Albert Trohitzky, long-term.
+ What is the percentage of sales of CP 277 through GOG.com?
+ Sorry, ah, we can't share it actually, we never shared this kind of internal information
+ And so we can have any color in it.
+ The next from Michał Wojciechowski and Popema Securities.
+ Hello, could you comment on the number of workers of CD Projekt and your targets for
+ employment for the end of 2021 and 2022. We have targets but they are not reviewed so we are of
+ Of course, we are...

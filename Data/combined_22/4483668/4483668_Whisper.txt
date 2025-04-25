@@ -1,0 +1,647 @@
+ Good morning, ladies and gentlemen. Welcome to the ATS Automation Third Quarter Conference call and webcast.
+ This call is being recorded on February 2nd, 2022 at 8.30 a.m. Eastern Time.
+ Following the presentation, we will conduct a question-and-answer session.
+ Instructions will be provided at that time for you to queue up for questions.
+ If anyone has difficulty during the conference, please press star.
+ followed by zero for operator assistance at any time.
+ I will now turn the call over to Stuart McQuagg, Vice President, General Counsel, ATS.
+ Thanks operator, and good morning everyone. Your main host today are Andrew Heider, Chief
+ Executive Officer of ATS and Ryan McLeod, Chief Financial Officer.
+ We note that our remarks today are accompanied by a slide deck displayed on the screen in
+ the webcast, and which is also available, including for those joining by phone, at atsautomation.com.
+ We caution that the statements made on the webcast and call may contain forward-looking
+ information and our cautionary statement regarding such information, including the material
+ factors that could cause actual results to differ materially from the statement and the
+ material factors or assumptions applied in making the statements are detailed on slide
+ to of the slide deck.
+ Now it's my pleasure to turn the call over to Andrew.
+ Thank you, Stuart. Good morning, ladies and gentlemen, and thank you for joining us.
+ We're pleased to report another strong quarter for ATS, featuring order bookings, order backlog,
+ revenue records and adjusted EBIT margin expansion. Although the pandemic and supply
+ chain disruptions created a challenging and fluid business environment, organic revenue
+ growth was robust, knew the acquired businesses performed a plan, and we completed two acquisitions.
+ SP Industries expands our capabilities and offerings throughout the life cycle of pharmaceutical
+ development.
+ The CF enhances our offerings and a septic fill finish.
+ I will update you on our business and then Ryan will provide his financial report.
+ Starting with our value drivers.
+ Q3 revenues were $547 million, up 48% from Q3 last year.
+ Driven by a combination of acquired businesses and strength across our core operations.
+ organically
+ Revenues grew 22% year-by-year.
+ a positive result that was augmented by the pandemic impact on Q3 revenues in the prior
+ year.
+ Q3 order bookings were a record $671 million.
+ up 54% year-to-year.
+ CFT, Biodot, and SB contributed approximately two-thirds of order bookings growth versus
+ this is last year.
+ Bookings were strong across most market verticals.
+ with large customer rewards and consumer products
+ and transportation.
+ Our adjusted EBIT margin for the quarter was 12.9 percent.
+ representing margin expansion of over 100 basis points from Q3 of last year.
+ moving to our outlook.
+ Our backlog grew to a record $1.5 billion at the end of the quarter, providing us with
+ a solid base of business and good revenue visibility. The pandemic situation remains
+ fluid and we continue to work with our customers and employees to manage the
+ challenges, including newly imposed travel restrictions and certain jurisdictions and
+ supply chain interruptions. Despite the challenges, our teams have done an excellent job to ensure
+ customer needs are met.
+ By market, conditions remain positive in life sciences with good activity in our key sectors of medical devices, pharma, and radiopharma.
+ Today, our funnel is comprised of more traditional, non-COVID-related opportunities.
+ In EV, we continue to see robust activity levels with rapid growth in the battery assembly
+ we market. We won several mandates during the quarter, including a large award from
+ a repeat customer.
+ As our customers experience new complexities from evolving battery technologies, our long
+ track record and proven expertise in the battery assembly and test space.
+ Position ATS as a trusted partner.
+ In food and beverage, our order funnel remains strong
+ strong, with opportunities and food processing leading the way.
+ consumer, we're seeing continued activity in warehouse automation.
+ In energy, the market for automated tools and related services for nuclear refurbishment
+ is expanding. The decommissioning market also continues to evolve and we see
+ prospects in both North America and globally.
+ Also, emerging opportunities in isotope production
+ and small modular reactor markets, as well as grid batteries.
+ On services, order bookings crew, both year-to-year and sequentially.
+ Utilization and expansion of our regional service network coupled with the use of digital support tools have improved our ability to support our customers.
+ In turn, our customers continue to embrace our digital services platform.
+ We see opportunities to expand our aftermarket services footprint and add to our digital
+ capabilities.
+ Operationally, we faced a challenging business environment, resulting from global supply
+ chain issues.
+ the pandemic. We've experienced some supplier lead time extensions and our team has completed
+ several related problem-solving events.
+ These challenges are likely to persist in the near term.
+ To summarize our outlook, this quarter included record-order bookings, record-order backlog,
+ and a robust funnel.
+ were encouraged by recent activity levels.
+ However, global supply chain and labor market dynamics
+ represented challenge and uncertainty.
+ The situation is actively monitored and countermeasures implemented wherever possible.
+ Moving to the ABM, our continuous improvement playbook.
+ This was another busy quarter with continued emphasis on improving our value drivers, both
+ both operationally and commercially.
+ Our linear motion business held the Kaizen to remove waste from a critical assembly process.
+ The kaizen resulted in a 50% reduction in floor space, lower inventory requirements,
+ and a 20% improvement in cycle time.
+ a life sciences division held a kaizen
+ on their spur parts order processing.
+ through collaborative efforts.
+ They were able to improve efficiency by 50 percent.
+ our services business.
+ Call the Joint Kaizen with a customer to define requirements for a turnkey training, execution,
+ and spare parts management program.
+ These joint efforts are a great way
+ to provide value to our customers.
+ while also strengthening our relationships.
+ We continue to employ our global virtual ABM bootcamps
+ on the back of similar successful events in preceding quarters.
+ The camp runs over a six-week period and combines self-paced learning and real-time
+ and discussions with ABM leaders.
+ This modified virtual format enables us to continue scaling our training and demonstrates
+ how businesses across ATS use the ABM to drive tangible results on M&A, acquisitions, and strategic
+ core markets continue to be an important compliment to H.S.'s organic growth.
+ We're in the quarter.
+ those two acquisitions, SB being the largest in HTS history.
+ SP is a designer and manufacturer of high-grade biopharma processing equipment.
+ Life Sciences Equipment and Lab Apparatus Products.
+ SP expands our life sciences capabilities and offerings through the addition of its
+ aseptic and non-aseptic lial portfolio.
+ Notably, the combination of ATS and SP will allow us to better support the needs of our
+ customers throughout the life cycle of pharmaceutical development and production.
+ action.
+ point capital to these latest acquisitions, our balance sheet remains strong.
+ We will continue to cultivate and evaluate acquisition opportunities consistent with
+ our proven strategy.
+ Of course, timing of acquisitions will be variable, and our approach to playing our
+ balance sheet will be disciplined and strategic, as will the integrations at
+ follow.
+ Of note, we continue to make progress in the integration
+ of previous acquisitions, including CFT, which was acquired last March, BioDOT, acquired in June,
+ NNCC, which joined in September at BioDOT, Administrative Tasks, associated with the
+ integration are largely complete, and our efforts are focused on continuing to deploy
+ the ABM Playbook.
+ At CFT, we continue to roll out the ATS business model.
+ Focus on opportunities to further synergies in our supply chains and cost structures and
+ completed several ABM activities. These included standard work events, a raw
+ material problem-solving event, and a communication kaizen, which drove increased awareness and
+ engagement across the business.
+ At HES, our innovation activities are ongoing, as they form part of our expand strategy.
+ In the past quarter, we have completed a number of projects and initiatives that have resulted
+ in the launch of a new high-speed debug camera.
+ GMP testing, and certification of our SuperTrack Pharma product, and the development of a new
+ energy management software program that will enable customers to track and reduce their
+ carbon footprint.
+ We're pleased that our acquired company are also innovators.
+ But the recent Chicago Process S Expo, our NCC business won the Innovation Award for
+ the sanitary design of the NCC Side Drive Conveyance System.
+ We have filed a patent for this system, which is multiple applications, including raw and
+ package food products.
+ Congratulations to the whole NCC team.
+ Well done.
+ in summary.
+ The results of the quarter and year-to-date demonstrate the strength and resiliency of
+ of our business.
+ and portfolio offerings.
+ Record order booking activity reflects the alignment we have with our customers in providing
+ the best in class solutions.
+ Going forward, we are unwavering in our commitment to protecting and engaging our employees,
+ Serving our customers well, and creating value for our shareholders.
+ We will execute on these priorities through the application of the AVM Playbook with the
+ goal of driving continuous improvement in our performance. Our record order
+ backlog provides good revenue visibility, while the healthy balance sheet enables
+ pursuit of organic growth and strategic M&A opportunities.
+ Our objective is to build a great ATS business, and we're making progress every day towards
+ our collective goal.
+ Now, I will turn the call over to Ryan.
+ Ryan, over to you.
+ Thank you, Andrew, and good morning, ladies and gentlemen.
+ This morning, I will provide an overview of our Q3 operating results
+ that featured growth and revenues both year-over-year and sequentially.
+ Adjust the EBIT margin expansion, and record order bookings and backlog.
+ I will then review our balance sheet, which we have deployed strategically to expand our
+ customer capabilities and earnings potential.
+ starting with the operating results.
+ Bookings were $671 million, up 54% compared to Q3 last year.
+ Organic growth in bookings was 18%, partially offset by a 5% headwind from foreign exchange
+ translation.
+ Organic growth came from transportation as a result of new and follow-on work in EV.
+ energy markets, due to follow-on work, and consumer products, due to a large customer
+ program one during the quarter.
+ Acquisitions contributed 41% growth in order bookings, with the majority coming in food
+ and beverage due to several new programs booked by our CFT businesses.
+ On a trailing 12-month basis, our book-to-bill ratio was 1.15 to 1, positioning as well
+ for continued organic revenue growth.
+ Moving to revenues, our Q3 top line increased 48% over Q3 last year.
+ Organic growth was 22% due to higher order backlog entering the quarter, as well as year-over-year
+ growth in service and parts revenues.
+ foreign exchange was a 5% head when compared to Q3 last year.
+ Acquired companies added 31% to revenue growth,
+ with CFT and SP, the primary contributors.
+ due to seasonality and as expected, CFT revenues were lower in comparison to Q2.
+ Going forward, CFT revenues were lower in comparison to Q2.
+ CFT is well positioned with a healthy order backlog following a very strong order bookings
+ results in Q3. Our Q3 ending backlog of $1.5 billion was 50% higher than Q3 last year.
+ forward, our revenue conversion for Q4 is estimated to be in the 35-40% range of order
+ backlog.
+ designer, this estimate is based on revenue expectations for both the execution of projects
+ from backlog and work that will be booked and billed within the quarter.
+ Moving to margins, Q3 gross margin included $5.1 million of cost related to the fair value
+ adjustment of inventories acquired through acquisition activity.
+ Using this adjustment, Q3's adjusted gross margin with 29.8%.
+ 200 basis points higher than the comparable period a year ago.
+ Higher gross margin reflected operating efficiencies from a strong project execution.
+ improvements in the cost structure of our core business through previous reorganizations,
+ service revenues and other continuous improvement efforts achieved by deploying our AVF.
+ and supply chain have led to increased lead times, and in some cases, increases in cost
+ in our supply base.
+ This has not had a material impact on our profitability.
+ Our teams have implemented countermeasures, including advancing order timing and securing
+ alternative sources of supply to mitigate inflationary pressures and lengthening lead
+ times.
+ Then with these countermeasures, supply chain pressures remain dynamic and will continue
+ to...
+ present a challenge to our mitigation efforts going forward.
+ Moving to SG&A, expenses were $43.6 million higher than Q3 last year.
+ This year's costs included $16.7 million of acquisition-related amortization and $6.3
+ million dollars of acquisition-related transaction costs. Excluding these items in both periods,
+ SQ3's SG&A with $79.9 million, $25.9 million higher than last year, reflecting incremental
+ less GNA costs from acquired companies, primarily CFT,
+ bio.nsp.
+ Third quarter stock compensation expense was $12.7 million, up from $4.9 million last year.
+ Q3 adjusted earnings from operations were 70.4 million or 12.9 percent compared to 43.8
+ million or 11.8% last year. The increase in margin reflected efficiency
+ gains made in our cost structure to effectively implemented reorganizations, improved program
+ execution and increased after-sale service revenues compared to a year ago.
+ Including acquisitions, our core business operated with a 14.3% adjusted earnings from operations
+ marked, top 250 basis points over Q3 last year.
+ Adjusted earnings margins from our acquired businesses were 7.4 percent.
+ As expected, we saw a sequential reduction in earnings at Biodot as business volumes normalized
+ following a period of higher demand for COVID-related products.
+ As expected, CFT operated at a low single-digit even margin in the third quarter.
+ actions to improve the cost structure of the business, and drive savings through supply
+ 18th synergies are underway and on track.
+ In the quarter, supply chain savings were partially offset by increased costs of materials
+ such as stainless steel.
+ We are confident that the ongoing deployment
+ of the ABM at CFT, including core tools such as daily visual
+ management, problem-solving in Kaizen events,
+ will drive improvements in the business.
+ As previously announced, we also took action
+ to reorganize certain CFT subsidiaries,
+ including closing two facilities and consolidating product lines.
+ These actions will drive cost efficiencies in line with their plan and bring focus to
+ areas with a stronger value proposition. Restructuring costs of $4.2 million were incurred in the third
+ quarter.
+ integration of
+ .
+ SP and DF are in the early stages.
+ Our teams are working to achieve identified synergies
+ between our pharma businesses, including ATS Life Sciences,
+ coma chair, and now with the addition of SP and DF.
+ Q3 adjusted EPS was $0.52 per share compared to $0.30 per share last year.
+ The increase is primarily attributable to growth in revenues and improved operating
+ margins.
+ Moving to the balance sheet.
+ In Q3, we generated cash from operations of $82.1 million, up from $78.9 million last
+ on growth in revenues and operating margins.
+ Our non-cash working capital as a percentage of revenue remained low at 6.3% in Q3.
+ slightly from 6% in Q2 and well within our target of maintaining working
+ capital as a percentage of revenues below 15%.
+ We invested $11.3 million in COPEX and intangible assets in Q3 compared to $7 million in Q3
+ last year.
+ Their investments primarily related to the expansion and improvement of facilities and
+ investments in IT. On leverage, our December
+ ...
+ Remember, net debt to adjusted EBITDA ratio was 3.1 to 1 as we drew on our revolving
+ credit facility to fund the acquisition of SP in Q3.
+ As we have said previously, we are willing to temporarily increase our leverage for the
+ right of...
+ opportunities.
+ On a pro-forma basis, including the trailing 12-month EBITDAW contributions of acquired
+ businesses, our net debt to adjusted EBITDA ratio was approximately 2.6 to 1.
+ We ended the quarter with $200 million of cash and availability on our credit facilities
+ of approximately 171 million.
+ going forward.
+ We're focused on maintaining our strong balance sheet and flexibility in our financing to
+ to continue supporting our growth strategies.
+ In summary, strong growth continued in Q3, including record quarterly revenues, bookings,
+ and backlog.
+ and we pursued margin expansion with good results.
+ These accomplishments reflected organic growth on planned contributions from our newly acquired
+ businesses and the ongoing application of our ABM playbook.
+ Our global teams have demonstrated strong performance
+ in challenging business conditions.
+ as we continue to deliver value to our customers and shareholders.
+ Now we will open the call to questions from our analysts. Operator, could you please provide instructions?
+ Thank you.
+ Ladies and gentlemen, we will now conduct a question and answer session.
+ to allow as many voices to be heard as possible.
+ please limit yourself to two questions per turn.
+ If you have a question, please press the star followed by the one on your touchstone phone.
+ your questions be pulled in the order they received.
+ Please ensure you leave the handset if you're using a speakerphone before pressing any keys.
+ moment please for your first question.
+ The first question comes from Charlene Rappborn with GD Securities.
+ Please go ahead.
+ Thanks very much and good morning.
+ Andrew, as we think about your M&A agenda, after a very busy 12 months, can you give
+ us...
+ a sense of how much white space is left in life sciences for you and where your areas
+ of...
+ focus will be going forward.
+ Yeah, good, good, good morning, Sherlyn.
+ So, we'll walk through first, really pleased with the progress we've made here.
+ And as we continue to build out our focus on key markets, key areas, we've also increased
+ It's what we view as the potential.
+ So our funnel was healthy and remains healthy in this space.
+ And there are multiple areas we like as you're well aware.
+ one is in life sciences and even with the addition of SP, not only do we view biopharma
+ is having additional opportunity.
+ When we look at their life sciences equipment space,
+ It opens up new niche markets that we view
+ have potential for ATS in the future.
+ A couple items to highlight, our balance sheet remains strong, but secondly, the cultivation
+ activity that we do today, often times will pay off two years from now.
+ So when we look at our strategic layout and our strategic structure, we're constantly
+ focused on how to ensure that we build those relationships.
+ we put us in a position that when an available target
+ becomes available, HTS can win.
+ and as you're well aware
+ We look at niche applications
+ that are leaders in their spaces.
+ leaders in technology that we can bring together and really provide solutions for our customers.
+ customers.
+ Great.
+ That's a great color.
+ And then for Ryan, your backlog conversion has been above guidance for the last several
+ quarters and I was hoping you could help us understand that. Is that because they're
+ are now certain short-cycle revenues that aren't factored into the backlog conversion
+ or is the company just continuing
+ to exceed its own expectations for backlog conversion.
+ Um, yeah, good morning, Sharon. So, so I'll start this is something that we do look at every quarter and we base the estimate on what is in our backlog or expectations and specifically to your question, we have added fast returning businesses.
+ So SP, as an example, is a quick-returning business.
+ Other projects are generally shorter cycle than the core ATS business, they also have
+ of the lab wearing glassware business, which is a faster turning business.
+ In this quarter we were a bit higher than that 35 to 40% range.
+ Just over half of that, just over 1%, was related to SP,
+ which was not part of our business
+ when we provided that range last quarter.
+ So, in the short term, we are dealing with supply chain headwinds.
+ who's been an uptick in employee absenteeism related to COVID.
+ And so that's led us to keep that rate
+ in that 35 to 40% range.
+ over time, again, to your question,
+ given the addition of more products, technologies,
+ our growth and services.
+ We may see this rate increase, but in today's environment,
+ our outlook is in that 35 to 40% range.
+ Okay, that makes a lot of sense.
+ Thank you.
+ for me.
+ Thank you. Your next question comes from Mark Neville with Scotia Bank. Please go ahead.
+ Hey, good morning guys. Excuse me. Yeah, another great quarter. I guess just on the supply chain presses
+ Again, you're calling yourself longer lead time, labor, et cetera.
+ I guess I'm just curious, sort of incrementally,
+ if things gotten materially worse or not.
+ Because, again, we're not really seeing it in the numbers,
+ just trying to sort of gauge what it means for the next quarter. Yeah, good morning Mark. I'll start
+ than Ryan, feel free to jump in if there's areas you want to add.
+ We have, and I'll just walk through this quickly, we've really launched our view of the ADM around this,
+ And it's something we call daily visual management.
+ effectively what you're doing is you're looking at every business every site every
+ area on a daily basis and you know better green do you have an issue or not and if you
+ you have an issue, how do you then resolve that issue and drive?
+ And so we know from not only from a regional, from a site specific area, at my level, across
+ the enterprise. I can pull it weekly. I can pull it daily if needed. What's going on in
+ our supply chain and what do we really need to drive to assess and so quite
+ quite candidly, it has gotten worse. And quite candidly, you know, it is a, it is a challenge
+ today, one that we're planning for for the remainder of the calendar year.
+ Now there's different opinions on when that will come back to normal, but our view is
+ has been, tactically, how do we drive impact here?
+ How do we minimize the impact?
+ Additionally, how do we set ourselves up for success
+ in the long term.
+ And so,
+ Well, candidly, it has increased.
+ Our team continues to perform.
+ It is an area that we are very focused on and we're identifying short-term and mid-term
+ countermeasures on a daily basis to ensure that we stay ahead of any challenges, whether
+ it's supply chain or general inflation.
+ To know that that's helpful and I guess to follow up sort of on Carolyn's question is to round back on conversion again like
+ This, your guidance would sort of capture the supply chain issues, and again, sort of
+ anything that you might book and burn in the court?
+ Because again, it does feel like, structurally,
+ the business has become sort of a higher for conversion
+ businesses with recent imminent.
+ Yeah, so, again, that's a fair comment, and I won't rehash the whole discussion.
+ But, as I said, as we've had more products, technology services, and SP is a shorter cycle
+ business and it has more products. I do expect that the rate will continue to increase, but
+ Yeah, in today's environment, it's, you know, as Andrew just said, it's very dynamic.
+ There's headwinds in supply chain.
+ had ones still related to COVID and the resurgence there. So, you know, we're being prudent in this,
+ And, you know, I think that's appropriate.
+ If you're going to ask a second question, just an M&A, just a two-part question, are we sequentially
+ contribution was down quarter over quarter, and I'm guessing that's bio.
+ And then second question, I mean, you've got that base shelf perspective, so go maybe
+ just...
+ comments and sort of your thoughts around having that available.
+ I think that's doable.
+ Yeah, so on bio.yes correct it is it was down in revenues and that that was
+ expected, as I said, might prepare comments.
+ That business had quite a strong COVID tailwind related to a couple of products that they
+ offer. And we did expect that to normalize. It did happen in the quarter, and the business
+ This is really a team line with expectations, but the reality is it's still ahead of our
+ expectations in terms of its performance.
+ So we're very pleased there.
+ Your second question, I think, was on the base shell filing.
+ So we really look at this as a tool.
+ And what has helped us be successful in M&A over the past couple of years is having
+ flexibility and the ability to get a deal done, in particular, without financing conditions.
+ And from a seller's perspective, that takes a lot of risk out of the process.
+ And so, as we're looking forward, we've talked about our growth strategy, M&A is a big part
+ that we want to have, continue to have financial flexibility and having this
+ to pay shelf in place is an important part of that flexibility going forward.
+ Got it.
+ Thank you.
+ Next question comes from David Ocampo with Cormac Securities, please go ahead.
+ Good morning, everyone.
+ Ryan, last quarter, you provided it, I guess,
+ organic operating margins for the base business since there's a lot of moving
+ parts in the quarter as it relates to, you know, acquisitions as well as supply chain
+ I was just wondering where your base operating margins are right now.
+ Yeah.
+ So I did mention this in my prepared remarks,
+ But we are in the mid-14% range.
+ So, 14.3%.
+ We were actually down slightly.
+ We were 14-4 in the prior sequential quarter.
+ And the headwind there was related to stock comp.
+ So it was about a 30 to 40 basis point impact on our core margins, our gross margin and
+ and operating margins were both at excludings.com.
+ And the acquisitions were in the high single digit range, seven and a half percent.
+ I talked through the different components there, but just to reiterate, so CFT has historically
+ We've been at a low single-digit EBIT margin, and they continue to be in line there, so
+ We've made progress to some of the day one costs
+ that we expected have come out.
+ We've had some early wins in supply chain now.
+ Now, again, there's other areas in supply chain, for example, commodities, and I mentioned
+ ...
+ stainless steel.
+ We're a large consumer of that, and that's an area where we do have more of a challenge
+ offset, those cost increases.
+ So they're performing to plan.
+ the restructuring we announced will further help with their cost in operating efficiencies.
+ the other big piece of our acquisition margins with Biodot.
+ and I talked about that's been a very strong performer
+ for us, really driven by some of those COVID tailwinds, and we did see that, as I said,
+ normalize in the quarter and so their margin they're still a creative to to
+ were overall margins, but they did come down relative to Q2.
+ And you guys did note that product sales is becoming a bigger piece of your business
+ here in the release, but I was just curious, what's the split now between internal equipment
+ versus third-party equipment that you guys are using
+ for, I guess, the entirety of your sales.
+ So it hasn't really changed.
+ it's still in that 40% range, which is typically where it's been.
+ It ranges a little bit, 40 to 45, but it's still not 40% range.
+ That's 40% internal run.
+ Uh, yes, correct.
+ And do you guys have a target on where that David, sorry, I misunderstood your question. That's 40% is third party
+ party equipment.
+ Okay. Okay, thank you.
+ Thank you. Ladies and gentlemen, as a reminder, should you have any questions, please press star one.
+ Your next question comes from Justin Keywood with Stiefel GMB.
+ please go ahead.
+ All right, good morning.
+ Thanks for taking my call and nice to see the continued strength in the business.
+ On the organic growth, it was strong again at 21.5 percent.
+ I'm wondering if we just take a step back
+ And if you could describe some of the factors
+ driving that organic growth across the different segments
+ and how you see organic growth playing out
+ in the near term and medium term.
+ You know, sure. Good morning, Justin.
+ No, so I'll characterize this at the top level, but I'll go into specifics.
+ So if we look at the markets, we generally state the markets are favorable and good.
+ And then we look at our funnel, as I mentioned, our funnel remains solid.
+ I then, you know, would be remiss to not add in the operating environment, which we would
+ say is challenging.
+ And we would say not only, you know, from a supply chain, but also when you look at
+ the pandemic impact.
+ So it is a challenging environment,
+ but our teams continue to perform and continue to drive.
+ Then if I step into each segment,
+ And I did talk a bit about this in the preparatory remarks,
+ but to add a little additional color.
+ No life sciences, when we look at this area,
+ It's largely comprised of non-COVID opportunities now.
+ And, you know, things do get a little bit blurry in that,
+ you know, vaccine roll out, and as we get more biopharma,
+ more pharma, it really does impact whether it's out
+ new drugs and new discoveries, but that market, you know, call it year-to-date growth is roughly
+ 15%, this quarter was a little more impacted by some delays in elective surgeries, and
+ And so we did see some impact this quarter, but as we look at our year-to-date number,
+ we see...
+ We still see this as a solid market and one that provides opportunities for the future.
+ funnel remains healthy here.
+ NEB.
+ But we're seeing activity continue to pick up.
+ And we booked a large award within the quarter.
+ and we continue to work with the new customer in Europe.
+ And, you know, as you look at the stricter emissions and you look at the focus on driving
+ in this and in that sector in that space,
+ We do view that we are positioned well
+ to help our customers through that.
+ And we do view this as an area that we can continue to support and drive growth within
+ our solution set, within our technology, within our value, within the market.
+ consumer, we saw good activity in warehouse automation, and we are seeing some pickup
+ up in the cosmetic space. As a matter of fact, I recently visited a customer in this area
+ And it's fascinating because this customer specifically walked through their model, their
+ business with me where they're impacted by a reduced sunscreen because of the limited
+ travel, but yet their home care products have skyrocketed and skyrocketed to them was a
+ a big number, but I don't reference what that number is.
+ And so we have seen that market start to come back and we have seen, you know, the funnel
+ really aligned with that.
+ And then, you know, to round this out,
+ food business, you know, when we think about primary processing, you know, and think tomato
+ to initial processing from vine to puree was a solid quarter and we are seeing a bit of
+ an uptick there and a favorable set up for the harvest season that's coming up.
+ You know, I mentioned this in the announcement, in the update, you know, this continues to
+ to be a strong market for us.
+ continues to be an area that we view we can offer high value
+ for our customer base.
+ We'll continue to look at it.
+ at opportunities to expand a niche application
+ to ensure that it's high value in the markets we serve.
+ And lastly, boy, you know, our services team
+ continues to execute.
+ And if you look at, you know, versus prior quarter and year
+ every year, the growth that they've seen.
+ You know it's this is an interesting one and one to highlight where even in my tenure here
+ that this has gone from a nice to have
+ to a strategic imperative for our customers,
+ where when they came to us in the beginning,
+ as well do you have services and what can you offer in going through now it's
+ Because of the pandemic, because of the supply change disruptions, because of, you know, machine
+ dependency and or turnover they're looking at our services organization as a
+ as a key enabler.
+ And so when companies and customers in, say the UK,
+ went down and when I locked down,
+ ATS could still execute.
+ HHS could still provide that value
+ because we launched digital tools
+ because we had the regional service network.
+ And so I truly think this has been an enabler for us to keep driving share and driving that
+ value for our customers and so overall I would say to get back to my initial point, generally
+ favorable on the market, positive, and our funnel remains healthy and aligned around
+ but the operating environment is challenging.
+ Thank you.
+ full context and get to hear the new EV customer win in Europe.
+ Based on the services growth that you mentioned, what was that in the quarter and just to provide
+ some context, if we look at aftermarket services as a percentage of sales, what was that prior
+ to the pandemic or a couple of years ago, what is it today and what would be the long-term
+ target for that area.
+ So, in terms of after-sales services as a percentage of revenues,
+ but it's mid to high teens today, so it's been in the,
+ And while it's growing, the rest of our business is growing too, so it's had to keep up, which
+ it has, you know, a few years ago, and I don't have the data in front of me, but we went
+ back four or five years, it would have been in the low teens, maybe 10, 12%.
+ So its growth has outpaced the equipment side of the business,
+ which we view as very positive and much for the reasons
+ that Andrew just outlined.
+ blind.
+ And one other item that I would just want to highlight as well is the growth in our
+ digital solutions around whether it's Illuminate
+ or what PA is doing in their business to really provide,
+ not only data collection, but then utilizing the data
+ to then bring back in a solution set
+ that helps customers improve their process.
+ And so we have seen that be a real,
+ call it bright spot and growth, but it's still relatively small across the, you know, the
+ total business but we do view that as an area of growth for our organization and one we
+ We can help our customers as they navigate this time.
+ helpful. Thank you for taking my questions.
+ Thank you. Your next question comes from Maxime Chichiv with National Bank. Please go ahead.
+ Hi, good morning, gentlemen.
+ Good morning, Max.
+ Maureen.
+ Andrew, maybe just the first question for you in terms of, you know, how we think about
+ about MNA and the timing of it, how do you balance that dynamic with, obviously, the
+ need to properly integrate, especially SP, which was a pretty sizable transaction.
+ So, do you mind me just walking us through your thought process there?
+ Yeah, and Max, there's no perfect dancer here.
+ What I can walk you through is we've developed an integration playbook.
+ It's very standard around how we operate
+ how we walk into businesses and, you know, as you are well aware, when we look at an
+ acquisition we have four criteria and you know it's markets it's strategic
+ to brush an hour.
+ One of them is the management assessment,
+ and their ability to rely on around the ABM.
+ So we do assess that going in, and then ultimately in the early days of the integration you start
+ to align around where they are in their journey and where do we need to press, where do we
+ need to, you know, help in that solution set.
+ So we have a very good indication
+ when we acquire a business of where they are
+ on that journey and where we can help.
+ And so what I can tell you is we have built out our capability and our ability within
+ our leadership team to be able to align and and continue to build out their
+ portfolio of solutions.
+ We are selective in what we are going to add, and we look at it from a value creation perspective
+ both from a shareholder and a customer perspective from what we can offer, whether it's technology
+ or solutions, and as you're well aware, the cultivation activity, while, you know, I will
+ We'll say it often.
+ Oftentimes, we'll play out two, three, four years from now,
+ And so we are not slowing down this activity.
+ we do view that there's a lot of opportunity
+ for us to continue to add here.
+ but we're gonna be extremely disciplined.
+ And so, to answer your question head on,
+ we have built our capability among our team.
+ We certainly are taking and ensuring
+ that we have a key focus on SP to execute,
+ to ensure that they meet and exceed our expectations.
+ And then lastly, we're not slowing down our cultivation
+ And we're going to continue in the areas that we view are going to add value over the long term for ATS.
+ Okay, that makes a lot of sense. Thank you for that. And then just one quick follow-up on on SP
+ In terms of the ability to cross out their consumables business, do you mind maybe just
+ Providing some data points there because my understanding is that I think most of the sales process there is going through distributors
+ And I'm just curious to see how you think about sort of leveraging that potential business
+ to the rest of the ATS if it's possible.
+ So, some action.
+ You know, I think just to confirm, you're asking about the lab work, glassware business.
+ Exactly. Yeah, yeah.
+ Yes, so we certainly, you know, we did a lot of diligence to understand the space and the stickiness with their, you know, Bellard portfolio as well as the other areas within that space.
+ You know, we view this as a business that, you know,
+ What, low single digits?
+ It's a market that has consistent continued revenue.
+ And when we think about the consistency there,
+ It's one we like from a standpoint of there.
+ We don't want to call it consumable,
+ but they're reoccurring revenue.
+ and their approach around the brand being a strong brand
+ strong brand in the markets they serve.
+ And so it does go through distribution.
+ It's an area that we certainly see, you know, value in continuing to help them execute their
+ plan.
+ Does it help sell biopharma processing equipment?
+ We think it's a potential adder, but it would not draw that total processing equipment
+ in.
+ We would be
+ Thank you.
+ with ComaChair, to Idosi Techno, to Hall,
+ as really being the thesis and the alignment
+ and the biopharma processing piece.
+ And then, you know, to run this out, we've got Genevac and Life Sciences Equipment, and
+ ...
+ TS and there's a lot to like around those areas of what we can have from an ATS, Coma
+ co-chair SP integration to offer that full process solution,
+ solution, whether it's biopharma or pharma processing.
+ Okay, that's helpful. Thank you so much. That's it for me
+ Operator.
+ Well, we will conclude and, you know, if I step back, we're pleased with the performance
+ this quarter, and recognize the hard work and dedication of our teams across
+ across HTS that made this possible.
+ Thank you for joining us.
+ I look forward to speaking to you on our Q4 call in May.
+ Stay safe and goodbye for now.

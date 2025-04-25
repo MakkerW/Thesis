@@ -1,0 +1,79 @@
+ Hello, and welcome to our Q1 2017 Financial Result Conference call.
+ Joining us today to answer your questions is Brian Olsofsky, our CFO.
+ As you listen to today's conference call, we encourage you to have our press release
+ in front of you, which includes our financial results, as well as metrics and commentary
+ on the quarter.
+ please note, unless otherwise stated,
+ All comparisons in this call will be against our results
+ for the comparable period of 2016.
+ Our comments and responses to your questions reflect management's views as of today, April 27th, 2017 only.
+ and will include forward-looking statements.
+ Actual results may differ materially.
+ Additional information about factors that could potentially impact our financial results
+ is included in today's press release
+ and our filings with the SEC, including
+ in our most recent annual report on Form 10K,
+ and subsequent filings.
+ During this call, we may discuss certain non-gap financial measures.
+ in our press release, slides accompanying this webcast,
+ and our filings with the SEC, each of which
+ is posted on our IR website.
+ you will find additional disclosures regarding these non-gap measures, including
+ reconciliations of these measures with comparable gap measures.
+ Our guidance incorporates the order trends that we've seen to date and what we believe
+ today to be appropriate assumptions.
+ Our results are inherently unpredictable and may be materially affected by many factors,
+ including fluctuations in foreign exchange rates,
+ changes in global economic conditions and customer spending, world event, the
+ the rate of growth of the internet, online commerce, and cloud services, and the various
+ factors detailed in our filings with the SEC.
+ Our guidance also assumes, among other things, that we don't conclude any additional business
+ acquisitions, investments, restructurings, or legal settlements.
+ it's not possible to accurately predict demand for our goods
+ services and therefore our actual results could differ materially from our guidance.
+ Before moving to Q&A, I would like to draw attention to a new accounting rule that we
+ implemented in Q1.
+ The new rule requires excess tax benefits from stock-based compensation to be presented
+ as an operating activity in the consolidated statements of cash flows.
+ We retrospectively adjusted our consolidated statements of cash flows to reclassify excess
+ tax benefits from financing activities to operating activities.
+ And as a result, you will see an increase in our free cash flow measures for prior periods.
+ Additionally, beginning January 1, 2017, the excess tax benefit or deficiency for stock
+ based compensation is recognized as a component of tax expense rather than equity.
+ This change resulted in a decrease to our tax expense for the quarter, and a corresponding
+ increase to our net income and earnings per share.
+ Specific changes are presented in the footnotes to the consolidated statement of cash flows
+ and related metrics provided in our press release.
+ Further disclosure of the impact of the adoption of this accounting change can be found in
+ in our Form 10 queue.
+ With that, we'll move to Q&A.
+ Operator, please remind our listeners how to initiate a question.
+ At this time, we will now open up the call for questions.
+ In the interest of time, we ask that you limit yourself to one question.
+ If you'd like to ask a question.
+ Yeah, under deferred revenue balances, as you said,
+ the past, the primary drivers of that increase are both the activity that we're seeing with
+ with our AWS customers and the purchase of reserved instances
+ and prepaid credits for their account,
+ as well as prime member purchases.
+ We're not breaking out the specific growth rates for Prime, but certainly we like what
+ see in terms of the growth, and it's been consistent with what we've seen over the
+ the last quarter or so.
+ Certainly the part of that increase in deferred balances
+ is related to reserved instances as customers get more comfortable and begin to put more
+ sustained workloads into the AWS services through buying our eyes.
+ able to get fairly significant discounts on their usage.
+ So we like that model, customers certainly like that model, and collecting that through deferred revenue
+ and then letting customers use that over time.
+ Hi, I Jason. This is Darren. Yeah, you know we a number of quarters back
+ started breaking out stock-based compensation by segment.
+ And now we've collapsed that in our up-income by segment.
+ So it's definitely in there.
+ You know, we do provide some disclosure by PNL line item on a consolidated basis, you
+ It helps you identify that stock-based compensation expense in total, and you'll see the trend
+ analysis in the metrics in the back of the pressure.
+ Thank you for joining us on our call today and for your questions.
+ A replay will be available on our Investor Relations website at least through the end
+ of the quarter.
+ We appreciate your interest in Amazon.com.
+ I look forward to talking with you again next quarter.

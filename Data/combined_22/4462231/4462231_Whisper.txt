@@ -1,0 +1,641 @@
+ Good day and welcome to the Texas Instruments Q3-2021 Earnings Release Conference Call.
+ Today's conference is being recorded.
+ At this time, I would like to turn the conference over to Dave Paul.
+ Please go ahead.
+ Good afternoon and thank you for joining our third quarter 2021 earnings conference call for any of you who missed the release
+ you can find it on our website at ti.com slash IR.
+ This call is being broadcast live over the web
+ and can be accessed through our website.
+ A replay will be available through the web.
+ This call will include forward-looking statements that involve risks and uncertainties that
+ That could cause TI's results to differ materially from management's current expectations.
+ We encourage you to consider this as an example of how you can do this in the future.
+ I encourage you to review the notice regarding forward-looking statements contained in the
+ earnings release published today, as well as TI's most recent SEC filings for a more
+ complete description.
+ Our chief...
+ financial officer Rafael Lizardi is with me today and we'll provide the following updates.
+ I'll start with a quick overview of the quarter.
+ Next, I'll provide insight into third quarter revenue results with some details of what
+ We're seeing in respect to the customers and markets.
+ and I'll also provide details by end market,
+ including some sequential performance,
+ as we have the last few quarters.
+ As sequential data begins to be less insightful,
+ will move back to reporting only year over year
+ per our normal practice.
+ And lastly, Rafael will cover the financial results.
+ an update of our capacity expansion plans,
+ and our guidance for fourth quarter, 2021.
+ Starting with a quick overview of the quarter.
+ The revenue in the quarter was $4.6 billion, an increase of 1% sequentially and 22% year-over-year,
+ driven by demand in industrial, automotive, and personal electronics.
+ on a sequential basis.
+ Analog group 2% and embedded processing declined 5%.
+ On a year-over-year basis, analog revenue grew 24 percent and embedded processing grew 13 percent.
+ Our other segment grew 19% from the year ago quarter.
+ Now let me comment on the current environment to provide some context of what we're seeing
+ with our customers and markets.
+ Overall, the quarter came in generally, as we expected, across product segments and markets and geographies.
+ Lead times for the majority of our products remain stable, but hot spots continue to exist.
+ However, customers are becoming more selective in their expedite requests, focusing on products
+ that complete a matched set rather than expediting products across the board.
+ This behavior is not specific to any product family and market or geography.
+ Discussions with customers confirm a high-level interest in our commitment to
+ expanding our internal manufacturing capacity roadmap, including 300 millimeter
+ way for FABs, RFAB-2 and Lehigh are what we call LFAB and the associated assembly
+ test expansions.
+ these investments to strengthen our manufacturing and technology
+ competitive advantage will provide lower costs and greater control of our supply chain.
+ And while there is a growing recognition that the near-term supply-demand imbalance will
+ and at some point, the secular growth of semiconductor content per system will continue
+ to grow, and this requires a robust manufacturing capacity roadmap for 2025 and beyond.
+ Moving on, I'll provide some insight into our third quarter revenue by end market.
+ First, the industrial market was down mid-single digits sequentially and up about 40 percent
+ from the year ago.
+ The changes, both sequentially and from the year ago, were generally consistent across
+ the diverse set of sectors.
+ The automotive market, again, grew sequentially and was up more than 20% from the year ago.
+ When comparing to pre-pandemic levels of Q4 2019, revenue is up almost 30%.
+ Personal electronics grew low double digits sequentially and was up low double digits compared to a year ago.
+ The strength, sequentially, and the year ago was due to mobile phones, PC notebooks, and
+ tablets.
+ Next, communications equipment was down mid-single digits sequentially and was down upper teens
+ from a year ago. Enterprise systems grew sequentially and from the year ago quarter. Rafael will
+ We'll now review profitability, capital management, and our outlook.
+ Thanks, Dave, and good afternoon, everyone.
+ As Dave mentioned, third quarter revenue was $4.6 billion, up 22% from a year ago.
+ Most profit in the quarter was $3.2 billion, or 68% of revenue.
+ a year ago, gross profit margin increased 360 basis points.
+ Operating expenses in the quarter were $800 million, up one person from a year ago and about as expected.
+ On a trailing 12-month basis, operating expenses were 18% of revenue.
+ Over the last 12 months, we have invested $1.6 billion in R&D.
+ Acquisition charges and non-cash expense were $47 million in the third quarter
+ and we'll go to zero, beginning in fourth quarter of 2021.
+ Operating profit was $2.3 billion in the quarter, or 50% of revenue.
+ profit was up 43% from the year ago quarter.
+ That income in the third quarter was $1.9 billion or $2.07 per share.
+ Let me now comment on our capital management results, starting with our cash generation.
+ cash flow from operations was $2.4 billion in the quarter.
+ capital expenditures were $486 million in the quarter.
+ Free cash flow on a trailing 12-month basis was $7.1 billion.
+ In September, we announced we would increase our dividend by 13% effective this month marking
+ in our 18th consecutive year of dividend increases.
+ In the quarter, we paid $942 million in dividends
+ and repurchase $139 million of our stock.
+ In total, we have returned $4.2 billion in the past 12 months.
+ Over the same period, our dividend represented 53 percent of free cash flow, underscoring
+ its sustainability.
+ Our balance sheet remains strong with $9.8 billion of cash and short-term investments
+ at the end of the third quarter.
+ In the quarter, we've issued $1.5 billion of debt
+ in three tranches of $500 million each.
+ The first has a coupon of 1.125%, which is due in five years.
+ The second, a 1.9% due in 10 years.
+ and the last, a 2.7% during 30 years.
+ This resulted in total debt of $7.8 billion.
+ with a weighted average coupon of 2.6%.
+ Regarding inventory, the inventory dollars were up $7 million from the prior quarter,
+ days were 112.
+ up one day sequentially but still below desired levels.
+ For the fourth quarter, we expect TID revenue in the range of $4.22 to $4.58 billion and
+ earnings per share to be in the range of $1.83 to $2.07.
+ The LIHA acquisition closed last Friday, but the costs are not included in our guidance.
+ We will provide those details when we report fourth quarter
+ results.
+ Just as I remind you, this is the end of this video.
+ The purchase price was about $900 million, and we expect ongoing cost of about $75 million per quarter through 2022.
+ We continue to expect to see a significant increase in the number of people in the country.
+ respect our annual operating tax rate for 2021 to be about 14 percent and our effective
+ tax rate to be about 13%.
+ Once you are looking at your models for 2022 without any changes to tax law, we would expect
+ are annual operating and effective tax rates to remain about what they are this year.
+ a similar quarterly profile of discrete tax benefits that are higher in the first quarter
+ compared to the rest of the year.
+ In closing, we continue to invest to strengthen our competitive advantages and in making our
+ our business stronger.
+ investments in our long-term roadmap for capacity expansion, both in L-Fab and R-Fab 2, are
+ great examples.
+ As a reminder, our CAPEX will be higher on an absolute level, as well as a percentage
+ of revenue as we strengthen this advantage.
+ We are working through detailed plans of our long-term roadmap and will have specifics
+ of timing and cap expending in our capital management goal in February.
+ We continue to believe owning and controlling our supply chain will be of growing strategic
+ importance. With that, let me turn it back to Dave. Thanks Rafael. Operator, you can now open
+ the lines up for questions. In order to provide as many of you as possible an
+ an opportunity to ask a question.
+ Please limit yourself to a single question.
+ After our response, we'll provide you an opportunity
+ for an additional follow-up.
+ operator.
+ Thank you.
+ If you would like to ask a question, please signal by pressing star one on your telephone
+ keypad and if you're on speakerphone please make sure your mute function is
+ turned off to allow your signal to reach our equipment.
+ Again, press star 1 to ask a question.
+ We'll pause just a moment.
+ to everyone an opportunity to sign up for questions.
+ And we will go first to John Pitzer of Credit Suisse.
+ Yeah, good afternoon, guys.
+ Thanks for the best question.
+ Dave, I know in this sort of environment,
+ seasonality doesn't make a lot of sense but when you look at the September
+ quarter.
+ I'm just kind of curious that the June quarter came in well above your guidance rain September
+ was well above the midpoint, but still within the guidance range.
+ We're hearing the logistical constraints and supply constraints across the economy.
+ I'm kind of...
+ really curious when you look at sort of the lower level of upside in the September quarter
+ versus the June quarter.
+ To what extent might have there been supply constraints outside of your control?
+ So what extent do you think it's customers just being more selective about what they're
+ pulling from you, any color there would be helpful.
+ Sure John and thanks for the question. Yeah, I really think it depends on the customers the bill of material
+ I think that there are supply constraints that are widely reported across the different
+ components.
+ And as we mentioned in our prepared remarks,
+ the behavior that we're seeing that's different,
+ Our customers are showing up and requesting, you know, we have meetings with them rather
+ than showing up with long lists of devices that they're asking us to expedite, they're
+ really just short list. So they're looking for, you know, particular parts that complete
+ those match sets so that they can complete those builds for them.
+ So it is a different behavior that we're seeing
+ this quarter versus the prior quarters.
+ So, you want to follow on?
+ Yeah, just in the following, I know you're going to give us more color about ELFAB expenses
+ and all that stuff.
+ our fabs expenses as we get into next year.
+ but I'm wondering if you could just help us
+ set the stage a little bit.
+ next year is obviously going to be kind of a capacity buildout year for you.
+ And I guess all else being equal, how should we think about the gross margin impact on
+ on calendar year 22 as you layer in these investments.
+ Yeah, I'll take that one.
+ First, you know, as you know, you've known us for a long time.
+ We don't manage the business to gross margins.
+ We manage for the long-term growth of free cash flow per share.
+ That starts with driving the top line.
+ And that's why we're making these investments, right?
+ to support revenue growth.
+ And as we do that, it's extending our low-cost manufacturing
+ advantage that gives us the great structural cost advantage with 300
+ millimeter.
+ into that, we're controlling the supply chain.
+ And specifically on your question, you know, take R5-2, all in, that's about a six billion
+ $15 expense, about a billion of that is the building which depreciates over 30 years or
+ So the balance of the rest is equipment and we're going to be putting in that
+ equipment starting next year and over the coming years.
+ LFAB, obviously a 900 million purchase price, and some of that is building, some of that
+ equipment and then on top of that we'll put about $3 billion of capex over a
+ number of years as we ramp that up.
+ So, we'll give you additional details on that and the bigger, longer-term picture of how
+ how we're going to support the longer-term growth, we'll give you those details in February
+ at the capital management call.
+ Okay, thank you.
+ Thank you, John, and we'll go to the next caller, please.
+ And we'll go next to Timothy Arcari of UBS.
+ Hi, thanks.
+ Rafael, I was wondering if you could talk about pricing.
+ Obviously, you're seeing some increases in your input costs.
+ Can you talk about whether you're passing those on
+ to customers and sort of how you pick with this,
+ you know, price increases on, you know, your side might be.
+ Yeah, what I would tell you, you know, our strategy in pricing has not changed.
+ We regularly monitor that and our goal is to be competitive and it's really frankly
+ independent of the of the input and the input cost to the large to the the largest degree
+ but our goal is to be competitive and if prices move higher we adjust those over
+ done and we have been adjusting those over time.
+ You have follow-up, Tim?
+ I did, Dave. Thanks.
+ I guess I'll ask the same question that I've asked the last, I think, three calls about
+ share repo. It was pretty low again. I guess, is there a sort of, can you help us think
+ through maybe what the triggers might be for you
+ to start to buy back more stock.
+ Is there a target cash level where maybe you'd say that the balance sheet is getting a little
+ bit overcapitalized and you'd start to buy back more stock, I'm just kind of, you know,
+ Obviously, you're not buying back much, but I'm just kind of wondering if you can talk
+ us through what triggers you might be looking for to start that. Back again, thanks.
+ Yeah.
+ You know, stepping back and just to remind everybody how we think about returns are
+ Our objective is to return all free cash flow to the owners of the company over the long
+ term.
+ I'll see you next time.
+ and buy bag.
+ You look at our 18-year history on that, and it's really consistent.
+ In fact, we've many years, most years, we've averaged well over 100% of return during that
+ time we have, I would remind you, we have increased the proportion of the return that
+ comes into dividends so that also plays into that but you know as long as we
+ think the buybacks that are creative to long-term owners we're gonna have some
+ And as you have seen, as you pointed out, the last three quarters, we have, in fact,
+ they...
+ I don't think there's been a single quarter
+ in the last 18 years or so that we have not purchased a return cash to the owners through
+ to buy back in one form or another.
+ Okay, thank you, Tim, and we'll go to the next caller, please.
+ We'll go next to Harlan Sauer of J.P. Morgan.
+ Good afternoon.
+ Thanks for taking my question.
+ I'm on finished goods inventory, most of which I assume is sitting at customer consignment
+ hubs.
+ This has come down-
+ faster than overall inventory is right.
+ Goods dropped 8% sequentially in Q3, dropped 9% in Q2, they're down 25% from the beginning
+ of this year and down 33% pre-COVID-19 I assume due to the strong demand profile from your direct
+ customers.
+ So, how far below normal are consignment inventories relative to your customer's target levels?
+ And is part of the muted Q4L look to replenish these very low inventories or does the man
+ profile, blog, and forecast actually reflect a sequential decline here in the
+ Yeah, so I'll start, and Dave, you want to chime in after that, but I think where you're
+ going with that...
+ Let me maybe step back.
+ Yeah, obviously inventory levels are below these R levels, right?
+ We're at 112 days.
+ Our target is 130 to 190 days, so clearly we're well below where we want to be.
+ And inside of that, as you pointed out, finished goods, all finished goods, whether it comes
+ Simon or our product distribution centers are the ones that are decreasing most.
+ In fact, even though inventory, total inventory level stayed above flat, slightly up, second
+ the third quarter, finished goods decreased, and then WIP and raw materials increased a
+ a little bit to offset that.
+ So, you know, our goal as soon as capacity increases
+ So there's an adjustment in demand.
+ We will build those inventory levels back up
+ to be at a more healthy level.
+ And given our business model, it's just a great bet, just given the low ups of lessons
+ of our inventory, the diversity of positions, the diversity of products that we can afford,
+ Not only are we gonna afford it,
+ It makes sense for us to build that inventory, have it ready for the secular growth that
+ …
+ that we're confident will happen beyond that.
+ And I think maybe tactical where you are going on consignment inventory, frankly, those tend
+ And to be pretty lean to begin with, that's how that process is designed to just keep
+ a couple of weeks, so I wouldn't expect that by itself to build significantly purely
+ consignment where I would expect the bill to happen if more of our product distribution
+ centers.
+ And that gives us more flexibility to then ship where the demand is most needed.
+ Yeah.
+ Do you have...
+ Yeah.
+ I think that's well said.
+ And I think it's just tactically where we, whether we keep it in our hubs where we would
+ prefer it or, you know, if we push it out to a consignment center that will just be
+ reflective of our expectation that a customer will pull it so that's just a
+ a tactical decision.
+ I'd also point out that, as you said, Rafael, we do plan to bring on more capacity incrementally
+ as we have each quarter through this year and through the middle of next year and in
+ And the back half of 2022, RFAB-2 will come online, and then that will be followed by
+ by Elfab, Spencer's Raphael pointed out.
+ We did close on that factory on Friday of last week, and so that is on target to come
+ online in early 2023 to support growth in the future.
+ So did you have a power, Harlan?
+ Yeah, thanks, I appreciate the insightful answer.
+ So exiting last year, the direct business
+ would.
+ includes consignment.
+ That was about 65% of revenues.
+ Where does that mix roughly sit today?
+ And did the team drive a positive book-to-book ratio
+ if you could maybe quantify?
+ So on the book to bill we we don't think that's that's relevant frankly and Matthew
+ haven't disclosed that in a while, and we're not disclosing that anymore.
+ On your first question, I think you asked percent of our revenue from consignment, right?
+ I didn't quite...
+ That's the first part.
+ Yes, Garden.
+ Just repeat it so we make sure we got it right, but you're asking the first question.
+ Arvin, are you there?
+ Yeah, I think
+ What is this?
+ Oh, direct business.
+ Yeah, so we left last year with about two-thirds of our revenues direct, so we expected that
+ percentage will increase over time, you know, we'll provide an update of what
+ what we've done with that this year in our February call.
+ a cat management call in February of actually what that looks like.
+ But just to say over time that we do expect that that will move up, you know, slightly
+ over time.
+ So, and just the other color with Rafael talking about book the bill, as we've got a lot of
+ our revenue on consignment, we've got ti.com, you know, the actual backlog isn't quite
+ as meaningful as what it used to be.
+ So as he said, it's just not a number that we look at
+ measure or we've talked about in some time, so it isn't quite as helpful as what it used to be.
+ So, thank you, Harlan, and we'll go to the next caller, please.
+ And we'll go next to Stacey Raskin of Bernstein Research.
+ Hey guys, thanks for taking my questions for the first one. I wanted to ask you about the near term micron impact
+ I know you said $75 million in cost impact in the model next year.
+ Let's go.
+ Don't go away, right?
+ That's $75 million a quarter is people, correct?
+ and doesn't include duplicates or anything else,
+ because people don't have to think about that,
+ like what that incremental cost long term.
+ Very good.
+ is a good direct question.
+ So yes, that $75 million is mainly people and direct costs, not depreciation.
+ Depreciation will not start until about first quarter of 23 when we start a production just
+ the way the rules work on that front.
+ and that seventy five million
+ that might, we're still working through the details,
+ but we currently believe that,
+ The most likely scenario is that most of that cost will go through the restructuring charges
+ slash other line, until we start production, right?
+ And then at that point, the majority of the cost would go to the COR line.
+ Now...
+ And the cost actually do increase over time as we increase production, right?
+ I think where you're going is that as that happens,
+ and those costs are then absorbed by revenue, right?
+ Now, how quickly those are absorbed beyond the utilization, et cetera, that just depends
+ how quickly we've ramped that factory, right, you know, clearly, at the beginning, they'll
+ there won't be 100% absorption and we'll get to that at some point.
+ But we'll, you know, we're not going to, you know, that's, that's in 2023.
+ So we'll get to that at some point to give you to give you some details and and in February the capital management call
+ So I think we'll frame it, kind of the bigger picture of that along with our other capex
+ investments and you get a better sense of how that's going to play out.
+ If I want space
+ And it looks like Stacy has disconnected
+ Okay.
+ All right.
+ Okay.
+ If you have a follow-on, let us know.
+ Stacy, we'll go to the next caller, please.
+ And we'll go next to Ross Seymour of Deutsche Bank.
+ Thanks for letting me ask you a question.
+ Dave and Raphael, I want to talk about the corgi reported and get into some of the supplied
+ demand dynamics it was the smallest beat to your original revenue guidance you
+ you guys have had in a year and I realize that it's been exceedingly volatile in the
+ last year, but I wondered, was that the demand profile changing from those investors that
+ selectivity changing that you're talking about, or did supply play a role in that where you
+ You just couldn't meet up to the demand.
+ Just trying to get what really changed versus whatever level of conservatism you had built
+ into the prior quarters when you beat by bigger deltas?
+ Yeah, I think you said demand from investors.
+ I think you meant to say demand from customers, right, Ron?
+ Yes, sorry about that.
+ Yeah, yeah, no, that's okay.
+ Certainly, if any investors want to buy semiconductors from us, we'll be happy to sell them.
+ But yeah, so I just say that overall, the quarter came in as we expected it to, right?
+ And that's a statement, you know, as we said, in the prepared remarks,
+ And we looked across geographies and products and product groups.
+ and markets, you know, those types of cuts.
+ So there wasn't like one area that was underperformed or outperformed what we were expecting.
+ But, again, the main thing of what was different this quarter versus the last quarter was really
+ where customers were coming in and requesting expedites and upsides from us.
+ And those upsides were much, much more narrow and focused just on a few products.
+ So that was really what the difference was.
+ if you're looking for, you know,
+ what was different this quarter versus last quarter
+ and those types of things.
+ That's what I would point to to say what's changed in the last 90 days.
+ Thanks for the help on that. And I guess this is my follow-up, a similarly toned question.
+ You mentioned that lead times remain extended but are stable,
+ and then you talked about that whole selectivity dynamic.
+ What would you imagine would change the lead times?
+ Is it going to be your supply incrementally rising or more so with Lehigh?
+ Is the selectivity something, as you guys look back in our students of cycles, is the
+ the demand side and that selectivity side more likely to impact the lead times going
+ forward?
+ Well, it is.
+ Well, as you know, you've been through many cycles with us, right?
+ it's always a combination of both.
+ And, you know, we will and continue to add the incremental capacity as we have planned
+ for, you know, some time.
+ and certainly as we go out in time
+ as we get the bigger tranches of capacity coming on
+ with our FAB-2 and then LFAB,
+ we'll be able to make more progress on that front.
+ And at some point, you know, we know that, you know,
+ things will change from a demand standpoint.
+ And so we don't spend time trying to predict that,
+ but we'll be ready for it.
+ We know what we'll want to do, and, you know, Rafael talked about, but, you know, one of
+ the top things there is we'll want to rebuild inventory to prepare for the next time that
+ the demand strengthens.
+ So we have a long list of things that we're doing to invest in the company to make it
+ stronger so you know we won't control the timing of that but but we'll be ready
+ ready for and just to emphasize that point right when that adjustment happens
+ whenever that is, we will continue investing in R&D focused on the area
+ the auto and industrial for the secular long-term growth will continue to invest on CAPEX to
+ to set up the company for an extent of 15 years
+ a great long-term roadmap and we will build inventory that's what as Dave
+ mentioned their range is 130 to 190 days frankly will probably end up being at
+ the higher end of that range just because we feel so good about the business model and
+ how good that inventory will be and how it sets us up for the next upturn on the other side given the
+ the long-lived nature of that in the door.
+ That's right.
+ OK.
+ Thank you, Ross, and we'll go to the next caller, please.
+ We'll go next to the Bank of America.
+ Thanks for taking my question.
+ I just want to get the supply side right.
+ are customers not ordering as much from you
+ because they don't have enough from you on the component side,
+ they don't have enough from others that they need to complete their bill of
+ materials.
+ It's both the fact you know there's there there are instances of both of those
+ And sometimes it's not even semiconductors, right?
+ It may be other components that they may be missing.
+ So, yeah, it's a combination of those things, you know, supply chains are complex depends
+ on the bill of materials and the systems that they're building.
+ So it depends.
+ Yeah.
+ And the new ones change.
+ changes, you know, 90 days ago, 180 days ago, they were exploiting everything.
+ almost almost regardless of
+ of matched set position.
+ And now they're more selective in what they're expediting, right?
+ Mm-hmm.
+ Let's follow on to that.
+ Yes.
+ Thank you.
+ If you talk specifically to the automotive market, you know, this year it's clear the
+ production has not been that strong, but auto semiconductor sales have been pretty strong.
+ So as it applies to TI, what do you think
+ has been kind of the interplay between content and mix,
+ or do you think that there is perhaps inventory stuck
+ in the automotive supply chain somewhere
+ that we should watch out for.
+ Yeah, I you know I'll comment on automotive. I think I'll even extend it into industrial and
+ and those are two markets that we have long talked about
+ that we believe that there is content growth
+ in those markets, content per system,
+ It's easy to see in cars.
+ and well reported on.
+ I know, Vick, in your reports that you've reported on that,
+ the content growth, you can see it in automotive.
+ that's happening in an industrial across 13 different sectors,
+ harder to see and you know we invest in all the markets but we have a strategic
+ focused on automotive and industrial so you're beginning to see some of the
+ benefits of those that strategic bias that we have, our channel advantages, the
+ breadth of our products advantages in those markets as well.
+ So there's components of that, but that said, any time that we have supply shortages in
+ in the industry, customer behavior is always very consistent.
+ And that behavior is that they will
+ want to build inventory to protect themselves.
+ So, you know, whether they've already begun that
+ or have already done that, they certainly will want to do that.
+ And at some point, they'll have too much product.
+ and that's what creates the cycles in our industry.
+ So, you know, it won't surprise us if the cycle, you know,
+ comes to an end at some point, we'll be prepared for that
+ and we'll know what we'll want to do at that point.
+ So thank you for those questions,
+ And we'll go to the next caller, please.
+ We'll go to Joe Moore of Morgan Stanley.
+ Great, thank you.
+ I wonder if you could talk to the hotspots.
+ Is there any particular pattern that's driving which products you have in short supply of
+ And it seems like, you know, we see it most in areas
+ like enterprise and some of the personal electronics, you know,
+ higher volume stuff, is that something that you guys would agree with and do you think
+ it is it you know is there more foundry versus internal fads like is there anything that
+ particular driving those hotspots.
+ Yeah, I wouldn't put it down on any one thing, Joe.
+ And certainly, you know, there's reports of the tightness across boundaries, so obviously
+ we see that as well. So, there's tightness in some lead frames. So, you know, we see
+ see that as well.
+ other input, you know, raw materials, mold pound pounds, we have, you know, testers in
+ some cases, some process technologies, some particular products themselves that have a
+ large number of customers.
+ So, in those hotspots move around is our operations themes will sometimes move capacity from one
+ area to the other, so they're not always consistent or persistent.
+ Sometimes they are, but sometimes they're not, and there's things that we can do to
+ ...
+ to mitigate those or actually completely alleviate them.
+ So, and that's why as we describe them, you know, it's not just one particular product
+ area or one particular product set that even one particular market or even I'd say even
+ particular customer that would be impacted by that, that you may say.
+ And just to...
+ To highlight something for new listeners, they mentioned the foundry is only about 20%
+ of our wafers come from foundries.
+ The vast majority, 80% and growing with our investments in 300 millimeter are internal
+ wafers and that just gives us a much better control of our destiny and for
+ all the reasons they mentioned, and then the local structural
+ low cost that we get with 300 millimeter.
+ Yeah, I think that makes it especially clear why we believe that continues to be a strategic
+ you can advantage for sometimes like this.
+ So you have a follow on it, Joe?
+ Yeah, I wonder also, with the hotspots,
+ There's a situation where you can't respond to upside in demand and that's why it's tight
+ or are there actual areas where, you know, I know there's always a little bit of this,
+ but on a broad scale where you're not meeting kind of commitments that you had made because
+ of some of those things that are upstream from you?
+ I think there's a lot of things that are upstream from you.
+ There's probably both of those that exist.
+ I mean, at 112 days of inventory, it is harder to respond to upsides than if we were at,
+ You know, 150, 160, 190 days, of course, so, yeah.
+ Yep.
+ sure.
+ Okay, well, thank you, Joe.
+ We'll go to the next caller, please.
+ And our next question comes from Christine Lee of Citi.
+ Oh, hey, thanks, guys.
+ So Dave Raphael, you mentioned that the lead times
+ haven't really changed, but the expedites are getting better or less bad.
+ How do you think that is?
+ Do you think that your competitors are reducing lead times?
+ think that the supply chain has had a little bit of a chance to build some buffer inventory,
+ How do you think the situation is getting, I guess, either better or less bad?
+ Yeah.
+ Chris, I think that's a great question.
+ I don't know that we know the answer specifically to that question, so I think we're trying
+ to stick to the facts of, we can observe that behavior change.
+ I think you're offering some good theories of why that behavior may be changing.
+ But, you know, what we're trying to do is to stick to the facts of what's going on.
+ There's, you know, multiple reasons why it might be changing and we'd rather not venture
+ into, you know, guessing or predicting or, you know, calling, you know, what's driving
+ that behavior.
+ So, you have a follow-on?
+ Yeah, I guess you can leave the guessing and predicting up to a cell ciders
+ Since you guys don't talk about gross margin, but you do talk about free cash flow margin,
+ margin.
+ I think you're at an all-time high in free cash flow margin in Q3.
+ And it looks like there's some headwinds coming down the pike in the, I guess, near-to-medium
+ Is there any reason for us to believe that, you know,
+ You know, you've seen your all-time peak in free cash flow margin, or eventually could
+ to get back above where it was in the most recent quarter.
+ First, I'll take that, Chris, and Chris, you know us very well.
+ You follow us for a long time.
+ You know we do not manage to free cash flow margin percent, right?
+ is not what drives a long-term value for the owners,
+ is the long-term growth of free cash flow dollars, right?
+ And to your point, there are some headwinds on that
+ with the CAPEX that we're talking about
+ to serve the company well for the future.
+ But of course, we're only doing that
+ because we think that it's gonna drive even faster.
+ growth of the long-term trend of free cash flow dollars.
+ So we'll continue to focus on that because we
+ think that is that is what drives the value for the long-term owners okay
+ Okay, thank you, Chris.
+ we've got time for one more call.
+ And we'll go to Lori Sandberg as well.
+ Yes, thank you for squeezing me and as far as the question on controlling the supply chain you talked about 80% outsourced now
+ Now, I believe that's kind of the more advanced nodes, but should we assume that there's
+ a way to do that?
+ that 80% is just going to grow and that you're going to rely less and less on founders going
+ forward.
+ Yes, I use the
+ We have 80 outsourced, it's 80 insourced, just to make sure.
+ 80 percent.
+ All right, Rafael.
+ Thanks.
+ Yes.
+ Yeah.
+ Yeah, so 80 80 percent our own wafers and
+ Yeah, that should grow over time as we continue to add this way for fabs that we're talking
+ about all on 300 millimeter which with you know the efficiency of 300 millimeter is huge
+ right, because a 300-millimeter wafer accounts for almost 2.3 times a 200-millimeter wafer.
+ And these are pretty large wafers for efficiency purposes.
+ In fact, R5-2 is going to be bigger than R5-1.
+ So, yeah, it's reasonable to deduce that that percent
+ will increase over time.
+ Very good and as a follow-up and and I don't want to steal your thunder from February
+ but in the past you've talked about capacity of 22 billion dollars obviously you're going to go
+ go through capacity expansion here for the next 12, 18 months, would you share any new
+ Any numbers with those?
+ 25, 28, anything at all?
+ Yeah, no, it's a great question.
+ Thanks for the setup for February.
+ We will talk about that in February.
+ So, until then, what I would tell you is, you know,
+ You've heard us talk about Demostix and RF5-1, roughly,
+ That's a potential of about $8 billion of annual revenue
+ on 300 millimeter, then R5-2, and this is all dependent.
+ highly dependent on mix, right?
+ So these are not exact numbers, but R5-2, with that caveat,
+ R5-2 should add another $5 billion of annual revenue,
+ Again, when it's full-week web, right?
+ and obviously not on day one.
+ And Lehigh should add three to four billion
+ of annual revenue.
+ So, you know, we're thinking in terms of that,
+ We're thinking even beyond that, right?
+ because as we look at the company's potential for growth
+ into the next 10 and 15 years, then we're not stopping,
+ and just thinking in the next four or five years,
+ I think in 10, 15 years.
+ And we'll talk about that in February in more detail.
+ That's great.
+ And I think we can go ahead and wrap up Rafael, see you.
+ Bye.
+ Okay, so let me wrap up by rate rating.
+ what we have said previously.
+ at our core, we're engineers, and technologies
+ foundation of our company, but ultimately our objective is to
+ objective and the best metric to measure progress and generate long-term value for owners is
+ the growth of free cash-over-share.
+ While we strive to achieve our objective,
+ we will continue to pursue our three ambitions.
+ We will act like owners.
+ We will own the company for decades.
+ We will adapt and succeed in a world that's ever changing,
+ and we will be a company that we're personally proud
+ to be a part of and would want as our neighbor.
+ When we're successful, employees, customers,
+ communities and owners all benefit.
+ Thank you and have a good evening.
+ And so this concludes today's call.
+ call. Thank you for your participation. You may now disconnect.
+ That's all for today.
+ Thank you so much for watching.
+ I'll see you in the next video.
+ Bye.
+ back.

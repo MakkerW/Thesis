@@ -1,0 +1,797 @@
+ Hello, I would like to thank all of you for joining me today.
+ From now on, we will start the LG Display 2021 4th-gen practical announcement conference call.
+ There is a announcement on the LG display.
+ I'm going to have time to answer your questions.
+ If you have any questions, please press the bell button and press number 1.
+ Then, there will be a announcement from LG Display.
+ Good morning and good evening.
+ First of all, thank you all for joining this conference call.
+ And now we'll begin the conference of the fiscal year 2021 for the quarter earnings
+ results by LG display.
+ This conference will start with a presentation followed by a divisional Q&A session.
+ If you have a question, please press star 1, that is star 1 on your phone during the
+ the Q&A. Now we shall commence the presentation on the fiscal year 2021 fourth quarter earnings
+ results by LG Display.
+ Good morning. This is Brian Ha in charge of LG Display's IR.
+ On behalf of the company, let me thank all the participants at this conference call.
+ Today I am joined by the CFO, Sung Hyun Kim, Hee Hyun Kim, Senior Vice President of Corporate
+ the strategy group.
+ Seungmin Im, Vice President of Corporate Planning.
+ Ki-Yong Lee in charge of business intelligence.
+ Daniel Lee, in charge of large display marketing,
+ Jae Young Kwon, Vice President of Medium Small Display Marketing, and Ki Hwan Son, Vice President
+ of auto marketing.
+ The conference call will be conducted in both Korean and English.
+ Please refer to the Provisional Earnings Release Today or the IR Events section in the
+ companies website for more details on the financial results of Q4 2021.
+ First, before I explain the actual situation,
+ So, we are going to make a presentation on OLED X, a new technology for large OLEDs.
+ Presentation can be viewed through mobile or IT devices through video webcasts and can be checked through IR home page.
+ Before presenting the company's earnings, there will be a presentation on OLED-X, a new technology for large OLED.
+ It can be viewed via mobile devices or a video webcast through an IT device, as well as
+ on the IR website.
+ In about 5 minutes, following the OLED-X announcement, we will proceed in the order of 2021 1-minute
+ The OLED X presentation will last for about five minutes, followed by a briefing on the
+ The technology presentation will be led by Min Kyu-jin in charge of live display promotion.
+ The company's large OLED has been evolving and developing ever since its launch, culminating
+ in the OLED-X technology.
+ This presentation is in English with Korean subtitles at the bottom of the screen.
+ Hi, I want to appreciate all of you for joining us today.
+ I'm Mingyu Jin. I'm Head of Life Display Promotion Division.
+ I'm proud to introduce to you almost in OLED Evolution, OLED EX.
+ Evolutionary experience.
+ DEX and OLED EX embodies our goal of providing customers with an evolved experience through
+ constantly evolving technology.
+ I will introduce to EX Technology, the core of OLED EX, which enables an evolved experience
+ As EX technology improves, product efficiency and brightness by increasing the stability
+ of organic light emitting devices, which are the most important elements in creating great
+ picture quality of OLED. And the two key steps that enable this technology are
+ Our DeTorium and Personalized Algorithms.
+ Vittorium is an element also known as heavy hydrogen, and as the name implies, it is the
+ applies it literally.
+ The uterium has a similar structure to hydrogen, but it has an extra neutron.
+ It is not artificially synthesized.
+ It is a real natural element.
+ However, there is only one item of the tutorial for every 6,000 atoms of hydrogen.
+ We developed a technology to extract nutrients from water to replace hydrogen in existing
+ Oland materials. Our Oland materials maintain their original shape but become more stable
+ through a deuterium substitution process, meaning that they are stronger against electrical
+ stimulation and heat, which means they remain more reliable for longer, even at high brightness.
+ In the end, we developed the highly stable devices that emit brighter light.
+ Using deuterium, OLED-ES can realize a higher level of natural brightness and detail, similar
+ at what we see in real life.
+ The second key to ES technology is personalized algorithms.
+ We use personalized algorithms to control,
+ or less brightness and enhanced performance.
+ by predicting usage for each device.
+ according to viewing patterns of each user.
+ My open display place is I Want to travel to after the pandemic on my OLED TV.
+ This is one of them.
+ It is an area of
+ .
+ you up.
+ prismatic spring, a huge hot spring in Yellowstone National Park in the US.
+ He looks almost like the symbolizing doesn't he?
+ Some days, I leave this scene for a long time, and the blue subpixels on my OLED TV are of
+ of course used a lot for the blue part.
+ The green parts use mostly green pixels, and as you can guess, the red parts use mostly
+ less pixels.
+ This is where our personalized algorithm technology comes into play, intelligently predicting
+ usage and optimizing each W, R, G and B element to maintain stable use.
+ These personalized algorithms combined with tutorials we just talked about give our all
+ panels their strengths.
+ With eX technology, our OS has evolved to become stronger than ever, with 30% increased brightness,
+ and natural colors reproduced with greater detail.
+ Or let ES decrease details accurately the way content creators intended.
+ Design is also no exception when it comes to the evolution of OLED-EX.
+ OLED EX introduces a new bezel that's about 30% thinner than before, making this the most
+ aesthetically pleasing design of any existing OLED.
+ to innovate evolution a step further to satisfy the most
+ demanding consumers. Without making any compromises, there is less image quality or slim design.
+ We can sum up all that ex's philosophy of evolution with the words great detail, meaning
+ detailed innovation to bring our customers perfect picture quality.
+ The reason why we bet on and focus the ten years of technical expertise on developing the detail is simple,
+ because every detailed innovation results in the details in the contents our customers experience.
+ This is not only important for highly-affiliated makers and other professionals.
+ It's also very important for everyone who wants to capture, get immersed in, and feel
+ every last detail.
+ OLED-EX panels with EX technology will be used in all of our OLED TV panels from the second
+ color of 2022, and we will continue to showcase new innovative products with
+ pursuing natural reality, the philosophy that guides us.
+ Create or let EX.
+ We will bring our customers
+ evolve the experience with OLED and show
+ evolved leadership in the global lab market.
+ Thank you.
+ Thank you for watching.
+ Now, please read the disclaimer before the official release of the document.
+ Thank you for your attention.
+ Please note that today's results are based on consolidated IFRS standards prepared for
+ your benefit and have not yet been audited by an outside auditor.
+ Thanks for watching.
+ Please subscribe and like.
+ I will give you a summary of the 2016 budget for the KIFRS.
+ The company has revised the system based on the same solution,
+ There has been a revision to the KIFRS No. 1016 on property, plant, and equipment.
+ In applying the revision, the company modified how we account for prototypes that are sold
+ during a plant's test operation.
+ In the past,� 시험과장에서 생산된 재화위 순 메가끔액을
+ 유형자산 치득 원가로 차감하였으나
+ 계정 기준을 반영할 경우,
+ It used to be that the net selling price of the goods produced during the test operation
+ would be deducted as PPE as the acquisition cost, but with the amendment, the cost has
+ has to be recognized as profit or loss.
+ Early application of the amendment has caused some changes from our earnings in 2020.
+ With that said, we will now start with the presentation on Q4 2021 earnings result.
+ Let me start off with our business performance in Q4.
+ Revenue in Q4 was 8.881 trillion won.
+ It was driven by the higher share of large and mediums and small OLED, an increase in
+ IT panel shipment following the business structure upgrade.
+ It was the highest ever for a quarter.
+ up 22% QOQ and up 18% YOY.
+ The English version of the English version was recorded at LCDP's TV panel Pankaharaksae Jisong.
+ The year-end and the year-end cost-effectiveness were 10% less than the previous year.
+ 4,760 million won was recorded.
+ Operating profit was 476 billion won.
+ It was down 10 percent QOQ due to continued decline in LCD TV panel price and year-end
+ one-off costs.
+ In terms of actual performance, excluding the one of factors, it was in line with market
+ expectation.
+ 4.
+ 2.
+ 5 percent.
+ 11.
+ 19 percent.
+ Operating profit margin in Q4 was 5%, with EBITDA margin at 19%.
+ net profit was 180 billion won.
+ Let me now go over our business performance for the year.
+ The sales of 2021 is $2,898,780,000, and $2,310,000,000 in English.
+ The revenue in 2020 has been greatly improved, including the increase in business structure and the improvement of the maximum sales of the next generation.
+ Revenue in 2021 was 29.878 trillion won and operating profit was 2.231 trillion won.
+ Revenue was the highest ever, while profitability was also considerably improved, thanks to
+ to the turnaround in OLED and upgrade in our business structure.
+ Next, Chura-Mit-Myeonjeok-Dang-Pang-Ka-Chu-im.
+ area shipment in Q4 was 9.36 million square meters, increasing 12 percent from the previous
+ quarter.
+ IT panel shipment remained solid, and large OLED panel shipment grew on the back of strong demand for high-end TV.
+ small OLED.
+ The company's production capacity in Q4 decreased 3% QOQ, owing to line adjustment to prepare
+ for new models and additional allocation to R&D.
+ Next is Q4 Revenue Breakdown by Product Segment.
+ At the moment, the IT-based panel, which has increased its competitiveness, records 42% of the output cost, and is keeping it stable.
+ TV was an increase in the release of the OLED panel,
+ but with the influence of the evaluation of the LCD TV panel,
+ We recorded 27% of the overall score, which was 5% lower than that of the previous season.
+ Mobile mid-gita boomerun P.O. led smartphone mid-wearable
+ ID panels are stand out among competition, but maintain the biggest portion at 42%.
+ TV panels came in next with 27 percent, down 5 percentage points QOQ, despite higher shipment
+ of large OLED due to declining LCD TV panel price.
+ Mobile and others accounted for 31%, up 8 percentage points QOQ, thanks to growth and
+ of POLED smartphones and wearables.
+ Next is the company's financial position and ratios.
+ The company's cash and cash equivalent at the end of Q4 was 4.3 trillion won.
+ Inventory was 3.35 trillion won, decreasing by 230 billion won QoQ.
+ The inventory is kept at a high level because of safety and supply costs,
+ The inventory is kept at a higher level than usual.
+ as a safety stock to prepare against supply chain uncertainties, such as commodities and
+ logistics issues.
+ That concludes today's session.
+ Thank you for your time today and we'll see you next time.
+ The main property ratio is the property ratio of 158%
+ In the end of 2020, 20% points were reduced, and the reduction in the number of points has been significantly reduced.
+ Liabilities to equity ratio was 158% and current ratio was 94%.
+ both almost flat QoQ.
+ net debt to equity ratio came in at 57% improved by 6 percentage points qoq it was down 20 percentage
+ points while why showing meaningful improvement in financial soundness.
+ 다음은 현금 흐름입니다.
+ The basic cash price of 4 trillion won is 2.9 billion won, and it will increase to 750 billion won.
+ Kimal cash is 4,850,000,000 won.
+ Next is cash flow.
+ The company's cash and cash equivalent at the start of Q4 was 4.209 Jul.1.
+ It increased by 75 billion won and stood at 4.285 trillion won at the end of Q4.
+ Next is presentation by the company's new CFP CEO, Kim Sung-hyun.
+ The next is presentation by the company's new CFO, Sunghyun Kim, on business performance
+ and strategy.
+ Hello.
+ Good afternoon and good evening to shareholders, investors, and analysts from home and abroad.
+ This is LG Display's CFO, Kim Sanghyun.
+ This is LG Display's CFO, Sung Hyun Kim.
+ Last year, in charge of the gold in the LG display, the CFO played a new role.
+ I went from being in charge of finance to CFO last year, and I greet you for the first
+ time today through this conference call.
+ It is also burdensome to see a new vision for the creation of the fingers in the strategic field that the party needs to advance in the business environment,
+ but in the past few years, we have been working hard to advance in the strategic field to prepare for the future of the company.
+ As the new CFO, I feel the responsibility of having to deliver on the company's strategic
+ tasks under an increasingly volatile business environment with the persistent pandemic and
+ intensifying competition, but I also harbor expectations of new opportunities as we see
+ We are a strategic push in the past few years to upgrade the business structure and better
+ prepare for the future, bear fruit.
+ I feel a sense of responsibility to be in charge of the important watch and the CF,
+ CFO to balance between the opportunity and the risk.
+ So with a sense of heavy responsibility, being the CFO at such a critical juncture, I will
+ They will play an active role in improving corporate performance while balancing opportunities
+ and risks.
+ With that, now let me move on to the guidance for Q1 2022 as well as the company's business
+ strategy.
+ First is Q1 guidance.
+ In Q1, area shipment will decline by mid-to-high single-digit QoQ.
+ By the end of this year, it is expected that it will be released on TV.
+ But the pace of seasonal decline will not be as much as in other years, although shipment
+ of panels of all sizes is expected to fall due to seasonality.
+ IT panel continues to enjoy B2B demand coming from the increasing trend of work-from-home
+ online education, and general changes in the office environment.
+ environment.
+ On the other hand, due to seasonal impacts on the area, mobile-use panels are being
+ added.
+ But area price is expected to fall by mid-to-high-teen-digit QOQ due to seasonal decline in shipment
+ of mobile panel.
+ Next is operational strategy for each business.
+ More importantly, OLED is now at a stage where it can produce substantive results.
+ Last year, the TV set market increased by 10% compared to 10% in the first half of the history, and the OLED TV set sales increased by more than 60% and increased the entire high-end TV market.
+ According to this, the high-end TV market has increased by 30% compared to last year,
+ OLD TV's peak rate was 30% compared to last year's 4Q.
+ Thank you.
+ That's the end of this video.
+ Thank you.
+ I'll see you guys in the next video.
+ Although the TV set market saw negative growth of over 10% last year, sales of OLED TV set
+ grew over 60%.
+ driving the expansion in the overall high-end TV market.
+ The high-end TV market grew at a 30 percent level, while why?
+ OLED TVs share in this market, surpassing 30 percent as of Q4 last year.
+ The energy level has increased by more than 70% over the previous year.
+ The company's performance is basically the same as the first day.
+ In the end, it reached the BEP level.
+ The growth rate of the last year has increased by more than 20% and is aiming to increase the annual growth rate.
+ the company will be able to expand the food supply to a higher level.
+ Small Shipman recorded a remarkable growth of more than 70% Y-O-Y, and the business
+ turned around to profit in the second half of last year.
+ here.
+ reaching the BEP level for the ear.
+ Continuing from last year, shipment growth for this year is planned at 20 percent for
+ of the year.
+ We also plan to keep improving profitability based on the stronger business performance.
+ In the case of Jun Seo-young this year, he has secured a stable operation on the development and health side of the Yangsan Provincial Bank.
+ Based on the relationship with the strategic deal, the company entered a stable path.
+ In the long-term, we would like to further improve the performance of the previous year through the expansion of the lower-end model.
+ In the case of small and medium OLED,
+ In the case of small and medium OLEDs, we became capable of ensuring consistency in
+ in development, mass production, and quality.
+ It is now in a stable growth path based on stronger relations with strategic partners.
+ In mobile business, we aim to further improve profitability
+ by expanding new models in the second half.
+ We will leverage our unique competitiveness to broaden outside the mobile preempt medium
+ sized OLED premium market and expand to the mobility industry, including automobiles.
+ The LCD sector also achieved outstanding results by proactively responding to market changes.
+ In LCD, we are maintaining the select and focus approach centered on high-end IT, in line
+ with our strategic positioning.
+ This year is expected to be the year of the COVID-19 pandemic.
+ This year is expected to see demand adjustment after COVID-19.
+ We are trying to expand the stability of the business, and for this purpose, the company is gradually increasing the cost of the supply business, which is greatly affected by market situation.
+ The company continues to secure the safety of the company.
+ The company continues to secure stability in business operation by minimizing volatility.
+ We are gradually reducing the portion of supply-demand businesses that are highly susceptible
+ to market conditions while increasing the businesses that can produce consistent results
+ in strategic collaboration with customers.
+ and the future preparation point,
+ with the basis of OER1R,
+ to expand the area of existing products
+ going further, anchored on OLED, we will continue to expand our business to deliver new experience
+ and values to customers going beyond existing product areas.
+ years.
+ Last is our investment and financial management activities.
+ Last year, the KPEX received 3.2 trillion won, and in 2022, the middle-sized OLED investment, which was decided last year, will be announced for a long time.
+ This is expected to increase in the near future.
+ CapEx last year was 3.2 trillion won.
+ It is expected to increase this year as we go ahead with the investment in small and
+ medium OLED that was decided last year.
+ The company will keep to the principle of keeping capex with an EBITDA while trying
+ to improve our financial soundness.
+ Thanks.
+ The secret company announced a policy that can be implemented in the future by the government.
+ In the year 2021-2023, 20% of the total number of people in the United Nations
+ In order to maintain the delivery volume of 20% of the connection sequence,
+ The company announced today a predictable and sustainable midterm dividend policy with
+ the view to improve shareholder value.
+ We will maintain a dividend payout ratio of 20% of the consolidated net profit from
+ the business years of 2021 to 2023.
+ Accordingly, the BOD today decided on 651 per share in cash dividend for the 2021 business
+ year.
+ The company will keep looking for ways to improve shareholder value from a long-term perspective.
+ perspective.
+ In the long-term pandemic situation, the economy has increased its capacity to change the outside environment,
+ and risk reduction, and the security of public sector.
+ pandemic lingers, we will bolster our responsiveness to the external environment to minimize risk
+ and ensure stability in business operations.
+ In order to increase the reliability of the market and to create a higher value,
+ We will spare no effort to continuously heighten market confidence and create higher values.
+ Thank you.
+ That's all for the 4th quarter of 2021.
+ Next, let's move on to the question-and-answer session.
+ That brings us to the end of earnings presentation for Q4 2021.
+ We will now take questions.
+ I'll start with the question.
+ If you have any questions, please press the bell button and press number 1.
+ If you want to cancel the question, you can press the star button and number 2.
+ Now, Q&A session will begin.
+ Please press star one, that is star and one, if you have any questions.
+ Questions will be taken.
+ According to the order, you have pressed the number star 1.
+ For cancellation, please press star 2 that is star 2 on your phone.
+ In order to allow as many Q&A chances as possible within the restricted time, we would
+ I appreciate only two questions for each participant.
+ The first question will be provided by Hyun Suk Kim from HANA Financial Investments.
+ Please go ahead with your question.
+ Yes, hello. Thank you for the question.
+ My name is Daewong Oledi and I will ask questions related to LCD.
+ I'm curious about the 21-year process and the direction of the 22-year process.
+ I wonder if there will be any changes in the last 21 years and 22 years that have been mentioned.
+ It would have predicted that the number of금은 수익성은 21년의 어느 정도 수익성이었는지 알고.
+ And I would like to ask you to tell us how much you expect in 2022.
+ And this is the LCD panel.
+ The LCD panel is now in the month of July.
+ As you know, 30 and 40 inches of steel are being used to stop the steel from falling down.
+ So, I would like to ask you how you feel about this project and how you feel about this project.
+ and the IT sector as well.
+ I've been calling from last month.
+ and how the IT-based panel prices are going to affect the market.
+ Now, I have two questions, one on large OLED and another on LCD.
+ now first about the large OLED so what was the performance in 2021 and the
+ outlook for 2022. So, are there any differences between the guidance last time
+ about the 2021 performance and the expected shipment in 2022 and also what
+ or is the profitability for these business division?
+ So for 2021, and also the outlook for 2022.
+ And the second question is on LCD.
+ So the LCD panel price has been falling for the seventh month now, but then we are also
+ So now seeing some signs of the price decline stopping for 30 inch and 40 inch LCD panels.
+ And what is the panel price outlook for LCD this year?
+ So for IT, we see that the IT LCD panel price also started to decline last month.
+ So what is the price outlook for IT panel this year?
+ First, I would like to ask about the first question about OLED.
+ Now, regarding the first question about the large OLED, this is Daniel Lee in charge
+ of large display marketing responding to that.
+ That's all for today.
+ I hope you enjoyed watching this video.
+ Thank you.
+ I'm going to be back with another video.
+ I'll see you in the next video.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Now, first of all, as the CFO had highlighted earlier, the overall TV set market showed
+ with negative growth of over 10% last year,
+ But among them, the OLED TV, in other words, the high-end TV, continued to grow, and OLED
+ TV solidify its position in the high-end TV market.
+ So in the fourth quarter of last year, the OLED TV took up over 30% in the high-end TV
+ market.
+ Let me give you a little bit more of a highlight.
+ In North America, the market share was more than 30%
+ 40% for the year.
+ In addition to the growth of sales, the growth of the market has increased by 70% compared to the previous year.
+ This was the result of the recent blackout of the lower half of the industrial economy.
+ Now, not only the sales of the TV set, but accordingly, the company's panel shipment
+ also grew by over 70% while y.
+ So in the second half, it turned around to profit.
+ and for the year it reached BP.
+ Yes.
+ In terms of the target release, we were slightly under pressure, but overall, we focused on the
+ Now, in terms of the specific shipment, we did fall a little bit short of the target
+ in terms of the shipment, but then in terms of the area,
+ We did come in line with the target
+ as we had focused more on the large OLED.
+ This year, as the CFO had reported earlier, we have increased the number of panels per year.
+ This year, as the CFO had reported earlier, our guidance is over 20 percent of increase
+ in panel shipment.
+ Also, recently, we click, uh,
+ It's a weekly sale, but, uh, in January,
+ We're going to grow the same seven sales at the same time.
+ And the more recent numbers show, although they are for the weekly sales, but so in the
+ month of January, we see that the actual sales remain similar to the fourth quarter level
+ And based on our stronger business structure, we will continue to improve our profitability.
+ That's all for today.
+ The following question will be presented by Won Seok-jung from High Investment Security.
+ Please go ahead and do a question.
+ We apologize for the inconvenience.
+ We had not finished the response to the first question by Mr. Kim Hyun-soo, so allow us
+ to complete the response and then we will take the next question.
+ Yes, I will tell you about the price of the IT, the behind-the-scenes, and the profit management.
+ The IT evaluation began in about a minute after the TV debut.
+ So, in the year of 5 in the TV debut, the score is stable.
+ Now, this is Ki-young Lee in charge of business intelligence, responding to your question
+ about the outlook for IT panel price. Now for the IT panel compared to the TV, the decline
+ in price was lagging behind by about a quarter.
+ So, we believe that in terms of the stabilization of the prices, it will also come later than
+ and the TV price.
+ However, the evaluation will be conducted mainly on low-cost products such as TN or VA,
+ But then we believe that most of the IT panel price decline will be centered on the low-end
+ products like TN or VA and for the high-end products where the company is strong, we believe
+ that the price will remain stable.
+ table.
+ I'm Geon Jae-yong, the director of the Central Bank of Korea.
+ I have explained the IT history of the information you asked.
+ Now, this is Jae Young Kwon from the medium-small display marketing, and just now, regarding
+ the IT market outlook. There was explanation by Ki Young-yi from Business Intelligence,
+ but I would like to just add some additional explanation.
+ First, let's talk about the IT storage.
+ B2C is physically expected to be reduced.
+ However, in the case of B2B, the back-to-office and economy are gradually recovering,
+ In 2022, we expect it to gradually increase.
+ Regarding the demand outlook for IT, since the onset of the pandemic, there was a trend
+ of working from home as well as online education which drove the demand for IT products.
+ Now, as COVID-19 continues to be prolonged,
+ we are also seeing the easing of restrictions
+ in different parts of the world.
+ and now are increasing outdoor activities by the citizens.
+ So this means that the B2C demand is likely to go down,
+ go down.
+ But then, for the B2B, because of the back-to-office trend, as well as the recovery in the economy
+ throughout the world, we believe that the B2B demand in 2022 will remain strong.
+ .
+ Overall, it is expected to be similar to the 21st year, but in terms of supply,
+ from the lower half of last year, it has been transferred to IT.
+ In January last year, the price of IT was reduced from the end of the year.
+ Now, for the demand itself, then between 2022 and 2021, the outlook is that they are going
+ to be pretty much similar, so a flat demand between 2021 and 2022.
+ But then, when it comes to supply, because of the soft TV market last year, starting
+ in the second half of last year, much of the supply on the TV side has been shifted to
+ to I.T., which had prompted the decline in I.T. prices starting in the last part of last
+ year.
+ If you look at the short-term prices, the IT price that was dropped from the end of last year is currently being maintained by the drop.
+ However, as you know, the main stream is the one with a high price.
+ So for the short term, we believe that the IT price decline, which started in the latter
+ part of last year will continue for the time being.
+ But then in terms of the pace of the decline, now that is mostly concentrated in the mainstream
+ products.
+ We're at
+ as the company is strong in the high-end products.
+ So we do believe that our business will remain stable compared to the overall market.
+ We will take the next question.
+ The following question will be presented by Won Seok-jung from High Investment Securities.
+ Please go ahead with your question.
+ Yes, thank you for giving me the question.
+ Hi, I'm Jung Won-tuk, and I'd like to ask you two questions.
+ First of all, there have been a lot of reports in recent media.
+ There have been a lot of reports in recent media.
+ Thank you.
+ We have a lot of articles saying that we will be looking for a white-oily panel for the digital display.
+ How long has it been going on?
+ And I think it's almost over this year.
+ So, I'll pay to...
+ Thank you.
+ Now, I also have two questions.
+ is what has actually been reported through media coverage extensively recently, and that
+ That is about the cooperation between Samsung Electronics and LG Display, Samsung Electronics
+ deciding to adopt LG Display's white OLED.
+ now uh... so if you could give us an update on this front
+ And if nuke, then this probably means that we,
+ you are in the last stage.
+ So can you give us comments regarding this?
+ and the second question is a Samsung display also recently
+ got ready for the or started the mass production of QDE OLED. Now then compared to the QDE OLED,
+ Well, what does the company believe are the advantages of white OLED?
+ Yes.
+ I will answer the first question.
+ The question is, actually, this is not our company's own business, but it is related to a certain customer,
+ This is the first part of the question, given that this involves not only the company but
+ a specific customer, please understand that we are not in the position to give a comment
+ on it or share our plan or update.
+ The fact that the OLED continued to expand in the high-end TV market
+ That's all I have to say for today.
+ This year as well, basically,
+ The goal of the company is to plan the growth of the existing customer structure.
+ And I already explained earlier that the high-end TV,
+ so in the high-end TV, the OLED achieved outstanding performance.
+ And the company's plan is to continue with this growth trend based on the existing customer base.
+ However, if a new customer comes in as our OLD customer,
+ I think it could be very positive in the premium market or in the OLED expansion.
+ But if new customers are to be gained, then in terms of the OLED, we do believe that
+ they will have a positive impact on increasing sales of OLED in the premium market.
+ And this is Daniel Lee in charge of large display marketing responding to the second
+ part of the question.
+ Q.
+ You gave us a question about the strong points.
+ In the past several times, we have talked about the release of the old-led product of the competition.
+ So, the second question was about the advantages of the company's OLED over QD OLED.
+ And as had been explained earlier, now the launch of the OLED products by other players
+ is a welcome development for our part because it would help mainstream the
+ premium all-day products and will also have a positive impact on driving sales.
+ media exposure at the CES, but then the actual product has not been launched in the market
+ yet.
+ So any comparison would have to wait until it's been launched.
+ But what I would like to emphasize is that there are not just one or two aspects of the product competitiveness.
+ We believe that the overall competitiveness of the product competitiveness is reasonable.
+ But I would just like to add that when it comes to the product competitiveness, it does not
+ depend on one or two specific specifications.
+ So I believe that what is important
+ is the overall quality as well as the overall competitiveness.
+ And I do believe that the market will be able to make that decision after the launch.
+ And already, we have been looking at the product and the price of the product, the economy, the economy of the company, and the customer base.
+ In the future, we will try to expand the gap between China and the U.S.
+ And now, given our history of more than 10 years since the launch, as well as business
+ operation and also based on our product competitiveness and cost competitiveness as well as the economy
+ of scale and the customer base, as well as the readiness of our differentiated
+ product lineup, we do believe that we are enjoying an overall competitiveness and we
+ we intend to maintain this competitive edge.
+ That's all for today.
+ We will take the next question.
+ The following question will be presented by Jung Hoon Jung from Samsung Securities.
+ Please go ahead with your question.
+ Yes.
+ Oh, Timon, check.
+ Thank you for the opportunity.
+ I was going to ask you a few questions, but I don't understand what you're talking about, so I'll ask you one more question.
+ First of all, you said you had a market debut when you were in the second half of 2020.
+ I think there is a lack of explanation for this.
+ I don't think I can hear what I want to say, so please check it out once more.
+ First, the auto display is constantly mentioned.
+ I would like you to highlight this part again at the real-time point of view.
+ If you have a growth driver, please share with us if you have any questions about the application,
+ or if you have any questions about the display at home,
+ I would like to ask you to explain what you can expect from the customer.
+ Last but not least, we've had a lot of good results after the pandemic, and we've been doing well.
+ In the case of the Taiwan panel, the three-minute period was almost 20% of the OP margin, and we did well.
+ In addition, I think it would be helpful if you could explain some of these things in a more comprehensive way.
+ Thank you.
+ Now, I also had two questions, but then I also have one request for clarification about
+ the presentation earlier.
+ So it was explained that for the fourth quarter financial performance, excluding one of factors
+ or the one of cost, then the performance was actually not
+ I believe I heard about the...
+ One of factors so maybe I missed but if you could clarify what the one of factors war and then the next question is
+ we have been hearing we hear more about the outlook so if you could give us
+ some more highlights about the auto display.
+ And if you believe that there are growth drivers for autodisplay, then do you believe that
+ They will come from applications, or the display form,
+ or from the customers.
+ And the last question is, now since the pandemic,
+ We see many of the panel makers enjoying higher sales as well as profitability, but then we
+ see
+ We see that Taiwanese panel-maker is enjoying over 20% operating profit margin in the third
+ quarter of last year. And of course, the company has also done quite well, but then I'm just
+ wondering about the difference and also when it comes to the company strengthening its
+ competitiveness than what they believe its implications will be with regards to the margin
+ as well.
+ That's it.
+ I will talk about the cost-effectiveness of CFO.
+ That...
+ and share profits with the investors in the business sector,
+ We have a system called Bae Dang.
+ and the employees who actually make our business results,
+ This is the CFO regarding your question about the one-off cost.
+ Now when it comes to business performance,
+ we have a way of sharing the good performance with investors
+ in the form of dividend.
+ Likewise, we also have a way of sharing our performance
+ with those who made it possible.
+ In other words, the executives and the employees of the company.
+ company.
+ I am not going to talk about the specific number of people who have been working in the past.
+ I want to share with you how I share my experience with the employees and the business.
+ and share it with you,
+ There is no specific communication yet.
+ So today, there are quite a few things that I have to tell you without the process.
+ After the process is completed, we will make a situation where we can talk individually.
+ And the reason why I cannot give you these specific numbers today is because we have
+ not gone through the communication with the members of the company about how we are going
+ to share the business performance. So please understand that it's a bit too early for us
+ to give you for the details. But once we do go through the process, then we will create opportunities
+ where we will be able to communicate with you on a one-to-one basis.
+ This is the end of the video.
+ Thank you.
+ Thank you very much for watching.
+ I'll see you next time.
+ Hello.
+ Auto marketing, Sung Kyun.
+ This is Ki-Hwan Son, Vice President of Auto Marketing,
+ responding to your question about auto-display.
+ Now, first about the status of our auto business, as is well known, LG Displays enjoys leadership
+ in the auto business in terms of both sales and technology.
+ And especially with the auto display, the size becoming bigger and the resolution requirement
+ also becoming higher, and also more sophisticated requirements for design, the orders that we
+ receive continue to grow and as a result of this for LG display the order
+ PS LCD and OLED remains at 90% as of the end of 2021.
+ Secondly, let me tell you about the auto business strategy.
+ We are going to show you the technology platform that matches the LG display and customer segment table in the future.
+ Thank you.
+ and then about our auto business strategy.
+ now lg display uh...
+ intends to have customized platform
+ for the different market segments as well as the customers.
+ First of all, the extreme environment of the car,
+ that is, the LG display, which is optimized for extreme conditions,
+ for the auto display.
+ Now the older display will center its marketing on the tandem OLED.
+ So for the customers that value design, then we will provide our plastic OLED.
+ In addition, the customer, who values high quality rather than design,
+ We are going to show you the ATO Advanced Scene OLED, which improved the performance of the OLED.
+ With these two OLED platform technologies,
+ and for the customers who value the higher picture quality,
+ then we can also provide the ATO,
+ which is the Advanced Syn OLED.
+ So based on these two technologies,
+ we will be able to continue to broaden our market
+ as well as the customer base,
+ now utilizing our OLED platform.
+ Lastly, based on the original price competitiveness of the car and the mass volume of the car,
+ We will expand LTPSL CD based on Incell Touch.
+ And last, for those who wish to differentiate by cost,
+ Then we can also market our in-cell touch-based LTPS LCD.
+ That is all.
+ is all.
+ This is Ki Young-hee from BI, responding to your question
+ about the difference in profitability with other players.
+ got a lineup.
+ In terms of the history of the past display, the price of the guitar is high, and the price
+ This is the end of the video.
+ Thank you.
+ When the time is right, there are initial problems.
+ Now, when we look at the history of display business, then we see that when there is a
+ higher share of commodity or general LCD products, then when the market is doing well, then the
+ profitability also tends to improve considerably. But then vice versa, when the market is not
+ not doing well, then there could be big losses.
+ the video.
+ That's all for today's video.
+ Thank you.
+ We'll see you in the next video.
+ So, we see that for the players like the Taiwanese player that have a larger share of other customers
+ and also a larger share of commodity products,
+ they have we see that they have benefited more than other players during the pandemic.
+ Like the previous explanation, there is a decline in the price of commodities.
+ The asset is currently operating in a long-term perspective,
+ As was explained earlier, we see that the price is falling, centered on commodity product,
+ And for the company, we are focusing more on differentiating for the long term.
+ And we believe that we will be ready to have a more stable business down the road.
+ We will take one last question.
+ The following question will be presented by Simon Wu from Bank of America Securities.
+ Please go ahead with your question.
+ Ah, yes.
+ A question, please.
+ Thank you.
+ We are Udongdaemun.
+ So the first question is,
+ quarter and my question is pertaining to the growth potential down the road
+ out.
+ As we see that the OLED capacity is almost to the full, and the new wrap-up can come
+ only like in a year's time. Then in 2022, does the company believe that there is still room
+ for more top-line growth to come for OLED,
+ perhaps maximizing utilization rate and also enhancing productivity could help pull up the
+ the growth rate, but then they would also have limitations.
+ So what is the company's outlook for the growth of OLED?
+ Yes, I'm Kim Hee-yeon of the strategy group.
+ up.
+ This is Hee-yeon Kim of Corporate Strategy Group.
+ Yes, they asked me about the growth of the OLD.
+ Recently, as you know, the market is becoming more and more popular.
+ So the question is pertaining to the growth potential of large OLED.
+ now regarding this we see that uh... recently the market is moving
+ more toward convergence.
+ In this kind of convergence trend,
+ The reason why we are looking at this is because of the recent technology and the progress of the TV industry through the old white RGB technology,
+ and the IT part of gaming that is being recently being done.
+ And we are preparing to enter the mobility market through transparent transparency.
+ So, under this trend of convergence, we believe that there will be a significant increase in the number of people in the U.S.
+ So, under this trend of convergence, we believe that there will be more opportunities for
+ the con...
+ So, for example, based on the WRGB technology, we can supply to the TV market.
+ not only that, but IT in the gaming side, and then also utilizing our unique
+ transparent feature for OLED. We can also get ready to move into the mobile
+ market and in these markets for these products the ASP would be higher than
+ and the TV.
+ So it is from both the revenue growth
+ and also higher profitability that we are seeking
+ to achieve top-line growth.
+ In short, there is a growth of the KPEX death rate starting in the middle of the KPEX investment.
+ And without a cap, through the gaming and transparency we mentioned earlier,
+ So in short, more growth will come after capex spend, so for example, there's going to be
+ the capex on the begin from 2020.
+ So there is going to be a higher sales from here and also even without CapEx
+ spend from the gaming and the transparent OLED side, the ASP is going to be higher than
+ other applications.
+ So let me make one correction about the transparent display so it's not getting ready to enter
+ the mobile, but it's the mobility market.
+ Yes, thank you for your answer.
+ And a simple question for CFO.
+ You said that you have been doing the service for the last few years,
+ In our opinion, since we are already at a high level in the past two to three years,
+ I think it's more appropriate for the investors to give them more than the price.
+ And now, it's a situation where you can get $2,000 or $3,000 per year.
+ If you invest as much as EBITDA and pay taxes and write a working capital,
+ I think it will be a very good title if you give it to the president.
+ I would appreciate it if you could take a big picture of this in the future.
+ Thank you very much for the good explanation.
+ And then this question is to the CFO.
+ So you did emphasize the company's intent to keep the capex within EBITDA, but then
+ given the fact that the EBITDA has grown considerably from the past, from the investor's perspective
+ perhaps keeping it in line with depreciation and amortization would be more reasonable
+ Because now the dividend payout is likely to be around $200 billion, $300 billion won,
+ So there is the EBITDA and then there's also the taxes to be paid.
+ and then the setting aside the working capital.
+ After all this, then the cache is likely to be quite tight.
+ So what is the company's view on this comment?
+ Yes, I'll tell you about the CFO.
+ It's a bit of a request for us.
+ I'm going to make a recommendation for you.
+ So this is the CFO, and I take that as a suggestion or a recommendation to the company, and we
+ We will take that comment into due consideration.
+ generation.
+ Yes, first of all, as you all know well, one of the core of our business is the industry
+ Now, as you all know very well, part of the nature of this business is that it requires
+ large-scale investment.
+ In order to continue to create profitability and sustainability that the company and the people of Jujube want,
+ And I'm sure that you also understand that this is indispensable to make sure that we
+ achieve sustainability and also continued profitability which are also the aspiration
+ of both the company and the shareholders.
+ Well, I'm sure you all know about that, but the company is a company that invests in
+ In order to achieve this, there are five additional rules.
+ I'm not aware of this but then for the company
+ to make sure that we get the right returns on our investment.
+ First, we look at whether there is alignment between the planned investment and the company's
+ mid-to-long-term strategy.
+ And the demand in the market.
+ And the supply in the market is becoming very important now.
+ And the kebabs that we can produce.
+ and the ability that we can sell.
+ And we also look at the market demand and also more importantly recently the market supply
+ as well as the, our selling capability
+ and also our production capacity.
+ In other words, we also look at the fit between our current condition and the planned investment.
+ And will it be the right timing for us to invest in the market through this investment?
+ And is there a place where we invest?
+ is the physical strength that the company can invest in,
+ And we also look at the timeliness of the investment.
+ in other words, between the time of making the investment
+ until the mass production,
+ then will the production be in time for the market?
+ and also whether it is the right time for the company
+ to make this kind of investment,
+ whether the company has the fundamentals to withstand this.
+ I think it's a very important thing for people to think about.
+ And, of course, also the economics, which are also the more immediate factor.
+ has the right technology and the technological sophistication be fitting this investment.
+ Lastly, this is a part of the business performance, and I will add one more thing on the financial side.
+ Ah, do you have any money to invest?
+ If you don't have money to invest, how are you going to get it from the market?
+ So that is from the business performance side and then the one additional rule for
+ the finance side, and that is whether we have the financial resources to make this investment
+ at this time, and if we lack such financial resources, then how are we going to finance
+ that from the market.
+ As I mentioned earlier, the investment budget for this year is based on EBITDA.
+ Now, for the CAPEX plan of the year, as was explained earlier, we intend to keep it within
+ And we are moving ahead with the investment, with the answers to all of those five plus
+ one rules with the conviction that it is the investment that we need.
+ So I hope for your patience for a bit.
+ And I do hope that we will be able to share in the good performance out of it, and I also
+ hope that the time until then will become shorter.
+ Thank you.
+ Yes.
+ This is the end of this video.
+ That brings us to the end of the conference call for the earnings presentation of LG Display Q4 2021.
+ I thank all the participants, and if you have further questions, then please contact the IR team.

@@ -1,0 +1,658 @@
+ My name is Christelle and I will be your conference facilitator this morning.
+ At this time, I would like to welcome everyone to Danaher
+ Corporation's first quarter 2020 earnings conference call.
+ All lines have been placed on mute to prevent any background noise.
+ After the speaker's remarks, there will be a question and answer session.
+ If you would like to ask a question during this time,
+ please press star one on your touch tone phone
+ If you would like to withdraw your question, please press the pound key on your telephone
+ keypad. I will now turn the call over to Mr. Matt Gugino, Vice President of
+ of Investor Relations.
+ Mr. Cagino, please go ahead.
+ Thanks, Christelle. Good morning, everyone, and thanks for joining us on the call. With
+ us today are Tom Joyce, our President and Chief Executive Officer, and Matt McGrew,
+ our Executive Vice President and Chief Financial Officer.
+ I'd like to point out that our earnings release,
+ this five presentation supplementing today's call,
+ our first quarter 2020 Form 10Q and the reconciliations
+ and other information required by FCC Regulation G
+ relating to any non-cap financial measures provided during the call are all available
+ on the investor section of our website, www.dannaher.com, under the heading, quarterly
+ The audio portion of this call will be archived on the investor section of our website later
+ today under the heading events and presentations and we'll remain archived until our next
+ quarterly call.
+ A replay of this call will also be available until May 21, 2020.
+ During the presentation, we will describe certain of the more significant factors that
+ impacted you over your performance.
+ The supplemental materials describe additional factors
+ that impacted year-over-year performance.
+ Unless otherwise noted, all references
+ and these remarks and supplemental materials
+ to company-specific financial metrics
+ refer to results from continuing operations
+ and relate to the first quarter of 2020.
+ and all references to period-to-period increases or decreases in financial metrics.
+ our year over year.
+ We may also describe certain products and devices
+ which have applications submitted and pending
+ for certain regulatory approvals are available only
+ in certain markets.
+ During the call, we'll make forward-looking statements within the meaning of the federal
+ security's laws, including statements regarding
+ events or developments that we believe or anticipate will or may occur in the future.
+ These forward-looking statements are subject to a number of risks and uncertainties, including
+ those set forth in our SEC filings and actual results might differ materially from any forward
+ booking statements that we make today.
+ These four looking statements speak only as of the date
+ that they are made, and we do not assume any obligation
+ to update any forward-looking statements
+ except as required by law.
+ as a result of the size of the site team acquisition
+ and this impact on Daner's overall Corp. Revenue and Growth Profile starting with the
+ second quarter of 2020, we intend to present core revenue growth on a basis that includes
+ CITIVA as if the business had been known for the current period and the comparable prior
+ period. With that, I'd like to turn the call over to Tom. Thanks Matt and good
+ Good morning, everyone.
+ I'd like to start off today
+ by recognizing our associates around the world
+ for their dedication and invaluable contributions
+ during this unprecedented time.
+ Their response to the COVID-19 pandemic has been humbling and inspiring.
+ They're working tirelessly to ensure our facilities are up and running so that we can
+ continue to provide customers with the tools necessary to carry out their essential work.
+ Our suppliers have also been incredibly supportive as this crisis has unfolded.
+ Every one of our associates, customers, and business partners is making a difference today.
+ and I'm incredibly grateful for their collective efforts.
+ Given how top-of-mind the impact of the virus is,
+ we thought we would structure the call
+ a little differently this quarter.
+ Before we run through our first quarter results,
+ I'll highlight a number of our innovative solutions
+ that are part of the direct response.
+ helping to fight COVID-19.
+ I'll provide a recap of the trends
+ we saw across our end markets through the month of April.
+ And I'll wrap up with a few words on our announcement
+ about the upcoming CEO transition.
+ At Dan and Her, we are incredibly fortunate to navigate these turbulent times from a position
+ of strength, with a resilient portfolio of businesses, an extremely talented team, and
+ the Dan of her business system as our driving force.
+ These recent events have certainly presented
+ a number of unforeseen challenges across our businesses.
+ but they've also created opportunities
+ for us to support our customers
+ and the global community in the unprecedented fight
+ against COVID-19.
+ We're proud to support frontline healthcare providers with much-needed
+ diagnostic testing capabilities today.
+ and to support the pursuit of new treatments and vaccines for the future.
+ As we collectively strive to contain this novel virus,
+ Diagnostic testing provides essential information
+ to help us better understand and ultimately curb the spread
+ of COVID-19.
+ IDT was an early leader in this effort, as their primer and probe kits provide a key
+ detection component in COVID-19 diagnostic tests. To date, IDT has shipped kits to enable more than
+ 30 million diagnostic tests for the virus. In March, Cepheid launched the first rapid
+ molecular test related to COVID-19 that provides highly accurate results within 45 minutes.
+ the leading global install base of more than 23,000 molecular
+ diagnostic instruments, including 5,000 in the U.S.
+ These evidence tests are being deployed on the front lines to test patients and protect
+ healthcare workers.
+ Since Cepheid's test became available, the team has shipped approximately two million
+ in test cartridges.
+ And going forward, we now expect to be able to ship approximately 6 million tests per
+ quarter.
+ greatly exceeding our initial expectations.
+ recommendations.
+ published independent studies indicate that Cepheid's test performance is best
+ in class versus other point-of-care platforms on the market today.
+ providing superior virus detection with one of the fastest time to results.
+ The market-leading caliber of Cepheid's test, combined with their significant production
+ ramp up.
+ is a testament to this innovative team's commitment to tackle this global health crisis head-on.
+ at Beckman-Coulter Diagnostics.
+ The team announced that it is developing assays
+ to identify antibodies to the virus.
+ We expect these antibody assays will play a critical role
+ in understanding immunity and in turn improving the world's ability to manage COVID-19 going
+ forward. Beckman will be launching one of these assays shortly. A high-sensitivity
+ automated IgG serology test. The team plans to ramp production capability to
+ more than 2 million tests in May, and over 30 million tests per month by the end of June.
+ This assay will be able to run on Beckman's global installed base of more than 16,000
+ in the immunoassay analyzers.
+ we look ahead toward potential new therapeutics
+ and vaccines for COVID-19.
+ Paul and Saitiva are supporting biotech researchers and manufacturers around the world.
+ We're working tirelessly to find a cure.
+ Paul's filtration solutions are designed into the bioproduction process of multiple
+ leading vaccine candidates.
+ And CITIVA is supporting numerous vaccine programs in development, providing specific
+ prototype.
+ resins and helping them prepare to scale up production volumes. These are just a
+ A few examples of how we're helping to accelerate our customer's important pursuit of COVID-19
+ treatment, prevention, and ultimately a cure.
+ Speaking of psych-tiva, I want to take this opportunity to officially welcome the team
+ to Danaher. We're thrilled to have them on board. With the addition of Citeva, we've
+ You doubled our annual revenue in the highly attractive biopharmaceutical end market to
+ more than $5 billion, which represents approximately 50% of our life science platform's annual
+ revenue. With a more comprehensive offering across the entire bioproduction workflow,
+ We're better able to support our customers who are working to deliver more life-saving
+ drugs faster and at a lower cost.
+ an important endeavor that's certainly accentuated
+ by today's global health crisis.
+ SITIVA is off to a great start here in 2020 and achieved approximately 10% revenue growth
+ in its first quarter.
+ Given the significance of the acquisition to our operating results, we will include
+ Cytibus performance as part of our overall core growth revenue metric beginning in the
+ in the second quarter.
+ Now let's take a look at our first quarter results.
+ Sales grew 3% to $4.3 billion, driven by 4.5% core revenue growth.
+ The impact of foreign currency translation decreased revenues by one and a half percent.
+ Geographically, high single-digit revenue growth in the developed markets was partially
+ offset by high single-digit declines in high growth markets.
+ Revenue in China was down more than 25% as a result of extensive shutdowns related to
+ related to COVID-19.
+ while January and February were solid
+ across North America and Western Europe,
+ We saw a downturn in demand toward the end of the quarter
+ when the pandemic became more severe across these regions.
+ Flows profit margin for the first quarter was 56.2%, and operating profit margin was 16.1%.
+ adjusted diluted net earnings per common share were $1.05.
+ We generated $694 million of free cash flow, a 21% increase year-over-year, helping to
+ support our strong financial position.
+ Now, we'll take a more detailed look at the results across the portfolio.
+ Science reported revenue increased one and a half percent with core revenue growth of
+ 2.5% led by high single digit or better core revenue growth at Paul, IDT, and Beckman Life
+ sciences. The global effort to develop COVID-19-related testing and treatments
+ drove demand for our bioprocessing, genomic, and automation solutions.
+ That strong performance was partially offset by declines in our more instrument-oriented
+ businesses, like microsystems and SCIACs, which were negatively
+ impacted by deferrals of large capital equipment purchases.
+ This dynamic was particularly acute in academic research,
+ as most of these labs around the world remained closed
+ due to COVID-19 related shutdowns.
+ Moving to Diagnostics.
+ Reported revenue was up 6%, with 8% core revenue growth, led by very strong results at our
+ our point of care businesses.
+ Cepheid and Radiometer.
+ Cepheid achieved more than 40% core revenue growth with broad-based strength across the
+ all major product lines and geographies.
+ Particular strength in Cepheid's flu assay was driven by the combination of a more severe
+ flu season and increased testing during the coronavirus outbreak.
+ We also saw early strong demand for Cepheid's COVID-19 test,
+ which receives U.S. FDA emergency use authorization
+ at the end of March.
+ A radiometer business achieved high teens core revenue growth.
+ Surges and hospitalized patients being treated for COVID-19
+ Drove demand for radiometers, blood gas, instruments, and tests.
+ a key parameter to monitor in critically ill patients.
+ with the largest global installed base of blood gas
+ instruments.
+ Radiometers well positioned to support clinicians and patients through this unprecedented health
+ your challenge and beyond.
+ Beckman-Coulter Diagnostics Core Revenue decreased mid-single digits.
+ Solid performance in North America and Western Europe was offset by significant declines in China as a result of the extensive shutdowns
+ initiated in January.
+ These containment measures resulted in very few patients going to hospitals for treatment
+ or procedures that were not COVID, not related to COVID-19, which greatly reduced core laboratory
+ testing volumes.
+ Moving to our Environmental and Applied Solutions segment, reported revenue increased 1% with
+ two-and-a-half percent core revenue growth. In our water quality platform, mid-single-digit
+ Core Revenue Growth was led by Double-Digit Core Revenue Growth at Camtree.
+ Our water businesses provide essential products and solutions used to test and treat water
+ around the world.
+ a mission critical service in any economic environment.
+ Good demand for our consumables and chemistries continued, while equipment sales declined
+ toward the end of the quarter, as the broader macro uncertainty
+ many customers and municipalities to postpone larger expenditures.
+ Core revenue at our product identification platform was down low single digits with growth
+ in marking and coding offset by declines in our packaging solutions businesses.
+ videojet, equipment sales were down, but we saw strong demand for consumables across
+ consumer packaged goods, medical, and food and beverage end markets as widespread
+ shelter-in-place orders drove a surge in consumer purchases.
+ So the first quarter was challenging on many fronts, but we believe that the combination
+ of
+ of our outstanding team's DBS-driven execution
+ and differentiated portfolio.
+ enable Dan and her to outperform on a relative basis.
+ So moving on to what we saw in April.
+ The trends across our end markets through the month
+ We're largely a continuation of the dynamics
+ that began to take hold during the last few weeks of March.
+ We continue to see a bifurcation
+ across our life science and markets.
+ COVID-19 related research and development.
+ increased significantly over the last 60 days.
+ among our pharmaceutical and biotech customers.
+ particularly in areas like antiviral therapies,
+ vaccine development, and immune response research and testing.
+ In turn, this generates strong demand for our bioprocessing, genomic, and automation solutions.
+ Good momentum also continued for other non-COVID-19 related bioprocessing, driving demand for
+ filtration, chromatography, single use, and cell and gene therapy products.
+ However, most academic research labs in the U.S. and Europe remain closed, and labs in
+ China have only recently started to reopen.
+ These closures have resulted in significant installation delays for existing instrument
+ orders.
+ And it appears that customers are holding off on new capital purchases until the lab's
+ re-open and they fully return to work.
+ Looking across clinical diagnostics, we continued to see very strong demand through April for
+ molecular point of care and acute care testing, which is also driving increased instrument
+ placements globally.
+ contrasted with lower activity in hospital labs and reference labs, where the significant
+ the clients in elective procedures, emergency department visits, and wellness checks continue
+ to negatively impact testing volumes.
+ We also saw delayed orders and deferred new spending
+ on larger capital equipment in these labs.
+ In the applied markets, the divergence of demand between consumables and equipment persisted
+ through April. Consumables remain solid as customers sustained essential business
+ operations like testing and treating water and safely packaging consumer product goods
+ in medicine, but equipment purchases are
+ of being delayed as mission-critical operating
+ expenses are prioritized over larger capital investments.
+ The cadence of these end-market dynamics appears to be consistent with the spread of the virus,
+ with a negative impact in North America and Western Europe, trailing that of China.
+ kind of gradually improved in April as lockdowns were lifted and businesses started to reopen
+ and revenue growth was slightly better than initial expectations heading into the quarter.
+ in North America and Western Europe,
+ We believe that the clines are beginning to stabilize
+ and expect modest sequential improvements
+ over the next few months as these regions
+ begin to gradually reopen.
+ In light of these recent trends, we expect second quarter core revenue growth, including
+ Cytiva to be in the range of flat to down 10%.
+ So to wrap up, as I reflect on the events of the last few months, I am humbled by our
+ team's dedication and innovative response to this unprecedented crisis.
+ True to our core values, our associates are listening to our customers and innovating
+ to help address their toughest challenges.
+ never before have these challenges been more collectively urgent and abundant and I'm
+ I'm so proud of our associates have risen to the occasion.
+ Looking ahead, we feel very well positioned
+ to navigate through this uncertain environment.
+ We believe that the combination of our outstanding portfolio
+ an exceptional team.
+ and DBS-driven execution will continue to differentiate Danaher in 2020 and beyond.
+ Now, before we go to Q&A, I want to address the press release that went out last night
+ regarding our upcoming CEO transition.
+ After more than 30 years at Danaher, including the last six as CEO, I've decided to begin
+ in the transition to retirement.
+ I do this, no-
+ Mcdanagher has never been stronger.
+ the combination of our portfolio, enhanced execution around innovation, and our season
+ to the leadership team driven by the Danher Business System.
+ create a strong foundation for continued outperformance.
+ I have loved every day of the past three decades.
+ And throughout my entire day on her
+ career I've been privileged to be part of an incredible team. I've always
+ considered the primary responsibilities of my current role, to be focused on deploying
+ c-
+ capital efficiency, enhancing the portfolio, driving innovation, and developing town.
+ I can now look back fondly on the tremendous progress we've made on all these fronts.
+ I plan to see the corporation through the challenges of the next few months, and I'm
+ I'm confident that our portfolio and the team are both in a fantastic position to thrive
+ in the years to come.
+ Many of you know Reiner Blair well from his days as president of PsyX, and more recently
+ as our EVP leading the evolution of our life science platform.
+ enhancing the platform's growth and margin profile while leading the acquisitions of Paul,
+ IDT, and Sightiva to name just a few.
+ Here is no question that Reiner is the right person to lead us into the future.
+ with the support of our senior leadership team
+ our board.
+ I'm confident that Reiner is well prepared to execute our strategic priorities and continue
+ creating significant value for our shareholders.
+ So what's next for me?
+ Well, first off, that question is one for several months from now.
+ But I'm looking forward to spending more time with my family, and I'll continue to serve
+ on the boards of MedStar Health and the College of the Holy Cross.
+ I'll remain in the CEO role through September 1st of this year, and I'll be around into
+ to 2021 in an advisory role.
+ But for now,
+ and as soon as we finish this call,
+ we will be right back to work
+ because we have a lot to do in the coming months.
+ With that, I'll turn the call back over to Matt
+ so we can start taking your questions.
+ Thanks, Tom.
+ That concludes our formal comments.
+ we're now ready for questions.
+ Thank you. Once again, to ask a question, please press star one.
+ Your first question comes from the line of Director Bruin with Bank of America.
+ Hi, good morning.
+ Right there.
+ Okay, so a couple of questions, and then I'll congratulate you on the retirement.
+ I'm jealous by the way
+ So, to start off, can you tell us what you're embedding into the guide in the 2Q for COVID-related
+ contributions.
+ I mean, you're producing a lot of sepia tests, you know, the serologies ramping.
+ I guess, are all those tests going to be used,
+ are they all spoken for?
+ And this is curious in terms of what you think about utilization and what's embedded into
+ the guide. Thanks.
+ Sure. Okay, thanks. Thanks, Derek. Happy to walk you through that a bit. So, let's go
+ go right to the COVID impact in Q2.
+ And I would think about it as largely a tailwind that probably
+ represents, you know, 500 basis points of improvement or growth that's associated
+ predominantly with Cepheid, Radiometer, and IDT.
+ And in terms of the related question about what's spoken for, you know,
+ We're flat out at Cepheid.
+ We are, we are continuing to expand our capacity, but every test that we produce every single
+ day gets shipped and the demand is continuing to build.
+ Radiometer, also running flat out, not quite the need for expanded capacity.
+ We had the surge capacity we needed there, but they're doing exceptionally well and
+ IDT holding its own as well.
+ So, I think overall you'd consider Cepheid Radiometer and IDT certainly contributors
+ on the positive side.
+ What that really means is that the rest of the portfolio is potentially down anywhere
+ from 5% to 15% and those heavier headwinds are going to come in businesses like Beckman
+ diagnostics like the biosystems a bit that are more patient volume dependent
+ and we'll have to see whether that patient volume,
+ you know, coming from loosening up of elective procedures starts to return, but certainly
+ The greater bit of headwind is in the equipment oriented business like LMS and PsyX and a
+ bit of PID, no doubt. So, now putting all that together, you then partially
+ offset that with probably a bit of positive from Paul and Saitiba that are showing positive
+ It's not positive growth.
+ It's not exclusively COVID-related.
+ but certainly related to the future developments around
+ therapies and vaccines.
+ So I think that's the way I'd sort of generally frame up the pluses and the minuses around
+ on the COVID impact in Q2.
+ Okay, and that's Matt.
+ Hey, Derek, it's Matt.
+ I just want to make sure, also, you kind of,
+ We mentioned serology.
+ We are not assuming anything here in the quarter
+ for serology, even though we're ramping up with backmen,
+ We're going to have some capacity here.
+ our view is that it's just a little too early
+ to really kind of tell, you know, what the volumes might look like, what a national testing
+ program or any other kind of local testing programs might look like. So that COVID tailwind
+ It does not include serology, just to be clear.
+ Oh, great, that's really helpful.
+ And I guess just one question on site Eva, in general,
+ Did you see any stocking in the first quarter?
+ And I'm just curious, what are you
+ consuming for organic revenue growth in the CITIVA standalone business for the
+ second quarter.
+ Um, dear, we saw, you know, very little, it's always hard to tell when it's, you know,
+ on the margins as to whether or not there was stocking going on there.
+ you know generally we don't don't think it was particularly material but I tell
+ Citevo is off to a great start. As I mentioned, 10% core growth in the first quarter, really
+ strong momentum in the core bioprocessing business and that's really driven by folks
+ working on solutions to COVID-19.
+ But you know, as we look forward, I think we have really, as you can imagine,
+ imagine skin we just closed the the the end of March the 1st of April we're
+ We're just getting in there to really understand what that funnel looks like and there's plenty
+ uncertainties about how much that volume will build over time depending on the
+ the progression of therapies and vaccines.
+ So I think we've got an outstanding start here.
+ But, you know, in terms of where we are
+ from a guide perspective on CITIVA.
+ We're still trying to size up what that backlog
+ is starting to look like.
+ Obviously, we haven't even gotten face-to-face with the team yet from an operating review
+ standpoint given the limitations we have here on travel.
+ So, right now, we're gonna focus on,
+ obviously a good deal of rebranding work that we need to do.
+ We're going to stand it up as a standalone operating company.
+ execute on the TSA and exit those TSA work streams and costs, and make sure that we're
+ embedding DBS into the business and working on opportunities to continue to improve its
+ performance so we'll come we'll come back to you and give you a better sense of what
+ what Citeva looks like in the bounds of the year.
+ Once we get a little bit more stability here in terms of how the bookings trends look,
+ And we round the corner here coming into the second half of the year.
+ Great.
+ Thank you.
+ Thanks, dear.
+ Your next question comes from the line of Tycho Peterson with J.P. Morgan.
+ Good morning, Tycho.
+ Thanks.
+ Good morning.
+ I'll start with the congrats on the transition.
+ But I think it might be helpful to hear from you why now is the right time.
+ I know you plan these things out well in advance,
+ But I think people were caught a little bit off guard
+ in the middle of a pandemic after closing your largest deal.
+ So could you maybe just talk a little bit about, you know,
+ how long this transition had been planned
+ and why now is the right time?
+ Sure, absolutely Tycho, I'd be happy to.
+ You know, I can honestly say that you would have to go all the way back to my very first
+ year in the role where we, along with the board, made sure that we talked about talent
+ development, about ensuring that we are progressing in various ways through our
+ leadership ranks to get to the point where we are today and had an outstanding choice
+ and Reiner Blair to succeed me.
+ So, this has very much been the culmination of a succession planning process that really
+ has gone on over the last five or six years.
+ years. We always wanted to do something like this when we're in a position of
+ strength and I think the combination of where we are with the portfolio and our
+ performance where we are around driving innovation and growth and the strength of our team and
+ talent really is what I think makes us very comfortable that this is certainly a good
+ time to turn the reins over.
+ It was super important that we got SITIVA closed and that we gave ourselves time to
+ to ensure that the transition here of the role allows
+ for both Reiner and I to contribute to ensuring that CITIVA comes into the
+ the organization smoothly.
+ So, I think it's really a combination of all those things.
+ You know, I think the Dan and her board was incredibly supportive and constructive around
+ this all along. I am really excited about about Reiner and the talent and the
+ capabilities that he brings to this role and he's just going to do a fantastic job.
+ So, we all feel great about it.
+ Okay, thanks.
+ And then, for the follow-up, just a question on some of the longer-term COVID-related tailwinds.
+ you know, for Seth, they're presumably going to be less rule-in, rule-out, you know, flu-testing,
+ that tied to COVID going forward.
+ So I'm curious how you think about that
+ and then how you think about durability of that test
+ once there is a vaccine on the market.
+ For Beck, I'm curious if you can put anything around pricing for serology, and then lastly
+ for Citeva and Paul, just curious how meaningful you think vaccine and therapy development
+ it could be for those businesses on a multi-year basis.
+ Thanks.
+ Sure. Thanks, Tycho.
+ You know, there's we've got a lot going on as it as it relates to the future
+ impacts of COVID. And I think in many respects, we're pretty uniquely positioned, both on
+ in a short term and a long term.
+ I think if you start with,
+ from a diagnostic testing perspective.
+ Sepia's impact along with IVT,
+ radiometer in terms of treatment on the front line as well as Beckman and
+ and serology and IgG testing.
+ I mean, that's a pretty unique combination of capabilities.
+ Now you asked about the durability of the sephia test.
+ I think, you know, as you know well, we are one of the world leaders in flu testing.
+ And I think as we see the future here, you're going to look, clinicians are going to be
+ looking for the opportunity in doing flu testing to also be doing COVID-19 testing.
+ And I think the ability to run those tests on the same platform
+ in the same cartridge, obviously,
+ the same cartridge configuration is a real advantage
+ than a real opportunity we have for Cepheid.
+ Of course, it's this surge in demand now.
+ is happening, we're seeing that not only in terms of the test
+ cartridges themselves, but it's driving a significant increase in our install base,
+ And so is that installed.
+ They
+ has grown.
+ We're also going to see that install-based driving, not only COVID-19 testing, but continuing
+ to support expanded flu testing and market share gains
+ for Cepheid over time.
+ And, obviously, there's a broader suite of tests that run on the Cepheid architecture,
+ So that's going to benefit as well.
+ So we think there's exceptional durability
+ to the Cepheid architecture in an environment
+ even in one where we have, and God willing, we will have,
+ both therapies as well as vaccines.
+ In terms of your question about Beckman and serology,
+ You know, I think the way we see serology evolving over time is it's going to be primarily
+ driven obviously with a blood draw and you're going to see the serology test, the IgG test
+ integrated into more routine testing and therefore the cost per test is going to be quite reasonable
+ And it's going to be in line with other immunoassay tests.
+ And so, while we talk about the capacity to have 30 million tests, as I think Matt said
+ earlier wouldn't build that into any models, but I think it's representative of the fact
+ that serology testing, that IgG test,
+ is going to become more of a standard in basic testing
+ when it comes to immunoassay.
+ So I think a lot of terrific potential there, particularly as it relates to advances in
+ in public health and population testing
+ and some of the work that's being done
+ by public health authorities to look for hotspots over time.
+ In terms of your question about Cytiva and work around therapies and vaccines, I'd say
+ They both, Paul and Saitiva, are uniquely positioned to provide pretty critical inputs, meaning
+ filtration and resins to both vaccine and therapeutic candidates.
+ Right now, we would estimate that they're greater than 150 therapeutic and vaccine
+ candidates today, and Paul and Siteva are working with a majority of those in some capacity.
+ So obviously there'll be winners and losers, but we think we have a number of exceptional positions there
+ there with folks that are likely going to be part of the future therapy and or vaccine
+ answers. So I think good spot to be in.
+ Great, I appreciate it and congrats again on your retirement.
+ Thanks, Tycho.
+ Your next question comes from the line of VJ Kumar with Ebrochor ISI.
+ Hi.
+ Morning, BJ.
+ Good morning, guys, and congrats on a well-earned breath.
+ I think, you know, maybe starting with the leadership question here, Tom, you mentioned
+ Rainer, he's known to the street, but perhaps not everyone knows him well, and you did mention
+ that he was the right person.
+ Maybe contrast your leadership style with that,
+ brainer's leadership style.
+ What does Rainer bring here and what should the investors look forward to under this transition?
+ Sure. Well, I'd start, B.J., with the fact that Ryan and I have worked together closely
+ Um, for virtually all of his, his 10 years, um, you know, I don't know if everybody
+ He knows that when Reiner was first hired at Danaher, he came in initially as the President
+ video jet and I'm not sure Reiner and his wife Elena had actually unpacked their
+ bags when we were looking to succeed me at SCIACs after the SCIACs acquisition.
+ I was headed off to Beckman and we had this outstanding leader who had just come into
+ video jet and a real need at CyAX and Reiner repacked and moved to Boston and led CyAX
+ for a number of years and just did an exceptional job and he and I have worked
+ together literally every day since then through the the the work at SCIAC through
+ the acquisitions of Paul and IDT, obviously, throughout the tremendous work that you've
+ he did identifying the opportunity that has become CITIVA, our largest acquisition ever.
+ And so, you know, when you work together for as long as we have, I guess they're do tend
+ to
+ to be quite a number of similarities about the two of us, but, you know, VGA, you're
+ We're going to have plenty of time to ask Reiner that question and he'll probably have
+ a more thoughtful contrast between the two of us than I will.
+ But he's an outstanding individual.
+ He is super smart.
+ He is steeped in the domains, not only in life science, but across Dan and her.
+ He's unbelievably well respected across Danahar as a DBS leader, a great teacher, a DBS practitioner
+ and somebody who lives and breathes the Dan at her core values and our shared purpose of
+ of helping realize life's potential every single day.
+ You know, his track record relative to M&A,
+ and his bias towards driving innovation
+ by being willing to place bats,
+ both early stage bats, as well as more mature bats
+ to drive innovation is unparalleled.
+ So, you know, I hope and believe that you'll probably see a lot of similarities between
+ the two of us in terms of what we value, but you know, Reiner will put his own mark on
+ Danahur and I am supremely confident that that mark on Danahur is going to be an outstanding
+ one and an indelible one.
+ That's helpful, that perspective, Tom.
+ Just maybe one housekeeping question for perhaps from Matt.
+ Matt, I think, you know, the press release had a couple of hundred basis points that
+ con...
+ contribution from CITIWA.
+ That perhaps implies double digits, maybe even a low teens growth in the business, I just
+ I just want to make sure with the business doing 10%, I think, in that Q1, you know,
+ continuing double-digits in 2Q, is that just the business growth as usual or was there
+ any contribution perhaps from in a COVID-related business and then perhaps also dress up in
+ in a detrimental margin here for 2Q.
+ Thanks, guys.
+ Sure.
+ So from such even perspectives, I mean, I think, you know, it grew 10% there in Q1.
+ I think that's probably a reasonable place for the business to be here in the second
+ quarter as well, so I think your math on that is pretty correct. As far as decremental
+ margins go. I think the place that I'd start is probably about 40% decrementals. It can
+ very, you know, quite a bit depending on mix, et cetera, but I think starting with 40 is
+ It's a good place to start.
+ I will tell you that probably in Q2 in diagnostics though,
+ You probably need to be more like 50% or 60% decrementals, and that's all related to
+ to FX. So that delta will be because of FX here in the quarter. So 40 overall, maybe
+ to touch higher here in Q2 in diagnostics.
+ Thanks, guys.
+ Thanks, VJ.
+ We have reached the allotted time for questions.
+ Your last question comes from the line of Scott Davis with Milius Research.
+ Good morning, guys, and congrats, Tom.
+ Thanks, Scott. Good morning.
+ It's been a great six years. We I'm a little surprised you're you're going but I don't blame you. It's
+ It's, retirement sounds pretty interesting right now.
+ It was not informed by the current economic uncertainties, it was very much part of the
+ land.
+ Yeah, sure. Sure, I believe that.
+ Anyway, so I wish you the best. I know we'll see you before you go.
+ Thank you.
+ Anyways, thank you, and a great run.
+ Thank you.
+ Just switching to business, what are the challenges of integrating Citeva here in this kind of new world?
+ Can you really teach DBS and do Kaizen's and all that stuff and, you know, on a Zoom
+ video.
+ Yeah, thanks for the question, Scott.
+ Uh, yes, is the answer to that.
+ Why do I why would that be the case given how important being it, you know, you know, we use that term being at Gemba being in the real place
+ you know how important we we talked about that being well we actually kicked
+ kicked off DBS training, what we call ECO, Executive Champion Orientation, we kicked
+ Thank you, Dad.
+ virtually using Microsoft Teams just two weeks ago.
+ I kicked it off.
+ it off. Reiner was on the call. John Sikowski, who you know from our DBS office, led the
+ effort we probably touch we got more people through that ECO over that day
+ day and a half, I forget the full duration, because of actually being able to use a virtual
+ tool and so a digital tool and so the answer is we're working, we're doing our best, we're
+ We're off to a good start.
+ We've got to get creative.
+ We've got to invent new ways to get things done.
+ Interestingly, our existing businesses outside of CITIVA are, in fact, doing multi-day Kaizen's
+ using virtual tools, using Zoom, using Microsoft Teams,
+ And it's not the same.
+ It's different.
+ We wouldn't use that as a standard going forward.
+ We absolutely value being face-to-face,
+ But, you know, we've challenged our teams to get creative
+ and continue to drive continuous improvement even in this environment.
+ Okay, that's encouraging.
+ Just switching gears, I know there have been a lot of questions around
+ and sephia didn't, back then there should be,
+ But if you go down to environmental and applied solutions,
+ you've got some interesting businesses
+ the different cyclicalities and such.
+ Is there kind of a range of outcomes in 2Q that we can start to think about for those
+ businesses, and I know you've made some encouraging, excuse me, comments on video chat, and actually
+ just water, too. But on an overall basis, at least, Tom, is there any color you can give
+ Yeah.
+ That's all I've got.
+ These are fantastic businesses, even in a challenging economic environment.
+ I mean, you know, Hox leadership position in water quality analytics, you know, four
+ to 5x it's nearest competitor.
+ Joe Jett, you know, a leader from a shared perspective as well, both obviously heavily
+ skewed towards their balance of sales skewed towards consumables, north of 70-75% in those
+ business as being aftermarket consumables and service, when water quality testing has
+ have to be done every single day in municipalities around the world when
+ consumer package goods have to be marked and shipped every single day around the world.
+ Those consumables continue to underpin, you know, reasonably steady performance.
+ I mean, they are a safety net under the,
+ under the revenue structures of those businesses.
+ While there'd be some other dimensions, like the equipment side in water quality, for example,
+ or even in PID and some of the software businesses
+ that'll be a little bit more pressured here.
+ You know, I think those are still really solid businesses,
+ even in these challenging times.
+ So I wouldn't trade those businesses for any in their markets.
+ I should ask it differently, I guess.
+ Will this segment be down more than your corporate average?
+ Tom?
+ Yes?
+ Yeah, I think they would be down a bit more, only because they're not buoyed by the terrific
+ performance that we continue to see at Cepheid and IDT, as well as radiometer, and even with
+ you know, what we think is going to be pretty solid performance at Citeva and Paul.
+ So yes, I think these businesses would be
+ at the lower end of the core growth, you know,
+ component, you could potentially see the segment, EAS, down potentially mid to high
+ teens inside of the guide.
+ Okay, perfect. Thank you, and congrats again, Tom.
+ That's the light, Scott. Good to hear from you today.
+ Okay.
+ Crystal, that concludes our questions.
+ Did you want to give any final remarks?
+ Well, thanks, everyone, for joining us today.
+ We're around all day for questions.
+ This concludes today's conference call.
+ you may now disconnect.

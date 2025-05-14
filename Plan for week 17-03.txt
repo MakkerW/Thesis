@@ -1,9 +1,37 @@
-Next tasks:
+Plan:
 
--Make plan for max and min models as well
+-Use 3 models: Small (via whisperlive) + fasterwhisper, Turbo (via whisperlive) + TensorRT and RealTime API gpt04
+
+RealTime API:
+Look more closely on two things
+
+1. When the audio finishes. It's missing things in the Thinlinc run
+
+2. When the audio splits. Sentences are missing in the local test run ( 4351517)
 
 -Look at cosine similarity
 
+- Write a section about the future of Speech to text being LLM models in a reference to RealTime API.
+
+- Find out how WhisperLive works  and if they actually run in realtime:
+
+
+WhisperLive processes the audio in very small overlapping chunks and transcribes these words to make it seem realtime. When it then reaches the optimal chunk size for whisper (about 25 seconds with 5 second overlap), it replaces the already existing
+transcription with the more accurate context based transcription. It also makes a new "big chunk" if there is silence by using Silero VAD to make the transcription feel faster and more natural.
+@misc{Silero VAD,
+  author = {Silero Team},
+  title = {Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/snakers4/silero-vad}},
+  email = {hello@silero.ai}
+}
+
+
+
+
+- 
 -Write in overleaf
 
 

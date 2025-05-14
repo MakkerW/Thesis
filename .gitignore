@@ -1,2 +1,4 @@
 # Ignore the data folder
 data/**/*.mp3
+# Ignore config
+config.py

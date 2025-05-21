@@ -5,7 +5,7 @@ Plan:
 RealTime API:
 Look more closely on two things
 
-1. When the audio finishes. It's missing things in the Thinlinc run
+1. When the audio finishes. It's missing things in the Thinlinc run         
 
 2. When the audio splits. Sentences are missing in the local test run ( 4351517)
 

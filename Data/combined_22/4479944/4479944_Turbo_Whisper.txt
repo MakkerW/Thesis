@@ -1,0 +1,1081 @@
+ Ladies and gentlemen, good evening and welcome to HDFC Bank Limited's Q3 FY22 earnings conference call on the financial results presented by the management of HDFC Bank.
+ As a reminder, all participant lines will be in the listen-only mode.
+ And there will be an opportunity for you to ask questions
+ after the brief commentary by the management.
+ Should you need assistance during the conference call, please signal an operator by pressing
+ students.
+ on your touchstone phone.
+ Please note that this content is being recorded.
+ I would now like to hand the conference over to Mr. Srinivasan Bajanathan, Chief Financial Officer, HTSC Bank.
+ Thank you, and over to you, sir.
+ Good evening and a warm welcome to all the participants.
+ First, to start with, the environment and the policies that we operated in the
+ quarter.
+ conducive for growth with good
+ tailwind from monetary and fiscal policy. You all know about the activity indicators
+ pairing better in Q3, like the PMI, GST collections, e-vables, etc., etc.
+ They're also up to date about the CPI RBI policy rate stance and the liquidity conditions.
+ Now, in that backdrop, the equity capital market was robust in the quarter, private issuers
+ racing almost
+ Rs. 82,000 crores.
+ we were mandated for eight IPOs.
+ Indian bond market also saw a total fund raise of approximately 1.87 lakh crores in the quarter.
+ the bank maintained its ranking as one of the top three arrangers in the INR bond market.
+ Now with that, let's go through five themes at a high level before we delve into the quarter
+ financials.
+ One, on the bank's balance sheet continues to get stronger.
+ For instance, the capital efficacy ratio is at 19.5%, CET1 at 17.1%.
+ Liquidity is strong as reflected in our average LCR for the quarter at 123%.
+ Balance sheet remains resilient.
+ The GNP ratio is at 1.26%.
+ floating and contingent provisions aggregating
+ to increase 10,100 crores helps in de-risking the balance sheet and positioning for crores.
+ Two, investments in key enablers are picking up
+ in executing our strategy.
+ we opened 93 branches in the quarter 171 branches year-to-date nine months period
+ To give additional context, we have added 525 branches over the past 21 months, that
+ during the COVID period, positioning us for capitalizing the opportunity.
+ We onboarded little more than 5,000 people in the quarter, 14,300 plus people during the nine-month period.
+ We have on-boarded about 17,400 people
+ over the past 21 months during the COVID period
+ to get the people
+ ahead on the productivity curve that the economy actually
+ further.
+ There is a growing impetus
+ on digital and we have taken the steps
+ necessary to ensure our customers are great
+ and consistent experience
+ in whatever channel they choose to bank with us.
+ Key initiatives like a streamlined, modern customer experience sub, allowing access to
+ content across channels and devices
+ will be introduced soon.
+ We are also committed to continuously enhancing the digital experience for our customers
+ through a fully revamped payment offering.
+ We have taken multiple steps to ensure robust, scalable, and secure technology setup strengthen
+ even further.
+ And key initiatives include capacity for UPA has been tripled.
+ Net banking and mobile banking capacity has been doubled to manage 90,000 users' concurrency,
+ a significant step as most of our customers now rely on digital channels for banking needs.
+ The bank has migrated Cope data centers in Bangalore and Mumbai to state-of-the-art facilities.
+ the bank of moving to next level of disaster recovery
+ with DR automation and implementation of RDR active-active setup for key applications.
+ significant upgrades in network and security infrastructure to support our
+ exponential growth in digital transactions.
+ Our digital capability is coupled with rich data and customers'
+ data.
+ behavior.
+ for instance,
+ take for instance
+ a traditional retail product wherein close to 80% new loans go through digital scorecards
+ or automated underwriting.
+ In Q3, we received a total of 245 million visits on our website, averaging 31 million
+ You need customers per month.
+ As per our analysis, we had 30 to 70% more visits on our website
+ is a new public private sector peer
+ close to 60% of the visits were through mobile device indicating the mobile
+ device.
+ of the footfalls.
+ Thank you.
+ on customers, acquiring new liability relationship
+ to setting new high, preparing for broad basing
+ and deepening relationship in times to come.
+ During the corporate, we opened about 2.4 million
+ new liability relationships.
+ 6.4 million new liability relationships
+ during the nine-month period of this financial year,
+ exhibiting a growth of 29% over the same period last year.
+ Four, our market leadership in digitizing the economy is setting new high.
+ Thank you, Trim.
+ we achieved the highest level
+ issue himself.
+ with 9.5 lakh card issuances.
+ Since late August, when we recommenced issuance of new cars, we have so far issued 13.7 lakh cars.
+ Credit card spend for the bank has grown 24% year-on-year, and debit card spend has grown 14% year-on-year.
+ The spend growth reflects both increased customer engagement and economy improvement from a consumption perspective.
+ in similar lines
+ to our CSC partnership and to scale our business further.
+ They have signed MOUs with two large payment banks for distributing certain products.
+ This opens up further opportunity to scale, among other places, growth in semi-urban and rural areas,
+ Leveraging Partner Distribution Access Point and Feet-on-Street.
+ We have further scaled emerging growth segments such as easy EMI, consumer durables targeting
+ or preferred customers through segmented sales and marketing.
+ consumer finance business has one plus one lakh plus active distribution points
+ We have over 5 million customers with easy EMI options.
+ The bank merchant offering is scaling to provide enhanced value-added services across various segments.
+ The bank has 2.85 million acceptance points as of December with a year-on-year growth of 35%.
+ The bank's acquiring market share stands at approximately
+ 47% with a 19% share in terminals,
+ processing about 300 million transactions per month.
+ Bank has been focusing in Suru locations and is investing in training and offering segment-specific solutions.
+ Over 50% of new merchant sourcing is from Sulu locations.
+ Fine.
+ Asset volumes are gaining momentum to reach new heights driven through relationship management,
+ digital offering and better product in the whole segment carpet continue to
+ generate strong cash flows across sectors resulting in fair degree of prepayments
+ Trade continued to be an opportunity for credit growth, factoring, invoice financing, export
+ financing, input financing are some of the products we concentrated into growth.
+ They are also making progress in the MNC segment with their ambition to be the largest player
+ in the space.
+ Carpet banking and other wholesale loans grew by 7.5% over prior year and 4.4% over prior
+ water on the retail assets fund the momentum picked up observed pickup observed
+ during Q2, continued
+ its stride in Q3 as well
+ with nothing
+ the robust
+ sequential asset growth of
+ 4.7% and year on year
+ growth of 13.3%.
+ This has been
+ this has been
+ on the back
+ of a
+ from incremental dispersals during the quarter commercial and rural banking
+ businesses are robust growth this quarter, registering a sequential growth of 6.1% and
+ here and here
+ growth of 29.4%, reflecting underlying economic activity and continued massive share gains.
+ Now, let's start with net revenues.
+ Net revenues grew by 12.1% to 26,624 growth, driven by an advances growth of 16.5% in
+ is the possible growth of 13.8%.
+ Net interest income for the quarter, which is at 69% of net revenues, grew by 13% year-on-year
+ and registered a sequential growth of 4.3%.
+ The core net interest margin for the coater was at 4.1%.
+ This is in the similar range of previous quarter.
+ Net interest income growth is reflective of underlying shift from unsecured lending essentially gravitating towards higher rated segments in the COVID period.
+ This is also represented in our ratio of net interest income to RWA, which is consistent at around 6%.
+ Moving on to details of other income, which is at 8,184 crores, was up 9.9% versus prior
+ it is, and I've been fine
+ 6% was his price order.
+ Fees and commission income, constituting about two-thirds of other income, was at 5,075 crore and grew by 2% compared to prior year and 2.6% compared to prior quarter.
+ retail constitutes approximately 93%
+ and wholesale constitute 7% of fees in commission income.
+ Fees excluding payment products grew year-on-year by 17%, and fees on the payment products de-grew year-on-year due to lower fees on card loan products, cash advances, over-limit fees, reflective of a cautious approach to card-based lending, as well as customer preferences.
+ However, card sales, ANR, and interchange have come out robustly,
+ which positions us for future growth and the customer propensity to use card product for loans and revolver increases.
+ In addition, during the festive period, we offered certain fee waivers to incentivize
+ customer engagement.
+ derivatives income at 949 crores
+ was higher by 69% compared to Priorya,
+ reflecting pick up and activities and spread.
+ trading income was 1046 goals for the quarter
+ prior year was at
+ 1,109 growth and prior
+ quarter was at 676 growth.
+ Some of the gains from investments were
+ monetized in line with our strategy. Other miscellaneous income of 1113 crores
+ includes recoveries from return of accounts
+ and dividends from subsidiaries.
+ Now, moving on to expenses for the quarter at 9,851 crores, an increase of 14.9% over previous year.
+ Year on year, we added 294 branches, bringing the total branches to 5,779.
+ Since last year, we added 1,697 ATM cache deposit and withdrawal machines, taking the total to 17,238.
+ We have 15,436 business correspondence
+ managed by common service centers,
+ which is higher by about 1900, slightly over 1900
+ compared at the same time last year.
+ Cost-to-income ratio for the quarter was at 37%, which is similar to the prior year level.
+ As previously mentioned, when technology investments are further stepped up and retail segments
+ pick up for this
+ We anticipate the spend levels to increase by incremental volumes, sales and promotional
+ activities and other discretionary response. Moving on to asset quality, GNPA ratio was
+ that 1.26% of gross advances as compared to 1.35% in prior quarters and 1.38% on a performance
+ basis in prior year.
+ It is pertinent to note that of the 1.26% GNP ratio, about 18 basis points are standard.
+ these are included by it in NPA as one of the other facility of the borrower is
+ in NPA. Net NPA
+ ratio was at 0.37 percent of advances net advances
+ Preceding quota was at 0.4.
+ The annual slipage ratio for the current quarter is at 1.6, about 4,600 crores,
+ as against 1.8% in prior quarter.
+ Agree seasonally has contributed approximately
+ thousand crores to slippages
+ are about 25 basis points annually straight.
+ During the quarter, recoveries and upgrades
+ were about 2,400 crores or approximately 25 basis points.
+ in the corporate world,
+ 2,200 girls
+ approximately 23 basis points
+ Sale of NPA, about 260 crores, approximately two basis points in the quota included in
+ in one of the categories above.
+ Now, looking at check bonds and restructuring and so on.
+ The check-downs rate continues to improve in December across most of the retail products
+ and is not only back to pre-pandemic level
+ but are also marginally better.
+ Further, the early January bounce rate shows continued improvement.
+ Similarly, demand resolution at 97-98% for most of the products is back to pre-code level
+ and in some cases better than pre-covery levels.
+ The better improvement, the improvement in bonds and demand resolution rates at aggregate
+ level amongst other things illustrates the overall portfolio quality the restructuring under RBA
+ a solution framework
+ for COVID-19 as of December end stands at 137 basis points. This is at the borrower level and
+ and includes approximately 28 basis points of other facilities
+ of the same borrower which are not restricted but included here to give
+ based on color on researcher accounts,
+ 40% are secure with good collateral and with predominant good SIBL score, which we feel is comfortable.
+ Of the unsecured portion, approximately two-thirds are salaried customers
+ and about 40% are good civil scores more than 700.
+ The demand resolution is showing encouraging trends.
+ COVID restructuring has been an enabler for our customers to tide over the uncertainty in the last few quarters.
+ Initial indicators suggest that most of these customers are now positioned to resume their payment with minimal impact to overall quality of the advances of the bank.
+ As mentioned previously, impact of restructuring on our GNP ratio can be 10 to 20 basis points at any given quota.
+ we talked about it last quarter
+ and mention that.
+ The core provisions, the core specific loan loss provisions for a quarter were 1,821 crore
+ as against
+ and 2,286 pros during the prior process.
+ Total provisions reported were 2,994 crores against 3,924 crores during the prior quarter.
+ Total provisions in the current quarter included additional contingent provisions of approximately 900 crores.
+ the specific provision coverage ratio was at 71 percent there are no
+ technical trade talk
+ or head office and bank books are fully integrated.
+ At the end of current cocker,
+ contingent provision towards loans were approximately
+ least eight thousand six hundred crores
+ The bank's floating provisions remained at 1,400 crores.
+ general proportions were at 6,000 rows. Total proportions comprising specific
+ floating contingent and general provisions were
+ 172% of gross non-performing loans.
+ This is an addition to security held as collateral in several of the cases.
+ looking at through another lens
+ floating contingent and general provisions were 1.27% of gross advances as of December
+ for rent.
+ Now coming to credit cost ratios, the core credit cost ratio, that is the specific loan
+ loss ratio is at 57 basis points for the quarter against the 76 basis points for
+ prior quarter and 116 basis points on a pro forma basis for prior year recoveries which are recorded
+ as miscellaneous income amount to 25 basis points of gross advances for the
+ other, I guess.
+ 23 basis points in the prior quarter.
+ Total annualized credit cost for the quarter was at 94 basis points, which includes impact
+ of contingent provision of approximately 30 basis points prior year was at 125 basis points prior
+ quarter was at hundred and thirty
+ business part. Net profit for the
+ quarter at 10,342 close grew by 18.1 percent over prior year we'll give you
+ some balance sheet items color on some balance sheet items total deposits
+ amounting to 14 lakhs 45,918 crore is up
+ 18.8 percent over prior year.
+ this is an additional
+ of approximately 40,000 crores in the quarter
+ and 1,75,000 crores since prior year.
+ detail constituted about 83% of total deposits
+ and contributed to the entire deposit growth
+ last year. Casa Deposits
+ registered at a robust growth of
+ 24.6% year-on-year, ending the quarter at $6,81,225, with savings account deposits at
+ 471,000 crores current account deposits at 210,000 crores. Time deposits at 7,64,693 crores
+ grew by 5.6% over previous year.
+ Time deposits in retail segment grew by 8.3%.
+ Time deposit from wholesale segment decreased by 2.8% year-on-year.
+ Casa deposits comprise 47% of total deposits as of December end.
+ advances where 12,60,863 crores grew by 5.2% sequentially and 16.5% over prior year.
+ This is an addition of approximately 62,000 crores during the quarter and 1,79,000 crores since prior year.
+ Moving on to CAPAD, which I covered at the beginning,
+ totals according to Basel 3
+ guidelines, total capital
+ I think I'll see it.
+ 19 and a half percent,
+ Tier 1, 18.4%.
+ CET at 17.1%
+ which I covered previously.
+ Now, getting on to some highlights on HDBFS, this will be on Indias basis.
+ The total loan book as on December 31 stood at $60,478 growth with a secured loan book
+ comprising 74% of the total loan.
+ conservative underwriting policies on new customer acquisition which was
+ implemented during COVID continues to be in place and will be reviewed in due
+ course based on external environment.
+ Disbursements are picked up in Q3, growing 9% quarter on quarter and 11% year on year.
+ For the quarter, HDB FSL's net revenues were 1,982 crores, a growth of 15%.
+ Processions and contingencies for the quarter were at 540 crores, including 97 crores of management overlays against 1024 crores for prior year.
+ Profit after tax for the quarter was 304 crores compared to a loss of 146 crores for the prior year quarter and a profit after tax of 192 crores for the sequential quarter.
+ As of December end, gross stage 3 stood at 6.05% flat sequential quarter.
+ 80% of the stage 3 book is secured
+ carrying pollution coverage of about 41%
+ as I've presented in
+ and it's fully collateralized.
+ 20% of the stage 3 book which is unsecured had a provision coverage of 84%.
+ Liquidity coverage ratio was strong at 222%.
+ The SDB is funded with the cost of funds of 5.9%.
+ Total capital adequacy ratio is at 20.3 with the tier 1 at 14.9.
+ With markets opening up and customer accessibility improved to near pre-COVID levels, we believe
+ the company is well poised for a healthy growth from here on subject to any impact on further
+ waves of COVID. Now if you work on HSL again on India's basis. HSL is just the
+ Security is limited with its wide network presence
+ of 213 branches and 147 cities and towns.
+ The country has shown an increase of 58% year on year in total revenue to 536 crores.
+ Net profit after tax of 258 pros in Q3 is an increase of 58% year-on-year.
+ HSS digital account opening journeys are running successfully.
+ There has been a significant increase in overall client base to 3.4 million customers as of
+ in December an increase of 30% over prior year.
+ In summary, we have reasonably overcome the effects of pandemic over the past 21 months
+ across broad contours of balance sheet P&L and human capital, while the effect of the
+ latest COVID wave is not clear, which we'll have to watch out over the next few weeks to see
+ they return. We are confident of
+ navigating through this, applying our learning from past waves, our growth is
+ accelerating, leveraging on our people, product, distribution, and technology.
+ The quarter results reflect deposit growth of 14%, advances growth of 16%,
+ and the quarter results reflect the results.
+ tax increased by 18 percent delivering the return on asset over two percent earnings per share in the
+ quarter of 18.7
+ book value per share increase in the quarter by
+ rupees 19.4 to 415.3
+ with that thank you very much
+ so that may
+ Mary, this is what you do with an app for
+ Questions, please.
+ Thank you very much.
+ Ladies and gentlemen, we will now begin the question-answer session.
+ Anyone who wishes to ask the question may press star and one on the touchstone telephone.
+ If you wish to remove yourself from the question queue, you may press star and 2.
+ participants are requested to use handset
+ while asking a question.
+ Ladies and gentlemen, we will wait for a moment while the questions have assembled.
+ The first question is from the line of Maru Kajjania from Ilara Capital.
+ Please go ahead.
+ Hello, congratulations.
+ my first question
+ is on credit costs.
+ So, it's the total credit cost including contingencies has come below 100 after many quarters, around three years.
+ Now, assuming that there is no further COVID wave, is that the new normal we are likely to see over the next few quarters?
+ Thank you.
+ I hope I can, yeah, use some.
+ Excuse me, sir. I'm so sorry to interrupt. May I please request you to speak closer to the phone, sir. Your audio is not clearly audible.
+ Okay.
+ I'll take it.
+ I moved my chair, but it's okay.
+ Yeah. Maru, thank you. Yes, valid question and appropriate. Thanks for asking that.
+ See, we are coming from a COVID cycle where our booking have been,
+ uh from a retail point of view uh have been benign uh second from a wholesale point of
+ which we have shown
+ very highly rated corporates, right?
+ So, we come to the slide.
+ through the cycle and now starting
+ to begin to get the retail out the recent vintages when we look at the recent vintage performance
+ they are far superior
+ both the entry-level scores
+ and the customer profile in terms of how we opened up and started, they are superior.
+ Right.
+ And whether this is a new norm, I would not say that this is a new norm, right?
+ this is you have to look at credit cost normally over a cycle for a period of
+ for a period of a few years you have to look through a cycle and that's how you
+ you need to look at it.
+ But if you look at our NPA, 1.26 can bounce around at any time, 10 to the basis points up and down.
+ two quarters ago, 1.47, now 1.26.
+ So it can go up and down within a small range, that's where it can come.
+ From a credit cost point of view, well, we are not given a particular outlook as such,
+ but we have averaged in the past
+ I'll call it 1.2, 1.3, thereabouts.
+ that's the kind of range at which the total cost of credit total provisions uh that have
+ have come up with. Current quarter is at about
+ 95.
+ that's, they call it a little lower than that, right?
+ so in a broad range
+ If you think about 100 to 120 kind of a basis point,
+ That's where in the last, go back to pre-COVID,
+ that's the kind of range
+ at which we have operations, right?
+ and if the credit costs are lower, then, you know, the way we look at it is, it calls for
+ experimenting a few things
+ It calls for opening up a policy.
+ So there is a policy reaction that comes in, right?
+ There is always the pull and pressure between the business and the credit that happens.
+ So I wouldn't take that 50 or 60 basis points
+ total credit costs or the specific losses or a total cost of 95 basis points as a good
+ standard for for a long time to come but this is the current course is where we are.
+ Okay, thank you.
+ fill in my next
+ Wait, Jim is on speed.
+ You did mention that payment and credit card-related fees declined.
+ but were there any one-off
+ some more, I mean, if you could give more
+ I love you.
+ was there any one-off of big-time promotional expenses
+ which won't recur so that we know
+ or we can, you know, get a clear outlook on the trajectory in the next few quarters.
+ Okay.
+ Yeah.
+ Now again, again, a good, quick question.
+ good good question thank you see the fees 5 000 or crore that we reported is two percent right
+ In the past, we have done pre-COVID, if you think about it,
+ before there were waivers and so on and so forth.
+ We have done 20-odd percent of sales.
+ We have consistently said the way to think about the fees is somewhere where it should
+ is mid to high teens kind of places where it can settle, right, normally.
+ And again, this quarter, if you think about excluding the payment products, it is at about
+ 17%.
+ Payment products have been unusually low.
+ there are a few things on to think about on the payment products
+ One, as I alluded to, we offered certain fee waivers to incentivize customer engagement.
+ So that's one thing which doesn't need to recur every quarter, but it can happen every
+ the other quarter, depending on what programs we run, right?
+ but that's part of running the business
+ and that's part of growing the franchise, right?
+ So that's one thing to think about.
+ Second, even from a card's point of view, from a credit, I think I alluded to in terms
+ of how customer behavior
+ from a late payment point of view, right, is that the customers are paying very much on time.
+ So that is reflected there too.
+ So the opportunity that we used to get from a late payment doesn't come true.
+ The customers used to take cash
+ advanced it.
+ left is on the lower end.
+ So the cycle has to turn a little more on that, and so you'll see some cash advances coming through, right?
+ and from a policy point of view
+ Until recently, we were tight on the credit limits, right?
+ So then there is a credit limit over the credit limit.
+ There is some fees that will come.
+ that is also lower because from a policy point of view,
+ we've been cautious on that, right?
+ But as we speak now, the policy review has taken place
+ then we are getting to business as usual subject to another wave of what it does and so on.
+ So that is one aspect that you think in terms of the impact.
+ but then the broader conflicts is required
+ in terms of what is the overall, right?
+ So if you think about the customers itself, particularly I'm talking about the payment
+ products, the card customers, right?
+ The credit line utilization is at a low.
+ it's like a is like on gate x of the pre-pandemic level so the while the spend levels are up 24
+ percent and the interchange is quite robust and good with a good yield that we get on that but the
+ But the credit line utilization has got much more to go to get back to the pre-pandemic
+ level so that's that's one thing on the people who are spending so the finger
+ pay and then if you think about this they are all paying what is happening to
+ the revolver types, right, that is also at about 0.7 to 0.8 of the pre-COVID levels in
+ terms of the revolving on car. So there's much more room for people to get into those revolver types.
+ so that's part of what the strong
+ quality of the book that exists today
+ and that is part of what
+ some of the fees that come
+ are also muted
+ which are connected to that
+ I'll give you another perspective to think about on the cost, on the customer's liquidity.
+ it balances you know but most of our card customers you know have liability
+ relationships with us, right? We have good amount of liability relationships.
+ Card customers contributed almost 4x, this is pre-COVID, right?
+ if we exist
+ the advantage
+ we access the ANR of cards, which is the card loans on both.
+ an aggregate level at an aggregate level the liability balances of the card customers were
+ typically 4x right now it is 5x so which means customers are sitting in a good
+ amount of deposits and liability balances with that. So this is the economy has come down and
+ And now with the huge amount of liquidity and cash at disposal with people, now we're
+ starting to pick up on growth and so this is part of the cycle growth that we expect that to come
+ back to a relationship, right?
+ So from a long-term point of view, mid-teens to high-teens is what we have said in the past,
+ that's what one should expect from a card fees point of view.
+ Thanks.
+ But how, in your assessment, how many quarters would it take to reach that long term?
+ It depends. It's a combination of both the environment, the economic activity in the environment, and the customer behavior to get on with that.
+ Could be two, three, four quarters.
+ I would expect that I don't want to
+ one check to predict exactly what it is because there's no exact science that tells where it
+ this but typically that is what you would see that it takes for a
+ a maturity model to operate.
+ And similarly, the same thing applies to, if you think about the PPOP, it is very similar, right?
+ whether as the loan growth gets back,
+ the PPOP should more or less
+ mimics the loan growth. That is what historically
+ that we have we have shown that is very historically we have performed right that
+ That is the kind of what the loan growth is, the headline.
+ that's what most of the lines operate tend to be similar as we go along.
+ Okay, thanks.
+ Thanks a lot.
+ Thank you.
+ The next question is from the line of Alpesh Mehta from IASL Securities.
+ Please, please go ahead.
+ Hey, thanks. So, thanks for taking my question and congrats on the decent set of partners.
+ The first question is about the reconciliation between the on the restructured loads, what
+ we see in the notes to accounts that works out to be around 22,000 and 1.37 works out
+ to be around 50,000.
+ So how do you reconcile both these numbers?
+ Okay.
+ You're seeing what you said?
+ the when i see notes to account
+ the total
+ the total number works out to be around 18,000 Garums plus there would be a R1 number so
+ So both put together is around $25,900.
+ Nodes to Accounts also mentions that the double counting between R1 and R2 is around 2700 crores or something like that.
+ so the net number works out to be around 23,200 crores
+ whereas our commandment shows that it's around 17,200 so that is the
+ a gap of this around 6,000 euros.
+ Okay, got it.
+ I've got your question.
+ See, it is based on what the template, right?
+ somebody find the template and we fill the template up and put up there, right?
+ So that's something different.
+ It's a good point that you raised, right?
+ 25 000 what was there is what did you uh grant as a restructuring in r1 and r2 when you add up that
+ That is what it is.
+ If you eliminate the double counts, it is like 22,000, right?
+ Okay.
+ This is originally as granted in several points in time.
+ That means whenever it was granted at those point in time, right?
+ what was the number. That is what you see there.
+ Last September, we reported 18,000 crores, right, last September.
+ And currently, we say 1.37, that is 17,500 crores or so approximately.
+ So first, the 18,400 to 17,500, the movement, they call that about 900 crores per movement.
+ that half of it is moved to NPA
+ half of it is a net of
+ various recoveries and adjustments.
+ So that is part of what, from September to December, things have moved, right?
+ But between the 22 to what we reported in September 18,000, that is a net of whatever
+ happened before September, which is between what happened to NPA, what happened to various
+ recovery is an adjustment around that
+ time, right, as we speak in September.
+ that's part of
+ I think some of you picked up the number of what was originally granted,
+ but what was outstanding as of September 18,000
+ and now it's 17,500
+ okay
+ So, Srini, just correct me if I'm wrong.
+ If I look at the September disclosure, right,
+ these R1 plus R2
+ minus the double counting
+ as per the notes to accounts
+ was around 22,500
+ of which there were NPLs and the amount repaid of the R1 amount that you mentioned in the
+ needs to have found.
+ So that number was around 20,400 whereas as per your disclosure in September was 18,200.
+ So the 2000 crores was the difference between the amount which was reported as of September
+ and between your result date.
+ Is that my understanding correctly?
+ Correct. Various other recoveries and other things that came until the reporting date.
+ Okay. Okay. And right now also is a similar situation wherein you have not reported the NCS and the repaid amount out of R1 and R2.
+ So, as per the notes to account, it could be around 23,200 crores.
+ after the recovery, NPLs, everything, and the repayment, etc.,
+ because I'm telling you talking about it.
+ So this quarter, this quarter notes to account simply calls for, this is again mandated, right?
+ calls for reporting only R2
+ as originally granted, which is reflecting 18,000 crores or something in the notes.
+ 18,000 crore is not the outstanding, right?
+ it is 17,500 is outstanding so whatever was
+ mandated to show in the notes, that's what
+ we showed, but both
+ when I talked
+ and I gave the 1.37, that is the 17,500.
+ which is
+ R1, R2 whatever is the restructuring outstanding on the balance sheet that is the number that you
+ are mentioning that that is correct that is correct okay the second question on the can you just give
+ some qualitative comments related to
+ the tenure of this book
+ you mentioned as one of your comment that 10-20 basis points
+ would be shifting to gross NPN at any given point in time.
+ but there could be a situation that almost 25-30% of this book
+ can sleep over a period of next one year.
+ So, when we are talking about 10-20 basis points of that particular quarter or over the tenure of the book.
+ So, for example, if it's around 1.37, then out of this 1.37, only 20 business points can sleep into NPL category.
+ I just wanted to clarify that number.
+ Okay. See, by the way, there is no particular
+ science of 10 20 or something this is based on what our analytics comes up to
+ say based on what experience
+ we have seen based on the customer profile,
+ which I alluded to to say, for example, the one that I gave, about 40% are secure, right?
+ fully collateralized
+ and with a good Sibyl score,
+ which we feel very comfortable with, right?
+ Then on the unsecured portion, we said about, call it roughly about two-thirds or so salaried
+ customers where we feel quite comfortable right and then on the balance
+ where we keep watch
+ about 40% or so
+ a good Sibyl score. Sibyl score more than
+ 700 also. So based on
+ various these kind of analysis
+ that's where
+ if you said we feel comfortable
+ that tend to do business points
+ at any particular point in time
+ that can be within our tolerable range, right?
+ And from a restructuring point of view, generally the restructuring can run up to two years, right?
+ And again, if there was one year of a loan left and two years granted, now the person
+ has got it for over three years to go.
+ Okay, so again, just again clarifying over here is almost 15 to 20% of the book can slip as per your analytics.
+ is that the number correct now
+ that 10 20 business points is is of 1.37 percent so it's around whatever that
+ seven to fifteen percent of the book can be based on your analytics or the customer
+ data that you have?
+ I don't want to venture into extrapolating the 10-20 basis points into various time periods.
+ Yeah, yeah, got it, got it.
+ Okay, the second question is related to the credit growth.
+ historically we had a multiple
+ x-multiple of the system credit growth that we always used to guide about but as just
+ an indicated number but now
+ So when I see at the system level because of the consolidation in the larger segment
+ within the PSU guides.
+ the system may be growing at x percent but the private sector banks are growing much faster than
+ that and some of our larger peers are also growing at a significantly higher rate than that of the
+ the system. How do we
+ see our credit growth
+ do we still maintain that X percentage that we used to talk about in the past
+ or we can have a better opportunities to grow much faster and gain market share.
+ secondly
+ your comments on the three specific
+ products, one is payment products, second
+ one is the commercial and rural
+ Thank you, which is growing very fast at around almost 30% YOI.
+ And lastly, corporate and wholesale banking since we have developed quite a bit of
+ credit.
+ over the last two years
+ and growth is good
+ addressing as a shadow of overall
+ your mood.
+ So, those are my wishes.
+ Thank you.
+ It's okay. No, thank you.
+ long question, but I'll try to be
+ as shocked and crisp as possible.
+ if you think about the loan growth and the market share
+ One thing is that, you know, our loan growth is consistent, right?
+ consistently growing including during the COVID period and one has to look at
+ it not one quarter two quarters but over a longer period of time
+ want us to look at how we are growing rather than the one period so essentially looking at the
+ consistency of growth over a longer period for example you can take a two-year growth right a
+ longer period and that includes the code period too
+ we have grown at 35 percent right let's call it high teams annual that kind of a growth rate that's
+ as well.
+ similarly you can go back to five years five years period between 2016 to 21 or
+ something like that again about two plus a little more than double call it high
+ these type of growth that's that's what we have at that time so one has to evaluate uh in the
+ the current circumstances
+ one also has to evaluate
+ there's an incremental
+ basis, right?
+ what we have grown.
+ we believe based on an incremental basis
+ we have a share of more than 25% or so on an incremental basis, right,
+ from what has happened.
+ You know, if you think about it,
+ a lot and 79,000 crores in the past 12 months,
+ 3,25,000 crores in 24 months, right?
+ and again
+ we focus on appropriate products
+ you touched upon, the categories of commercial and rural or wholesale and retail.
+ yes at some point in time we did grow a good amount of wholesale there's a good
+ demand we were there for the customers to support them in terms of the whole
+ very highly rated and now we see a lot of prepayments happening that's about
+ 700% is what year on year we see
+ in the whole state.
+ On the commercial and rural, enormous opportunity and very fast-growing.
+ you know about a third of the country's GDP is contributed but that kind of a
+ That's the segment, right?
+ statement.
+ participate more vehemently in that group in that segment and we will
+ continue to bounce
+ on that one on the retail uh we were subdued uh rightfully so from a policy point of view we are
+ back and that is what you're seeing in the sequential growth at four and a half percent or so.
+ So net-net, coming back to the same summary, which is now one quarter or two quarters doesn't establish what the growth is.
+ It's about the consistency of growth and over a period of time.
+ and that's how you must look at it in terms of our growth and we will
+ continue to capture market share and again in a balanced portfolio across
+ secured unsecured in retail, across commercial and rural and wholesale so
+ across various product spectrums, customer spectrums.
+ Thank you.
+ The next question is from the line of Akriti Kakkar from Goldman Sachs.
+ Please go ahead.
+ Yeah, thanks.
+ Hi, Sweeney. Good evening. Rahul here. A couple of questions. First one on the asset quality bit.
+ Just wanted to confirm, was there any new restructuring that we did in this quarter?
+ plan that case but then the paydowns and other things that happen so net net it
+ is at seventeen thousand five hundred on point three seven thanks the second
+ but he's on this,
+ Flippages and credit costs, I think Maruk also asked this question, on the credit cost
+ also 95 basis point and flippages also are one of the lowest that we've seen the last
+ reporters, assuming no pandemic
+ impact.
+ you think you know this could be a new normal over the next few quarters and
+ And then in that context, how do you plan to build up the PCR buffers from here?
+ shall we continue to see more and more
+ floating so we can come through.
+ Okay, this is a good question you touched upon, another aspect of what Maruk also touched upon.
+ But, you know, as a bank, we don't need one particular outlook or a forecast in terms
+ of how to look at the credit.
+ But all I can point you is to historical
+ to say that in the recent COVID time period,
+ We operated 1.2, 1.3% kind of thing.
+ If you go to a little before the COVID period, 100 to 120 basis points, somewhere there we
+ operated uh currently including the the contingent provisions about 95 basis points uh but yes over a
+ period of time again when you look at it we should revert to that kind of a what was the pre-COVID
+ mean, a type of a mean reversion should happen towards there, right?
+ and current
+ And current quarter is reflective of what we have booked because the recent vintages are
+ Call it the 18 months or 15, 18, 21 months
+ type of vintages that we have booked across various segments, right, across various segments.
+ they are of very good quality
+ retail book, you know, is typically
+ two years on an average retail book.
+ and it is of a very good quality.
+ And our innovation lab is working on several things,
+ including opening up new to bank, right?
+ So that means what previously that we had about, call it 80% of existing to bank a personal
+ loan or call it two-thirds to 70% existing
+ back-to-bank card loans.
+ But now the Innovation Lab is making progress towards using alternative data from the market
+ to see how new to bank could be as efficiently scored and pass through the muster on the
+ scoring models to get it.
+ Yes, I wouldn't I wouldn't ask you to project based on the current quarter,
+ but you should think about it from a pre-COVID norm what it is and that's the kind of so your
+ second aspect of the question on the on the building of the provisions and so
+ on right see our buildup of the contingent provisions goes back several quarters and much
+ before the onset of the COVID period, right?
+ So, for example, if you look at June 19 or so, when we initiated a build of our contingent
+ potions.
+ that was the argument of counter-cyclical proportions then, right? At that time, the contingent
+ solutions were less than 1,000 crores. Today, it's built up, it's more than 8,500 crores,
+ or about 70 basis points of grass advances,
+ or 80 basis points, including floating process,
+ way, whichever way you look at it, right.
+ what it does is that it takes about
+ it makes the balance sheet much more resilient for any shocks,
+ uncertainty pandemic can bring.
+ and what does such
+ What should the resiliency do?
+ good execution on the front line for our growth, including making several
+ experiments in our lab, as I alluded to.
+ So that's what we should think about.
+ we evaluated quarter to quarter
+ There is no pre-planned type of how this runs.
+ you take it as a
+ comes in a quarter and evaluate it but it changes two more questions the other
+ question was on the credit card or the payment product profitability you laid out a few points
+ why it was
+ distributed this quarter but when you think about the structural profitability of this product and
+ also what regulators are thinking
+ any thoughts as to how we should think about
+ what are the components that would still remain remunerative while the
+ components which could witness you know some pressure. You pointed about the
+ fee waiver, you know,
+ the repayment fee, et cetera, you know, sort of coming down.
+ so how should we think about more from a one to two years perspective
+ good question
+ right
+ We will come to that, the regulatory or any other thing that will come to that.
+ but from an overall buoyancy point of view,
+ See, the first aspect of a card is about the spend,
+ and the spend is quite picked up,
+ 24% or so year-on-year growth rate.
+ So that is something that has happened.
+ And the next thing, as the spend goes up, the credit line utilization needs to go up.
+ As I said, the credit line used to utilization due to the
+ spend coming down over a period of the code came down now it needs to go up
+ that is still credit line utilization is at about 0.8 of the pre-pandemic levels.
+ So that should start to go up by then.
+ Along with that gets to the revolving and so on and so forth, everything else that comes, right?
+ And from a fee charging point of view, there's various fees.
+ The penal type of fees or incentive type of fees or loan origination kind of fees, those
+ So those are routine and will happen,
+ moves on as the volumes come up, right?
+ Any other type of fees that where there can be a regulatory constraint also comes to the cost, right?
+ So that means you need to think about not just the fees,
+ it's also you need to think about the cost that goes to the field for example
+ if there are certain fees that goes up there has to be a certain cost also that
+ goes up right and what are the type of costs that can go up you see that there
+ there is a balance between what you earn on the fees and what you spend on the expenses,
+ call it the rewards call it the cash side call it the sales promotion the marketing promotion they
+ some linkages across the PLN right from top to bottom these are the kind of
+ linkages one cannot look at only one isolation as a structural change right there's no such
+ structural change but if there were to be a structural change one has to look at
+ it across all the p in the lines in terms of
+ what is discretionary and what supports what right and then accordingly one has to model but from
+ from an aggregate sense the card's profitability uh model should remain intact irrespective of
+ whatever.
+ Last question on the digital strategy.
+ you know you even also partnership
+ with those two entities.
+ So can you just talk about this partnership with Senddice or the entity that you're looking
+ about and how does it sort of
+ feeds into your digital
+ 2-0 strategy
+ to acquire and retain the customers.
+ and also from operating leverage point of view.
+ That is the last question.
+ Thank you, Shane.
+ Okay, thank you.
+ So I know this is more of a key question and getting talked about everywhere
+ in terms of partnerships
+ and how you think about
+ and the cost of income and so on and so forth.
+ So maybe it's the time I'll take two, three minutes or so to describe, right, how we think
+ about it and you can
+ see whether it fits in with what you're all thinking, right?
+ See, in a bank, you'll have to look at things in three different kind of activity.
+ Call it like that, right?
+ One is the customer.
+ position.
+ The second one is the customer servicing.
+ and third one is relationship management.
+ So this is the continuum of how one engages with the customer at workshop.
+ The various fintechs and the partnerships that we are all talking about
+ is on the front end there,
+ on the customer acquisition side.
+ we have several channels for acquisition.
+ branch, we have a virtual relationship model, we have a feet on street model, we have a
+ physical DSA model right and then now we have a digital marketing model developed
+ over the last three years
+ based on analytics. And now we have a
+ partnership model, let us call it a
+ fintech partnership or any other type of partnership that we think about that is
+ another model. And we do get, I gave you some time ago in terms of, we got in 2.4
+ million liability relationships that's the key ingredient that comes in based
+ on which every other product starts to work on that, right?
+ and so that is the kind of inflow of customer so you get a little more
+ accelerated a customer acquisition at the end of the day you measure the
+ effectiveness of that to the better cost of acquisition which is the optimal cost
+ of acquisition, that's where it gravitates to.
+ If a branch brings in accounts, brings in relationships at a cost that is much better
+ than the FinTech or better than a partnership.
+ That is where things gravitate to.
+ right
+ that's part of the cost of acquisition
+ That's all you think.
+ How do you think about that?
+ then certain other uh fintech or a service or a mobile banking feature or various other things
+ that go that goes in customer servicing that is enabling customers uh to do things where it can
+ can be done on self-service or where it is done through a relationship management, how
+ on a straight-through basis, on a paperless basis that we execute.
+ That's where you measure that to a cost to income.
+ are you at an optimum level
+ of cost-to-income where you are able to support the customer's activity in an optimum manner.
+ so that that is that that you measure through how we are executing on that aspect of it right
+ now on the relationship
+ management which is where the most
+ of the money, right, which somewhere in the past we have done, we have said, even last
+ I think you mentioned it, call it about the third, less than a third, less than 30% of
+ or customers provide little more than two-thirds of value
+ to the bank, right?
+ And 30% of the customers are the ones
+ where we have a relationship management.
+ So at the end of the day, you can bring in any customers through any channel,
+ optimum cost of acquisition
+ You service them through digital approach to any way.
+ at the end of the day, the value
+ It comes through relationship management, right?
+ That's why at least in our case we have published that
+ and we have talked about this in the past.
+ so it is about the relationship management
+ that brings them.
+ Now, there are certain things in relationship management.
+ For example, in the relationship management, we implemented,
+ we talked about over the last 12 months
+ actually during the course period,
+ the analytics-based engagement with the customer,
+ or the next best action that we implemented, right?
+ in terms of how it rank orders customer preferences
+ based on products, behavior, and the intent to purchase,
+ that the recommendations that come we have for 20 million customers uh we have recommendations that
+ we we have an engagement with mod again it is digitally driven proprietary driven internally
+ through analytics technology helps there but the delivery is through relationship management so this
+ can't be delivered through a through a mobile banking or an internet banking
+ or a FinTech partnership or any other partnership
+ or a FinTech partnership or a FinTech partnership
+ be delivered, right?
+ it gets delivered through because that's where the value
+ comes through a relationship
+ approach right so that is that is something that the capability is coming from there so that's I
+ Probably I'll leave it there.
+ have taken a minute or two more than what i said i will do on that hope hope that gives the
+ the perspective of how we think about it.
+ Yes, yes.
+ Thank you so much, Srini.
+ will definitely take it offline as well.
+ Thank you so much.
+ Thank you.
+ The next question is from the line of Soura from JP Morgan.
+ Please go ahead.
+ Hi. Good evening, Sreeni. So just one question. This is on your net interest margin. So how
+ should we think about the progression from here the book mix clearly seems to
+ getting better and you know it's
+ rates rise, you clearly seem to be in a better position.
+ so would you expect
+ that the nins should go up from here
+ And in that context, you know, your earlier comment that people will grow in line with
+ loan growth shouldn't idly this growth be better.
+ Thanks.
+ Thanks, sir.
+ Okay.
+ See, Saru, thanks for asking again.
+ and very key part of the dynamics in the P&L
+ to think about, right?
+ historically over a period of three years five ten fifteen right we have seen all
+ of those, which you have seen too.
+ The bank has operated in a band of, call it 3.94 to 4.45, right?
+ 4.4, 4.5
+ percent. That's the band
+ which by the way that is based on average assets not interest running assets because
+ I don't want to get confused with the denominator being what it is.
+ denominator in this case that I quoted the numbers is average assets because
+ There is a process, I think, in the industry about using interest-running assets, but that's
+ a different matter.
+ Okay, 3.94 to 4.4, 4.5, right?
+ the band at which currently we are the low end of the band because the retail products where we see
+ much much more of uh yield coming much more of a spread coming and it comes with the higher rwa
+ right it comes with a better the higher risk rating
+ on those, right?
+ that comes there.
+ We brought that down, and it's in the mid-40s, and it's starting to take its own licks and start to grow, right?
+ So one is that it needs to take its time to grow back to what it was, call it two years ago, right?
+ so that's the journey and the journey if you look at the sequential
+ uh that you've seen about four and a half percent call it 18 percent or so is the growth on the
+ the retail portfolio, right?
+ And the next part of that could also be on the retail front itself, the mix of the retail front, right,
+ Whether in the current rate scenario, what sort of loans that yield, right?
+ it also depends on the segment in which we operate.
+ In the recent past, we have had a good growth in retail, this quarter 4.5, last quarter
+ also it was for something right so it's going to take a few quarters for that to come back
+ uh to life but within that as we came out of code and started to focus on this uh we have five
+ categorization for the carpet
+ salary segment which where many of our high yield products are targeted to right category a b c d
+ right
+ And category A, B, C, Cat A, Cat B, Cat C is a kind of a very popular where we have had a good success to start with right now.
+ And we should have broad base as we go along with better yield and the rates also going up.
+ So that is something to keep in mind that the other aspect of it is also the government
+ signal.
+ The government segment in our analytics risk analytics model can typically be a low risk relative to the rest and will come in a risk-based pricing model, it will come with a relatively lower yield than the rest.
+ So that is something also we have focused and continuing to focus on that also.
+ So at the end of the day, it will take a few quarters for this mix of retail and within the mix of retails to be much more broad based across all the segments within the retail that we are talking about to come up.
+ So, that is one aspect of what you can think about the NIM coming up.
+ The other aspect of the NIM is also about the rates itself, right?
+ If you think about the repo rate,
+ loans linked to repo rate slightly under a third
+ right now, right about 31, 32,
+ slightly under one third of our loan book
+ is linked to a repo rate and about the little mid single digit or so is linked to tables right and
+ and so which is if you go back two three years ago when we were in the mid to
+ high end of the titanium range, the
+ confidence that that means
+ the composition of these two
+ we're very meager, right?
+ what do you know
+ call it
+ I wouldn't call it single digit but very low
+ it was. So it has moved up
+ and now the rate starts to move up
+ that is going to give something.
+ And, of course, the cost of it, as the rate starts to move up,
+ that will have an impact on the cost of funds too.
+ But the cost of funds can come with a lot, and savings deposits, not necessarily.
+ on the time deposits which can come with a lot, right?
+ Okay?
+ That's the kind of way you think about it,
+ saying one is the rate environment,
+ and another
+ a mix of retail uh that can come and and bring in that so idly it should move up so that's what i
+ I was coming to that if your NIMs tend to move up
+ shouldn't your operating profit be better than loan growth
+ is the limited point I was trying to get at.
+ See, Saurabh, it's a good point that you say, right?
+ But from at least my point of view, my perspective, I will tell you that you need to be continuously investing, right?
+ and when you make those continuous investments
+ then that is where you get to the long term.
+ So in a static book, what you say is right, right?
+ If you look at it in the short term, say, hey, don't make any other change.
+ Just allow these two changes change the mix on the loan and change the segment to between between
+ in retail, get to a higher yield segment and should that be, yes it will be, but you know
+ that this is not a unidimensional model, right?
+ It should be a dynamic model where you invest for the future.
+ that's why i alluded to in my in my opening remarks that about the branch investment
+ about the people investments about the technology investment we need to do that for the future you
+ You don't see a return on it today.
+ you will see the return on it in a couple of years time, right?
+ because the branch maturity model takes anywhere from two to three years
+ to be in a reasonable state
+ and between five to ten years to get to be a robust state, right?
+ same with people productivity and so you need to make those continuous investments on those
+ And so that is why the one that I mentioned that the three
+ Provision Operating Profit or BPOP mimicking kind of a lending growth rate.
+ that's how historically we have been
+ because continuously we have added branches.
+ So if you think about, you know,
+ last 5-10 years we've added
+ two thousand six hundred branches in the last five to ten years in the last one to three years we've
+ provided 1100 branches right and so that these are the kind of investments
+ continuously we do to model so that it is dynamically maintained for a longer
+ will come to come.
+ Thank you, Srini.
+ Thank you.
+ The next question is from the line of Suresh Kanpati from Macquarie.
+ Please go ahead.
+ Yeah, hi.
+ Shrini, I have a question on the fees for the payments products in the sense that are you seeing pressure on interchange fees?
+ Are the MDR levels coming down?
+ You know, the reason why I'm asking this question is that, first, of course,
+ You can just tell us what has been the experience.
+ And secondly, from the new digital payments paper, I know it's always difficult to second
+ guess what the regulator is thinking, but you really think there can be further reductions
+ with respect to MDRs
+ on debit cards?
+ can there be something on credit cards
+ can UPI be monetizable
+ I'm just asking all these questions because everything has got to do with the payment-related fees.
+ So if the regulator is thinking only in one direction,
+ that's to bring down the transaction cost,
+ then this is not going to be one sort of phenomenon
+ and you're going to be prepared for subsequent several quarters.
+ So how is the management thinking about taking care of some of the regulatory challenges here?
+ Thanks so much, Sreeni.
+ yeah thank you thank you Suresh and it's indeed important to address it and think about and say
+ say about what we think, right?
+ There are two aspects to this.
+ One is the experience itself in terms of what we see on the interchange or the MDR.
+ There has been no pressure on interchange or MDR from a rate point of view, right?
+ it has been quite
+ quite steady and quite nice so that is that is something from from our recent experience that
+ has not been inhibiting our kind of a free line. The rate is quite all right.
+ now now when the MDR will address that because it is easy to address will come
+ interchange see MDR we don't make on a net basis we don't make much we don't
+ make anything on India for that matter that means if it is an internal customer
+ that means we have an issuing card
+ All right.
+ I'm glad you're here.
+ business pays
+ interchange to the issuing card right so and if it is a third party card office
+ card our our mdr business pays into change to a third party uh issuer right so mdr business as
+ such is pretty neutral but we still very very vehemently pursue when we are
+ a relationship
+ or merchant relationship 2.8
+ in eight by million
+ and continuously grow that because of the
+ the sandwich strategy
+ which is along with that comes the liability and comes the asset value right
+ which we liability we've already started and assets we are working on
+ various models and we have come to a reasonable value there. We still have to do a lot to grow
+ there but that part of that strategy so that India as such there is nothing to
+ take it away on India because there's nothing there to take it away so that's
+ one. Now coming to the interchange
+ It is being held steady.
+ If there is any other pressure on interchange, Suresh has alluded to a little earlier in
+ in some other context of the question,
+ which is, see, interchange and isolation,
+ perhaps should not be looked at
+ Interchange should be looked at in the context of what is the reward that is offered on the card.
+ right what are the reward cost of the reward points cost of the cashback
+ points that are cashback cost which is there cost of the sales and promotion
+ marketing type of costs that are there, right?
+ So when you draw a P&L only on the tail, so that means keep the revolvers to the side.
+ keep those people who do the cash advances
+ and who do the limit announcements
+ or spend more than the limits
+ and who habitually pay late and keep them to the side right and it's a pure pure transactions if
+ you see and you draw a handle on the time factor, it is like that MDR sandwich strategy.
+ You keep that.
+ It's not a ringer.
+ because you've got a float on the liability side
+ with the customer and you're able to do
+ that can be on the asset side of the customer.
+ So, if they interchange for any reason, right, which you can't predict, but if any reason,
+ the rest to move up or down
+ Then you get the other liver on the pain that will get operated
+ right which is then you look at rewards and you look at your cash pack then you
+ look at your marketing and sales promotion and so you look at all of those and try to manage the P&L
+ to properly.
+ Okay. Okay. Thanks.
+ Thank you.
+ Ladies and gentlemen, that was the last question for today.
+ I would now like to hand the conference over to Mr. Vedianathan for closing comments.
+ Oh, okay. Thank you, Janet.
+ Thanks to all the participants for dialing in today.
+ We appreciate your engagement.
+ and if you do have anything more
+ that we could help you
+ from your understanding
+ of Ajit Chetty
+ and our investor relations will be available to talk at some point in time in the future.
+ Please stay in touch with us.
+ Thank you.
+ on behalf of HDST Bank Limited
+ that concludes this conference.
+ thank you all for joining
+ You may now disconnect your lines.

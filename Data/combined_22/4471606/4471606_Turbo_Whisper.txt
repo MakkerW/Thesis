@@ -1,0 +1,741 @@
+ Ladies and gentlemen, thank you for starting by.
+ I'm Myrtle, your course co-operator.
+ Welcome and thank you for joining the Hepsi Burada conference call and live webcast to present and discuss the third quarter 2021 financial results.
+ All participants will be in listening non-remote and the conference is being recorded.
+ The presentation will be followed by a question and answer session.
+ Should anyone need assistance during the conference call, you may signal an operator by pressing star and zero on your telephone.
+ At this time, I would like to turn the conference over to Ms. Helene Celik-Bilek, Investor Relations Director.
+ Mr. Livwilek, you may now proceed.
+ Thank you, Operator. Thank you for joining us today for Mr. Burada's third quarter 2021 earnings calls.
+ I'm pleased to be joined on the call today by our CEO, Murat Emirda, and our CFO, Korhan Öz.
+ The following discussion, including responses to your questions, reflects management views as of today's date only.
+ We do not undertake any obligation to update or revise this information except as required by law.
+ Certain statements made on today's call are forward-looking statements.
+ actual results may differ material from these forward-looking statements.
+ The earnings release has been filed with the SEC on a form 6K and is currently available on the SEC's website and on our investor relations website.
+ Please refer to today's earnings release, as well as the risk factors described in the Safe Harbor slide of today's presentation.
+ Today's press release, the 6K, our prospectus filed with the SEC on July 1st, 2021, and other SEC filings for information about factors which could cause our actual results to differ materially from these forward-looking statements.
+ Also, we will reference certain non-IFS measures during today's call.
+ Please refer to the appendix of our supplemental slide deck as well as today's earnings release
+ for a presentation of the most directly comparable IFRS measure,
+ as well as the relevant IFRS and non-IFRS reconciliations.
+ As a reminder, a replay of this call will be available on the Investor Relations page of HepsiBurada's website.
+ With that, I will now hand this over to our CEO, Murat.
+ Thank you Helen, and welcome everyone. Before we dive into the quarterly updates, some of which we shared in our pre-announcement on November 12th, let me start by saying that we, the Hepziburada team, acknowledge the concerns of the market.
+ Given the headwinds we previously reported on, we had a challenging Q3, and fell behind our expectations in GMV and EBITDA.
+ Today, we will share actions that raise those challenges in the market.
+ Also, we will share with you positive news on the progress we have been making.
+ With that, before passing over to Corhan for a more detailed look at our financials, let
+ me provide some context around the third quarter
+ Since our IPO, there have been strong headwinds on multiple fronts in the Turkish market,
+ which have presented significant challenges.
+ There are three themes that particularly stand out.
+ Firstly, following the full lifting of COVID-19 restrictions on July 1, mobility increased
+ and customer behavior began changing dramatically the change was so drastic
+ that the quarter-on-quarter market growth
+ slows to its lowest third-quarter growth rate in the past four years in Turkey.
+ according to Turkey Statistics Institute Tweets and Interbank Card Center BKM.
+ In response to the slowdown, we increase the customer discount to stimulate customer demand during that period.
+ in particular in July and August.
+ Secondly, the competition further intensified in Turkey.
+ as evidenced by the fundraising announcement of our main competitor
+ following our IPO and certainly there was the impact of the overall macroeconomic
+ environment in Turkey.
+ In particular, the exchange rate becoming more volatile since September could have affected
+ the customer's consumption decisions in various ways.
+ In light of these macroeconomics headwinds,
+ customer discounts and competitive pricing became more essential.
+ In response to this headwind, we increased spending on total customer discounts, marketing, and advertising.
+ As a result, we continue to generate strong GMV growth despite significant headwinds.
+ But this came at the cost of lowering our gross contribution margin and flat revenue growth
+ Finally, as you know, we already informed the market with a pre-announcement on November
+ 12th prior to this call.
+ We now want to share with you the context regarding the timing of the announcement.
+ Our business has always shown a strong end-loaded sedanality.
+ Historically, the second half of the year is higher than the first half in terms of GMB.
+ within the second half the last four months of the year generally make
+ approximately 40% of annual GMV due to key shopping occasions such as back to
+ school, legendary November shopping month, and New Year season.
+ Taking the seasonality into account, we made the pre-announcement after we had full visibility
+ on the business performances in the months of September and October.
+ Despite these major headwinds in the third quarter, we also have positive news regarding the progress we made in multiple fronts, including as follows.
+ Accelerating our growth drivers such as increase in customer, order frequency, merchant, and selection.
+ Strengthening our key differentiators such as NPS performance, unique services like friction
+ Merchant and customer experience.
+ getting our new strategic assets including our wallet companion HepsiPay
+ and our on-demand grocery delivery service has to express.
+ and also expanding our logistics footprint before we move into details on
+ business update please let me re-emphasize two things firstly with a
+ With a sharpened focus on key differentiators and drivers of sustainable GMV growth, managing
+ customer discount marketing spend and cash flow more efficiently we will
+ deliver our long-term value propositions. Secondly, following our IPO the market
+ conditions have changed, but the attractive
+ business opportunity did not 90 percent of total retail is still offline and the remaining online
+ 10 percent is expected to double its penetration within total retail by 2025 offering a sizable and
+ and timely market opportunity ahead.
+ Keeps our equity story intact and we remain fully committed to it
+ Now I would like to share a few highlights from our financial and operational performance in the third quarter
+ Total number of orders in the third quarter marked an all-time quarterly high at 13.8 million.
+ With this strong 72% order growth, this generated a 50% GMV growth in the third quarter compared
+ compared to the same period of last year.
+ the strong baseline effect last year our two-year Kegel growth rate was 84 percent
+ While increasing our active customer base, we also noted that we had successfully engaged our customers in terms of GMV per active customer across the platform.
+ as it grew by 33% year-on-year compared to the same period last year.
+ percent GMV growth came in more costly than the anticipated given the market
+ headwind I briefly mentioned in the third quarter we gain more customer
+ discount in total and spend more advertising to stimulate demand and also cope with the
+ intensified competitive environment this is visible in the BTA as a percentage of
+ GMV reaching a negative 10.2% in the third quarter compared to the same period of
+ of last year.
+ Taking a bit of a change.
+ Taking a BTH a negative 5.7% of GMV in the nine-month cumulative period in 2021
+ Corhan will address our financial performance in more depth in his section.
+ Let's move to the next slide where I would like to discuss our performance in key growth
+ drivers
+ Excerating our drivers of sustainable GMV growth is an important focus area for us.
+ This means we aim continuously to attract more customers, drive further order frequency,
+ add more merchants and enrich our selection.
+ Over the past year, we continue to progress in these drivers.
+ Our investment in growth, brand, marketplace and customer experience paid off given the
+ strong momentum in our active customer base, order frequency, active merchant
+ base and selection let me now share a few data points here active customer base
+ brewed by 26 percent reaching 10.7 million in the third quarter order
+ Their frequency grew by 21%, reaching 4.4 in the Q3.
+ merchant base grew by 87% reaching 67,000 in the third quarter the rise in the
+ number of merchants facilitates a wider selection with improved availability across long-tail
+ products and services as a result our total number of SKUs more than doubled
+ by reaching 77 million at the end of the third quarter.
+ These robust trends in our key growth drivers give us confidence for our path ahead
+ Let's move to the slide where I would like to highlight how we continue to develop our
+ and benefit from our key differentiators.
+ As a household brand name in Turkey with 99% total awareness, we had welcomed 240 million
+ sessions on a monthly average in the third quarter.
+ In September, based on the study conducted for our company, RMPS performance marks the
+ highest in the Turkish e-commerce market at 65 percent this course this score
+ shows our superior customer experience but also underlines our robot logistics
+ capabilities as key differentiation in customer experience friction with return
+ service, where we pick up returns from customer stores at their preferred schedule across
+ the country is you need to have the brother in this sector with this service
+ we were awarded with the golden award at the international business awards in the best user experience category in October
+ With its coverage of 81 cities and 1,800 carriers,
+ HepsiJet is highly focused on increasing its delivery speed.
+ In the third quarter, HepsiJet delivered 75% of 1P orders on the next day.
+ in addition hepsi jet expanded its city coverage for its two-man cargo handling service called hepsi jet x large and began offering scheduled return pickup for such oversized products as well offering a high
+ high
+ quality and reliable service in that particular segment, Hashtaget X-Large has made a significant
+ difference in customer experience and achieved over 97% customer satisfaction
+ score in September according to our internal reporting while we are
+ encouraged by the strong progress in our growth drivers we will certainly keep on
+ differentiating with our best-in-class customer experience powered by our
+ robust logistics reaching over hundred and ninety thousand square meters at
+ at this point.
+ Another important opportunity for us to further differentiate is the merchant experience.
+ We regard our merchants as our long-term partners.
+ As such, we pursue a constructive approach with our valley proposition, which has helped
+ us to significantly grow the number of active merchants I would like to share
+ some data points that will shed light on the level of integrated offering in the
+ third quarter our last mile delivery service helps the jet delivered around
+ 53% of our total marketplace parcel this corresponds to the largest share in
+ delivered parcels volume on a quarterly basis by HEPCJet. HEPC Logistics, our
+ fulfillment service has increased its focus on scaling its volume from
+ merchant on our platform it has significant room for growth and is
+ running its operations at our six fulfillment centers our advertising
+ service has been increasing its popularity nearly 12,000 merchants use
+ our sponsored ads through our advertising platform HepsiAds in the search
+ quarter we believe our strategy collaborations with Facebook and Google
+ on advertising technology and solutions
+ will contribute to the growth of the business.
+ Moreover, we continued our merchant training to accelerate their integration onto our platform.
+ As such, in the first nine months of 2021, around 39,000 training sessions were completed
+ on our training portal Hepsi Academy.
+ Now, I would like to update you on our new strategic assets, in particular HepcPay and
+ Let me begin with HEPC Pay first.
+ Since its debut in June 2021,
+ HtPay has made strong progress reaching
+ 2.7 million FCPay wallet base.
+ As of the end of October, 2.4 billion Turkish Lira GMB passed through HepsiPay wallets.
+ With its license to operate as an open wallet, HepsiPay aspires to evolve into best-in-class
+ payment companion enabling frictional experience across payment money transfers and other
+ incremental fintech capabilities across online and offline world accordingly in
+ November has to pay agreed with Paysell, which is a fintech subsidiary of Turkey's leading
+ telecom operator
+ to self.
+ to enable Direct Carrier Billing Capability at HepcPay Wallet.
+ By doing so, Turkcell customers will be able to shop at Hepsi Brada without a credit or debit card.
+ Which helps to pay we are extremely excited about the future opportunities ahead across online and offline
+ offline.
+ Another asset we are excited about is AppStack Spreads.
+ AsExpress is our on-demand grocery delivery service with instant and slotted delivery
+ options.
+ We regard Hefstexpress as a strategic asset as we believe it is valid positioned to drive further order frequency and new customer acquisition for the platform.
+ At HESA Express, we are focused on enhancing our customer experience, selection, and ecosystem synergies.
+ accordingly we developed a new cross-service search capability this allows
+ customers to discover products and compare prices among different stores in a
+ frictionless way which is an essential part of the multi-store model further
+ However, HEPSA Express began accepting payments via debit cards, which enlarged its addressable
+ In addition to internal development, Hefsa Express expanded to over 50 retailer brands
+ and roughly 1950 stores including regional retailers as well as national retailers such
+ as Carrefour and shock and just this month
+ Hepsa Express made a new partnership deal with Migros a leading national retailer
+ We can't wait to welcome the Negros shop on our platform moving forward.
+ before I finish let me reiterate a few key area
+ 90% of total retail is still offline, and that remaining online 10% is expected to double
+ its penetration within total retail by 2025, offering a sizable and timely market opportunity.
+ want to wrap up here by reassuring you that with our strong customer and
+ merchant base our hybrid 1p and 3p model our differentiated services for
+ customers and merchants, our robot logistics network, our continued investment in technology
+ and data science alongside with the talent, and our strategic assets emerging from our
+ ecosystems such as FC-Pay, FC-Express, FC-Jet, and FC-S.
+ We are well positioned to capture the business opportunity ahead.
+ We believe that our equity story is intact and we remain fully committed to it.
+ Regarding 2021, in light of current market conditions, we are forecasting a full year
+ to the end.
+ 2021 GMV to be around 24 billion Turkish Liras as previously disclosed
+ With this, I would like to thank you for listening and leave the floor to RCFO, Korhan.
+ Thank you, Murat, and welcome, everyone.
+ as Murad elaborated in his section
+ Our value proposition for our customers has been instrumental in driving our growth drivers
+ across the number of active customers with 26% growth, order frequency with 21% growth,
+ active merchants with 87% growth, and number of SQUs with more than 100% growth.
+ Accordingly, with a 72% yearly order growth, we generated around 50% GMV growth in the
+ third quarter.
+ This performance was achieved against an already strong base of last year.
+ On a two-year compounded basis, our growth momentum continued in the third quarter at 84%.
+ On the next slide, I would like to discuss how certain factors impacted our financial performance.
+ There are three factors that we need to discuss in depth to better understand the dynamics
+ affecting our revenue and gross contribution margin in the third quarter.
+ Let me start by commenting on our commission rates.
+ Our commission rates that we charge to our merchants on the market place remained at around the same level in the third quarter compared to the same period last year.
+ Our average commission rate that we are able to charge to our merchant is in the high single digits.
+ Another factor is the 1P-3P mix.
+ the 13 percentage point year-on-year gmv shares shift from retail to marketplace in the third quarter resulted in lower revenue and
+ And yet, this shift was in line with the continued expansion of our Merchant Paves and Selection.
+ Another key factor is, as already discussed by Murat, the third quarter was impacted by major headwinds.
+ Our response to this new environment was to increase total customer discounts significantly, in particular July and August.
+ Starting from September onwards, we did gradually lower such customer discounts, and in October,
+ we continued on generating
+ efficiencies on our total spending with some encouraging results however Q4 is
+ not the best quarter to realize the full impact on efficiencies due to existence of peak occasions
+ such as the legendary November shopping month as well as the New Year season.
+ Overall, these were the most instrumental factors to our performance of new lip-flat revenues
+ at around 1.7 billion turkish lira and 4.3 percent gross contribution margin in the third quarter.
+ It is worth mentioning that our gross contribution margin is not a direct reflection of the commission rate, but it reflects our marketplace commission net of customer discounts.
+ On the next slide, I would like to discuss revenue performance further along with gross contribution performance.
+ before further discussing gross contribution i would like to give some color on our
+ revenue breakdown compared to the same quarter of last year.
+ Revenue generated from retail operations remained flat, while marketplace revenues declined 80%, mainly due to higher customer discounts, as I have touched upon.
+ Meanwhile, our delivery service revenue increased by 83%, driven by the rise in the number of
+ borders, and higher delivery service revenue from services provided to third parties.
+ In the first 9 months, total revenues grew by around 15% compared to the first 9 months
+ of 2020.
+ at the gross contribution level our gross contribution was 280 million TL
+ in the third quarter. This is reflected as a 4.5 percentage point decline in gross contribution
+ margin compared to the third quarter of last year.
+ In the first nine months, gross contribution grew by around 11% compared to the first nine
+ months of 2020 with a 7.1 percent gross contribution margin now let's have a
+ look at our operating expenses in the next slide.
+ Our net operating expenses as a percentage of GMV reached 14.5% in the third quarter, up from 8.6% a year ago.
+ Around 5.9 percentage point rise was mainly due to 3.9 percentage point rise in advertising
+ expenses.
+ as we continue to invest in our growth drivers.
+ These advertising expenses, unfortunately, became more costly under intensified competitive
+ environment in the third quarter 1.3 percentage point rise in our DNA
+ expenses due to rise in the number of full-time and outsourced employees along with the impact
+ of annual cellular revs.
+ The impact of share-based payment expenses booked in Q3 2021 was 0.8 percentage points
+ within the total increase.
+ 0.7 percentage points rise in shipping and packing expenses
+ driven by the 72% increase in number of orders and around 22% rise in unit prices applied by our delivery partners.
+ Let's move to EBTA margin bridge on the next slide.
+ As a function of aforementioned drivers, EBITDA in the third quarter was negative 659.4 million TL compared to positive 8.9 million TL in Q3 2020.
+ This corresponds to a negative 10.2% EBITDA as a percentage of GMV in Q3 21 and negative
+ 5.7 percent EBITDA as a percent of GMB for the nine months cumulative as of Q321.
+ The increase was driven by 4.5 percentage point decrease in gross contribution margin due to customer discounts.
+ 3.9 percentage point rise in advertising expenses
+ 1.2 percentage point rise in payroll and outsource staff expenses, and 0.8 percentage point rise
+ in other OPEX items, excluding the cost of inventory sold and depreciation and amortization.
+ These results indicate that cost of growth was higher, primarily driven by the increasing customer discounts, advertising spend, and unit cost of marketing.
+ Finally, I would like to say a few words on our cash flow dynamics.
+ Net cash used in operating activities increased from negative 47.8 million TL in Q3 2020 to negative 582.4 million TL in Q3 2021, which is mainly driven by the increase in net loss for the period.
+ Free cash flow was negative 639 million TL, mainly driven by the decreasing cash flow from operating activities.
+ And this way, mainly due to 698.8 million TL increase in our net loss for the period.
+ We continue to operate with negative networking capital, which reached 2.1 billion TL as of
+ Q321, increasingly by 23.4 million TL in Q2 2021.
+ CAPEX was 57 million TL in the third quarter of 2021.
+ Our investments were mainly for the product development across app, websites, and mobile platforms, given our growing operations and pure purchase of property and equipment.
+ Before I end my presentation, I would like to highlight that we feel comfortable with the liquidity we currently have.
+ And therefore, we have no plans to go to the capital markets to raise in a fund in the next 18 months.
+ With this, I end our presentation.
+ Thanks for listening.
+ Operator, please open the floor for questions.
+ Thank you. Ladies and gentlemen, at this time, we will begin the question and answer session. Anyone who wishes to ask a question may press star followed by one on the telephone. If you wish to remove yourself from a question key, then you may press star until.
+ Please use your hands when asking your question for better quality.
+ Anyone who has a question may press star and 1 at this time.
+ One moment for the first question, please.
+ The first question comes from a line of Tyron Cesar with Bank of America.
+ Please go ahead.
+ Yes, hi. Good morning or good afternoon, everyone. It's Cesar from Banks of America.
+ Thanks so much for the presentation, the call, and the opportunity to ask questions.
+ I have four questions, if that's okay.
+ the first one
+ would really be on the competition
+ And probably if you can explain a little bit more, how does it impact the business being specific both about online and offline players?
+ And given that Rangel capital raise was known since 2Q21, did you maybe react a little bit with a lag to this incremental competition?
+ and that's why we're seeing this incremental spend in Q3.
+ So that was the first question.
+ second question
+ um
+ what is your, what was your
+ three people
+ take rate in 3Q, and how much was it down sequentially?
+ third question
+ You seem to have stimulated GMV growth to a much larger than expected advertising spend in the quarter.
+ What do you think happens when you reduce advertising spend,
+ or are you planning on keeping advertising to GMV at a high single-digit mark going forward?
+ And then on the fourth question,
+ relates to your comments on
+ liquidity and
+ no need to raise capital in the next 18 months.
+ Is that only valid for the next 18 months?
+ So should I consider that the cash burn of the company could be similar to Q3 going forward for the next couple of quarters?
+ Thank you so much.
+ Thank you so much for the questions, Cesar.
+ actually we appreciate the opportunity to address those as well in terms of the competition and
+ actually how we reacted to it I guess it is fair to us to say when actually
+ Alibaba raised the fundraising after our IPO and that was an intensified
+ competitive landscape in the market and also because there is also a market headwind because
+ of this market slowdown in the growth rate and other
+ macro dynamics as well they only combined we needed to stimulate the
+ customer demand to address the challenges which means actually we heavily
+ use customer discounts then we also increase the amount of advertising to
+ ensure you also get a fair share of voice and more access to our customers
+ and also finally the unit cost of marketing also got impacted because of
+ this inside white competitive landscape although it also actually increase the
+ total mix in terms of cost structure so in other words we heavily use customer
+ discount to stimulate the demand in the market we increase the amount of
+ marketing and advertising we use but also the unit cost of marketing and
+ It also went up.
+ up.
+ the combination of the actually like the structure you refer to in terms of the
+ competitive landscape and how we reacted to it and why it was increasing the cost of marketing
+ Now, maybe let's shift to the second question.
+ I can take this one.
+ Repeat, take, right?
+ Yes, thank you, Cesar, for your question.
+ our take rates are the commissions that we are able to charge to our merchants so
+ So between Q2 and Q3, there is no significant change in our commissions that we charge to our merchants.
+ But if your question refers to gross contribution margin, it is down by 4.3%
+ And as I explained, this is mainly driven by the discounts that are given to our customers
+ during the intensive competition period.
+ And for the high advertising spend, I can say during – well, during September, as
+ As we mentioned before, we reduced CRM spendings that are given to our customers, and we continued
+ reduction during October and they see some encouraging results during October.
+ However, Q4 is not the right period to make this assessment because it's the heavily discount
+ period.
+ We will be continuing this reduction starting from next year onwards, and we believe we
+ will see some encouraging results going forward.
+ on the liquidity for the next 18 months.
+ Yes, in our initial plans, we see that our liquidity is sufficient enough and we don't
+ know.
+ liquidity for the next 18 months
+ And we have a plan for the next 24 months, and by the end of this year, we might need to revise those plans because of the macroeconomic environment in Turkey.
+ However, it is not so easy to make us plan above 24 months for the time being, but for
+ For the next 24 months, we feel comfortable in terms of the decretity.
+ And I guess teaser we had to also, I guess, just to make sure we are not missing out any
+ questions and answers so you also refer to what will happen right if you decreed
+ retired if i'm not wrong and in terms of like the yeah so more the uh on the cut on the on the
+ the stickiness of consumers, et cetera.
+ Exactly. So I guess this is a very fair question.
+ also like Fran said yeah already began testing some efficient tools and tactics
+ with the increasing muscle of our data science and marketing analytics, but also let me remind
+ you.
+ In our key differentiators and strongholds,
+ We are not just relying on marketing, as you know.
+ All the four components of our growth drivers are growing.
+ you saw the numbers customer frequency merchants and selection it is a very
+ healthy dynamic in terms of the growth and did been happening so basically when
+ When I refer to our other areas that are supporting our growth, I want to emphasize
+ like we are a household brand name 99% total awareness we only we are the only
+ one which is strong hybrid model 1p and 3p we actually operate this so I don't
+ I don't want to replicate, but the customer and merchant
+ the financial experiences and we can discuss in more depth in other questions
+ As you know, like the frictional return is unique to us and many more services for customers
+ and many more unique services for merchants like we offer in a package and
+ and then we are as you saw leading in terms of MPF which is a great actually
+ asset for us, there will be differences in the experience and of course our
+ nationwide
+ robust logistics coupled with our assets like pay, Grocery on Demand, EBS Express,
+ have to jet and advertising and so on we feel we have many actually levers to
+ drive the growth across the platform but not just marketing and also we definitely
+ going to introduce more efficiency as we go forward
+ Thank you so much.
+ very helpful.
+ Thanks so much.
+ The next question comes from the line of Adisa Miriam with Morgan Stanley.
+ please go ahead
+ Good afternoon, everyone. Thanks for taking my questions.
+ it's Miriam Padista from August Stanley
+ firstly just another question on competition
+ So I think you mentioned that you've lowered the discounting in September and October.
+ is that because the market is becoming slightly less competitive
+ or is it more you're just focusing more on profitability
+ and getting better efficiency.
+ if you could just comment on what you're seeing in the last couple of weeks that would would be
+ great and then also on competition
+ as well, are you seeing that it's mainly just competition around marketing spend and then
+ also discounting, but are there any other gaps that you're seeing that's emerged in
+ terms of your proposition versus peers aside from just the discounting and high marketing spend
+ And then finally, if you could just comment on the customer behavior that you're seeing at the moment in terms of order frequency and particularly the cohorts that you've acquired over COVID.
+ how are those cohorts comparing to your prior cohorts?
+ Thank you.
+ Thank you so much. Maybe I can start from the
+ Maybe last question first, which is referring to the customer behavior in terms of that the frequency I get if I'm not mistaken
+ so basically in terms of the drivers of our customer dynamics you can see both the customer
+ numbers active customer numbers and the order frequency increase and didn't
+ continuing in a healthy way and also you can see the gmv per customer also
+ writing.
+ actually the way we see in terms of the overall dynamics here because the GM
+ customer also increased by 33% as you saw in the numbers year over year and also
+ going back to the customer behavior in this dynamic right now actually right
+ Right now, can you please scroll on, I want to see the questions first.
+ because I want to make sure I get all the questions you asked.
+ The other question you actually asked was lowering discounts, are we getting better efficiency and so on?
+ one objective.
+ In terms of the customer behavior, in July and August, actually we saw a very drastic
+ slow down.
+ already mentioned back in the other early school and as you can see from the
+ public data from the Interbank Art Center and TÜİK Turkish Statistics Institute
+ That was a drastic drop in this Q3 this year, Q on Q.
+ So basically, moving on with the seasonality, we expect that the customer's behavior will
+ get better normalized.
+ given the macroeconomic headwind also we want to be cautious about it in the
+ first piece so far it is up to this point we can see we've been actually also
+ unblocking a lot of efficiencies in our marketing practice growth practice and
+ and so on across the board which is actually very encouraging however we
+ want to be also remain very cautious and realistic given these major macroeconomy
+ Headwinds, we need to closely monitor the customer behavior moving forward and as Korhan said Q4 is kind of a very extraordinary
+ a quarter with multiple shopping occasions and long period of campaign but also coupled with
+ these macroeconomic headwinds.
+ It's going to be a very interesting time for us to see.
+ so far we are monitoring very closely and the second part we asked about actually are you seeing
+ any other area where you see any gap between us and competition I guess the
+ good news is we are seeing that we are actually leading the MPS scores and we
+ are making significant differences in many areas like for instance our
+ are experiences like HepsiJet, like the next day delivery, or frictional return, as you
+ know it's unique we can pick up your return at your door at your paper
+ schedule and no additional fee across the country no one else can do it or
+ hipster is yet x-large
+ got to be beginning
+ now offering the two-man handling cargo service and as you saw we are seeing like
+ very strong numbers like 97 plus percent customer satisfaction scores and other
+ In other words, actually, we are making significant progress in areas where we are differentiating
+ from customer.
+ There you go.
+ we see the gap between us and others,
+ we are in our favor.
+ also in terms of like the helps the pay you saw the numbers we are making a
+ strong progress along with the other assets like ad and so on so our goal
+ actually is to make sure we remain differentiated and get more efficient and smart moving forward
+ As you can see, we are already taking the actions to make sure we run and manage our marketing spend, customer discounts, and cash flow more efficiently.
+ So all this combined is believe we are going to actually
+ increase the gap in our favor when you look at all these parameters are
+ described great thank you and so just to clarify on the competition point so is it that you're not
+ seeing competition let up
+ in the last couple of weeks, or you are.
+ Oh, the competition seems...
+ to lower the discounts.
+ Oh, thank you, Miriam, for your mind.
+ Actually, the competition is still intense.
+ I mean, we should be definitely, I guess, clear about this.
+ the entire file competitive landscape remains as we speak in Q4 as well and as
+ you can imagine this is the quarter where the seasonality is high we described like
+ come actually measure roll this quarter place in the total year
+ Therefore, from offline and online, it isn't, I guess, fair to expect increased competition this quarter.
+ but despite that we are both delivering and trying to get more efficient and also
+ try to differentiate our key differentiators so basically we are trying
+ to not just differentiate also get more
+ efficient and increase the gap between us and competition in our favor all these
+ things happening at the same time, and the competition remains intensified.
+ Great.
+ Great. Thank you.
+ Thank you
+ The next question comes from a line of Unaltem with Goldman Sachs. Please go ahead.
+ Hi, thank you very much for the presentation.
+ So I have a couple of questions.
+ The first one is related to the fourth character
+ and how is the operating environment in fourth quarter
+ given that the guidance indicates only 18% year on your growth in the fourth quarter.
+ and also what is your initial thoughts on the growth
+ and possibility as well as competitive environment into 2022 and shall we expect markets to be more
+ close to
+ third quarter into uh more close to third quarter in the next year or you will reduce uh crm expenses
+ largely in the coming years and then my second question is also related to the first one do you
+ Do you see any slowdown due to volatile Turkish environment and how it's been affecting the
+ merchants and their pricing capability on the product they say obviously
+ volatile Turkish Lira can affect this negatively, which might result in a slowdown due to lack
+ of availability.
+ and finally my third question
+ And my third question is related to the market share of Pepsi Broda.
+ So even if you're interested in the market share of Pepsi Broda,
+ from the
+ as e-commerce data system in Turkey
+ announced year-on-year growth numbers in
+ first half of 2021 for the e-commerce
+ market in turkey on a year-on-year basis where the market grew by 75 percent year-on-year in first
+ out.
+ have to grow the GRM growth was at 60% here on here in the same period.
+ We know that this is not an addressable market for Hedges to Broad as it includes many other parts like sports betting, lottery, gaming, cross borders.
+ but do you have any insight
+ in your market share
+ either year to date
+ or in the first half at least, or what was the growth of the addressable market in the first half 2021 on a year-on-year basis at least.
+ Thank you very much.
+ Thank you, Jim.
+ actually directly let me start maybe from the last question and go other way around
+ in terms of market share actually we share your concerns in terms of
+ lack of resources that everyone can actually leverage and use because as you know we are
+ the only public company in church market no one has disclosed publicly their numbers and it's also
+ hard to get real-time access to market competition and competitive landscaping
+ that's done so we are kind of also experiencing the same challenge you
+ described however we try to refer to public sources to kind of get some and
+ extract some insight maybe what we can share with you is to referring to the
+ latest trend is the again the BKM like the interbank card centers public data
+ which which you can also access what we actually also shared in the deck when
+ you look at the at least the similar addressable factors reported by BKM in
+ terms of online card transaction volume and if you look at those numbers from
+ Q3 over Q2 perspective it looks like the most relevant sectors in BKM grew only
+ seven percent Q on Q and if you look at RGMV again this is not the exact
+ Apple status but trying to just find insight as you said if you look at RGM VQ
+ on Q you see almost kind of a 10% plus 10% let's say growth which means in this
+ In this case, looking at 7% versus our 10%, it might give us some signals regarding the
+ the Q3 trend.
+ However, again, I'm emphasizing this, it is not a direct market share measurement, but
+ a way of actually trying to understand a pulse in the market in terms of the
+ question of the slowdown or the volatility and the slowdown is correlated
+ this is actually a very tough question because hard to actually hard to
+ understand the dynamic in the Turkish market because it could be affected the
+ in two different ways.
+ One could be that people actually see this time and shopping season as an opportunity,
+ and affordability solution and opportunity for them and they they can
+ You can also see e-commerce is a transparent platform for price comparison, selection and
+ convenient and so they can actually increase their online behavior this could
+ be option one.
+ Option two could be, we're seeing this volatility, they can also reduce their overall consumption.
+ So again, these are the two extremes of the rapid potential trend, and we are closely
+ monitoring what is gonna be the case for Q4 it is too early and I'm also not going
+ your first questions I read it is too early to mention but if you look at our
+ current trading as of this month at least we can maybe share some high level
+ insight with you guys to make sure you understand so basically yes is a shopping
+ high in this season, but there's also a lot of headwinds as we discussed in the market.
+ When we see, at least so far, in the current dynamic, we can say what we try to achieve
+ in November
+ in terms of our execution seem to resonate, resonate fairly well with our customers.
+ buy now pay later solution with leading banks in Turkey so people can purchase
+ now and pay in January and also we emphasize our customer experience and
+ convenience with unique services like Christian return and also emphasize
+ others like we discussed and also we all try to differentiate in our approach to
+ social commerce we introduced this vital shopping list that actually regular people also can
+ become authentic influencers so this kind of dynamics seem to resonate well based
+ on the early high-level observations we have even in the 11-11 actually I get
+ We recorded like the all-time high daily orders
+ Maybe over a half a million orders to share for you guys
+ this is the trend we see in terms of the first part of November but we get to see
+ the big time in the month which is the legendary Friday part of the month so it's going to be
+ interesting time for us
+ together to close the monitor but we are seeing our execution and seems to resonate with our customers
+ this is the answer to your first question
+ Now, going to the GMV and profitability in 2022, I refer to Korhan.
+ Thank you, Murat.
+ as I
+ mentioned we have a plan for 2020 however this is the most intense a period
+ for us and november december is the main shopping season so we would like to see the closure of
+ November and December to understand if we need to make small adjustments in our
+ plan and we will come back to you with our guidance with our Q4 announcement so
+ you can expect a guidance in the in the next year's first quarter or end of
+ about
+ I would like to add one thing on the profitability.
+ Yes, we are taking certain precautions to improve our gross contribution margin.
+ We have done certain tests during October, but November and December is not the time,
+ but we believe going forward, starting from Q1 onwards,
+ we will be able to improve our gross contribution margin, which will help for our profitability.
+ But I mean, for the guidance for the whole 2020, we will come back to you with Q4 announcements.
+ Thank you.
+ Okay, thank you very much, Marce and Corambe.
+ Thank you.
+ The next question comes from the line of Kilkiran Hansadeh with JP Morgan.
+ Please go ahead.
+ thank you for the presentation
+ I have some follow-up questions and also new questions.
+ The first one is about your take rates.
+ you presented a chart
+ that shows stable take rate
+ on the A-to-the-Average perspective.
+ So can you please also help us to understand the change in GMV per category because I'm
+ trying to understand whether you are also cutting the take rate per category or this
+ is stable mainly because of a shift
+ the GMB.
+ The second one is about your inventory levels.
+ You have a low 1p retail margin in the third quarter, but there is now a substantial Turkish
+ share a depreciation.
+ Do you have any inventory that you may benefit on the margin side in the fourth quarter?
+ and the third question is about
+ the
+ capex cycle we don't see much increase in the capex so far so how should we
+ think about it, particularly in
+ 2022. And final is about your
+ actions to improve the growth
+ contribution
+ and i mean can you please let us know about this uh i mean i mean plan to action so what are you
+ planning to improve the growth contribution
+ next year
+ And maybe the final question is, I really wonder the impact of the grocery on the order frequency, because we observed some sort of improvement in the order frequency, but is this driven largely by the increasing grocery spending?
+ or you are also seeing the, I mean, customer buying more on other categories as well?
+ Thank you, Anzadev, for the questions. Let me start with the first one about the take rate.
+ Yes, compared to last year, same period, our take rate means our commission rate that we are charging to our merchants does not change significantly.
+ There has been an investment period during Q1, Q2, but those are improved, and we are
+ back to our original commission level.
+ On the shift in the GMB, I can say our share of marketplace is 70% and 1P is 30%.
+ In terms of electronic sales, last year it was 65% electronics and 35% non-electronics.
+ And this year Q3 is 62% electronics and 38% in non-electronics.
+ shift from 1P to 3P between last year and this year, around 13 percentage points, which
+ affected our results for the shift within those categories.
+ On the inventory level, at a starting point, I can say, yes, we have enough inventories to benefit from the price increases.
+ We started onboarding many inventories from September onwards.
+ That is one of the reasons that our negative networking capital could have been higher
+ but only improved around 30-40 million TL for the Q3 closing.
+ That is the reason that we purchased many inventories for the readiness for Q4.
+ However, at the same time, we somehow paid with shorter payment terms or even we made
+ some advance payments to secure those products, to make them available for Q4, but now we
+ be enjoying available of those products.
+ In terms of CAPEX, yes, it hasn't increased significantly in 2021 because we have seen
+ some operational efficiencies and we spend less on the property plant and equipment however going
+ forward especially for the next year we are making a plan between 350 to 400
+ million Turkish spending on the capex side with this foreign exchange increases we need to make
+ a detailed plan for those purchases.
+ However, the initial plan is something around 350 to 400 million Turkish lira.
+ on the actions
+ about the gross contribution margin
+ improvement. Yes, we are not happy with the gross contribution margin and we
+ We believe we definitely need to increase the margin.
+ We have to – I mean, during Q3, we had to increase the customer discounts due to market
+ dynamics as we explained, that was the intensified
+ competition in the market and the market growth was well done so we had to make
+ those customer discounts, we realized that those are not sustainable and we made a decision
+ to sharpen our focus on our gross contribution margin, key differentiators, and drivers of
+ sustainable GMB growth while optimizing our customers'
+ discounts, marketing spend, and cash flow more efficiently, we believe we will be able
+ to improve our margins going forward.
+ Murat, would you just like to take over this order frequency?
+ yes before i go there actually on that i want to address and actually
+ add on to current the answers for two questions specifically and I answer to your last question
+ the one actually with inventory levels i want to add on the fact that
+ we actually were very aware of the global supply chain
+ challenges as well that's why we wanted this time very
+ well prepared and as you know we had a muscle from last year
+ during the COVID where we also successfully were able to plan and manage our inventory
+ as you know in 1p
+ So basically, using R1P as a strong muscle during the spate of time, despite the global
+ supply chain challenges and also
+ leveraging and benefiting from our
+ long-lasting, strong supply relationship,
+ we were able to actually get well prepared this season with our inventory and one piece
+ So this was just to make sure I had that color as well.
+ The other question I want to add on, actually, is the gross contribution margin piece.
+ Corona Success will address the cost part and efficiency part of it.
+ at the other side of the story one actually as you know as you move
+ forward with 3p is getting stronger this is exactly what you observe right you
+ over here we have a stronger one 3p now which actually also kind of distorts the comparison
+ but actually moving forward, this 3p strength will remain as is, right, it's going to be
+ a strong part of our platform and as this happens we are also expecting to
+ continue to see more long-term products adding a more long-term
+ merchants coming throughout platform which will inherently by nature also
+ helps with the overall mix and margin of the platform other two aspects I want
+ same sizes.
+ our value proposition with customers and merchants will also help us improve our
+ profitability moving forward just for the sake of time briefly mention this as you remember our
+ have to jet now actually cross 50% right now 53% of marketplace parcels are
+ delivered by H2Jet in Q03. It's gradually growing as you know. This means actually now it's our last
+ We are making a difference for our merchants.
+ It helps with logistics which is actually valid position to scale moving forward our procurement service as you remember
+ is also going to help our merchants save time and money and also increase the customer experience.
+ and also advertising we briefly mentioned some numbers with the
+ recent announcements i am sure you saw with google and facebook
+ we are making like innovative ad tech tools helping our merchants and also with training
+ potentially with also other merchant financing tools like stuff like that we
+ are trying to make sure we become the most preferred platform for our merge
+ so these are eight and also the second part of the story which is our customers
+ we also try to be their ultimate choice right that's why we are also seeing a
+ of a lot of actually room for that improvement as well with our strong
+ brand with our unique services like which we discussed like officials return
+ next day delivery and like the x-large delivery and service and so on with our
+ ecosystem play which I'm going to also tap on to shortly all these coming
+ together we also believe that our margin and profitability will improve over time so these
+ actually going to be a function of multiple improvements now I'm going to
+ address to your HepcExpress question.
+ EPSA Express for us is very strategic because, to your question, it improves and helps us
+ improve both frequency and also customer growth, because we now realize Habstack Freed is a
+ to bring on new customers with a different profile and demographics and also triggers
+ frequency because of the nature of the product and as you know it also offers instant and
+ slotted and now we have migros as I mentioned briefly in the previous section of the call now
+ we have all many of the national players like Carrefour, Shock, Negrosnau, and we have a lot of
+ regional players now we have almost more than 50 brands so the selection is
+ getting larger and we aim to offer the widest selection with our service and
+ and with multiple options that is instant and slotted
+ And also finally we are improving our own experience with technological and experience-wise developments on our app.
+ app.
+ All this together, I also want to give you maybe one kind of indication how we are seeing this business.
+ We are very overly focused on the customer experience, the selection, and as well as
+ sustainability of the model. That's why you will see us moving forward and onward because
+ is still the early phase these years to invest in that business but moving forward you will see us
+ more focusing on sustainability of the model as well and also we are very internally focused on
+ actually perfect order success ratio.
+ So this is actually a number where metric we carefully watch and monitor, which means
+ there for us it is the order that there is no delay no return and no actually
+ cancellation because of availability.
+ take it very seriously because we know it's the ultimate customer experience and right now we are
+ thing just give you an idea around like 60% perfect for the ratio which is very
+ strong so we are going to hopefully focus on this moving forward a little bit more
+ and we gradually increase the strong number or the strong number ahead
+ Maybe this was the answers to your question.
+ Please let me know if there are more.
+ Yeah, thank you very much, Murat-Way.
+ Regarding the MIGO's onboarding, is it exclusive to HEP's brother or they're also presenting
+ themselves in other platforms.
+ Honestly, the nature of the partnership doesn't actually force any exclusivity on either side
+ because, as you know, our value proposition is actually slightly unique.
+ We believe we're going to grow with our retailer partners together.
+ This is our model. It's much more inclusive than other models, as you know.
+ We are not running dark stores, we work with our retailers, we kind of see this as an incremental
+ growth opportunity with our partners retailer partners therefore with migros in this example
+ of the Gaudiard,
+ is nothing like there is no exclusive involved but we believe because of our kind of experience
+ we're going to offer on our platform and because we are hopefully going to
+ deliver a strong mutual incremental growth for both sides this is going to be a kind
+ of a sustainable long-term partnership with both sides because this is also an
+ area we are working with our retailer partners not just them but others as well
+ We also work with our partners how we can improve and enhance our experience and sustain
+ of the model together.
+ as much I can share at this point and I will stop here.
+ Okay, thanks very much.
+ Thank you.
+ As a reminder, if you would like to register for a question, please press star and 1 on your telephone.
+ Ladies and gentlemen, there are no further questions at this time.
+ I will now turn the conference over to CEO Mr. Murad Ermidak for any closing comments.
+ Thank you.
+ Thank you so much for everyone.
+ before we end the call
+ I want to reiterate that we acknowledge your concerns and take them very seriously
+ and we remain confident in our market opportunity
+ and long-term value proposition
+ because we know the opportunity and the fundamentals of the business remain strong and actually
+ following our ipo while competition and near-term market conditions have become more challenging
+ two things have not changed.
+ The significant long-term market opportunity in digitalization of the Turkish market and the other one actually is our firm belief in our business model.
+ So we are committed to deliver on our drivers of sustainable growth, key differentiators,
+ assets that discuss and value the services for customers and merchants with a disciplined
+ cash management, creating long-term value
+ for our company and shareholders.
+ We look forward to speaking with you again in the next quarter's call.
+ Thank you all.
+ Ladies and gentlemen, the conference is now concluded and you may disconnect your telephone.
+ Thank you for calling. Have a pleasant evening.

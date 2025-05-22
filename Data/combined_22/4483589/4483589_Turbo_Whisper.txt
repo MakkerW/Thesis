@@ -1,0 +1,1515 @@
+ Welcome to the conference call of TeamViewer AG.
+ At our customers' request, this conference will be recorded.
+ As a reminder, all participants will be in a listen-only mode after a presentation.
+ there will be an opportunity to ask questions.
+ For any participants with difficulties hearing the conference, please press star key followed by zero on your telephone for operator assistance.
+ I may now head you over to Robert Hildebrands from Investor Relations, who will lead you
+ to this conference.
+ please go ahead
+ Good morning and welcome to the team of your fourth quarter and full year 2021 results.
+ In a moment, Oliver Stahl, CEO of TeamViewer, and Stefan Geiser, our CFO, will take you through the business and financial update with the 2021 highlights.
+ As always, we'll conclude today's call with a Q&A following the presentation.
+ Before we start, a little housekeeping exercise for today.
+ I would like to remind you of the note on the forward-looking statements that you find on page two of the presentation.
+ Let me now hand over to Oliver.
+ Thank you Robert
+ Good morning.
+ Thank you all for joining today.
+ we are pleased to take you through the
+ team your fourth quarter and full year
+ 2021 results
+ I will start with an update on our business, followed by Stefan, who will present our financials.
+ And as always, we will conclude today's call with Q&A following the presentation.
+ before we dive into the fourth quarter and full year business update i would like to take a step
+ back from our perspective
+ 2021 was marked
+ by several strategically important decisions which we made to foster TeamViewer's future
+ growth, but also, of course, by
+ a few challenges which we clearly had
+ to acknowledge.
+ We have, however, been working hard to address these
+ and we remain committed to continue that path
+ and also create value for our shareholders as demonstrated by our announcement this morning
+ and the progress we made in Q4.
+ So hence, we are pleased with the conclusion of the financial year as we fully delivered
+ against our revised guidance
+ and further strengthen the foundation
+ for long-term profitable growth.
+ We will show you a detailed overview of all those KPIs later in the presentation.
+ presentation.
+ record growth rates. Our enterprise
+ business has
+ again proven
+ to be a strong driver
+ with the acquisition of Upskill and Viscopic,
+ both leading players in the dynamic
+ augmented reality industry
+ we have further strengthened
+ and diversified our solutions portfolio.
+ and at the same time also our footprint in the United States.
+ In addition, we initiated several new major strategic partnerships.
+ In our SMB business, we successfully retained a significant part of the customers that we
+ won during the pandemic.
+ We further improved our churn rate throughout the year and increased the ASP.
+ Finally, we made major progress on our improvement program, Remax,
+ which we will update you on later in more detail as well.
+ Our strong development in 2021, combined with our highly attractive cash profile,
+ opens up avenues for further value generation
+ for our shareholders in the future.
+ we revised our capital allocation and announced this morning a share buyback program of up to
+ 300 million euro
+ or a maximum of 20 million shares
+ which is equivalent to nearly 10% of our outstanding shares.
+ This should be completed within 2020, too.
+ Stefan will walk you through the details of this program in a moment.
+ We go to the next slide.
+ Q4 and
+ the fiscal year 2021 at a glance
+ let me summarize some highlights
+ of the fourth quarter and also
+ the entire financial year.
+ First of all, we increased total billings by 19% year-on-year to 548 million euros
+ with accelerating billings growth in the fourth quarter
+ with a clear focus on cost containment.
+ we were also able to maintain high profitability
+ and to achieve margins ahead of our revised guidance.
+ With a growth rate of 75% and billings of almost $100 million in the last 12 months,
+ The enterprise business is now clearly a substantial growth engine of TeamViewer.
+ At the end of 2021, the enterprise business accounted for 17% of total billings.
+ In addition,
+ We increased our net retention rate in the fourth quarter significantly to 105%
+ after a notable dip in the first half of 2021
+ with net retention rate of around mid-90s.
+ This leaves TeamViewer with an average net retention rate of 98% over the past 12 months, underlying our success in building lasting customer relationships.
+ At the same time, our subscriber churn rate further improved to 14% compared to 15.1% in 2020.
+ This confirms our ability to retain the strong intake of customers
+ which we won from the COVID-19
+ pull forward demand in the previous year.
+ At year end, we counted 627,000 subscribers,
+ which is an increase of 7% compared to 2020 or roughly 43,000 more subscribers.
+ furthermore our financial profile remains very strong with again lower leverage rate now let's
+ look at 2021 in more depth.
+ First of all, I would like to give you an overview of how the two businesses have developed in 2021.
+ before we then take a closer look at both the Enterprise and SMB separately and in detail.
+ Coming to enterprise, we define enterprise customers as those with invoice billings
+ across all products and services
+ of at least 10,000 euro
+ within the last 12 months.
+ Customers who exceed or fall below the threshold are reallocated then accordingly.
+ and as you can see on the left hand side
+ our total company billings increased year on year by 88 million to 548 2021 and although our smb
+ business still contributed most of this
+ absolute growth. The enterprise business is rapidly becoming more material. It contributed only
+ 26% of the overall growth
+ in 2020
+ and now almost half of the growth
+ in 2021.
+ This underpins our success in building a leading enterprise business that is delivering strong and sustainable growth.
+ growth. The chart on the right-hand side
+ Shows additional proof.
+ the enterprise business achieved high billings
+ growth rate throughout 2021
+ and actually accelerated nicely during the year after a somewhat slower start
+ due to the COVID retention and right-sizing issues in the first quarter of 2021.
+ For the year as a whole, the enterprise business grew by 75%.
+ The SMB business also grew
+ nicely in the fourth quarter with 9%
+ and 12% for the year
+ respectively. Let's not forget
+ that our
+ SMB business serves as a
+ very attractive funnel for the enterprise business
+ and we have been extremely successful in converting SMB customers into enterprise customers.
+ And this is obviously to the disadvantage of the reported S&P growth.
+ As mentioned before, I would like to give you a more detailed insight into our dynamically growing enterprise business in the next few slides, slide 7 now.
+ I would start with the development of the number of our customers.
+ In the past 12 months, the number of enterprise customers grew by 44% to now 2,712,
+ particularly in the fourth quarter
+ in line with the usual
+ seasonality for
+ enterprise software companies, we were able
+ to make further strong gains
+ and almost double our growth average.
+ This was driven by the strong execution of our pipeline at the end of the year.
+ In addition, we want new customers through acquisition of Upskill and Dyscopic,
+ both of which have been added to our augmented reality platform frontline
+ and now complete our fully integrated offering.
+ We now count a well-balanced mix of use cases across managed connectivity
+ and operational workflows in our portfolio, some of which I will show on the following
+ slides.
+ But before we get to some of the use cases, I would like to present the development of billings in the enterprise business.
+ Not only the amount of enterprise customers increased,
+ but also our enterprise billings.
+ up 75%
+ in 2021, we were able to
+ grow the enterprise business to nearly
+ 100 million euro and this
+ corresponds to more than a five-fold increase compared to, for example, around 17 million
+ euro in 2019.
+ The success is also due to the fact that we were able to increase the size of the contract
+ with the respective customers last year, as can be seen on the right-hand side.
+ Our annual contract value bucket above 200,000 euro increased by 8 percentage points compared to 2020.
+ and our smallest bucket
+ 10,000 to 50,000 euro ACV contracts
+ declined by 11 percentage points.
+ So we're really seeing a shift there.
+ We were able to achieve this positive development primarily through our successful up-and-cross
+ selling. Our success in building
+ lasting customer relationships
+ and the acquisition of multiple new high-profile strategic partnerships
+ with leading businesses in their respective industries.
+ On the next slide, you can see the importance of strategic partnerships for our business.
+ SAP and Google Cloud were among the highlights in 2021, underlining our strong value proposition
+ in the enterprise business.
+ In addition to that, we partnered with existing multinational technology partners such as Voodix, RealWear, or NSF.
+ Those strategic partnerships are a major driver for our long-term growth.
+ the reason for this is twofold
+ They help us to accelerate our expansion
+ into various strategically relevant vertical industries.
+ And these partnerships are a great opportunity to join forces with those third parties and leverage our sales reach globally.
+ With that, let's have a brief look at some exemplary use case of our product.
+ But to begin with, a great success is clearly our collaboration with NSF International.
+ I've just mentioned NSF International on the partnership slide.
+ partnership slide
+ Let me elaborate a bit more on what we do together.
+ NSF is a leading global food safety organization.
+ We have closed a commercial agreement with them, and we are now jointly improving in marketing an augmented reality solution to digitalize the food industry.
+ This solution is based on our enterprise AR platform frontline
+ and guides workers step-by-step through the food production process.
+ It is voice or eye-controlled and therefore really 100% hands-free.
+ as you can imagine
+ this is a game changer for the food industry
+ with its very strict hygiene regulations.
+ regulations. The solution we have with NSF is already fully operational, and it is used,
+ for example, by a global fast food restaurant chain.
+ What I want to highlight here is that this solution is enhanced with artificial intelligence capabilities.
+ So the software can detect, for example, if the workers are wearing and changing their hygiene gloves.
+ We are convinced that this will further contribute to more safety in the global food industry and adjacent industries.
+ on slide 11
+ Let me demonstrate another attractive use case of our products.
+ our product is
+ collaboration with the Ford Motor Company
+ will provide extensive state-of-the-art augmented reality support
+ to Ford's Diagnostics Team, which must go through complex technical issues when checking vehicles.
+ Therefore, our solutions were rolled out across more than 404 dealers worldwide who now have
+ the capabilities to solve problems more efficiently and accurately using augmented reality remote
+ support.
+ another very different example
+ use case
+ which I want to show is our cooperation with Erste Bank Austria,
+ which is one of the largest banking groups in Central and Eastern Europe.
+ Together with TeamViewer, ErsteBank enables its customers to visit, so to say, a virtual branch.
+ That means that clients can consult a personal banking advisor
+ who then can, via video call,
+ help the client to put together online forms,
+ upload documents, and so on.
+ And the service level of this digital service is similar to the one in the real branches.
+ I think this is
+ this case
+ a great example of our customer engagement
+ software team
+ you are
+ engaged
+ That has been added to our portfolio through the acquisition of Saleon also in early 2021.
+ one
+ the last
+ great example of how to use our solution is shown on slide 13 recently we started
+ working with ABB, one of the world's leading global technology companies.
+ With our software, ABB provides remote support for their clients
+ who heavily use connected devices such as robots and industrial machines.
+ And furthermore, another goal of ABB is to standardize the global remote IT support across all global divisions.
+ him as ABB's partner of choice
+ to achieve this goal.
+ Our Enterprise Connectivity Suite Tensor is just the right solution here
+ because it delivers a stable, highly secure cross-country connectivity, both internally and externally.
+ these four examples
+ demonstrates the breadth of
+ use cases for our products across the right
+ range of different sectors and industries
+ this is one of the aspects that make us
+ confident about our enterprise business.
+ We come to the SMB business, page 14.
+ take a look
+ closer look there. Overall,
+ Well, we recorded a growth of 12% year-on-year in SMB, amounting to billings of 455 million,
+ and several factors contributed to this growth.
+ Firstly, part of the growth stems from higher volumes with existing customers
+ as a result of our continued cross and upselling
+ as well as winning new customers at higher prices.
+ This can be seen in our ACV bucket split.
+ Our largest ACV bucket, 1,500 to 10,000 euros, showed the most dynamic growth in the last two years with an increase of almost 10 percentage points.
+ Secondly, we can see in the upper right corner that we were able to steadily increase our
+ ASP again after a dip
+ in the second quarter.
+ In the fourth quarter of 2021, the ASP counted 728 euro.
+ Thirdly, we improved our SMB churn rate by almost one percentage point to 14.1% in Q4 compared to Q4 2020.
+ And again, SMB business is a very attractive funnel for our enterprise business.
+ more than 10 million euro of the incremental enterprise buildings in 2021 are actually
+ coming from former SMB customers.
+ As shown on the chart in the bottom right, we counted 624,000 SMB subscribers at the end of fiscal year 2021, which is 42k or 7% up from last year.
+ In the fourth quarter, however, the number of subscribers remained essentially flat
+ because of our decision to suspend free-to-paid monetization campaigns
+ to further develop our ecosystem.
+ I can't do that later.
+ As we started into 2022, we intend to continue the suspension of free-to-paid monetization
+ campaigns, and this should nurture
+ our free user ecosystem
+ but will at the same time
+ increase the seasonality of our subscriber growth
+ with a majority of growth
+ weighted to the second half of the year.
+ We are confident that we will achieve our 30,000 to 50,000 subscriber growth target in the year ahead.
+ TeamView's strong focus on further developing existing SMB customers
+ and the growing relative importance of enterprise customers
+ will further diminish the relevance of subscriber growth as a KPI for measuring future growth at TeamViewer.
+ What are the use cases behind the SMB growth?
+ We see similar use cases as for larger enterprises,
+ maybe with the exception of operational workflows created on our frontline platform
+ which are more biased
+ towards enterprise
+ overall it's a well-balanced
+ mix of use cases
+ clearly with a strong presence within remote access and control
+ of all sorts of equipment and devices, including access and control of non-IT equipment.
+ The digitalization around operational technology and their use cases also applies for SMBs.
+ We cover IT management, including monitoring of IT environment, patch management, endpoint protection.
+ We obviously also cover remote work use cases, and in addition, we offer customer engagement solutions as well as solutions for the education sector.
+ So, very comprehensive portfolio for the SMB business as well.
+ We go to the next slide.
+ let me change gear
+ provide an update on our ecosystem
+ free user ecosystem
+ as we committed to do at the Capital Markets Day.
+ The free ecosystem was one of the larger drivers of the S&P growth in the past, especially in 2019 and 2020, and not so much in 2021 anymore.
+ due to increased monetization
+ as well as more competition at the low
+ and our ecosystem has been declining
+ in line
+ with our update at the CMD.
+ we want to stabilize the ecosystem again and ideally reignite growth.
+ So here's the status on slide 16.
+ As you can see, installations of our software have increased again, albeit only slightly, but this is clearly encouraging.
+ Also, the number of monthly active devices has stabilized again.
+ The one indicator, which is still in expected decline, is the number of yearly active devices.
+ This is, for us, not really surprising, as we need to bear in mind that the number of 283 million,
+ includes a significant number of devices active during
+ severe lockdown restrictions in the fourth quarter of 2020 and in the first quarter of 2021.
+ one. And as those devices now roll off from the LTM count, we expect a slight further decrease
+ before that number will stabilize.
+ That being said, the more current indicators, like installs and monthly active devices, are essentially stable.
+ The ecosystem number will also become less meaningful as we evolve to more use cases
+ which are not necessarily fully reflected on our ecosystem,
+ such as, for example, our AR solutions.
+ Now, let's look at our strategic sponsoring activities.
+ As you all know, investing in the TeamViewer brand and increasing marketing efforts
+ to showcase our extended product portfolio have been an important focus for us
+ To broaden our solution awareness across all customer segments,
+ we signed two partnerships
+ The Football Club Manchester United and the Formula One and the Formula E racing teams of Mercedes.
+ and we have two partners
+ with this to boost our brand awareness
+ globally, really.
+ both brands
+ Atuli Global provides an unrivaled reach and marketing power for TeamViewer.
+ With Manchester United, we have already achieved more than 11.7 billion impressions of our logos since the partnership officially started mid-last year.
+ and regarding Mercedes
+ we had nearly 800 million video views
+ featuring our logo on their channels
+ and we are able to reach a global TV audience of more than 1.5 billion Formula One viewers.
+ You can see some more figures, really impressive figures, on our two major sponsorships on the slide, on slide 17.
+ from our perspective
+ our sports sponsoring
+ These are a strategic lever for TeamViewer as they are providing unrivaled global brand exposure.
+ you can see how impressive these numbers are
+ And you can probably imagine that much higher spend is needed in traditional marketing activities
+ to reach these numbers of exposure.
+ And finally, as you can see on the right, we use our sports partnership also to develop joint use cases of our technology in action.
+ With that, we can then clearly demonstrate the value our software solutions can add
+ at the different steps of the value chain
+ for different businesses
+ It really applies to all industries in one way or the other.
+ and the sports clubs are showcases for that.
+ Therefore, we can leverage our sports engagement beyond pure branding and logo impressions,
+ But use these joint use cases and success stories as a reference for other potential customers.
+ And then, of course, combine it with all other elements of the branding partnership.
+ With the next slide, let's come to our internal improvement, which we've also discussed and
+ announced through the Capital Market Day, which is a program called RE-MAX, which is
+ on slide 18.
+ we called
+ we launched this program
+ to address some of the issues we faced in 2021.
+ Since then, we've already made substantial progress in terms of execution.
+ successfully re-accelerated some of the growth initiatives
+ to better balance billings and cost growth.
+ Let me briefly highlight some improvements which we made since announcing a Remax program.
+ We sanctioned our core product team, and we reallocated resources to this area away from
+ them.
+ non-focus products.
+ This will also bear fruit in new UI UX update forthcoming, which is on track to be released early second quarter, so very shortly.
+ Within RE-MAX, we also introduced the task force to upgrade our website and digital marketing.
+ also we made quite some progress
+ regarding initiatives with short-term billings impact.
+ The new organization has settled in very well, and we conducted for the first time in two years a physical leadership kickoff with most of our senior leaders.
+ It just happened 10 days ago.
+ and very important to be together in one room again.
+ Lastly, as already announced, we strengthened the expertise of senior management and implemented
+ some major cost reductions to better
+ balance cost and billing scores
+ And as you can see on the slide, we have been successful in Temple Reveille, freezing our
+ headcount through effective
+ regrouping
+ now standing at around
+ 1470
+ summing up that we are well on track
+ with pushing TeamViewer ahead
+ following a sustainable and profitable
+ growth trajectory.
+ Our efforts have already started to pay off, and I'm confident that we will see many more positive developments in the future.
+ With that, I would like to hand over to my colleague Stefan,
+ who will walk you
+ through the financials in more detail.
+ Thank you, Oliver.
+ Hi, good morning, also from my side, quickly summarizing the financial highlights, top
+ line bottom line and cash flow
+ So total billings, I mean, obviously, you've seen the numbers increase by constant currencies.
+ sorry, increased 17% measured in constant currencies in Q4
+ and 20% for the full year.
+ So delivering the high team's growth, clearly due to very strong enterprise growth, as well
+ as a nice contribution from SMB
+ driven primarily by increased volume and higher ASPs with existing customers.
+ IFRS revenues grew 9% and 10% for Q4 and for the full year, respectively.
+ I think as you know
+ The revenue growth rate has been below Billings growth rate due to the base effect from the
+ discontinued perpetual license
+ business model and during
+ In 2020, we still recognized roughly 46 million of previous perpetual license sales.
+ and obviously this week
+ now came down to only around 2.6 million 2021. And that means it depresses our reported revenue
+ growth now that being said this effect will finally fully disappear in 2022 so billings growth and
+ then revenue growth will be much, much more in line.
+ if we take a look at the revenues from the subscription model only
+ day crew
+ 16% in the fourth quarter
+ and 20-22% in 21% overall.
+ So, again, much more in line with our reported billings growth.
+ So going forward, I think the picture will be much clearer there.
+ Looking at profitability, we came out at the high end of our pre-release numbers with €257 million adjusted EBDA or a 47% margin, clearly a very attractive margin overall, despite our significant investments in future growth.
+ That being said, clearly we acknowledge that our margins are obviously down
+ compared to an exceptionally profitable year 2020
+ which had all the tailwinds from COVID-19
+ moving on to cash flows
+ I think very strong set of numbers, very pleased to report a lever-free cash flow,
+ which increased in the last quarter to 68 million euro, overall up 21%.
+ And for the full year 21,
+ Levered free cash flow decreased slightly by 5%,
+ obviously reflecting the slightly lower adjusted EBITDA,
+ but overall still a very strong conversion now let's take a look at our biddings composition on
+ On the next slide, obviously an important breakdown.
+ I think Q4 was quite remarkable for two reasons.
+ A, the net retention rate increased quite nicely, as you can see on the graph on the left-hand side.
+ Retained billings in the fourth quarter amounted to 133 million, reflecting a net retention rate of 105%.
+ This is, in fact, one of the highest numbers we have reached.
+ Also new billings contributed well to our overall growth.
+ two quarters in a row, we achieve now
+ two million of new billings
+ and this is despite the absence of free user monetization
+ looking at a year in total
+ we gained 94 million of new
+ Billings, which was obviously
+ below the 2020 COVID-19 peak figure, but still a very solid number.
+ taking a look at subscribers
+ increase of 10%
+ I think those numbers are well known to you over the year, but basically essentially flat in the fourth quarter.
+ This is primarily due to the suspension of the free-to-paid monetization campaigns,
+ which we stopped entirely during the third quarter
+ and our subscriber base
+ therefore slightly decreased by net 1,000 subscribers during the fourth quarter, which
+ was pretty much in line with our estimates.
+ I think you heard Oliver talk about the continued pause of this monetization
+ and therefore subscriber growth will be more biased towards the second half of 2022.
+ But despite no subscriber growth, we were able to grow our billings in the fourth quarter by 17%.
+ and please remember that the book
+ of our subscribers, ASP, it can be 200 euro at the low end,
+ but it can also be more than 1 million euro in the enterprise business.
+ So very different bookends in terms of ASPs.
+ Slide 22, clearly an important measure to reflect the stickiness of our customer base.
+ The quarterly performance of the net retention rate showed, as I said, a strong improvement in the fourth quarter, coming up to 105 percent and therefore pushing the overall net retention rate for the full year to 98 percent.
+ And as you know, that's been quite a roller coaster year in terms of net retention rate
+ and its development.
+ as we explained before
+ the one-time effects of right-sizing of the COVID customers
+ triggered the strong degrees, especially
+ in the first six months, and then we saw
+ a subsequent increase again in Q3, and now in Q4 up to 105%.
+ and so very strong development, I would say.
+ And despite the lower net subscriber number in Q4, new billings slightly went up to 20 million euro.
+ this is a good achievement
+ Frankly, more of those new billings relate to more sticky enterprise customers
+ with deeper embedded use cases, such as AR or managed enterprise connectivity like ABB, as Oliver mentioned.
+ and again
+ Again, as we have not run free user monetization anymore, I also believe that the customer
+ cohort which we won't lately
+ my turn
+ now to be stickier than the ones from other quarters
+ where we had new buildings more biased towards lower ASP,
+ which tend to have a higher
+ higher churn rate than the year later.
+ Let's take a look at the geographical performance on slide 23.
+ In terms of regional performance, fourth quarter building's growth was especially strong in the APEC region.
+ that's good to see
+ Clearly representing one of our key growth regions.
+ bit of a tough
+ year for APEC overall, but with a very
+ strong finish, as you
+ might remember Q4 last year was actually not that strong in APEC, so they also benefited
+ from a lower base.
+ However, we clearly saw very good improvements, especially compared against Q3.
+ Q4 billings of
+ 30 million roughly representing
+ 30% year-on-year growth, very
+ strong. You also
+ saw that we have a new leader
+ So Jung Lee, she's joined us
+ as the new President APEC in December.
+ and I think with her
+ We want clearly a very proven enterprise software expert
+ with significant knowledge in those important markets for us.
+ So we're very happy to have her on board.
+ Let's move on to the Americas.
+ Because billings in the fourth quarter grew by 24%, also benefiting from some currency
+ tailwinds as the U.S. dollar strengthened.
+ growth in the Americas
+ actually was clearly biased towards
+ enterprise, very strong pipeline
+ conversion there.
+ I think Patty Nagel, who joined us in the May time frame,
+ clearly put together a very strong team
+ and contributed quite nicely there.
+ EMEA contributed billings of 86 million up 16%.
+ I think America's performance is especially driven by the enterprise sales.
+ And EMEA recorded good SMB results and also strong pipeline conversion, but less strong than the Americans overall.
+ so let's move on to the cost structure on the next slide
+ Overall, clearly the business remains very scalable despite our strong push into adjacent
+ markets and the even stronger push
+ into our enterprise business
+ With around 93%, our cross-profit margin remained comfortably above 90%,
+ actually even improving slightly compared to last year.
+ So really showing that our infrastructure efficiently scales with a steadily growing business.
+ And that's even taken into account that we further expand into the enterprise business with larger deals and more complex use cases.
+ Now let's take a look at our OPEX functions.
+ clearly in line with our key growth
+ initiatives, significant investments occurred, as you are all aware, especially in the marketing
+ area, now reflecting the full impact of the marketing partnerships since Q3.
+ that's pretty much a flatline expense
+ so each quarter pretty much the same amount
+ to be expensed for those partnerships.
+ But also in sales and marketing and R&D, we invested strongly, but generally speaking, much more in line with Billings growth.
+ And then that expenses also came down to 2.5% and 2.9% in the full year.
+ I think that has now been a very consistent development at all, but that expenses came down.
+ and I expect that to improve slightly going forward as well
+ as we become a more enterprise-biased business.
+ Moving on to cash generation, clearly a continuous highlight of TeamViewer.
+ we continue to enjoy a strong cash flow
+ an actually very high cash conversion.
+ Full-year pre-tax cash flow from operating activities was clearly impacted by the investments
+ into the brand equity, sorry, into the brand equity partnerships.
+ But that being said,
+ levered free cash flow in the fourth quarter
+ Actually, 68 million, up 20% or 21%, very strong cash conversion in the fourth quarter.
+ and also actually benefiting from lower capex and interest payments.
+ As you can see, for the full year, labor-free cash flow slightly decreased, obviously reflecting
+ the marketing partnerships
+ and the slightly lower EBITDA.
+ that being said
+ we achieved a cash conversion rate of 61% of just CBDA.
+ I think overall very strong.
+ And actually, I would like to point out that our CapEx and interest payments both nearly halved,
+ So quite significant improvements there, and I expect them to stay at those lower levels going forward.
+ And clearly that means this healthy cash flow adds to an already strong liquidity position, as you can see in the next chart.
+ I would like to take a step back here quickly.
+ I think there was the lingering question out there about our capital structure,
+ and I think we wanted to respond to that today.
+ So at the time of the IPO,
+ the company actually had a leverage
+ of about 3.5 times EBDA.
+ I think clearly since then we have generated
+ significant amount of cash
+ and delivered pretty fast now to 1.3 times.
+ two developments
+ contributing to that
+ Obviously,
+ this is driven by our
+ continuously increase the trustee EBDA on one hand and on the other hand we
+ consistently generated
+ significant amount of free cash flows.
+ And if you add this together, we have now a cash position of $550 million at the year end of 2022, and a net debt position of $327 million.
+ in Q1 of the last year
+ Actually, we also used the chance to strengthen the balance sheet
+ and secured long-term really attractive financing
+ with the promissory note of 400 million euros,
+ which we concluded by the end of Q1 2021.
+ and as you can see
+ at the bottom of the slide, our financing structure is very solid and long-term secured
+ with no refinancing needs in the next two to three years.
+ so overall I think a very solid balance sheet
+ And therefore, now we have set ourselves a sustainable year-end leverage target
+ of roughly 1.5 times adjusted EBDA.
+ I think this target is derived from well-balanced and long-term secured financing structure
+ and obviously takes into account our continuously strong cash flow generation.
+ so wrapping it up
+ on the next slide
+ quickly
+ highlighting the
+ cash profile of TeamViewer
+ Clearly, as a technology company, we traditionally have low CapEx, and I think that CapEx saw some peak during the last couple of years, but has now come down substantially and will remain at those levels for the foreseeable future.
+ We also had and will continue to have relatively low taxes.
+ the left significant amount of tax losses carried forward.
+ Therefore, our effective tax cash rate remains pretty low.
+ That remains the case for the next two years.
+ And obviously, we are able to achieve significant adjusted EBITDA margins, even with the significant
+ impact of the marketing and brand investments, we retained margins comfortably in the mid-40%
+ the range of 47% for the last year.
+ Yep.
+ so finally
+ we consistently maintain
+ this strong cash flow
+ and I think the profitable growth
+ in the enterprise as well as the SMB business
+ in combination with our now well-balanced buildings and cost growth
+ will further boost cash generation going forward.
+ And if you sum all of that up, I think Team UR clearly has a highly attractive financial profile.
+ and this financial profile and a strong position obviously helps us now
+ and enables us to create value for our shareholders basically on a new level,
+ which leads me to the share buyback program.
+ This program has been in discussion for a while
+ and now we want to update you what we want to do going forward
+ so let's move on to the next slide
+ I think we talked enough about our capabilities to deliver
+ and our strong liquidity position,
+ and therefore we have decided to initiate a share buyback program
+ with a volume of 300 million euro, or pretty much 10% of our shares.
+ that's obviously
+ fully in line
+ with the authorities granted
+ by our shareholders
+ in the AGM
+ in 2019
+ Obviously, we also released an ad hoc announcement this morning.
+ The program is scheduled to start tomorrow and is also expected to be completed within the fiscal year 2022.
+ Obviously, the whole buyback program will be carried out in accordance with EU regulations and other applicable rules and so forth.
+ Important to note, the vast majority of the shares will be cancelled, and therefore the share count of the company will be reduced accordingly, so roughly by 10%.
+ I think this should really demonstrate the confidence of us in the strong outlook of the business
+ and our commitment to shareholder value creation
+ by now allowing shareholders to participate in the success of CDO.
+ And with the remaining 200 million euro of cash, we still have adequate financial flexibility and firepower to execute on our growth initiatives.
+ I think overall a very strong position
+ to be in
+ Let's move on and conclude my presentation with the outlook for 2022.
+ clearly as you heard Oliver talk
+ We expect continuing demand for solutions over the coming quarters.
+ The global megatrends are still well intact and will continue to support our growth trajectory in 2022.
+ too. I think they continued
+ implementation of the measures which we talked about and updated you today will further positively
+ impact this development.
+ and I think against this background
+ We continue to target high-teens billings growth and expect billings in the range of 630 to 650 million euro for the current fiscal year.
+ And revenue is expected to increase in the mid-teens to euro 565 to 580 million.
+ The adjusted EBA margin is expected to be between 45 and 47, and furthermore, clearly
+ we also expect operating cash flow to increase again compared to 2021.
+ one. For the mid-term outlook,
+ This remains unchanged as well.
+ we see the mentioned growth rates for billings and revenue, as well as an improvement of our
+ just the EBITDA margin going forward.
+ And with that, I would hand back to Oliver.
+ So, yeah, thank you very much, Stefan.
+ let me close with some final remarks
+ I think from our perspective
+ 2021
+ a very remarkable year
+ some very strategic decisions
+ which are very important on the partnership side, on the M&A side,
+ on the development of the enterprise business,
+ broadening the solution portfolio
+ and the like, so really
+ significant
+ decisions and steps
+ towards
+ continued profitable growth
+ We have set a clear course, and we deliver on this.
+ We have delivered on our updated 2021 guidance, steadily generating high-teams growth in combination with strong profitability and very strong cash flows, as Stefan pointed out.
+ We are pleased to announce that we will use our strong financial profile
+ to return some of the value that we generate to our shareholders.
+ And the share buyback program we just initiated strongly
+ and clearly underpins our confidence in our business
+ and the future growth of TeamViewer.
+ This concludes today's presentation, and we now look forward to taking your questions.
+ Thank you.
+ We will now begin our question and answer session.
+ If you have a question for us,
+ because please dial 01 on your telephone keypad now to enter the queue.
+ Once your name has been announced, you can ask a question.
+ if you find your question is answered
+ But before this, you're trying to speak.
+ you can dial 0-2 to cancel your question.
+ if you're using speaker equipment today
+ please lift the handset
+ before making your selection.
+ One moment, please, for the first question.
+ The first question is coming from George Webb at Morgan Stanley.
+ Your name is now open.
+ Good morning, Oliver and Stefan. Thanks for taking my questions. I've got a few.
+ So firstly, I just want to start on net retention rates, which obviously jumped in Q4 to 105%.
+ It looks like there's a bit of an FX tailwind in there.
+ How are you thinking about constant currency net retention rates across 2022?
+ and what's your latest thoughts
+ around kind of pricing levels on the SMB base, that's the first question.
+ Secondly, just on the enterprise side,
+ 2-4
+ or a good level of net additions.
+ to what extent are those
+ masking conscience having an impact in Q4
+ and how sustainable do you view the improved pipeline conversion as you look into 2022?
+ to and then just find a small one on the adjusted
+ cost lines, quite a notable
+ step up in R&D in Q4
+ that looks to be driven by more than just headcount increases.
+ Is there anything specific going on there?
+ Thank you.
+ Yep.
+ Thanks, George.
+ So I'll start with NRR, clearly, also very pleased with that development.
+ I think NRR for the full year is at 98%, fourth quarter 105%.
+ You pointed out, yes, there were some currency tailwinds, probably two percentage points, I guess, in the fourth quarter.
+ for the years a whole pretty much unaffected by constant currencies how do i see that going to
+ 2022. Obviously
+ we've made this
+ guide is now
+ assuming
+ roughly stable currency rates
+ what we currently see
+ And I would expect some slight improvements in net retention rate.
+ I think it's a bit early to give precise guidance, but as you know, especially in the first six months,
+ We have seen a negative effect of all of the right-sizing and downsizing from the COVID customers, and that was quite a drag on our NRR.
+ that being said in the second half
+ we recovered quite some
+ quite significantly, so it's a good trend
+ And I would expect clearly that overall we continue to improve our NRR for the full year, which was like at 98%.
+ but bear with us
+ I think it's a bit too early to give precise guidance there.
+ And then thinking about pricing power and SMB space, I think we've now been able again to show a nice increase in ASP within the SMB space.
+ This is driven by two factors.
+ A, obviously continuous
+ upsell into the install base
+ more use cases, more embedded products, cross-selling activities going on.
+ So it's a well-balanced mix of more use cases and some price increases which you push through.
+ And I do think the price environment is actually pretty stable.
+ So I don't see any indication that this would change even at the low end.
+ The marketing partnerships, the impact in the fourth quarter, look, I mean, obviously significant impact on the P&L.
+ I think Oliver talked about in his presentation what we see in terms of
+ grant equity and the positive impact there.
+ it did not really influence the top line
+ meaningful in the fourth quarter. It's also not
+ what we expected frankly
+ We always said this is a long-term investment,
+ from a brain perspective
+ I'm very pleased with what we are seeing.
+ A pipeline conversion, I think that was the fourth part of your question.
+ and overall very happy what we've seen in the fourth quarter.
+ I mean, clearly it's the fourth quarter
+ on the enterprise business
+ is Showtime
+ and I think especially
+ the Americas team converted their pipeline very well,
+ strong pipeline build and pipeline conversion.
+ in Emilia also good
+ pipeline conversion
+ to all very
+ pleased with what we've been seeing, but obviously it's also
+ the fourth quarter and it's important to
+ to see that pipeline conversion into fourth quarter.
+ So, as you would expect now, obviously, some of that pipeline needs to be rebuilt, right,
+ as for all other enterprise software companies out there as well.
+ And last question was around costline R&D.
+ anything special
+ in the fourth quarter or not?
+ Not really.
+ I think it's the full impact of the acquisitions
+ which we've done, yeah, that's about it.
+ But going forward, that growth will be slower.
+ Great, thank you
+ the next questions come from
+ I'm James Goodman at Barclays.
+ your line is not open.
+ Great morning. Thanks very much, and particularly for the extra disclosure around the SMB business as well.
+ A couple of questions from me.
+ Firstly, just on the headcount side.
+ if I look at Q4
+ There's been a meaningful sort of reduction in the sales and the marketing lines there, presumably around the right sizing.
+ So I really just wondered if you could talk a little bit about your plans in terms of headcount into 22.
+ to you expecting any impact from that lower sales headcount
+ and how are you finding employee attrition
+ and the sort of general environment around employees,
+ given the changes and movements last year.
+ And then just secondly, I guess a slightly broader question on the outlook for 22.
+ to nearly half-half of the growth this year from SMB versus enterprise.
+ So just wondered if, rule of thumb, you're expecting something similar in this year.
+ and then in terms of seasonality there as well
+ I think
+ a sort of
+ flatter set of comps than we've had
+ previously, but still a little bit of residual strength in Q1 from that COVID period two years
+ ago, so would it be fair
+ to say that you'd expect growth to be stronger in the sort of Q2 to Q4 part of the year.
+ Thank you.
+ Yeah, hi, James. Thanks. So just for your first question
+ headcount
+ yeah we had
+ and headcount
+ As you can see from the numbers, after the very strong intake, that's really just a freeze, no meaningful reduction.
+ and especially there's no meaningful headcount reduction in sales and marketing.
+ So these are two areas where we're investing.
+ so there's regrouping
+ underneath the
+ hard so to say but
+ all in all, we have a strong
+ Salesforce strong marketing
+ support and that's not going to impact
+ the growth
+ and the initiatives for this year.
+ Yeah, I think then in terms of your rule of thumb, yeah, I mean, obviously we don't give guidance between for SMB and the enterprise growth, but generally speaking, the way how we see that is not a bad approach, frankly.
+ and that would equal to
+ I mean, SMB growth 10% or above or getting to 12% growth.
+ That's obviously the target which we gave ourselves at the CMD.
+ we're not quite there yet
+ but obviously we put in place lots of measures to improve our S&P performance.
+ and I think
+ if we expect
+ equal
+ weighting
+ of
+ enterprise incremental growth
+ and as we increment growth.
+ That's a good rule of thumb.
+ And seasonality, yeah, you're right.
+ I would also expect a moderately biased seasonality towards the second half.
+ A, we continue to pause the monetization of free users, as we talked about.
+ That's still the case.
+ So we don't use any of that for the time being.
+ and obviously enterprise pipeline rebuild and converting
+ Obviously, it's also biased, as for most other enterprise software companies, more towards the second half.
+ Okay, thank you. Oliver, just maybe coming back just on the employee side, just in a little bit more detail.
+ I mean, just around the general environment, it's clearly a topic across the space at the moment,
+ just in terms of attrition versus wage inflation versus finding the right people,
+ anything to add around that?
+ Yeah, good point.
+ Clearly, we see that there is significant competition for workforce across all markets.
+ I think started in the U.S.
+ and now it's also
+ Europe in APEC was always very difficult to find high-caliber people.
+ Certainly, we've used the regrouping exercise to also think about adjustments there
+ in terms of increasing salaries
+ and making adjustments for the people
+ that
+ uh, uh,
+ high talent and we want to keep
+ going forward and then some reductions in some places where we felt we are not in the best possible position.
+ So it's getting harder, absolutely.
+ I think we have an attractive compensation system.
+ we provide significant
+ opportunities, and
+ and we have an eye on that.
+ I wouldn't say that we have
+ difficulties finding people
+ tuition has gone up in some areas
+ but also, honestly speaking, during the Remax program, part of it was also semi-wanted, so to say.
+ so we were actually quite happy to have the opportunity to regroup in some places
+ in some departments globally.
+ So all in all, I would feel well under control, but it's getting tougher for sure.
+ That's helpful.
+ Thanks very much.
+ The next question is coming from Mohamed Mawala at Goldman Sachs.
+ Your line is now open.
+ great thank you uh morning um oliva and stefan um a couple from me uh first of all just uh stefan
+ you made the comment around Q4 being showtime for the enterprise sales force,
+ but the pipeline had to be rebuilt.
+ I'm just curious to get your sense on kind of the visibility of this business
+ because it's obviously been very Q4 loaded over the last couple of years.
+ I mean, the overall enterprise and IT spending environment from everyone you hear is pretty robust.
+ So I'm just curious what you can do around kind of driving more consistency here, both around kind of pipeline build.
+ but are you also seeing any progress or evidence around some of the larger deals,
+ and is that sort of baked into your expectations or not?
+ And then secondly, just again back on enterprise in terms of execution, can you maybe talk us through any sort of changes you have made to sort of make the execution a bit more kind of consistent on the side as well?
+ Thank you.
+ Sure.
+ So enterprise visibility, yes, when I say it's showtime, clearly, I mean, as you know, enterprise business has always been biased towards the fourth quarter, whether we liked it or not.
+ it's just a fact in the enterprise software industry
+ I think what we've seen here is
+ a good build of the pipeline
+ especially in the Americas
+ when Petty joined us
+ she put together a new team
+ I think that the team also with existing talent actually produced a very good pipeline
+ and then converted really strong in the fourth quarter.
+ And I think this was a progress across all use cases and across all deal sizes in the U.S.
+ I think in EMEA, we are slightly behind.
+ there was a leadership
+ leadership change a bit later in the year
+ in the fourth quarter
+ and I think the pipeline
+ in the EMEA region, as we expressed during the third quarter, was not as strong as in
+ the U.S., but they converted also very nicely, overall speaking.
+ I think what's good to see from my perspective is that the pipeline we have now built together with our key partners like SAP or Google and the likes is increasing.
+ I think that's nice.
+ It's also pretty much centered around the newer use cases, which tend to have larger ticket sizes.
+ but clearly those partners, like I mentioned, they are also very much biased towards Q3 and Q4
+ right towards the end of the year when they convert a pipeline.
+ But overall, happy with what we see.
+ as you would expect going into the new year
+ there is some carryover from
+ And pipeline which hasn't been closed, which we can close and did close early on.
+ But fundamentally, obviously, you need to rebuild the enterprise pipeline.
+ But happy with what we've been seeing here in terms of execution look. I think it's all about being close
+ towards the deals
+ and closely towards closely managing the enterprise team.
+ And I think that's what we've been doing over the last few months,
+ also by Patty and Jan, who manages the EMEA Enterprise team, and now Seo Joong, I think
+ And generally speaking, we are much closer to monitoring our enterprise development,
+ sales productivity, and that makes me confident that we have it in place
+ to deliver on our 2022 numbers.
+ But I would also say that, of course, what you call
+ make execution more consistent.
+ And, I mean, if I turn it around, the inconsistencies, of course, also due to the fact that we see really many positive movements.
+ I mean, we see a move over the last quarters towards larger deal sizes.
+ we see regional moves
+ we
+ enter new verticals which we haven't been
+ present before we did the acquisitions to add augmented reality so all of this is getting us
+ larger projects, outsized
+ deals at certain points in time
+ plus on top now we have the partnerships which we're launching
+ with SAP and Google.
+ So I would say, in a way, a good problem to have because the share of new business to recurring renewal business is still very high.
+ and then of course
+ that distorts the picture here and there
+ a little bit, but with the overall growth rate, the track record you see, except for
+ the COVID quarters.
+ I think it's impressive
+ so therefore I wouldn't call it an inconsistency.
+ it's the growth
+ growing pain
+ so to say, of a business which is really gaining speed.
+ Okay, that's great.
+ And I could fit one more in on the SMB side.
+ There was obviously kind of a deceleration in the kind of sequentially the subscribers,
+ But maybe, Oliver, could you update us on the kind of state of the competitive landscape?
+ has there been any sort of
+ just remain as competitive at the kind of very low end.
+ and I know you talk about
+ kind of stabilization and gradual improvement.
+ I'm just curious to get your perspective.
+ Yeah, I think pretty much unchanged.
+ I would say, as we had discussed, the COVID wave has really brought a number of new competitors winning customers
+ and trying to get customers and subscribers at the lower end.
+ So this is a numbers game, not an ASP game, so to say.
+ these are small ticket sizes
+ And I think we can do many things there.
+ What we did in the past, clearly, is we had a good portion of the subscriber growth through conversion of free users.
+ We converted quite a few of them in the COVID aftermath.
+ We felt now it's time to probably better ring-fence our free user base more.
+ don't monetize too much
+ let them be on the
+ platform
+ and use our products
+ and get to know other use cases.
+ That's what we have implemented in Q3 and also in Q4, and that's what we expect.
+ so I wouldn't say
+ There is no change in the competitive landscape.
+ I think we have discussed it multiple times, but it's more like we take a more aggressive stance maybe,
+ which is, okay, let people stay on the platform and don't monetize them
+ because we don't really need these extra subscribers
+ to print significant growth for the moment.
+ And if you kind of take that 30,000 to 50,000 subscriber edition guidance,
+ this is something which we can do
+ at a later stage
+ if we need to and want to.
+ Great, thank you.
+ the next question is coming from
+ I'm Stacy Pollard at JP Morgan.
+ Your line is now open.
+ Hi, thank you very much.
+ maybe some quick follow-ups
+ from me just digging in on that last
+ comments around SMBs and the
+ of, you know, we saw a little bit of a drop from Q4 to Q3.
+ is the, when you talk about
+ competition, you know, are you mostly
+ competing on price
+ because the products are somewhat similar and commoditized at that low end?
+ or are you somehow grabbing customers because of features or function
+ or is that where the competitive landscape is?
+ just to really understand
+ what are the
+ what the features are.
+ And then second question, are you able to broadly quantify the impact from the strategic partnerships with SAP and Google as you think ahead?
+ So, say, what portion of growth you'd expect them to contribute, either in 2022 or at some point in the future.
+ and sorry final question
+ recapital allocation. Is the share buyback
+ now the priority focus
+ And how are you thinking of M&A?
+ maybe not as much planned for 2022
+ or do you see more opportunities?
+ Yeah, maybe
+ I start with the competition point.
+ I think if you
+ if you get
+ to the entry-level
+ where you think about
+ working from home
+ one computer connecting to another computer
+ it's very hard to differentiate
+ on features because you effectively
+ connecting
+ to manage
+ IT equipment pieces,
+ they're the competition, I would say,
+ it's more in price
+ and we are
+ We have an attractive offer, which we call TeamView Remote Access,
+ which is for this individual user situation.
+ and in some markets
+ this is competitively priced in others
+ It's maybe a bit too high, but it's also not the key focus for us.
+ so we haven't been reacting on this a lot.
+ What we focus on is feature richness and quality of connectivity to all kinds of devices
+ across all operating systems, reliability, performance, global footprint,
+ in order for this to be really relevant
+ you have to be a professional
+ service provider using the product
+ day in, day out in very different use case situations
+ where you don't want to have a breakdown or a non-connection
+ and you want to have security.
+ So this is, I would say, the bifurcation.
+ if there's focus on
+ features and connectivity,
+ resilience and reliability
+ then we win
+ if it's purely single person
+ connecting
+ um
+ we are under price pressure
+ we tend to be not as competitive enough
+ That's why we're basically giving it for free at the moment, which we always said.
+ If you remember the IPO, we said the free product is the best protection against low-end competition.
+ we haven't played that card
+ over the last 24 months, but now we do.
+ And then maybe on the strategic partnerships, I mean, recapping 2021, I mean, obviously those have been closed and signed towards the end of the summer.
+ We didn't expect significant contribution in 2021.
+ Despite that, there was strong momentum in pipeline build, especially in the Americas.
+ I think we are well connected there
+ with the team
+ We already closed a few smaller deals together with the SAP, which is good to see.
+ Also, Google supported us clearly in some larger deals, also very strong contribution
+ there through indirect relationship
+ support, I would say.
+ So we're all very pleased with the momentum which we've seen.
+ Now it's obviously all about increasing and building the pipeline
+ and start converting the same in the second half.
+ I think it's a bit too early to quantify the full impact, frankly,
+ but obviously those strategic partnerships
+ open up avenues for
+ significant growth in the enterprise space.
+ I mean, last year we did 40 million of incremental billings in the enterprise business, roughly.
+ and I think it doesn't take a whole lot
+ to mention that successful SAP partnerships and Google
+ partnerships can contribute meaningful to those numbers.
+ I mean, the overall logic is that there's a complete new set of solutions
+ which are more and more adopted, which are based on the augmented reality platform.
+ So really supporting other workers and employees which are not in the office environment
+ but which are outside the office environment.
+ So call them frontline workers or industrial workers or service technicians, whatever.
+ I think there's the clear trend to bring more IT, more software, more support outside of the IT, the headquarter, into these functional areas.
+ And the nice thing is that I think we all aligned with this opportunity.
+ opportunity so clearly
+ Um,
+ somebody like Google
+ like others
+ but also Google, they want to increase their cloud consumption
+ by new types of services that can be provided across the enterprise.
+ somebody like SAP really
+ extending the proposition
+ from ERP
+ warehouse management to frontline worker support, our software coming into play, sometimes
+ system integrations
+ and some professional services needed,
+ which is then tapping into the traditional partner network that is doing software implementation.
+ so I think
+ a good group of companies
+ coming around that opportunity
+ and that's why we're so positive
+ about this future perspective
+ them. And then maybe on the share buyback and M&A, look, I think the key question for us was
+ How are we dealing with the significant cash position we built up over the last couple of years,
+ leveraged down at 1.3 times.
+ So this enables us to do this share buyback.
+ but that being said
+ I would feel very comfortable to take up leverage again if the right target comes our way.
+ I think we have to
+ the financial firepower and the flexibility in our balance sheet to pursue M&A.
+ that's not immediately on the horizon.
+ absolutely not but we still
+ maintain significant firepower
+ to pursue M&A.
+ Okay.
+ useful things.
+ The next question is coming from Hannes Leitner at UBS.
+ Your line is now open.
+ yes thank you for letting me on
+ I have also a couple of follow-up questions, maybe on Stacey's question,
+ And just to add here, in regards to your conducted aim on day,
+ Can you talk us through about the contribution for Q4?
+ and then also how that kind of now is a total group.
+ For example, the AR mixed reality have contributed to enterprise buildings
+ to get their better sense of the performance.
+ And then maybe just to follow up, because you mentioned enterprise had a reshuffle in Europe.
+ Is that anything related with Uber Max and with that management?
+ And then just the second topic would be to discuss margins.
+ Q4 has been
+ quite, seen quite healthy
+ margins
+ 2022 guidance shows a little bit less confidence in it.
+ maybe you can talk us
+ also over the near term and the mid term
+ the margin trajectory
+ as enterprise ramps up
+ philosophically you should have the
+ higher costs
+ are pitched
+ So how do you plan to offset that moving path?
+ Thank you.
+ Yeah, sorry, just the first part, the first few.
+ and I think so
+ yes
+ so let's
+ so the first part
+ was about
+ the M&A that we did, the contribution in the
+ fourth quarter and the AR
+ contribution and the likes
+ and the reshuffle, so maybe I go first and then...
+ So I think the way to think about it is that we have fully integrated Ubimax, Upskill, and Viscopic into our product management, R&D, and also go-to-market and sales.
+ obviously sales
+ was more coming from the TeamViewer side,
+ not so much from these smaller companies
+ So, significant contribution from AI.
+ if you look at the enterprise in total currently
+ definitely can comment on the numbers, but I think
+ important is the the go forward pipeline and as we see it in most regions i would say that
+ somewhat like a split of 50-50
+ between topics which are centered around augmented reality solutions
+ for frontline workers, one way or the other.
+ That can be manufacturing, field engineering, service technicians, logistics, all the use cases, really.
+ and the other half being classical
+ tensor and engagement, managed connectivity, customer interaction products, and so forth.
+ So that's how I would say contribution to the pipeline go forward.
+ the EMEA reshuffling
+ that has nothing
+ to do with Ubimax
+ or anything like this
+ the three Ubimax founders
+ are all still on board.
+ One is our chief product officer.
+ One is leading the enterprise sales and solution delivery in EMEA,
+ and one is based out of the U.S.
+ really driving the augmented reality solutions there
+ with the President of America.
+ so that's not a driver
+ but the driver is really leadership change only.
+ and then a little bit of recutting the regional teams underneath.
+ so nothing more than that
+ I think
+ I'll let Stefan kommen
+ on the margin
+ But what is not true is that enterprise is suppressing our margin,
+ that we have done the enterprise investments back in the years, so to say,
+ and ramped up our sales force and also our R&D product management and the like.
+ So I think that ingoing hypothesis is wrong on that end.
+ Yeah, maybe just on Ubim, excuse me, because I think all of those three founders play a very important role within the organization, as Oliver just mentioned.
+ And obviously, they have a very strong enterprise background.
+ so great to have them on board
+ and it's good to see that their roles have actually increased in importance.
+ In terms of margin, yes, all of us are absolutely right.
+ now look, I think enterprises
+ It's close to 20%.
+ and that was always the question, is this going to be dilutive?
+ and it's not and it hasn't been
+ her, if you would
+ rip out the marketing partnership's
+ effect on our penile, we would still be at mid-50s, roughly, right?
+ so despite
+ enterprise business growing
+ and nearly doubling in last year,
+ we would have been able to keep our margins at very high level.
+ So I think from my perspective, no dilutive impact.
+ Why is that?
+ look, there's no significant professional services.
+ It's land and expense, taking S&B customers and converting them into larger customers.
+ that's a big driver as well
+ and I don't think it's going to change going forward.
+ Now, in terms of margin, you expressed it as having less confidence.
+ I don't think so, frankly.
+ I think, frankly, in 2021, we over-delivered against the guidance we gave ourselves.
+ It was 44% to 46%.
+ Now we came out at 47%.
+ I think we said at the time of the capital market today,
+ we want to improve margins again as we exit 2022.
+ and now I think we've achieved that goal a bit earlier in 2021
+ one, and I think the margin guidance we gave
+ ourselves 45 to 47 percent is a good margin target and it's not it's not
+ dilute. Clearly, we should
+ bear in mind that in 2021, the first quarter didn't have the impact of the marketing
+ partnerships in that margin of around
+ 60%, but obviously
+ that's not repeatable anymore
+ that's the biggest
+ the biggest reason for a
+ potential
+ adjustment of all margins.
+ But as you pointed also out in the fourth quarter,
+ which is 44% margin, so very good.
+ Now we have the cost trees implemented, as Oliver mentioned, or the cost pause, as Oliver mentioned,
+ and that should help us to get the margins to the 45% to 47% level.
+ Okay, thank you.
+ Just in regards to that cost freeze, just on the implied OPEX increase, it suggests
+ that you have OPEC's increasing
+ 19% this year
+ so in line with the top line.
+ And so that's why the Raymax program should actually mitigate their sum.
+ And that's why I suggested the conservatism.
+ It is.
+ And then the last word is in the enterprise on the acquisition.
+ So you're saying that there is almost no contribution from upskill and viscopic in Q4.
+ yeah
+ look
+ with
+ copy
+ is
+ it
+ was
+ it
+ was
+ small startup which we acquired, so immaterial and the same with upskill, yeah?
+ I mean, that's hardly material contributions from that.
+ So all of the growth which you have seen is pretty much organic growth.
+ Exactly, if that is what you're after.
+ technology
+ They're part of the solution portfolio, but you cannot strip out.
+ they didn't come with
+ billings which are now absorbed
+ and would kind of devalue the organic growth performance.
+ That's absolutely not the case.
+ And Hans, maybe just quickly on the cost growth.
+ I mean, obviously, the growth compared to 2021 is predominantly the full-year impact of the marketing partnerships, right?
+ that has started in the second quarter with half the charge, more or less,
+ And since Q3, it's fully expensed in the P&L.
+ But obviously now going into Q1, you will see a significant increase compared to Q1 last year.
+ but the run rate is now stable
+ if you compare Q3, Q4
+ it's a pretty
+ stable run rate
+ That makes total sense. Thank you.
+ the next
+ this is
+ coming from Gustav Frohberg at Berenberg,
+ Your line is now open.
+ thank you for taking mine as well good morning um i just have three very quick ones hopefully um
+ two on capital allocation
+ on the Shared Buyback Program,
+ I was hoping you could just give us some more color there
+ on how you've reached the decision to reach or to go for a shared buyback program
+ and how we should view what is effectively a return of cash to shareholders
+ via share buybacks versus the company's reinvestment opportunities
+ and the maturity of the business.
+ So just one question on the deliberations you made
+ when arriving at that decision
+ versus investing in yourself via M&A or organically.
+ Is there any question on the shares you would like to cancel?
+ So why would you not consider using more of the brought back shares as
+ acquisition currency?
+ and then the third question
+ on costs. You mentioned during the
+ CMD that you would like to start capitalizing
+ and sales costs, could you please remind us
+ what you expect the impact may be in 2022.
+ Yeah, on the shareback, the decision, look, I think that there was quite an intense discussion over the last quarter, frankly.
+ since we IPO'd the company
+ there was the question already back then
+ what are you going to do with the significant cash
+ you're going to generate over the next couple of years?
+ And I think now, with a leverage of 1.3 times, we had to answer that question.
+ and then obviously we deliberated
+ and conducted quite some intense reviews
+ about balance sheet structure
+ what is a
+ reasonable balance sheet for us, what gives
+ us still enough headroom to invest
+ into the business
+ and we feel anything below a leverage of 1.5 times,
+ This then allows us the opportunity to return cash to shareholders through a share buyback.
+ and I think that's what the label which we have
+ already achieved.
+ however I think and that's the good news
+ it does not eat into our reinvestment opportunities at all.
+ I think we still have very strong financial firepower to pursue M&A.
+ I would feel comfortable
+ any time
+ to increase the leverage again
+ if the right target comes our way.
+ so I think
+ This actually now gives us the opportunity, the share buyback, to let shareholders participate in the cash we generate, but at the same time does not eat into our future M&A plans.
+ Yeah, I think maybe from my side, to add to this, I think the thinking process is M&A is not on the list short term.
+ I think we clearly committed at Capital Markets Day that it's all about organic performance.
+ We revised our guidance.
+ We revised our mid-term plans.
+ We gave details around value creation in enterprise and SMB, and it's about delivering on this in the short term.
+ So, therefore, no immediate thoughts on M&A, number one.
+ number two
+ if we were to do M&A
+ it's either
+ at a later stage, it's either tucking them
+ which we have very successfully done with you.
+ We maxed upscale this topic in the past,
+ And the current share buyback program leaves all the opportunity and flexibility to do so, if that would come along.
+ The only limitation would be if there is a mega M&A and then we anyway in a different game
+ and need to think about different measures
+ because then the capital we have wouldn't be enough
+ and that's totally not on the horizon at the moment.
+ And so, therefore, we felt after quite some discussions with investors over time,
+ we should do this now
+ because it's a good timing
+ and we don't need the funds.
+ and then in terms of why
+ cancel not keep them for
+ M&A currency, look, I think it's just straight up
+ to cancel them, we can obviously, if we pursue M&A, reissue shares.
+ I think technically not a big difference
+ but it's just greater to cancel them now for the time being.
+ Yeah, as it's not on the short-term horizon.
+ and then sales commission
+ your last point
+ yes, we started
+ capitalizing some of those around 3 million
+ in the fourth quarter and I expect
+ going to 2022
+ that should be in the mid-single-digit milliliter range.
+ So probably five to seven million on a yearly basis.
+ All right, good stuff.
+ Thank you very much.
+ The next question is coming from Gianmarco Conti at Deutsche Bank.
+ your line's not open
+ Yeah, hi there.
+ Just a few follow-ups for me, too.
+ I have three questions
+ That's just the first one.
+ Could you perhaps share on your FI21 base
+ what is the percentage of billings
+ that comes from AR and IoT
+ and sort of what is the customer count evolution there.
+ The second question is,
+ If you could share some data.
+ I know you've previously spoken on your CMD about IT versus OT use cases.
+ how is that looking in the fourth quarter
+ and how are you thinking about the trends progressing into FY22
+ if you're still seeing potentially more of OT use cases versus IT
+ and how you're measuring that.
+ And the final one is just sort of a clarification.
+ I wanted to understand whether your enterprise billings,
+ I saw that you've converted sort of 12 million from the SMB.
+ I was wondering
+ out of the A2-1 remaining?
+ how much came from retained versus new wins
+ and how does the new wins in enterprise compare to the previous years?
+ Thank you.
+ Yeah, so on the AR side of things, I think we discussed at the capital market today that on an LTM basis, operational workflows buildings were around 13 million, one three, and that has substantially increased in the fourth quarter, as you would expect.
+ and also highlighting some of the use cases Oliver mentioned,
+ which included our frontline solutions.
+ so overall
+ still obviously relatively small but as part of new buildings especially in the enterprise business
+ It's becoming increasingly important.
+ Also mentioning the partnerships with Google and SAP.
+ That's obviously right now at this point in time predominantly focusing on those use cases.
+ And then thinking about the IAT-OT use case split, predominantly more biased towards OT,
+ especially obviously the frontline solutions as well
+ or the whole AR suite
+ that I think
+ probably going
+ back a year, one and a half years ago
+ was roughly split, I'd say
+ 50% OT, 50%
+ IT use cases or managed
+ connectivity use cases.
+ If I take a look at the pipeline today, it's probably rather two-thirds OT frontline-led use cases
+ and one-third of the deals probably have an IT use case scenario to it as well.
+ I think overall, it's well balanced, frankly.
+ and it should see
+ and has seen a significant larger increase
+ towards our newer products,
+ which is very
+ very encouraging
+ But it's also important to notice, I mean, most large customer situations have a mix somewhat.
+ there's either
+ So they start in IT and then have the plan to move into more parts of the organization
+ and connect more devices all the other way around.
+ So your question, how do we measure this?
+ I think the honest answer is that
+ we have in the CRM
+ of course we have
+ We have a clear understanding of what the customers do,
+ but we don't measure it with a single KPI because we tried in the past
+ and there is kind of specifics on connectivity and the likes and the likes,
+ but ultimately the only thing
+ that helps is to engage with customers and understand
+ what they're doing and that's not a
+ call it quantitative measure
+ which we
+ which we're following or managing.
+ it's really not so relevant
+ And the importance is that we sell more use cases to larger organizations.
+ And then lastly, on the enterprise new billings,
+ significant
+ amount of the incremental billings in enterprise
+ came from new customer wins
+ obviously
+ we have a strong net retention rate in the enterprise business.
+ So overall, it's 105% for the fourth quarter.
+ So you can imagine for the enterprise, it was significantly higher.
+ but even that being said
+ we still had a very good intake of new
+ enterprise customers in the fourth quarter, as you would expect as well.
+ Right. And just a quick follow-up.
+ And are you saying that the free to create campaign, you are sort of blocking it even in the long term, like even in the future?
+ or is it something that you might revisit
+ sort of say
+ of growth expectations on
+ exactly what you want them to be.
+ No, I think the
+ good question
+ I think the past
+ had always shown past meaning
+ before this whole COVID
+ a disruption
+ The path that I was showing that it makes sense to convert some of the free users into paying customers in a given market, but then don't do anything for a while.
+ now we have done
+ very little in Q3, nothing in Q4
+ And as we said before, likely the same will be Q1, Q2, but let's see.
+ But that's the current planning.
+ and then most likely
+ we will do some monetization again
+ towards the second half of the year
+ in selective markets
+ and let's see what the contribution is.
+ We feel very comfortable with this 30,000 to 50,000 new subscribers, which we want to grow.
+ Part of it will come from free-to-pay.
+ likely part of it will come from voluntary purchases through other
+ initiative so this is
+ That's the way we look at it at the moment.
+ of course if we see
+ significant other traction
+ in other parts of the business, and we can suspend it even longer,
+ then we'd likely do so
+ but that's out to be discussed later during the year.
+ Right. Just one last one, if I can fit it in.
+ On my previous question around new wins in enterprise,
+ are you not able to pin a number or quantify the percentage of enterprise
+ billing derived from new customers
+ not that were retained or
+ converted from SMB?
+ Yeah, look, I think that's something which we don't want to do at this point in time.
+ I think the importance
+ step at the C&D was to give
+ precise color around those two different segments, SMB and enterprise, but I think that's it
+ for the time being.
+ I think it was
+ going forward
+ We might change this, but at this point in time, we focus on providing overall billings
+ between SMB and enterprise.
+ And it's also not, at this point, I know, I mean, later in the future,
+ might be more relevant but at the moment
+ with so many customers where
+ There is a contact and there is a license in our SMB base and whether you call that a new logo
+ despite the fact that
+ maybe there is a few thousand euro
+ license there.
+ I think this is such a significant move upwards.
+ and then there's a few customers
+ that come in completely new
+ has new logos with a big ticket
+ but I think at the moment
+ I would say it really doesn't matter that much.
+ later when we have more of these large
+ logos and we talk more about upsell development and cross-selling and we have maybe at some point
+ depleted the number of large
+ organizations
+ as I want
+ subscriber base
+ that would be a different topic but at the moment
+ that's just not the operational reality at the moment.
+ As a reminder, if you have a question
+ for our speakers, please sign
+ 01 to enter the queue.
+ The next questions come from
+ I'm Victor Chang at Bank of America.
+ Your line is now open.
+ Hi, thanks for taking the question, too, from my side.
+ just to follow up on the
+ NetSubscriber Editions
+ can provide a bit more talent
+ and how we should think about it, particularly for Q1-2, is the target of 30 to 50K net new additions.
+ achievable in 2022, or should we expect it to be a bit closer
+ to the lower end.
+ And then second question on the free user base.
+ Are you able to break down the yearly active devices by device types
+ and how that has evolved over time.
+ has IoT become a bigger part
+ of these devices, and if so, does that imply the free base for traditional device actually
+ have shrunk a bit more.
+ Thank you.
+ so I'd say
+ that additions
+ uh
+ we said 30 to 50k is the range uh of net editions we want to do and we uh and we can confirm that
+ probably
+ uh
+ weighted towards the second half.
+ as I said
+ Q1
+ Q2
+ probably
+ suspended free-to-pay campaigns
+ so wouldn't expect
+ significant net ads in these two quarters from today's perspective.
+ Free user-based breakdown
+ We wouldn't go to that detail.
+ We have different metrics around the free user base, of course,
+ But I think that's nothing which we would want to disclose.
+ and also device type is interesting.
+ but of course if you look at the
+ Just the sheer number of hundreds of millions of active devices,
+ most of them are one way or the other Windows or Android operating system,
+ So breaking that out by device type at the moment is not that relevant.
+ the device type we can't do anyway
+ The only thing is operating systems, right, running on that.
+ but as I said
+ this is not really meaningful
+ because obviously Microsoft is pretty dominant.
+ You can do mobile Android versions.
+ and it's not meaningful.
+ All right.
+ Thank you.
+ There are no more questions at the moment for closing remarks.
+ I'll be back to the speakers.
+ and looking forward to talking again soon
+ Thank you.
+ Thanks. Bye. Good day. Cheers. Bye.
+ thank you for your attendance
+ Since this call has been concluded, you may disconnect.
+ next.

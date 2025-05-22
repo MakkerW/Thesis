@@ -1,0 +1,817 @@
+ Ladies and gentlemen, thank you for standing by and welcome to the conference call
+ to discuss the definitive agreement for Illumina to acquire Grail.
+ At this time, all participants are in a listen-only mode.
+ After the speaker's presentation, there will be a question and answer session.
+ To ask a question during the session, you'll need to press star 1 on your telephone keypad.
+ You will be limited to one question.
+ If you require any further assistance, please press star zero.
+ Thank you.
+ And I'd like to hand the conference over to your moderator for today,
+ Jackie Ross, VP of Investor Relations, please go ahead.
+ Good morning, everyone, and thanks for joining us on such short notice
+ to discuss the definitive agreement for Illumina to acquire GRAIL.
+ If you've not had a chance to review today's release, it can be found in the Investor Relations section of our website at Illumina.com.
+ Participating for Illumina today will be Francis D'Souza, President and Chief Executive Officer,
+ and Sam Samad, Chief Financial Officer.
+ We're also pleased to welcome
+ Hans Bishop, Grail's Chief Executive Officer.
+ Francis, Hans, and Sam will share some prepared remarks, and then we will open the call for
+ some questions. This call is being recorded and the audio portion will be
+ archived in the Investor section of our website.
+ Today's presentation contains estimates, projections, and other forward-looking statements.
+ These statements are subject to risks and uncertainties.
+ Actual events or results may differ materially from those projected or discussed.
+ Please review the cautionary statement and other important information
+ for investors and stockholders on slide two.
+ With that, I'll turn the call over to Francis.
+ Thanks, Jackie.
+ Good morning, everyone, and thank you for joining us on such short notice.
+ I'm excited to share that earlier this morning, we announced an agreement to acquire GRAIL
+ and to work together to launch a new era in cancer detection.
+ Before we start, I want to acknowledge the GRAIL team
+ for what they've accomplished.
+ We spent out Grail four years ago to focus on an ambitious goal, to revolutionize the
+ the way we detect cancer by developing a blood test that could find cancer earlier than is possible today.
+ Their innovation and results since then have exceeded even our lofty expectations.
+ setting the stage for early cancer detection to likely be the largest genomic application
+ over the next 15 years, by far.
+ This combination will be transformative for cancer detection.
+ The acquisition will enable Grail to leverage Illumina's global commercial,
+ clinical, and operations capabilities, accelerating their mission
+ and allowing us to impact more people faster than they might have done alone.
+ Illumina's next-generation sequencers will continue to support genomic medicine to become
+ standard of care across clinical applications and with this acquisition
+ we will accelerate and participate more fully and directly
+ in the highest-value clinical opportunity enabled by our technology.
+ Specifically, the acquisition positions of LUNA to participate in what we expect will
+ be a $75 billion market for NGS-based oncology tests by 2035, $60 billion higher than our
+ for oncology TAM, excluding GRAIL.
+ Cancer is one of the greatest threats to human health.
+ Despite the significant investments made and the important
+ medical advancements achieved so far.
+ When we diagnose cancer too late, when it is metastatic, less than 20% of patients will survive more than five years.
+ In contrast, if we diagnose cancer early, approximately 90% of patients are expected
+ to survive beyond five years.
+ About 71% of cancer-related deaths are attributable to cancers with no recommended screening tests.
+ with limited screening tests cancer is more likely to be detected in the late
+ stages and more often than not too late this is both a human tragedy and an
+ enormous burden on the health care system each year there are over 600,000
+ cancer-related deaths in the U.S. and approximately 10 million deaths worldwide, making it the
+ second leading cause of death.
+ We spend approximately $250 billion per year on cancer in the U.S.
+ And globally, the annual economic impact is more than $1.2 trillion.
+ And now, for the first time, there is a technology platform that enables us to address this burden.
+ Starting with Grail's multi-cancer detection test gallery, which aims to reduce cancer
+ deaths by transforming how and when cancer is detected grail's technology
+ characterizes the DNA that cancer cells
+ shed into the blood.
+ collecting unique signatures that identify both the presence and often the tissue of
+ origin of the cancer.
+ this year.
+ Grail shared positive results from its Circulating Cell-Free Genome Atlas, or CCGA, study that has enrolled 15,000 participants.
+ The study found that the first version of gallery reported
+ sensitivity of 44% for stage 1 through 3 tumors for 50 different cancers, and 67% sensitivity
+ for the 12 deadliest dancers.
+ And in 93% of the positive results, the test correctly identified the tissue of origin,
+ all with a specificity of greater than 99% and from a single blood draw.
+ Arguably, one of the most important performance measures for doctors and payers
+ is the positive predictive value, or PPV,
+ which is the percentage of positive tests
+ that are actually cancers.
+ For gallery, we predict a PPV of 43%.
+ This represents a very significant step forward compared to today's most commonly used screening
+ tests, which often have a
+ PPV in the range of 3% to 5%.
+ The GRAIL team is preparing to launch Gallery as a lab-developed test, or LDT, in 2021.
+ one.
+ We believe that this is a remarkable advance in the ability to detect cancer earlier, which
+ can transform cancer care
+ and improve population health.
+ As noted earlier, most cancers are currently diagnosed in late stages.
+ as shown by the gray bars in the chart on the left half of slide 6.
+ The limitations of current screening methods lead to only 31% of cancers being identified in Stages 1 and 2, when they're the most treatable.
+ Based on GRAIL's studies, this could increase to 82% with broad adoption of Galleries blood
+ test complementing today's recommended cancer screening this matters because if we mentioned
+ earlier survival rates are directly correlated with how early cancer is
+ is detected.
+ Broad adoption of gallery could avert nearly 40% of the five-year cancer
+ mortality
+ or around 100,000 deaths annually in the U.S.
+ My apologies for the technical issues.
+ we will pick up again from slide 6.
+ As noted earlier, most cancers are currently diagnosed in late stages,
+ as shown by the gray bars in the charts on the left half of slide 6.
+ The limitations of current screening methods lead to only 31% of cancers being identified
+ in stages one and two, when they're most treatable.
+ Based on Gradle studies, this could increase to 82% with broad adoption of Galleries blood tests
+ complementing today's recommended screening. Because as we mentioned earlier, survival rates
+ are directly correlated with how early cancer is detected.
+ adoption of gallery could avert nearly 40% of the five-year
+ cancer mortality, or around 100,000 deaths annually in the U.S.
+ To put this in perspective, this roughly matches the number of deaths prevented by all current
+ screening to confident the gallery will enable screening for more cancers than ever before.
+ While screening has improved for some cancers, including lung, breast, colorectal, and cervical,
+ we know that roughly six in ten cancers diagnosed from 12 million cases and 5
+ million deaths a year are associated with cancers with no recommended screening
+ requirement. Since Gallery will help discover cancer earlier, we believe that Gallery can
+ help detect three times as many cancers
+ when added to recommended
+ single cancer screenings.
+ opportunity to improve outcomes for patients and the potential impact in
+ families and communities highlights the importance of Grail's work.
+ we will also be able to better meet the needs of healthcare providers and delivery systems.
+ By improving the overall efficiency of cancer detection,
+ Pairs will be able to realize the lower costs associated with the treatment of cancer at
+ earlier stages.
+ Based on Grail's estimates, the adoption of gallery, alongside existing screening guidelines,
+ help reduce diagnostic workup costs by up to 65%.
+ These benefits are key drivers in the market potential, which we anticipate reflects an
+ addressable market for NGS-based oncology testing of $75 billion.
+ seeing rapid adoption of NGS-based therapy selection tests,
+ Many based on Illumina's technology.
+ Over the next 15 years, we expect this market to grow in a category of about 16% to $14 billion.
+ to an annual $7 million test opportunity at approximate ASP of $1,300 to $2,300.
+ Illumina participated in the therapy selection market with our TSO500 test, currently available
+ use only and making its way
+ through regulatory approval for commercial launch in early 2022.
+ reimbursement landscape continues to strengthen and drives the utilization of therapy selection
+ deaths. We're seeing more companies
+ working on monitoring tests that will assess the activity of a patient's cancer.
+ This can optimize disease management and determine the effectiveness of cancer therapies for individual patients.
+ assays can also act as surveillance tests for cancer patients who have completed therapy and
+ are in remission to grow with a canger of about 27% to $15 billion in 2035.
+ The test opportunity here is expected to grow
+ to about 20 million tests per year.
+ of $700 to $1,000.
+ ...opportunity is significantly larger than therapy selection and monitoring combined.
+ This market is expected to grow quickly to about 150 million tests in 2035,
+ a 75% CAGR, to approximately $46 billion.
+ This assumes an ASB that starts around $1,200
+ and trends to about $300 in 2035.
+ and drive adoption with increasingly accessible pricing. With regards to the market for galleries
+ specifically, there is a sizable addressable market of over 100 million people between the
+ age of 50 to 79 in the U.S.
+ We believe approximately half of this addressable market is accessible in gallery prior to reimbursement.
+ The Grail Go-To-Market strategy next year will consist of three core channels, health symptoms,
+ self-insured employers, and concierge medicine.
+ Given the cost improvement potential, we feel that health systems and self-insured employers
+ will recognize the compelling value propositions
+ and drive adoption of the first multi-cancer detection LDT available.
+ There's also an opportunity in concierge medicine,
+ segment that typically caters to health-conscious members
+ that like to be on the forefront of new medical technologies,
+ who could be early adopters of gallery.
+ We expect that Grail will launch the gallery in 2021.
+ We look forward to additional results next year from the CCGA Sub-Study 3 and Pathfinder
+ to further support the clinical validation of GALERY.
+ Additionally, GRAIL will continue to work on its diagnostic aid for cancer tests, or
+ which is intended for symptomatic patients
+ and has decided to speed up the time to diagnosis when cancer is suspected.
+ And Grail also has a minimal residual disease or MRD test in development intended for patients
+ who have been diagnosed and treated to detect persistent disease following
+ just in this therapy.
+ On that note, I'd like to invite him, the CEO of Grail, to say a few words.
+ Thank you, Francis. I'm excited to be here today.
+ Let me start by recognising the accomplishments of the Grail team.
+ We're a mission-driven company focused on detecting cancer early when it can be cured and we
+ We believe our early cancer detection technology could substantially reduce the burden of cancer
+ worldwide. We have developed a new technology that
+ preferentially targets the most informative regions of the genome and uses machine learning
+ algorithms to detect the presence of cancer and identify the tumourous tissue of origin.
+ We believe by joining forces with Illumina, we'll achieve scales faster,
+ preventing more late-stage cancer diagnoses.
+ We are strongly positioned with our first two commercial product launches expected in 2021.
+ And once our deal closes, we'll be able to leverage the global scale and reach of Illumina
+ through relationships and in-country infrastructure
+ to further our commercialization efforts.
+ Simply put, Australia's mission and focus will not change, but Illumina's international
+ footprint and expertise across market access, regulatory, government affairs and
+ manufacturing will accelerate our ability to realize our mission and goals of
+ improve patient outcomes.
+ we've built a world-class team of data and computer scientists at the forefront of applying
+ AI to genomics. And where better to further leverage those capabilities for the benefit
+ of human health than after living well. In the process, we've also established an impressive IP
+ portfolio with more than 230 patents granted globally and another 170 pending patent applications.
+ With 115,000 participants enrolled and another 30,000 planned,
+ RAIL has built one of the largest population scale clinical trial programs ever pursued
+ in genomic medicine.
+ GRAIL's genomic database continues to grow with each test an additional clinical trial
+ participant, and today stands at over 12.6 petabytes worth of genomic data.
+ The comparison is five times larger than the cancer genome atlas.
+ China remains the most innovative company in sequencing, and Grail's ability to keep
+ pushing the boundaries of what's possible, to keep finding more and more cancers at earlier stages,
+ will be further strengthened as a result of this combination.
+ having spent time with Francis
+ And the Illumina team, I'm confident we all share the same goal and we're committed to
+ accelerating our mission and delivering on our promise faster than could be done alone.
+ We both believe this is a case where 1 plus 1 will equal well over 2.
+ And with that, I'd like to hand the call back to Francis.
+ I couldn't be more excited about the opportunity to work with the Grail team
+ and accelerate adoption of their life-saving products.
+ our global commercial, clinical, and operations capabilities.
+ Our global commercial organization markets, sells, and supports
+ holding 6,600 customers in 115 countries, including a number of national population
+ in 115 countries.
+ genomics program, powered by
+ Illumina first established our clinical lab in 2009, and since then I've added two more,
+ including one in the U.K., to support Genomics England and the NHS.
+ certified and accredited labs are staffed by more than 250 team members, including board-certified
+ pathologist, medical geneticist.
+ genetic counselors, and Ph.D. scientists.
+ Over the last five years, more than 17 million arrays and almost 1 million clinical samples.
+ We've also expanded our clinical capabilities and built out world-class market access, government affairs, and regulatory functions.
+ our clinical-grade development and manufacturing team
+ deliver systems and kits
+ registered for IVD use in more than 35 countries around the world.
+ into the clinical market through partnerships
+ with leading clinical companies, including BMS.
+ Jim Ambrose.
+ and GF-based testing.
+ This will have a positive impact on our business.
+ Over time, more of our revenue will reflect the clinical value of our NGS products.
+ and not only the underlying sequencing output.
+ As a result, Illumina will play a direct role in accelerating the adoption of genomic medicine.
+ to enabling it.
+ As we evolve, Lumen remains committed to all of our customers and partners.
+ to deliver the most innovative
+ sequencing systems and consumables to our customers and partners.
+ There's still so much important research to be done.
+ And we know this will be enabled in part by continued innovation in sequencing.
+ And on the clinical side, our mission has always been to improve human health by unlocking
+ continue to enable our clinical customers to scale as they too work towards the shared goal.
+ With that, let me hand things over to Sam for a quick review of financial terms and impact.
+ Thanks, Francis.
+ As announced earlier today, we have agreed to acquire GRAIL for the total cash and stock
+ consideration
+ of age
+ billion dollars.
+ with additional payments linked to certain product sales over the first 12 years.
+ This acquisition expands Illumina's market opportunity by more than $60 billion.
+ It allows us to participate in the clinical market more food
+ and will contribute to revenue growth starting modestly in 2021
+ on and meaningfully accelerate over time.
+ We expect the transaction to close in the second half of 2021, and we will share more
+ detailed expectations about revenue growth and impact on EPS when that happens.
+ The stock consideration is $8 billion.
+ Since Illumina currently owns 12% of Grail's equity on a fully included basis, the purchase
+ price
+ yields approximately $7 billion to Grail's other shareholders.
+ As part of the transaction, Illumina will pay Grail shareholders approximately $4 billion
+ in common stock, which is subject to a caller.
+ The number of shares issued is based on the 20-trick volume-weighted average price of Illumina
+ the common stock 10 days prior to close.
+ the stock consideration caller ensures the final number of shares
+ that Grail shareholders receive is derived from a price that will be within a share price
+ Thank you.
+ $295 and $399.
+ The remaining $3.1 billion cash consideration is expected to be funded with balance sheet
+ cash and up to an additional one billion dollars raised either through equity or debt we have a
+ We have a $1 million fully committed bridge fund for Goldman Sachs to ensure funding availability.
+ The last component of the deal includes contingent payment rights to Grail shareholders based
+ on GRAIL-related venues for a 12-year period.
+ Typically, a 2.5% payment right is applied to the first $1 billion of revenue each year,
+ all revenue above that would be subject to
+ a 9% payment price to grail shareholders.
+ With that, back to Francis.
+ When we created GRAIL in 2016, we knew that its mission was the moonshot, but an important one.
+ One that would have significant ramifications for the detection of cancer is successful.
+ positively impacting millions of lives and opening a massive market opportunity.
+ We wanted to see the technology progress as fast as possible,
+ create the largest clinical trials, and get it to patients in years, not decades.
+ way to do this and capitalize the effort
+ was as a separate company with this singular focus
+ and an extraordinary team that could execute
+ quickly. The Luminous set with technology and some of our best
+ and brightest.
+ Four years later, Grail has proven the skeptics wrong and is now at the pre-commercial stage.
+ It was a big bet, and it paid off.
+ Over the last four and a half years, Grail has raised almost $2 billion to fund the Illumina Generator about $4 billion in EBITDA.
+ This trial's mission is no longer a moonshot, and we believe it is poised to transform cancer detection.
+ is to improve human health by unlocking the power of the genome.
+ This hasn't changed in over the last 22 years.
+ our microarray-based services and products.
+ Our breakthrough arrays offered higher throughput, lower cost, more flexibility, and higher quality
+ than existing technologies, and we became the leading microarray vendor by 2006,
+ more than doubling revenues from the previous year.
+ while we enjoyed the success
+ we saw the opportunity to take the next step forward towards our mission through sequencing.
+ weren't going away, and in 2020,
+ But we saw the potential for an enormous and very elastic research market
+ inspired by high-quality, lower-cost sequencing.
+ So, in 2006, we acquired Simexa, a sequencing technology company with no revenue, for $600 million.
+ dollars. A third of our market
+ gap at the time.
+ was initially skeptical we began the race to the thousand dollar genome and
+ And over the last 14 years, the vision has proved right.
+ We reduced the cost of high-quality sequencing of a genome from $150,000 in 2007 to $600 today,
+ enabling groundbreaking genomic discoveries, including circulating fetal DNA in maternal blood
+ and the impact of rare variants on cancer therapy response.
+ 2014 when we delivered the
+ industry's first $1,000 genome, our research sequencing business was thriving.
+ And once again, we sensed we were entering a new era of genomics, entering the clinic.
+ acquired Maranata, a provider of non-invasive prenatal testing.
+ In December 2013, we received the first-ever FDA authorization for a next-generation sequencer.
+ on our own multi-year clinical
+ transformation, building out the capabilities I referenced earlier.
+ Today, our clinical business, Therapy Selection and Oncology, NICT, and Genetic Disease Testing,
+ consumable.
+ revenue.
+ of genomics and represents the largest genomics application by far, we believe, over the next
+ decade.
+ and regular genomic testing is the norm for a population.
+ Accelerate this vision by acquiring Grail.
+ open up.
+ excluding Grail for a moment, we remain confident in our business and excited by the opportunity
+ We expect to continue as the leading innovator in sequencing, supporting both research and clinical customers.
+ Grail is not replacing anything.
+ and as such, the acquisition will be additive to a luminous opportunity and growth.
+ We consider early cancer detection to be one of the largest clinical opportunities of the
+ and we believe we will accelerate global adoption by participating more directly.
+ This acquisition is consistent with our strategy to extend into the critical market.
+ the fastest-growing opportunity in sequencing.
+ We will continue to deliver sequencing systems and consumables and remain committed to the
+ relationship.
+ pursuit of sequencing innovation
+ to democratize access
+ and realize the potential of this technology to positively impact human health.
+ We spun out rail four years ago on a moonshot mission.
+ The terrific progress they've made has de-risked the mission over time.
+ Now, as they stand poised to bring products to market in 2021, we believe this is the right time to bring the Grail team into Illumina so that we can help to commercialize and accelerate adoption.
+ Our mission to improve human health by unlocking the power of the genome
+ Grail's mission to detect cancer early when it can be cured could not be more consistent.
+ We look forward to accelerating the age of genomic medicine.
+ Certainly.
+ At this time, if you'd like to ask a question, please press star 1.
+ Again, you will be limited to one question.
+ Doug Shanko with Callen.
+ Your line is open.
+ Good morning.
+ So Grail is clearly a really exciting and promising asset,
+ And you did a great job this morning outlining a lot of that,
+ And you were very comprehensive in explaining why you want to do this deal.
+ I'm actually hoping that you could address how you got comfortable
+ overcoming some of the reasons not to do the deal.
+ These include three things that would be really helpful for you to address.
+ The first is the challenge of competing with customers, which has been an issue for you in the past and something you've talked about avoiding.
+ so I'm first off
+ wondering how you expect to manage that and why the change, why the pivot there.
+ Second, the dilution associated with the steel, which could create a potential internal P&L
+ conflict when it comes to incentive structure, not to mention an issue with investor valuation
+ methodologies.
+ I think this is part of the reason your stock got hit so much last week in anticipation of this announcement.
+ So how do you handle potential P&L conflict internally and externally moving forward?
+ And then third,
+ But the lack of clear clinical operating synergies and how you plan to succeed as a clinical development company in a way that you haven't in the past.
+ We know that Illumina is great at certain things, especially developing leading genetic tools platforms
+ and having an amazing commercial team in place
+ to support not just the placement of these platforms,
+ but how users use them.
+ That said, while you've been great as an arms dealer to clinical customers,
+ your track record isn't as strong when it comes to developing and selling assays
+ and getting them through regulatory and reimbursement pathways.
+ So what are the clinical synergies and how do you quantify them?
+ Again, one, how do you manage competing with customers?
+ Two, how do you manage the P&L conflict internally and externally?
+ And third, why should we get excited about this given the lack of clear clinical operating
+ Thanks, Synergis.
+ Thank you.
+ Thank you, Doug.
+ So let's go through each of those.
+ The first one is, how do we manage the challenge of competing with our customers?
+ And our strategy there continues to be that in the vast majority of applications in the markets that we serve,
+ we will look to our customers and our partners to develop the applications and our sequencers and consumables.
+ And that's going to be true for the vast majority of applications.
+ What we've said, however, is that for a very small set of applications, where we felt the
+ market was large, and we felt that there was a differentiated offering that we could put
+ into the market, then we would enter that market directly.
+ In those markets, we still enable our customers and partners to create competing offerings.
+ so we continue to support everybody.
+ But we said in the very large markets where we felt we had a differentiated capability to bring into the market, we would enter those.
+ And you've seen us do that, for example, in the NIPG space,
+ where he brought innovations and intellectual property into that market
+ and I've put together an end-to-end solution.
+ You saw it do that in the large cancer panels, like the 500 gene panel, TSO500.
+ and now you're seeing it do that here.
+ In this case, we feel that the criteria we use have been met.
+ this is a very large
+ application for us, we think
+ that over the next 15 years
+ it could potentially be the largest genomics application in the market in terms of addressable
+ market size, and the
+ The Grail team has put together a very differentiated offering.
+ There was a lot of innovation, a lot of IP that was created.
+ has talked about the 230 applications of patents that have been granted and 170 more
+ that have been filed.
+ And so it's a very differentiated offering.
+ And in this case, you know, with Grails pioneering the market, you know, they're sort of leading the way and creating that market.
+ And so as we looked at the market, we felt it meets the criteria for one of the very small set of markets that we would get into directly.
+ We're going to continue, though, to enable our customers and partners to create their own offerings in this market, too.
+ So that's how we thought about, you know, that question.
+ The next question was around dilution and how we got comfortable with that
+ and how are we to manage P&L conflict?
+ And so the thinking here is that we're going to manage GRAIL as a separate division.
+ And we're going to report really transparent about the P&L of Grail.
+ And we're going to manage that differently and separately from the P&L for the rest of the business.
+ and we understand the profile of what it will take to get Grail successful in the market going forward.
+ And so we'll be kind of very transparent about what that looks like.
+ You know, we expect that to be dilutive for the next few years, but then because of the
+ next few weeks, I'll see you next time.
+ of the opportunity, we expect it to be highly accretive as we start to scale the offering
+ in the later years.
+ And, again, we'll be very transparent about sharing what that looks like.
+ Long term, we have high confidence in the P&L attractiveness of this business,
+ but we do know it takes investment in the first few years.
+ was about, you know, clinical synergy.
+ So what are the synergies that, you know,
+ Grail can enjoy coming into Illumina.
+ And as you know, we've been building out our clinical capabilities since 2013.
+ And so today, for example, you know, we have a number of places where we think Grail could benefit, you know, as soon as they come in.
+ And some things we talked about in the call once, for example,
+ who said we're engaged with over 50 population sequencing efforts around the world.
+ Today we're talking to them about oncology therapy selection, genetic disease diagnosis.
+ we think it's a very natural
+ expand the conversation to
+ include
+ you know, cancer screening
+ and priority detection.
+ I think it would be very valuable in the conversations we're in.
+ and so we'll be able to immediately scale up
+ the number of conversations
+ happening around the world.
+ We talked about our clinical labs.
+ We have among the largest clinical genomics labs in the world.
+ we have
+ two in the U.S., one in the U.K.
+ Those labs have already processed over a million clinical samples and built the workflows and expertise necessary to do that.
+ And then we've also built, you know, the regulatory capabilities, the market access capabilities,
+ in-country surveillance capabilities to support clinical offerings around the world.
+ Today, we have IVDs that are cleared in 35 countries around the world, leveraging relationships
+ we've built with the regulatory bodies in those countries
+ as well as having a market surveillance capability from those countries.
+ And you can see that playing out in the success of products that we've got on the market, like our Veraseek and IPT product, which is CE-IDD Mart, and doing really well in EMEA.
+ So those are some of the clinical capabilities that, frankly, we've spent the last five-plus years building that GRAIL plugs into immediately.
+ Your next question comes from Tycho Peterson with J.P. Morgan.
+ And your line is open.
+ Hey, thanks.
+ a couple quick ones.
+ So, you know, your stock lost $20 billion in market cap last week, as Doug alluded to.
+ Did that influence your thinking, and what is it that you think the street doesn't fully understand here,
+ You know, especially given this is a pretty significant, I think, about a $4 billion step up since the last round Grail did in May.
+ And why is buying it all now the right approach,
+ given that you could have taken your equity stake up higher,
+ leave it at 40%, 50%, help the IPO, and then, you know,
+ I had a call option to buy it later.
+ So that's the first question.
+ And second on margins, can you give us a sense of where COGS can go?
+ So, you know, we know you have off-the-shelf technology for $100 genome.
+ So how much of this is about driving down cogs quickly and where do you think they can go?
+ and then how much
+ you think Grail needs to spend on R&D
+ in the sales force ramp to really scale up.
+ Third, you know, Francis, you talked about, you know,
+ confidence in the core business, you know, I think one of the things that the investor
+ is going to worry about is, you know, concerns about growth in the core business
+ or maybe, you know, you're doing this deal to diversify and cover up, you know,
+ to continue to slow down.
+ So can you maybe talk to what you think about the core business for next year a little bit more quantitatively?
+ And then lastly, you know,
+ either for Francis or Hans.
+ You know, why is a 44% sensitivity for a screening test, you know, of clinical value,
+ especially at the price points being talked about. Thank you.
+ Thank you, Jacob.
+ All right, a lot of ground to cover.
+ So I'm going to start by talking about your first question, which is the why now question.
+ And then, Sam, I'm going to turn it over to you to talk about the margins question.
+ and then I'll come back
+ and talk about, you know, our core business.
+ and then I'll look to you Hans
+ Maybe I'll comment a little bit.
+ around the screencast
+ of your chemical value.
+ So let's start. So why now? And was there any sort of reaction in our mind, you're asking, around the stock drop that has a class group?
+ So the reason for why now, and frankly, we took a longer term view, so the events of
+ last week didn't really impact our why now decision, and I'll talk about that a little
+ bit.
+ The reason for why now is, frankly, the terrific progress that the Grail team has made over
+ the last few years and where they stand right now when we spin out grail four years ago you'll
+ remember how, right?
+ So we were processing samples for NIPT in our clinical labs.
+ And although we were seeing normal, you know, fetal DNA, we noticed abnormalities in the mother's DNA.
+ And so we reported that to the doctor, and in all of those cases it turned out that the
+ mother had cancer and didn't know about it.
+ And so we incubated.
+ So there was an idea that you could get signals for cancer in the blood,
+ And we incubated that idea with our team for a couple of years to feel like there was something there.
+ but there was a lot of unknowns.
+ It was unclear whether there was enough signal to detect early stage cancer.
+ It was unclear whether you could detect only certain types of cancer.
+ It was unclear if the approach we were thinking about was the right approach.
+ And so what we wanted was to create a company
+ that was going after this moonshot mission
+ that the focus on that
+ move quickly on that. But we also wanted to know maybe other approaches in the market
+ would be more fruitful.
+ The team has done a fantastic job over the last four years
+ and sort of de-risked a lot of the questions.
+ The technology they've put together, the team they've assembled, and then, probably most importantly, the results they're demonstrating from their large-scale clinical studies have put to bed a lot of the questions that we had.
+ The gallery results I talked about based on the CCGA samples show that they are able to identify over 50 types of cancer,
+ that they have a specificity that means the fall of 99% is a false positive rate of less than 1%.
+ So they won't flood, you know, healthcare systems with false positives.
+ And they have high sensitivity, especially for the deadliest cancers.
+ And so they stand today on the precipice of commercializing a product next year.
+ And so now it makes a lot of sense for us to acquire them.
+ And so why acquire them, you asked?
+ and why not just increase our investment?
+ And the reason to acquire them is because we have a very clear line of sight
+ into how we can accelerate a plan that they are on today.
+ And we can only do that if they're part of Illumina,
+ plugging them into our commercial
+ conversations with population
+ sequencing efforts, for example.
+ standing them up in our clinical labs around the world
+ rather than wait for them to build up their own clinical labs.
+ plugging into our regulatory expertise in countries around the world.
+ All of those things are things that we can do if they're part of Illumina
+ that, frankly, we wouldn't be able to do as well, even if we were a 30%, 40% owner off of Grail.
+ And so, you know, they are, you know, they talk about launching the product next year,
+ that are close to commercialization.
+ And so it's exactly the right time, we felt, where there is a product.
+ You know, the value has been demonstrated, and they're ready to scale, and that's where
+ we can help from an operational perspective, from a clinical perspective, from a commercial
+ In terms of the stock drop, you know, we've seen before, and I mentioned this in my prepared
+ remarks that this is a big step I understand that this is also a big amount I understand that
+ And, you know, we've had this happen to us before when we were in the array business
+ and we wanted to get into sequencing,
+ and we announced that we were acquiring Selexa to get into the sequencing business,
+ our stock dropped that day, too.
+ And it took a while for us to work with the market to explain where we were going
+ and why we thought that was a big opportunity.
+ And, of course, you know today that's been an enormously successful story
+ and sequencing is the vast majority of our revenue.
+ And so, you know, we anticipated that there didn't work for us to do in explaining this
+ staff and explaining the opportunity
+ and explaining why Grail and why Grail is Illumina.
+ And that's the work we have in front of us.
+ But we're very confident that it's the right next step in terms of fulfilling our mission.
+ With that, I'm going to turn it over to Sam for you to talk about margins and the questions
+ Yeah, so I'll tackle a couple of things here.
+ margins, and I think you had a question on
+ operating expenses as well, Tycho.
+ So, you know, from an overall COGS standpoint, the COGS will initially start out, you know,
+ obviously much higher than our average COGS,
+ driven by the fact that, you know, volumes are ramping up.
+ So initially, you're going to see a higher cost
+ profile for the business as the volumes start ramping up, though, and two and a half to three
+ years post-launch of Gallery, the CODs start to get to a level which is commensurate with
+ our overall services business, and slightly below our overall COGS profile.
+ And obviously, as we introduce more innovations and, you know, lower the cost of sequencing,
+ to your question, the copies will benefit from that as well,
+ just like all of our customers will benefit from that.
+ In terms of operating expenses, you know, if you look at what Grail invested last year, or this year, I should say, for the first month, it was roughly $135 million.
+ If you extrapolate that for the full year, let's say it's, you know, it's exactly double that.
+ It's about $270 million for the full year.
+ as we look forward, obviously that number is going to grow
+ because we're going to be ramping and launching products.
+ We're going to be accelerating the commercialization efforts and building out a sales force.
+ and there's going to be continuing R&D as well.
+ So, you know, OPEX, especially in three years,
+ This is going to be, you know,
+ impact on dilution, you know, but let me remind you of the just the attractiveness of this
+ opportunity longer term and eventually as the volume scales, the opportunity is significant
+ on the top line.
+ And even though it requires investment in terms of commercial efforts and R&D,
+ you know, we will definitely, after a few years, start to see accretion on C&O.
+ And then maybe, Hans, can you comment on the clinical value
+ the questions around the screening test and where we are.
+ Sure.
+ So as you noted, Tycho, the sensitivity for 50 cancers is 44%.
+ So let me explain why we think this is breakthrough performance.
+ Francis touched on the fact that when we pre-specified a basket of 12 cancers we
+ we have sensitivity of just under 70%. And those 12 cancers, by the way, account for
+ about two-thirds of mortality.
+ you're observing is when you start looking for more cancers than those 12 and you start adding in
+ cancers where the test has lower sensitivity, the sensitivity does drop.
+ So here's what matters.
+ Even though the sensitivity drops, as you expand the absolute number of cancers you
+ look for, the total number of cancers you detect goes up. So a test looking for 50 cancers at 44%
+ sensitivity, in aggregate detects many more cancers than a test looking for 12
+ cancers at a 67% sensitivity and when you think about the medical need we all
+ have, you know, 70% of deaths in this country from cancer occur in cancers where there is
+ no screaming.
+ This test will detect the vast majority of those.
+ So that's why it's the right thing to have a test that can really detect the maximum number of cancers possible.
+ and then
+ you know
+ Last question, Tycho, was, you know,
+ So is this move any reflection of how we think about the core market?
+ And is that what's driving this?
+ And I'd say not at all.
+ So we remain confident in our core market.
+ You know, obviously this year, in the last couple of quarters, we've seen a slowdown because of people's sheltering in place as a result of the pandemic.
+ But we've talked about how that's slowly been building since the end of Q1.
+ And, you know, next year, certainly, as we start to see a number of initiatives kick back up with core business.
+ We talked about the population efforts that all of us is going to be starting in the back half of this year in the U.S., but we'll be wrapping up next year.
+ Similarly, the UK Biobank project has been going.
+ It paused for a little bit, but it's starting to scale up again.
+ And then the NHS effort, which this year has been focused on COVID, is going to be kicking back up next year.
+ So we are optimistic about where population sequencing efforts are going to be starting
+ into next year. We're seeing good news
+ in terms of guideline changes for NIPT
+ and continued growth in NIPT around the world.
+ We're seeing continued adoption of our TSO500 product,
+ that to continue to drive growth.
+ And then obviously we launched the next CEQ 2000 this year, and so we expect to continue to see that upgrade cycle play out, certainly as we get into next year.
+ This move is really about our strategy,
+ And our strategy has been, again, guided by our mission to improve human health by unlocking the power of the genome.
+ Our strategy is to provide sequencers and consumables to a broad array of markets
+ and then to pick very specific applications
+ where we want to provide the solution ourselves.
+ We want to pick the largest market opportunities where we can provide a differentiated offering.
+ And frankly, if you look at that criteria, there probably is no other criteria, no other
+ a state that meets that criteria as well as early cancer detection.
+ It's the largest of the genomic applications that we can imagine over the next 15 years,
+ GRAIL has built a very innovation-rich portfolio with good IP around it,
+ And so we will have a differentiated offering in that market.
+ And so the criteria, again, the strategy is, you know, horizontally provide sequencers
+ and go everywhere and then be very searchable.
+ that's very common for platform companies, certainly if you look at technology, whether
+ whether it's Apple, or Amazon, or Microsoft,
+ They provide the platform, but then there are specific applications that they provide
+ directly themselves.
+ Typically,
+ the largest application.
+ and having an application actually gives you access to insights
+ that have you create a better platform too.
+ So having specific applications also helps you have the best platforms in the market.
+ So with that, we'll go to the next question.
+ Certainly.
+ As a reminder, please limit yourself to one question to allow others an opportunity.
+ Derek DeBron with Bank of America, your line is open.
+ Hi, good morning.
+ So a couple of questions.
+ I guess the first one, how much of Illumina's revenues in 2019 and estimated revenues for
+ 2020. We're tied to sales to grail, number one. Number two, a number of questions from investors
+ this morning just wanting to get some better
+ clarity on the EPS
+ solution is a 20% to 30% EPS solution, a reasonable number for investors to sort of do their models.
+ And number three, what do you expect from the Pathfinder trial readouts?
+ and what would be a
+ what would be a good readout to
+ enable the LDT launch
+ and just some initial thoughts on the early commercialization efforts
+ and what conversations Grail has had with potential self-insured employers
+ and sort of the other members that you talked about.
+ Thank you.
+ Sure. So three questions. I'll take the first one around Grail Revenue to Illumina in the last couple of years.
+ Maybe, Sam, you can talk about EPS solutions and hands, and you can essentially push around
+ the Pathfinder readout.
+ So, first, I'm sort of short.
+ in 2019 and 2020
+ grill is a very, very, very, very small part of our overall revenue.
+ In fact, I typically look at our top 20 customers on a daily and weekly basis.
+ I don't think I ever saw them for those two years on those lists.
+ So it's a very small part of our remedy for 2019 or 20.
+ Sam, maybe EPS?
+ Yeah.
+ as I talked about earlier,
+ the ramp of OPEX
+ in the first few years is significant, driven by the commercialization of galleries.
+ So our expectations right now is that in the first full year,
+ post-close of the deal
+ that there would be EPS
+ dilution of somewhere in the
+ $3.25 to $3.75 range.
+ And then, Hans, could you talk a little bit about Pathfinder
+ and the upcoming readout and place that in context a little bit?
+ Sure, and for folks that aren't familiar,
+ Pathfinder is a 6,000 patient clinical trial that's enrolling as we speak.
+ It's a return of results study.
+ So patients in this trial getting the GRAIL test,
+ when the test detects a cancer they're getting worked up and obviously the results return to
+ them. So our expectation is that that real-world trial will confirm the performance we've seen in
+ other studies that we've reported to you and covered on the call this morning. The other thing
+ that this study is very important
+ for, is it will help us understand the service components of the test that we'll provide
+ to help make sure that the workup process post a positive test is simple and good to
+ to use the primary care doctors.
+ Thank you.
+ All right.
+ We'll take the next question.
+ Patrick Donnelly with Citi, your line is open.
+ Great. Thanks, guys.
+ Maybe just a follow-up on Derek there, just giving the dilution number a little bit bigger than we were modeling
+ as the news came out last week.
+ Sam, can you just talk about maybe the OpEx trajectory over the next 12 months
+ again to get to that
+ 315-375 number you noted.
+ should we expect that number
+ really take a big jump up from what we saw on the S1 from the Grail OPEX numbers.
+ And then maybe just quickly after that, you guys were obviously participating in some upside from the royalty as a customer, et cetera.
+ So can you just expand a little more, Francis, on, I guess,
+ why you guys want to bring it in-house and also give the royalty almost back to them
+ with the 9% over a billion,
+ Let me just kind of flesh that out a little bit.
+ Thanks, guys.
+ Yeah.
+ I can start on the OPEX trajectory and maybe expanding on the dilution to some extent,
+ And then I'll remind everybody that we will be providing more refined financial estimates
+ as we get closer to the close of the acquisition.
+ so at this point we're giving you know directional numbers just to give you a sense of what you're
+ you're expecting your models.
+ But to answer your question around the OPEX investment, Patrick,
+ Yes, obviously there will be an increase from, you know,
+ what you saw in the S1 and what you saw last year or this year.
+ sorry I keep saying last year but what you saw
+ this year in terms of investment by
+ rail. You know, the investment has been focused on R&D. And as I said, you know, the investment
+ that was disclosed was $135 million.
+ So if you expect that that's going to, you know, be a full year worth of investment, it's closer to 270.
+ But as we look forward and as gallery launches, there's going to be investments around a number of factors.
+ You know, it's going to be R&D.
+ It's going to be commercial.
+ It's going to be market access, government affairs, you know,
+ GNA to support the business.
+ there are a number of factors that drive that OpEx in the first, you know, in the first few years.
+ And until the revenues start to scale, that's going to be significantly diluted to the number
+ that I mentioned earlier, which is the $325 to $375 in the first full year post-launch.
+ So I think, you know, I would also, though, mention that with a $6 billion TAM that's
+ gotten added to our business, the revenue opportunity is quite attractive as we look
+ in the long term.
+ Yeah, and then let me pick up on your question around royalties.
+ So, as you pointed out, you know, those rearrangements we have, you know, have pre-acquisition
+ with Graham.
+ obviously they buy
+ sequencers and
+ consumables from us
+ but we also get a royalty on the Grail revenue.
+ And as we thought through, we modeled what that looks like over the next 15 years, it's clear to us that we participate more fully.
+ So we get more revenue, more margin dollars if we acquire Grail.
+ So just financially, this is a much better way of capturing the value in the market than continuing to be a supplier to grail with the royalty.
+ And as Sam pointed out, this is a $60 billion market opportunity.
+ you know, we are able to sort of capture the value better in the current agreement.
+ In terms of the royalty back to Grail,
+ shareholders and just as a point there
+ As you heard in the prepared remarks, we are 12% currently of Grail shareholding.
+ And so, you know, the royalty, you know, you've got to adjust it to the 12% that we own ourselves.
+ And the thinking here was, look, as we were working with the Grail investors, now this
+ This is one area where, you know,
+ So clearly they see the opportunity in front of them, and there was a gap in company day
+ and we were a little bit more conservative.
+ And so this was a nice way to sort of bridge that, to say, look, we're going to make sure
+ that we participate if the opportunity is much bigger than we think and everybody wins otherwise
+ as we all share, if it's a little bit less than we thought.
+ And so this was a way to structure it over the next 12 years where we could align on
+ you know, demonstrating if the market ends up being much bigger than we thought.
+ Steve with Wolf Research. Your line is open.
+ Hi, good morning.
+ Thanks for the time.
+ I'll ask just to, one, I actually want to follow up on a point that Tycho raised,
+ and it's about how you want to articulate right now what you think about the core business.
+ I appreciate the points that all of us, Biobank, NHS, all coming on next year.
+ I'm going to wait to see the pipeline, but I wonder, would you be comfortable, you know,
+ taking the view that the core business, the X-Grail business, is a double-digit grower
+ as far as you can see
+ out into the future.
+ And then my second one is, as you think about the landscape of providers, you know,
+ five or ten years ago from now rather five or ten years from now what does it
+ look like in terms of how many different
+ things are going to happen.
+ cancer detection assays you think are out there having Illumina involved in this particular way
+ it means that there's going to be one, you know, obviously very large-scale player,
+ ways to come at this particular market.
+ Can you talk about how you see that looking and what is the importance of the rather substantial IP portfolio
+ that you had flagged, Francis and Hans, as you think about what that landscape looks like.
+ Thank you very much.
+ Thank you, Steve, so a couple of questions.
+ One is, you know, how do we think about the core business?
+ And the second one is how do we think the landscape for cancer detection
+ the United States will play out.
+ Will there be a significant single winner?
+ or will there be multiple players?
+ So let me go to the first one.
+ You know, the absolutely uncomfortable, you know, saying that we expect our core business over a multi-year period, you know, to generate double-digit growth.
+ You know, we are still, as we said, in the very early stages of understanding from a
+ research perspective, even how genomics translates into, you know, health and disease, but from
+ a clinical perspective, we're also in the very early stages of penetrating from the
+ markets we talked about, like oncology therapy selection and genetic disease testing.
+ which is at least less than 1% penetrated.
+ So I am comfortable that over a multi-year period, you should be seeing double-digit
+ growth from the core business.
+ And that, you know, the acquisition of Grillo is intended to accelerate that even further.
+ But even without it, it's a double-digit grower.
+ In terms of how we expect the cancer detection market to play out,
+ Now, this is a very, very large market.
+ You know, we talked about a $60 billion market.
+ And so we expect that there will be multiple approaches for this market, that, you know,
+ some will focus on single cancers or a small set of cancers, some will be pan-cancer, and
+ frankly, that's how we've modeled, you know, sort of the revenues for us, that we expect
+ to be multiple players, you know, trying multiple different approaches, serving different segments
+ of the market.
+ and again
+ with a market this big
+ and this important, we expect it to be.
+ And this is all the time we have for questions.
+ The Illumina team thanks you all for your participation in today's conference.
+ This concludes today's call.
+ You may now disconnect.
+ Thank you.

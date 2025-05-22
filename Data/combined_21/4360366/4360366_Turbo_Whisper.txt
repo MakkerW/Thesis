@@ -1,0 +1,1102 @@
+ Good morning, ladies and gentlemen. Welcome to the second quarter results
+ teleconference for travelers we ask that you hold all questions until the completion of formal remarks
+ at which time you will be given instructions for the question-and-answer session.
+ As a reminder, this conference is being recorded on July 23rd, 2020.
+ At this time, I would like to turn the conference over to Ms. Abby Goldstein, Senior Vice President of Investor Relations.
+ Ms. Goldstein, please go ahead.
+ Thank you.
+ Good morning, and welcome to Traveler's discussion of our second quarter 2020 results.
+ We released our press release, financial statement, and webcast presentation earlier this morning.
+ All of these materials can be found on our website at travelers.com under the Investors
+ section. Speaking today
+ will be Alan Schnitzer,
+ Chairman and CEO, Dan Fry, Chief Financial Officer, and our three-segment Presidents,
+ Greg Teslowski of Business Insurance, Tom Kunkel of Bond and Specialty Insurance,
+ and Michael Klein of Personal Insurance.
+ They will discuss the financial results of our business and the current market environment.
+ They will refer to the webcast presentation as they go through prepared remarks,
+ and then we will take questions.
+ before I turn the call over to Alan
+ I'd like to draw your attention to the explanatory note included at the end of the webcast presentation.
+ Our presentation today includes forward-looking statements.
+ The company cautions investors that any forward-looking statement involves risks and uncertainties
+ and it's not a guarantee of future performance.
+ Actual results may differ materially from those expressed or implied in the forward-looking
+ statements due to a variety of factors.
+ These factors are described under forward-looking statements in our earnings press release and
+ in our most recent 10-Q and 10-K filed with the SEC.
+ we do not undertake any obligation to update forward-looking statements.
+ Also, in our remarks or responses to questions,
+ we may mention some non-GAAP financial measures.
+ Reconciliations are included in our recent earnings press release, financial supplement,
+ and other materials available in the Investors section on our website.
+ And now I'd like to turn the call over to Alan Schnitzer.
+ Thank you, Abby.
+ Good morning, everyone, and thank you for joining us today.
+ as we shared in our pre-release last week
+ and again this morning,
+ we reported a small net loss for the quarter
+ due to a high level of catastrophe losses,
+ and, as we expected, a loss in our non-fixed income investment portfolio.
+ Dan will have more to say about both shortly.
+ Our underlying underwriting income of $572 million
+ pre-tax. It was up
+ $254 million over the prior
+ year quarter. Benefiting
+ from solid net-earned tremium and a 3.5-point improvement in the underlying combined ratio
+ to a strong
+ 91.4%.
+ The pandemic and related economic conditions had only a modest net impact on our underwriting
+ results.
+ As I shared in my prepared remarks last quarter,
+ There will be COVID-19-related loss activity,
+ but there will be some offsetting decline in losses
+ due to people across the country sheltering in place.
+ For us in a quarter,
+ $114 million of direct losses
+ and $63 million of audit premium adjustments
+ or about offset by initial estimates of favorable loss activity,
+ most of which is in short-tail lines.
+ Given the continued uncertainty, we've taken a cautious approach
+ to recognizing the net impact of COVID-19-related loss activity.
+ Some industry observers have speculated about the aggregate level of insured and investment
+ losses arising out of the pandemic.
+ We don't doubt the losses will be significant, but they won't be borne evenly across insurers.
+ are manageable COVID-related
+ insurance losses so far this year
+ are a reflection of our disciplined approach
+ to risk selection, as well as terms and conditions.
+ And as we shared with you in some detail last quarter,
+ we manage our investment portfolio with a similar regard to balancing risk and reward.
+ Last quarter, I commented on the potential future impacts the pandemic might have on
+ on each of our key lines of business.
+ I'll review that again with a quarter's worth of experience.
+ experience.
+ In personal auto, we've seen a meaningful drop-off
+ of an auto frequency, although that is moderating
+ as economic activity picks up.
+ At the same time, we've taken into consideration the potential for some
+ offsetting impact in terms of auto severity
+ due to factors such as collisions occurring
+ at higher speeds and driver distraction.
+ In workers' compensation, COVID-related claims,
+ mostly relate to healthcare workers and first responders, which do not represent
+ a significant part of our book club business.
+ Also, the frequency of those claims stabilized
+ during the quarter, which might be attributed
+ to an improved supply of PPE and the healthcare community having the benefit of more experience
+ with managing COVID patients.
+ More broadly beyond the healthcare sector, data from some of the state workers' comp
+ suggests that the COVID-related claim rate
+ is low
+ relative to the infection rate.
+ That's likely partly attributable to the fact that the population most seriously affected
+ by COVID-19 skews older
+ and it's not in the workforce.
+ Nonetheless, in developing our loss estimates, we've taken into consideration the potential
+ for the delayed reporting of claims
+ and additional claim activity associated with recent spikes in infection rates,
+ as well as uncertainty related to the longer-term implications of the disease.
+ these.
+ anticipated, some states have effectively expanded the scope of workers'
+ costs.
+ coverage by creating presumptions of compensability. In most cases, states have
+ have taken a thoughtful approach, protecting workers
+ appropriately, but not
+ unreasonably burdening
+ the workers' compensation system.
+ where states have acted to expand
+ compensability, we've adjusted our loss
+ estimates accordingly.
+ In terms of non-COVID workers' comp losses,
+ we've seen a lower volume of workers' cop claims
+ as workers and stayed home.
+ This will abate as people get back to the workplace.
+ In addition to taking that into account, we have
+ contemplated that severity could be adversely affected
+ by injured workers delaying treatment due
+ to the stay-at-home work environment.
+ Having said all that, our experience is that there's a low level of workers' comp claim activity
+ associated with economic recessions.
+ During periods of elevated unemployment, workers tend to be more motivated to stay at their jobs
+ and the workforce tends to be more seasoned.
+ In management liability,
+ as we expected.
+ we are seeing the elevated level of claim activity,
+ typically associated with stock market volatility
+ and workforce reductions.
+ The underlying combined ratio this quarter
+ and bond and specialty reflects that,
+ as well as other loss activity,
+ and we expect that the underlying combined ratio will continue to be elevated
+ at this level are somewhat higher over the near term.
+ This is not unlike the experience we had
+ in the aftermath of the financial crisis a decade ago.
+ Nonetheless, we expect the return from this segment will continue to be healthy.
+ Turning to the surety business, we've been pleased to see that work is continuing on
+ of the vast majority of construction projects.
+ However, the depth and duration of stress in the economy continues to be risk factors
+ of the surety business.
+ The line will also be impacted by other factors, such as the financial strength of the bonded
+ firms.
+ As I shared last quarter, our high-quality surety book was effectively stress-tested in the 2008 financial crisis and performed well.
+ and our underwriting approach has remained disciplined since that time.
+ In that regard, so far, we haven't seen anything that has caused us to change our surety loss estimates.
+ In terms of business interruption coverages under commercial property policies,
+ there's a fair amount of litigation challenging coverage as a reminder our
+ Our commercial property insurance policies that include business interruption
+ including as a result of civil authority,
+ require losses to be caused by direct physical damage
+ to property from a covered cause of loss
+ In addition, our standard policy forms specifically excludes loss or damage caused by or resulting from a virus.
+ The few court decisions we've seen so far, one in New York and one in Michigan, have
+ both upheld the physical damage requirements
+ in the context of COVID-19.
+ On the legislative front, efforts to retroactively expand coverage for business interruptions
+ seem to be diminishing.
+ Finally, with respect to liability coverages, as people shelter in place, we are seeing fewer commercial auto accidents and slip-and-fall type claims.
+ Anecdotally, we are also seeing some movement by the plaintiff's bar to suboclaims faster,
+ but it's too soon to know
+ how significant that benefit might be.
+ We're also encouraged by states that have adopted COVID-related liability protections
+ and similar efforts that are underway in other states
+ and at the federal level.
+ We shouldn't let frivolous lawsuits undermine the nation's recovery.
+ Nonetheless, we expect the plant to
+ as far to continue to be active.
+ Turning to the quarter on the top line, we're very pleased with our production results.
+ It's a good thing.
+ the auto premium refunds
+ we provided to our customers,
+ net written premiums grew by 2% as the impact of COVID-19 on insured exposures
+ was more than offset by strong renewal rate change in all three segments.
+ In business insurance, we achieved renewal rate change of 7.4%, the highest level since
+ 2013 and close
+ to the record level we achieved that year.
+ Excluding workers' comp, renewal rate change was double digits.
+ Importantly, retention levels remain strong.
+ In bond and specialty insurance, net written premiums increased by 3% as our domestic management
+ liability business achieved a record renewal rate change while maintaining strong retention.
+ In personal insurance, excluding the other premium refunds,
+ Net written premiums increased by 6%,
+ Driven by strong retention and new business in both agency auto and agency homeowners.
+ In our agency homeowner's business,
+ Renewal premium change remains strong at 7.7%,
+ And we hit a record for new business.
+ Let me take a minute to comment on the commercial rate environment.
+ Before the pandemic struck, there were a number of industry-wide factors putting upward pressure
+ on prices, namely
+ the increased volatility of weather-related losses,
+ interest rates at historical lows,
+ a growing recognition of higher loss trend
+ in the light-loading lines.
+ All of those conditions persist.
+ and now at another quarter with a very high level
+ of weather related losses,
+ interest rates that are likely to be lower for longer,
+ And while it hasn't been a significant factor for us,
+ a reinsurance market that is hardening.
+ And on top of that, the pandemic and related economic fallout
+ Add a sense of incremental uncertainty, making this deal like one of those times, not unlike
+ in the wake of 9-11 and Hurricane Katrina
+ when the market recalibrates risk.
+ With that as the background, we'll continue to see great games
+ and manage other levers of profitability to improve the outlet for returns.
+ I'll close by saying that I couldn't be more grateful to my Travelers colleagues for their
+ grit and commitment to taking care of our customers, our business partners, our communities,
+ and each other.
+ Also, the work they've done in recent years to advance our innovation agenda
+ has equipped us with state-of-the-art digital tools
+ and other capabilities
+ that make all the difference in this environment.
+ We were well-prepared.
+ And from here, we're well positioned.
+ free from financial and operational distractions
+ will continue uninterrupted
+ Managing our business and investing for long-term success.
+ In short, we're confident in our ability to continue to succeed in these uncertain times
+ and to benefit from the strength of our franchise
+ as the economy recovers.
+ And with that, I'll turn the call over to Dan.
+ Thank you, Alan.
+ Our core loss for the second quarter was $50 million
+ compared to core income,
+ of $537 million
+ in the prior year quarter.
+ The change resulted primarily from a higher level of catastrophe losses
+ and, as expected, lower net investment income.
+ For the quarter, the net impact related to COVID-19 is included in our underlying results,
+ not as part of our cat figure, and was modest.
+ More on that in a minute.
+ our second quarter results include
+ $854 million of pre-tax CAT losses, compared to only $367 million in last year's second
+ quarter.
+ This quarter's CAATS includes severe storms in several regions of the United States, as
+ as well as $91 million of losses related to civil unrest.
+ regarding our Property Aggregate Catastrophe XOL Treaty
+ FOR 2020.
+ As of June 30th, we have accumulated about $1.4 billion of qualifying losses toward the
+ aggregate retention of $1.55 billion. The treaty provides aggregate coverage of $280 million
+ part of $500 million of lawsuits
+ of both that $1.55 billion retention.
+ The underlying combined ratio of 91.4%, which excludes the impacts of CATS and PYD, improved by three and a half points compared to 94.9% in last year's second quarter.
+ the underlying loss ratio improved by more than four points
+ and benefited from a lower level of non-CAT weather losses,
+ favorable frequency in personal auto from the shelter-in-place environment,
+ net of related premium refunds, and the impact of earned pricing in excess of loss trend.
+ The expense ratio of 31% is eight-tenths of a point higher than the prior year quarter
+ and above our recent run rate.
+ This change was as expected due to the reduction in premiums associated with the pandemic's
+ impact on the economy, along with the premium refunds
+ to our personal auto customers.
+ The net impact of COVID-19 and its related effects
+ on the economy were modest in terms of our overall
+ in the second quarter underwriting.
+ The top line was resilient, excluding the premium refunds in personal insurance, net
+ written premiums increased by 2%,
+ Driven by strong renewal rate change in all three segments that more than offset lower insured exposures
+ In terms of operating expenses, results were adversely impacted by modest increases in
+ allowance for bed debt and the accrual for supplemental commissions.
+ Those expense increases, however, were roughly offset by lower expenses in other categories,
+ For example, travel costs were down as our employees continue to work primarily from
+ home.
+ The economic impacts related to COVID-19 also affected our underlying losses.
+ For example, losses directly related to COVID-19 totaled $114 million, primarily workers'
+ comp and business insurance and management
+ and liability losses in our bond and specialty business.
+ On the other hand, we experienced significant reductions in auto claims
+ as there were fewer cars on the road during the second quarter
+ and to a lesser degree recognized a benefit
+ reflecting fewer traditional workers' comp claims
+ as more people work from home.
+ As you heard from Alan, given the uncertainty in the current environment, we took a cautious
+ approach in estimating the net impact of COVID-related losses.
+ have recorded the estimated cost for all losses incurred through June 30th, including incurred
+ losses for which claims have not yet been reported.
+ All losses have been recorded at our estimate of ultimate, and the majority of the COVID-19
+ related insurance losses we have booked
+ in the first and second quarters are still sitting
+ and our IVNR reserves.
+ We have not recognized losses or benefits
+ COVID-19 related insured events
+ that we anticipate will occur
+ subsequent to the end of the quarter.
+ Taking a step back on a year-to-date basis, the impact on our results, excluding net investment
+ income from COVID-19 and its related effects is a net charge of about $50 million
+ dollars pre-tax.
+ Turning to prior year reserve development and personal insurance, both auto and property
+ and property.
+ came in better than expected for multiple accident years.
+ In FOG and specialty insurance, we saw larger losses than expected in management liability,
+ resulting in prior year strengthening of $33 million,
+ dollars, largely offsetting the favorable development in personal insurance.
+ In business insurance, there was no net priority at reserve development.
+ as better-than-expected loss experience in workers' comp
+ and commercial property was largely offset by unfavorable results in our other casualty lines.
+ Each of the movements this quarter was relatively small when compared to the reserve base.
+ As you saw in our July 14th press release, we expect to record subrogation benefits in
+ in our third quarter PYD of approximately $400 million
+ pre-tax related to PG&E's successful emergence
+ from bankruptcy on July 1st.
+ As a reminder, third quarter PYD will also include
+ the results of our annual asbestos review.
+ After-tax, net investment income decreased by 54% from the prior year quarter to $251
+ million dollars somewhat better result than we had previewed in our call last
+ quarter. The decrease was driven by our non-fixed income returns where results
+ for our private equity, hedge fund,
+ and real estate partnerships are generally reported to us
+ on a one-quarter lag.
+ Accordingly, the impact of the disruption in global financial markets
+ that occurred in the latter half of the first quarter impacted our second quarter results.
+ As the broader markets have recovered in the second quarter, that should, at least to some
+ extent benefit our non-fixed income results in the third quarter.
+ It's worth mentioning here that recoveries may not be reflected in the private equity
+ and hedge fund results as quickly as the downturns were.
+ Given continued economic uncertainty, fund managers who report their results to us may
+ take a more measured approach
+ and not be as quick to write back up the valuations
+ it just marked down, particularly in light of what may be continued challenging prospects
+ for the earnings and cash flows
+ of the fund's underlying investments.
+ Fixed income returns decreased by $24 million after tax
+ as the benefit from higher levels of invested assets
+ was more than offset by the decline in interest rates
+ and a mixed change
+ as we chose to maintain a somewhat higher level of liquidity
+ and held more short-term investments than in prior quarters.
+ For the remainder of 2020, we expect that fixed income NII will decrease by approximately
+ to $40 million
+ dollars after-tax per quarter compared to the corresponding periods of 2019.
+ capital management operating cash flows for the quarter of 1.7 billion dollars were again very
+ strong, all our capital ratios were at or better than target levels, and we ended the
+ quarter withholding company liquidity of slightly more than $2 billion, well above our target
+ level. Recall that in April, we pre-funded, as we normally do, $500 million of debt coming
+ due in November with a new 30-year
+ $500 million debt issuance
+ at 2.55%.
+ So our holding company liquidity is temporarily elevated by that amount.
+ investment yields
+ decreased as credit spreads tightened during the second quarter, and accordingly, our net
+ unrealized investment gain increased
+ from $1.8 billion after tax as of March 31st
+ TO 3.6 BILLION DOLLARS AFTER TAX AT JUNE 30TH.
+ Adjusted book value per share,
+ which excludes net unrealized investment gains and losses.
+ $92.01 at quarter-end, down less than 1% from year-end, and up 2% year-over-year.
+ We returned $218 million of capital to our shareholders this quarter via dividends.
+ who did not repurchase any shares during the quarter.
+ As we indicated in our first quarter earnings call, our capital management strategy remains unchanged.
+ With the ongoing economic uncertainty and with hurricane season upon us, it still feels
+ to us like holding on to a little more capital is preferable to holding on to a
+ or less. Until there's
+ more clarity on the state of the economy
+ we may buy back some shares in the coming quarters,
+ or we may continue to choose to buy none.
+ Coming back to reinsurance for a moment, let me direct your attention to slide 19 of the
+ webcast presentation for a summary of our July 1st renewals.
+ The structure of our MAINCAT reinsurance program is generally consistent with the prior year.
+ we renewed our northeast catch rate effective july 1st with substantially similar terms
+ and pricing that was up only slightly on an exposure-adjusted basis.
+ Our CAT bond, Long Point Wreath 3, is now in the third year of its four-year term.
+ In the annual reset for the 2020 hurricane season, the attachment point was adjusted
+ from $1.79 billion to $1.87 billion,
+ while the total cost of the program was flat year-over-year.
+ A more complete description of our CAT reinsurance coverage, including our general CAT aggregate
+ the XOL treaty that covers an accumulation
+ of certain property losses arising
+ for multiple occurrences is included in our 10-Q,
+ which we filed earlier today.
+ and in our 2019.10 .
+ Lastly, let me take a minute to address thoughts
+ of our top line going forward.
+ Looking at premium volume, we expect to experience
+ the impacts of economic disruption,
+ how much of an impact we feel,
+ and for how long will depend on the extent and duration
+ the negative economic impacts related to the pandemic.
+ that because earned premium typically lags written premium,
+ we expect to feel the effects on an earned basis
+ beyond the end of the year.
+ As Alan said last quarter, we do not intend to take disruptive expense actions
+ in response to what may prove to be a short-term impact on premium volumes.
+ Accordingly, in coming quarters, the expense ratio will likely remain somewhat elevated
+ compared to the corresponding periods of 2019,
+ through the expected impact on earned premiums.
+ Now, I'll turn the call over to Greg for a discussion of business insurance.
+ Thanks, Dan.
+ Let me start by expressing my deep appreciation to all my Travelers colleagues, as well as
+ our agent and broker partners for continuing to provide exceptional service
+ to our customers during these unprecedented times.
+ As for the quarter's results, business insurance had a loss for the quarter of $58 million
+ dollars due to lower net investment income and higher
+ catastrophe losses, as both Alan and Dan discussed.
+ The combined ratio of 107.1% included more than 10 points of catastrophe impacted by
+ both weather-related losses and
+ with civil unrest.
+ The underlying combined ratio of 97% improved by 0.4 points,
+ Reflecting a 0.2 point improvement in each of the underlying loss ratio and expense ratio.
+ The net impact of COVID-19 and related economic conditions was modest.
+ Turning to the top line, net written premiums were 3% lower than the prior year quarter
+ due to the impact of the economic disruption on insured
+ exposures.
+ Thanks to excellent execution by our field organization, these impacts were largely offset
+ by strong renewal rate increases and high retention.
+ Turning to domestic production, we achieved strong renewal rate change of 7.4%,
+ while retention remained high at 83%.
+ The renewal rate change of 7.4% was up almost four points from the second quarter of last
+ year and more than a point from the first quarter of this year compensation pricing continue to
+ achieve higher rate levels broadly across
+ our book as rate increases
+ in all lines other than workers' compensation
+ were meaningfully higher during the quarter
+ as compared to the second quarter of last year.
+ We achieved positive rate on about 80% of our middle market accounts this quarter, which
+ was up from about two-thirds in the second quarter of last year.
+ Importantly, we've achieved this progress in a highly segmented manner and with retention
+ remaining strong.
+ THAT THESE RATE LATES ARE
+ levels. Our rate change continues to exceed
+ loss trend even after about
+ half a point increase to our lost trend assumption.
+ New business of $473 million was down 10% from the prior year quarter.
+ New business flow was down, which we attribute largely to disruption caused by the pandemic.
+ New business was also impacted by our continued focus on discipline risk selection, underwriting, and pricing.
+ These production results reflect superior execution by our field organization
+ in a very challenging environment.
+ As for the individual businesses, in select, 2.1%,
+ making the sixth consecutive quarter
+ where renewal rate was higher
+ than the corresponding prior year quarter
+ while retention was strong at 82%.
+ The headwind for workers' compensation pricing is most pronounced in the select business.
+ New business was down significantly, driven by the economic disruption caused by the pandemic.
+ While the current environment is challenging, we are confident that we're well-positioned
+ and investing in the right strategic capabilities
+ to profitably grow this business over time.
+ In middle market,
+ Renewal rate change was up to 7.9%, while retention remained strong at 86%.
+ The 7.9% was up almost 4.5 points from the second quarter of 2019 and 1.5 points from
+ in the first quarter of 2020.
+ business of $255 million
+ was down from the prior year quarter, driven by both economic disruption
+ and our continued focus on disciplined risk selection
+ underwriting and pricing to sum up we believe our meaningful competitive advantages including our
+ strong distribution relationships, and our talent and expertise position us well to navigate
+ through these uncertain times and continue to serve our customers
+ and agent and broker partners.
+ With that, I'll turn the call over to Tom.
+ Thanks, Greg.
+ Bond and specialty delivered solid returns and growth in the quarter, despite the impacts
+ of COVID-19 and related economic conditions.
+ Segment income was $72 million, a decrease of $102 million from the prior year quarter.
+ as Dan mentioned
+ the combined ratio of 93.8% reflects unfavorable prior year reserve development in the quarter
+ as compared to favorable PYD in the prior year quarter
+ and a higher underlying combined ratio.
+ The underlying combined ratio of 88.1% increased 7.1 points
+ from the prior year quarter,
+ primarily driven by the impacts of higher loss estimates
+ for management liability coverages.
+ about half of which was due to COVID-19,
+ and related economic conditions.
+ The remaining half of the increase is due to a few smaller drivers, such as elevated
+ claim activity under employment practices,
+ liability coverages and ransomware losses
+ under assignment policy.
+ Turning to the top line.
+ Net written premiums grew 3% for the quarter, reflecting strong growth in our management liability and international businesses, partially offset by lower surety production.
+ in our domestic management liability business.
+ We are pleased the renewal premium change increased to 7.8%.
+ This marks the seventh consecutive quarter
+ RPC is higher than the corresponding prior year of court.
+ As Alan noted, renewal rate change was a record for the quarter, while retention remained at a historically high 89%.
+ Similar to business insurance, RPC in the quarter was also impacted by lower insured
+ exposure.
+ These production results demonstrate the effective execution of our strategy
+ to pursue rate where needed while maintaining strong retention of our high-quality portfolio.
+ We will continue to pursue rate increases where warped.
+ Domestic management liability new business for the quarter decreased $13 million, reflecting
+ the disruption associated with COVID-19 and our thoughtful underwriting in this elevated risk
+ ENVIRONMENT.
+ Domestic surety net premium, net written premium,
+ was down $24 million in the quarter, reflecting the impact of COVID-19, which slowed public
+ project procurement
+ and related bond demand.
+ International BSI posted strong growth in the quarter with record rate in our UK management
+ liabilities.
+ So, bond and specialty results remain resilient despite the challenges brought on by COVID-19.
+ These results reflect the excellent work of our agents,
+ brokers, and employees who have adapted to operating in new ways to continue to provide
+ leading products and services
+ we feel confident about our ability to navigate through this challenging environment
+ and continue to deliver strong returns over time.
+ And now I'll turn it over to Michael to discuss personal insurance.
+ Thanks, Tom.
+ Good morning, everyone. Personal insurance segment income for the second quarter of 2020
+ was $10 million, down from $88 million in the prior year quarter, driven by a higher
+ lower level of catastrophe losses and lower net investment income.
+ impacts were partially offset by an improvement in the underlying
+ underwriting gain. Our combined ratio for the quarter was 101.3 percent, an
+ an increase of 1.1 points, as a 12.5 point increase in catastrophe losses was largely
+ offset by a 10.6 point improvement in the underlying combined ratio.
+ The underlying combined ratio benefited from lower non-catastrophe weather-related losses
+ and lower automobile losses, net of premium refunds.
+ The increase of 2.6 points on the underwriting expense ratio
+ was primarily driven by the reduction in netter in premiums
+ resulting from the auto premium refunds.
+ Turning to the top line, excluding the impact of premium refunds of $216 million, net written
+ premiums grew 6%.
+ Agency homeowners and other netwritten premiums were up an impressive 13%.
+ And agency automobile netwritten premiums were up an impressive 13%.
+ and agency automobile net written premiums were up 3%
+ excluding premium rebonds.
+ Agency Automobile delivered strong results with a combined ratio of 85.7% for the quarter.
+ The loss ratio improved over 12 points, while the underwriting expense ratio increased by
+ about four points.
+ The increase in the underwriting expense ratio was primarily driven by the impact of the premium
+ refunds I described.
+ earlier. The underlying combined ratio of 84.2% improved 9.6 points relative to the prior year
+ quarter, continuing to reflect improvements in frequency, primarily due to fewer miles
+ driven as a result of the pandemic. Data from our IntelliDrive Auto Telematics program indicates
+ It's miles driven.
+ were down significantly from pre-COVID-19 levels
+ during the second quarter, reaching a weekly low point in early April
+ and partially rebounding
+ as the economy has started to reopen.
+ In response to our improved auto loss experience, we implemented a stay-at-home auto premium
+ credit program
+ for personal automobile customers.
+ In the U.S., the program provided a 15% premium refund on April, May, and June premiums.
+ In agency, homeowners, and others, the second-quarter combined ratio was 113.9%, 9.4 points higher
+ than the prior year quarter, due primarily to higher catastrophes, partially offset
+ by a lower underlying combined ratio.
+ The second quarter is our highest catastrophe quarter.
+ quarter we experienced significant storm activity resulting in 34 points of
+ of catastrophe losses, an increase of 21 points
+ compared to the prior year quarter.
+ where catastrophes were relatively low.
+ The underlying combined ratio for the quarter was 81.4%,
+ down over 11 points from the prior year quarter.
+ driven primarily by lower
+ or non-catastrophe weather-related losses.
+ The majority of the improvement is due to elevated non-CAT weather in the prior year quarter.
+ non-catastrophe weather related losses this quarter were also better than our assumptions
+ Turning to quarterly production, our domestic agency results were solid, despite the challenging
+ environment resulting from COVID-19 and its related economic impacts.
+ our retentions remain strong.
+ Quotes and new business were up
+ versus the prior year quarter.
+ and we remain pleased with our policies in force growth.
+ Agency automobile retention was 85%, and new business increased 7% from the prior year quarter.
+ renewal premium change was 1.5% as we continue to moderate pricing
+ given the improved performance in our book over the past few years.
+ years.
+ Agency, homeowners, and others delivered another very strong quarter
+ with retention of 87%, renewal premium change of 7.7%,
+ and a 17% increase in new business
+ as we continue to seek to improve returns while growing the business.
+ Higher new business levels again benefited from the successful rollout
+ of our Quantum Home 2.0 product,
+ now available in over forty markets
+ During the quarter, we continued to deliver new capabilities and products
+ to our customers and distribution partners.
+ We introduced Quantum Home 2.0 in four new states, including California.
+ In addition, we launched IntelliDrive 2.0, which adds distracted driving monitoring to
+ auto telematics product and delivers significant improvements to the user
+ experience. And, after reaching our goal of planting 1 million trees for customer
+ enrollment in paperless billing, we extended our partnership with American Forests to plant
+ another 500,000 trees by Earth Day 2021.
+ To recap, personal insurance is off to a strong start in the first half of the year,
+ particularly in light of a challenging environment.
+ I'm proud of our team's efforts to continue to work together to meet the needs of those
+ while investing in the business for the future.
+ Now I'll turn the call back over to Abby.
+ Thanks, Michael.
+ Before I begin Q&A, there's one topic that we expect might be on people's minds.
+ And so we thought we would kick off Q&A by addressing it.
+ So, before we open up the line, I'd like to turn the call back over to Dan.
+ to Abby, there's been
+ some discussion by industry observers about the timing of the recognition of COVID-related
+ losses.
+ so let me reiterate
+ that our reserves reflect our best estimate
+ of ultimate losses incurred as of the balance sheet date.
+ and applying accounting principles, we would not record a reserve for a loss
+ that has not yet occurred as of the balance sheet date.
+ Using auto claims as an example, at the beginning of the year, we have an assumption as to the
+ volume of claims we will see over the course of the year and what the average
+ the cost of those claims will be.
+ but when we report our second quarter results,
+ including our balance sheet loss reserves as of June 30th.
+ Those reserves do not include estimated amounts for auto accidents that will occur at Thanksgiving or on New Year's Eve.
+ Those would be fourth quarter events,
+ and accordingly, they will be recognized
+ in our fourth quarter results.
+ This same principle applies when we consider losses related to COVID-19, while only some
+ losses have been reported to us so far.
+ The losses we booked in both the first and second quarter
+ reflect our estimates of the ultimate amounts that we'll pay for all losses and related costs
+ that have been incurred as of june 30th including those for which we have not yet received a claim
+ In fact, as I said earlier, the majority of the COVID-related insurance losses we have
+ booked through June 30th are still sitting in our IV&R reserves.
+ That said, the pandemic is clearly not over.
+ and tens of thousands of new infections are being confirmed in the United States each day.
+ It is foreseeable that a health care worker, for example, who to this point has not contracted COVID-19, will become ill from COVID-19 as a result of their job duties in December.
+ But again, that loss activity will be included in our fourth quarter results.
+ We similarly would not advance the recognition of any continued favorability from lower frequency
+ and non-COVID workers' comp clients.
+ Finally, I'll remind you that on a year-to-date basis, setting aside net investment income,
+ the impact on our results from COVID-19
+ and its related effects is a net charge
+ of about $50 million pre-tax.
+ And with that, operator, we're ready to take questions.
+ Thank you.
+ At this time, if you'd like to ask a question, press star 1 on your telephone.
+ To withdraw your question, press the pound key.
+ Please wait while we compile the questions.
+ Thank you.
+ Your first question comes from the line of Michael Phillips, but Morgan Stanley, please go ahead.
+ thank you
+ Good morning, everybody.
+ Thanks for that clarification, Dan, on that last comment.
+ so that's helpful.
+ I guess I want to try to get our arms around business insurance and margins and pricing.
+ You know, trying to kind of pull out the effect of COVID.
+ when you said COVID was pretty modest in the quarter,
+ pricing was clearly very strong
+ But yeah, core margins improved 40 bps or 20 bps on the low side.
+ so I guess
+ trying to understand
+ And does that mean, you know,
+ And, Alan, you gave lots of great commentary on pricing.
+ Does that mean that the current level of pricing still isn't enough to expand margins today?
+ or kind of
+ How do we think about that versus the level of conservatism that might be baked into the current numbers?
+ Yeah, Michael, good morning.
+ it's Alan. I'll start
+ I can be responsive to what's on your mind.
+ at the current levels of, you know,
+ written rate is in excess of loss trend.
+ So, you know, looking narrowly at those factors,
+ We are, on a written basis, expanding margins.
+ Is that what you're getting at?
+ It is, yeah, it is.
+ I guess, you know, in business interruption, you had 20 basis points of improvement.
+ And so, you know, not as much as maybe one would expect in the level of pricing.
+ And so, you know, that's what I'm trying to get my arms around.
+ Yeah. So, you know,
+ And as always, there are a number of factors
+ that are driving the underlying combined ratio
+ in the quarter, and that's true for any business.
+ So you've got, you've got weather.
+ So year over year, that was better.
+ and in this quarter sort of within the normal
+ within the normal level of variability we would expect for that.
+ you've got the earned impact of rate
+ that, as I said,
+ on both a written and earned basis,
+ rate is ahead of law
+ trend. We've had improved
+ performances in some business. You got
+ some
+ some impact of COVID.
+ that it was modest, but not zero.
+ So, you know, you've got the year-over-year sort of ongoing carry-on impact
+ of social inflation that I'll call old news,
+ what we've recognized
+ in prior periods and it continues to roll through.
+ So, you know, those are, you know, given the relative stability,
+ we're not going to quantify the pieces, but essentially those are the pieces.
+ Okay. No, thank you. That's helpful. Thanks, Alan.
+ I guess didn't see mention, and I guess this is good news,
+ didn't see mention of anything on the commercial auto side
+ for PYD and so maybe
+ Could you speak to kind of that piece?
+ And does that mean that there's been possibly some leveling off of the paid
+ activity that's been part of the concern there.
+ Michael, it's Dan.
+ And, yeah, as we had last quarter, so we had some movements in PYD,
+ some, you know, some puts and takes, some continued good news in comp, some continued
+ pressure in the other liability lines.
+ There were small adjustments in commercial auto and the general liability lines in C&P,
+ as I said in my remarks, relatively modest compared to those reserve bases.
+ Okay. Thank you, Dan.
+ Your next question comes from the line of Ryan Tinnies with Auto Research.
+ Please go ahead.
+ Hey, thanks.
+ Thanks.
+ Um,
+ I just wanted to get a better feel for just, you know,
+ I forget about the net benefit from the COVID,
+ just from the direct losses alone
+ or the direct impact
+ What was the hit that that had in business interruption on the combined ratio?
+ Is this an erection specifically?
+ especially your business insurance.
+ I'm sorry, I'm sorry.
+ business insurance
+ without considering the offsetting benefits.
+ what was just the
+ the direct loss impact
+ or direct hit impact on that number.
+ Yep.
+ But, Ryan, it's Dan.
+ and I don't think we're going to give the pluses and the minuses,
+ but within the within the we told you that there was 114 million of directly related charges
+ and while that included some charges for the management liability coverages in bond and specialty,
+ the majority of what we took came through business insurance.
+ insurance.
+ Okay.
+ And then in terms of thinking about the benefits that we're seeing,
+ I think in the pre-announcement you said it was mostly short-tail lines.
+ So should we take that to me?
+ I mean, first of all,
+ Outside of the short tail lines, are you seeing actual to expected look a little bit better
+ in some areas
+ in terms of frequency, and is that not something, and if so, is that something
+ that you're not recognizing yet.
+ You're being conservative and waiting to see if that continues to be the case.
+ Yeah, Ryan, Dan again.
+ And so we are for sure seeing some favorable indications
+ relative to what you would otherwise expect
+ in this current environment.
+ And when we look at that, there was too much favorability
+ to simply say zero is the right reaction.
+ But as Alan said in his comments, and as I tried to reiterate in mine, I think we've
+ been very cautious in terms of the degree to which we'd recognize any good news in
+ in anything other than the short tail lines.
+ but there's some because it's very apparent in the data.
+ And then just one more real quick.
+ I was, I guess, a little bit surprised exposure growth held in,
+ I think especially in select lines.
+ Retention has only declined modestly.
+ how should we interpret that
+ Is retention, is it capturing cancellations or is that modest dip?
+ You know, mostly a function of you guys taking more rain.
+ I'm just trying to figure out how to interpret those numbers that seem
+ relatively modest given what's happening in the macro landscape.
+ Yeah, Ryan, this is Greg.
+ Let me take both of those in the order that you took them.
+ Number one, in terms of exposure change,
+ If you're looking at relative to middle market, that's really a product mix dynamic.
+ In the select business, we have the thrust of the premium is two products, CMT and workers' comp.
+ and the CMT product.
+ the rating on that is driven more off the property
+ than the GL.
+ And so, you know, we're continuing to see pricing and inflationary pressure on the property.
+ And so there's some inflationary impact that that impacts on the CMP product.
+ so you don't see as much of a drag on exposure on select
+ that you do on middle market
+ where the GL product is more on a standalone rated basis.
+ And then the retention overall for select,
+ you know, we certainly put our estimate of what we see in terms of, you know, business
+ insolvencies, bankruptcies, and that's all inside the 82% number.
+ Thank you.
+ your next question
+ comes along
+ of Mayor Schilt,
+ But KBW, please go ahead.
+ Great.
+ Great, thanks.
+ Greg, if I heard you correctly in your prepared comments,
+ You talked about a 60 basis point increase in loss trend.
+ and I was hoping you could flesh that out a little.
+ Sure, Mayor.
+ We look at lost trends every quarter across the full portfolio,
+ and that's obviously a headline number.
+ what we did this quarter as we looked at
+ the impact of the new
+ economy that we see in front of us.
+ We also look at some of the social inflation or liability dynamics that Dan just talked about.
+ So when we roll that all up in aggregate, we believe we've got a 50 basis points increase
+ and our loss trends in front of us.
+ The thing I'd add to that, Meyer, is that that is reflected in the underlying combined ratio we reported for the quarter, as is a piece of that that would be catch-up from the first quarter.
+ Okay, perfect.
+ That last point is exactly what I was looking for.
+ Second question, I guess.
+ with workers' compensation being the most
+ vulnerable to exposure unit pressure.
+ Um,
+ Does that impact rate need on the expense ratio side?
+ Say the question again.
+ I'm trying to understand.
+ And I know that, in general, workers' compensation, pricing,
+ has been coming down
+ because industry experience has been good,
+ But we seem to be seeing a fairly significant exposure unit headwind.
+ And I'm trying to get my arms around what that implies for indicated pricing.
+ Yeah, you know, Meyer, there's a heavy regulatory component to pricing, as you know, and it
+ tends to be, you know, a little bit backward looking and it sort of factors in the overall
+ profitability of the line, which is, as you know, has been very favorable over the years.
+ and that will continue to be the case.
+ So, you know, clearly, you know, exposure will be will be one impact on profitability today, which will impact pricing tomorrow.
+ but it's really hard to isolate anyone
+ any one factor in its impact on
+ profitability because, you know,
+ everything goes in
+ you've got you know you've got you start with your expiring rate and then you've got you know
+ whatever the rate change is,
+ and you've got exposure change,
+ you've got, you know,
+ lost trends, things like that.
+ So it's definitely a factor.
+ It's hard to isolate, you know, what the extent of the impact is.
+ Okay, understood.
+ So thank you very much.
+ The next question comes from the line of Elise Greenspan with Wells Fargo.
+ I'll see you then.
+ Thank you.
+ Good morning, Elise.
+ Hi, good morning.
+ Could you hear me?
+ No, we hear you now.
+ I'm sorry.
+ Thank you.
+ So in terms of business insurance, I was hoping for the COVID-19 losses,
+ And I recognize in response to an earlier question, maybe you aren't giving to the loss impact in business insurance specifically by line.
+ but could you give us a sense of where you saw the majority of your
+ course?
+ COVID losses, that's ignoring the favorable impact in the second quarter, just specifically
+ within business insurance.
+ Yeah, at least, so that's what I had tried to do.
+ So we took 114 million across the enterprise
+ in direct COVID losses.
+ None of that was in personal insurance.
+ there was some component of management liability within bond and specialty insurance,
+ which Tom described in going through their combined ratio.
+ but the majority of those dollars
+ came through business insurance.
+ Lisa, are you asking for a breakdown by product line?
+ Yeah, I was hoping by
+ product line even if not in terms of dollars you could just give us a sense of which business
+ insurance product lines
+ saw the majority of your COVID losses.
+ The largest line, for sure, is workers' cob.
+ property losses, both domestically and internationally, and then dribs and drabs, I would say, in
+ other lines but those are those are the two drivers with comp by far being the largest
+ At least I'd point you to my prepared comments where I did share that, you know,
+ It was a modest net impact when we look at the offsetting
+ on the favorable frequency on some of those.
+ lines also. Okay, thanks.
+ And then my second question is maybe a follow-up on the prior question on workers' comp.
+ We've heard, you know, a few folks in the industry, it seems like, starting to point towards the bottom of comp in terms of just the pricing dynamics there.
+ But if I, you know, go back to your comments throughout the call, it doesn't sound like you guys are, you know, thinking that the, you know, rate declines that we've seen in that business are, you know, close to coming to an end.
+ And so if you could just help us think about workforce comp in terms of the pricing dynamics there
+ and whether, you know, we might hit an inflection.
+ And I'm not just talking 2020, perhaps, you know, even into 2021 as well.
+ Yeah, at least that's a great question.
+ And when you look at the information coming out
+ of some of the rating bureaus
+ And when we look at our own, you know, we would say that we are sort of at or near a bottom in workers' comp pricing.
+ Okay, that's helpful.
+ And one last numbers question.
+ And could you give us, you said that they were small numbers,
+ but could you give us a sense of the dollars in terms of the adverse development
+ within general liability and commercial multi-parallel in the quarter?
+ we're not going to do that at least
+ They're all pretty modest.
+ Okay. Thank you. I appreciate the color.
+ Thank you.
+ Your next question comes from the line of David Motematen with Evercar.
+ Please go ahead.
+ Good morning.
+ Um,
+ and
+ I guess I, you know, I appreciate the comment that you made just before the Q&A,
+ but I guess I'm just wondering if,
+ you could give us some sense of
+ you know, how you're thinking about
+ COVID-related adverse impacts throughout the rest of the year, you know,
+ just looking through your portfolio of exposures and thinking how it might be
+ affected by COVID even if the loss is
+ haven't occurred yet in the first half.
+ And you have the exposure and you think there's a possibility that there could be a loss on it.
+ Just wondering to get some thoughts there.
+ I figured I'd take a shot at that.
+ David, good morning, it's Al.
+ Let me start with that, and if I miss anything, I'll invite Dan to pick it up.
+ We're not going to forecast future losses.
+ is our obligation under GAAP is to report, you know,
+ Okay.
+ you know,
+ and,
+ incurred and
+ and unreported losses as of the balance sheet date,
+ and that's what we've done.
+ It's hard to forecast the future.
+ There's some uncertainty.
+ We don't know the trajectory of the disease.
+ We don't know when we're going to have a vaccine.
+ We don't know, you know, what the outlook for the economy is.
+ And frankly, it's, you know, probably the uncertainties for the economy that have the biggest impact on of the pandemic on on us.
+ But I do think it's relevant to why we pointed it out a few times
+ our net losses in the first half of the year
+ we're net charges
+ were about $50 million
+ bucks, putting aside the investment
+ side
+ and we've
+ you know, put up that net number with a high degree of caution.
+ so I can't give you a number
+ You know, I tried in my sort of line-by-line review to tell you some of the factors that we think about.
+ but I think it's not irrelevant to that assessment
+ to think about our experience in the first half of the year.
+ Okay, great.
+ That's helpful.
+ appreciate that and then
+ just one more. So excluding
+ workers comp the renewal rate change
+ So it was pretty strong.
+ You said double digits.
+ It's wondering if we can get a finer point put on that
+ and then just sort of how that compares versus the last few quarters.
+ and
+ And also, you know, sort of thinking about it, and I think, Dan, you had mentioned, you know,
+ you're looking at loss trend of 5% now in updated thinking,
+ and that's, I guess, what it should be comparing to the 7.4% renewal rate change that you got in the quarter?
+ yeah i think that's the right it's dan i think that's the right way to think about rate versus
+ trend and that's about
+ That's the ballpark.
+ I think we'd said previously that trend was around 4.5% in BI,
+ and we're taking it up about a half a point in the current quarter.
+ But you've got to look at that in relation to the pricing momentum as well.
+ and I think Greg could correct me if I'm wrong,
+ but the pricing momentum you see in this quarter
+ is a reflection of the strength of the market
+ and the continued need for rate.
+ Yeah, dude, the only thing I'd add there is to your point, you know, outside of comp, all of our products were positive.
+ and so we feel great about that execution
+ and mostly the changes line up with where the rate need is also.
+ Okay, great.
+ And if I could just sneak one more in on the adverse development in general liability.
+ hoping to get a little bit more
+ in terms of
+ what you saw in the quarter,
+ that I guess
+ brought you to make that change
+ because I had thought that, you know,
+ If most of the courts were closed during the quarter, I would think the page would be, you know,
+ nothing really accelerated during the quarter.
+ or was it more just a
+ view of, you know,
+ or was it more just an ongoing review that resulted in the change there?
+ Yeah, it's more the latter.
+ And remember, as we're doing reserve reviews, especially in long-tail lines like those,
+ looking more backwards at your data.
+ So the actual loss environment of May and June
+ in June, we're aware of it, but it's not really,
+ you don't have enough time to gather all that data
+ fully factored into the reserve view that you're making at that time.
+ So a little more of that is still backward looking
+ in terms of way things have developed
+ say, through the first quarter.
+ And again, as Dan noted in his remarks,
+ Those were, you know, relatively small movements.
+ Yeah, great. Understood. Thank you.
+ Thank you.
+ The next question comes from the line of Paul Newsome with Piper Sandler.
+ please go ahead
+ you've hit the big ones for me
+ but one just quick one.
+ From an investment perspective, do you have expectations that we would see increased defaults as well come through?
+ that I guess the people see and realize.
+ And is that sort of booked into the investment expectations that you gave us this quarter
+ as well.
+ it's a thing
+ the actual defaults that we might see from the recession.
+ Yeah, Paul, it's Dan.
+ And, you know, we gave a fair amount of detail and did a fair amount of commentary on, you know,
+ the construct of the investment portfolio and our comfort level with, you know,
+ the way we thoughtfully invested.
+ and we've given you an update of that investment detail, again,
+ in the appendix of the webcast presentation this quarter.
+ so I wouldn't say more than we said
+ I think, last quarter in terms of feeling really good about the way we've managed risk
+ on the asset side of the balance sheet.
+ clearly we're aware of
+ and looking at and have a regular process to assess credit impairment and default rates
+ and all of that stuff is baked into our numbers.
+ but it's really
+ it's really not a big impact on us
+ given the thoughtful investment approach
+ Has ratings migration had much of an impact yet, if at all, on the capital calculations for you guys?
+ No, it is not.
+ Great.
+ Thank you.
+ Thanks, Paul.
+ Your next question comes from the line of Brian Meredith with UBS.
+ please go ahead.
+ Yeah, thanks.
+ just two quick ones here.
+ First one, what was the impact of premium adjustments on the BI written premium this
+ quarter, like Comp and CMP.
+ I'm not sure I understand the question, Brian.
+ in the state.
+ for workers like reevaluating, like, like, what, like,
+ employment stuff is on workers' comp.
+ Usually you do it in the fourth quarter, but were there any kind of early ones where you adjusted premium kind of to reflect what it's going to look like for the year?
+ So I wouldn't say we normally do it in the fourth quarter.
+ I think what you're referring to maybe is we do it at the when the policy period has ended.
+ That's it.
+ through us.
+ There has been some, and we've been open to it, there's been some more requests by customers to do some of that midterm.
+ but all of that's big
+ All of that's baked into our production statistics
+ and the written premium numbers we reported for the quarter, Brian.
+ I'm going to break out that one piece.
+ Okay, thanks.
+ and then the second
+ a quick question just to understand
+ the 50 basis points of increase in trend in the BI.
+ Is that inclusive of what you're seeing with respect to COVID-19 and maybe the benefits or adverse stuff you're seeing on COVID-19?
+ or is that more related to what's going on with just general kind of tort inflation
+ and some of the increase you saw in your GL reserves and your CMP reserves.
+ I think we consider everything, Brian, included in there,
+ And there are some puts and takes.
+ the net of the puts and takes was a half a point increase to the trend.
+ Great.
+ And,
+ Just following on that, Alan, you made some comments about maybe some favorable stuff
+ having the court system as far as
+ some, you know, early quick settlements.
+ But in general, what's your kind of take on what's going on with tort right now?
+ could we potentially see an increase in tort inflation
+ and, you know, as a result of what's going on with COVID-19.
+ Yeah, I mean, I think we certainly could, and that's one of the reasons why we're such
+ big proponents of liability reform.
+ I think it's important in terms of making sure we're protecting the nation's recovery from the pandemic.
+ You know, I think you hear a lot of rhetoric out there on that topic.
+ But, you know, everything we see and everything we're anticipating is in that lost trend number.
+ Great. Thank you.
+ Thank you.
+ And we have time for one more question
+ coming from the line of Jamie Buller with JP Morgan.
+ Tim, please go ahead.
+ hi good morning
+ So first, I had a question on just the commercial auto business,
+ if you could talk about what you're seeing in terms of frequency.
+ is that picking up as traffic's been
+ increasing recently and then
+ And relatedly, just your views on the rate adequacy in that line, given that you've been
+ raising prices for a while
+ or do you think rates need to go up for this?
+ Hi, this is, good morning, this is Greg.
+ Yet we certainly have seen some favorable frequency activity as the shelter at home has taken place.
+ certainly not to the levels of personal insurance.
+ And just as a reminder, in commercial auto, it's a little unique and personal where we do have layup credits or, you know, premium credits when there's limited use.
+ And so, you know, there's a slight offset as we see that frequency.
+ We have mechanisms to give that back.
+ Now, as the economy is starting to reopen, we're seeing that frequency moderate.
+ And on the personal auto side, are you assuming or expecting additional refunds in the third
+ as well.
+ So we don't have further refunds planned
+ in personal auto, you know, I think like many, we're looking forward at what rate adequacy
+ over time and looking at more traditional
+ mechanisms like rate filings
+ to make sure that rate's in line
+ with lost trend and lost thought.
+ And first of all, I know the refunds really were a mechanism to respond to an acute issue in the early days of the pandemic is sort of the way we're thinking about it.
+ Okay. And then just lastly, you mentioned a majority of the COVID losses were related to
+ workers' comp, you didn't really mention anything about business interruption,
+ and I'm assuming those losses were pretty modest,
+ but is that more because you haven't seen a lot of claim submission
+ or is it just you have seen submissions
+ but your view is that those claims are uninsured, given the policy language?
+ Yeah, we've certainly seen some submissions and there's some claim activity around it
+ and even some litigation around it
+ As we've noted, we've got provisions in our policies
+ that we think make that coverage inapplicable.
+ and so we don't expect many of those claims
+ actually to pay out.
+ It's, Dan, one related comment to that.
+ even where we don't expect
+ ultimately to pay
+ the indemnity on the loss, we have acknowledged in our reserves the fact that we'll spend
+ some money defending against claims that come
+ in for business interruption.
+ Okay.
+ And on COVID, is that the line where you see the most uncertainty in terms of claims,
+ given what happens in terms of litigation activity,
+ or are there other lines where there's not a lot of clarity
+ based on what's happened so far?
+ You know, I don't think there's a...
+ I don't think there's a lot of uncertainty
+ around business interruption.
+ I mean, certainly there's some because there's some litigation,
+ and there's always uncertainty when you have litigation
+ But, you know, we've got the requirement for direct physical damage.
+ We've got two courts that have upheld that so far, and we've got a specific virus exclusion
+ in our standard policy forms.
+ So we don't actually see a lot of uncertainty there,
+ and we don't expect, you know, that to be a material loss contributor for us.
+ Thank you.
+ I will not thunder.
+ I will now turn the call back over to Abby for closing remarks.
+ Thank you all for joining us this morning.
+ appreciated. As always, if there's any follow-up, please get in touch with Investor Relations
+ and we're happy to answer your questions.
+ Be well, and have a good day.
+ Thanks.
+ This concludes today's conference call.
+ Volume and I'll disconnect.
+ Thank you.

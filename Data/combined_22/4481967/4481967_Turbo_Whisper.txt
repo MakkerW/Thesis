@@ -1,0 +1,1209 @@
+ Good morning and good evening.
+ Thank you all for joining this conference call.
+ and now we will begin the conference out of fiscal year 2021
+ first quarter earnings results by Samsung Electronics this conference will start with
+ the presentation, followed by a divisional Q&A session.
+ If you have a question, please press start one.
+ that will start N1 on your phone during the Q&A.
+ For cancellation, please press start 2, that is start and 2 on your phone.
+ Now, we shall commence the presentation on the fiscal year 2021 fourth quarter earnings results by Samsung Electronics.
+ Welcome, everyone.
+ This is Ben Sov from Investor Relations.
+ Thank you for joining our fourth quarter 2021 earnings call.
+ For additional details regarding our quarterly results, please refer to our earnings presentation,
+ on our IR website at www.samsung.com
+ slash global
+ On the call with me today, representing each of our business units are EVP Han Jin Man, representing Memory,
+ VP Kenny Han for System OSI, EVP Kang Munsoo for Foundry, EVP Choi Geun-young for Samsung Display,
+ VP Kim Sung-Koo for Mobile Experience, or MX, which is a previous mobile division, and
+ VP SD Chung for Digital Appliances.
+ I would like to remind you that some of the statements we will be making today are forward-looking.
+ based on the environment as we currently see it.
+ and all such statements are subject to certain risks and uncertainties
+ that may cause our actual results to be materially different
+ from those expressed in today's discussion.
+ Also, please note that last December, we merged the IM and CE divisions to form the DX division.
+ However, as this was just announced in December, we have maintained the IM&C distinction in
+ our earnings call materials, as well as in portions of this presentation, for consistency
+ with our Q1 to Q3 results.
+ With that, I would first like to present the results for the...
+ I'm pleased to report that we once again delivered record results by leveraging our differentiated
+ products and technology leadership despite the challenging
+ macroenvironment.
+ Total revenue in the fourth quarter grew 3.5% sequentially to $76.6 trillion,
+ setting a consecutive all-time quarterly high
+ driven mainly by our finished product businesses.
+ We expanded sales of premium smartphones, including foldables,
+ as well as TVs and home appliances amid year-end peak seasonality.
+ We set records for total revenue in a respective quarter
+ for each quarter in 2021, resulting in a record annual revenue of $280 trillion.
+ Profit increased by $0.5 trillion sequentially to $31.6 trillion, led by expanded sales of
+ premium smartphones, but gross margin decreased slightly, primarily due to a decline in memory
+ prices.
+ SG&A expenses were up $2.5 trillion quarter-on-quarter to $17.8 trillion, mainly due to increased
+ spending on R&D
+ in advertising and promotional activities.
+ As a percentage of sales, they increased by 2.6 percentage points.
+ Operating profit was $13.9 trillion, down from the previous quarter due to a special
+ bonus payment to employees, a decline in memory prices, and a seasonal rise in marketing costs
+ for smartphones.
+ On a year-on-year basis, however, both operating profit and operating margin
+ increased substantially, driven by our semiconductor businesses.
+ I will now briefly review the results of each business unit.
+ In memory, results declined versus the prior quarter as ASP edged lower.
+ Bid growths for the quarter came in below guidance as,
+ considering our low inventory levels and the market outlook, we refrained from excessive
+ bid shipment efforts. Compared to last year, results improved significantly, driven by solid demand
+ across overall applications, as well as increases in our advanced node portion and ASP.
+ In Foundry, even though increased overall supply
+ resulted in a new high for revenue.
+ Profitability decreased slightly quarter-on-quarter due to a rise in costs associated with advanced
+ processes.
+ On a year-on-year basis, results improved due to the start of operations at the S5 fab
+ in conjunction with price adjustments.
+ in display?
+ Earnings continued to improve for the mobile panel business, driven by a continuation of
+ solid demand from key customers' new smartphones and increased sales in new application areas.
+ However, the large panel business saw its losses widen considerably due to declines in LCD
+ A.
+ ESPs.
+ and initial costs related to QD display.
+ For the MX business, revenue increased slightly, led by expanded sales of premium products
+ such as foldables, and solid sales of device ecosystem products.
+ Profit decreased quarter-on-quarter due to an increase in year-end marketing costs,
+ including for foldables, but increased year-on-year.
+ for network results improved sequentially
+ as revenue grew both at home and abroad.
+ In the CE business, composed of visual display and digital appliances, we delivered record-high
+ quality of the system.
+ quarterly revenue, on the back of strong sales of premium products during year-end seasonality,
+ The profits declined slightly quarter on quarter amid rising costs, including for logistics.
+ currency
+ effects
+ negatives from overall weakness in major emerging currencies against the Korean one,
+ mainly affecting the finished product businesses,
+ were eclipsed by positives from a strong dollar,
+ which mainly affects the DS division.
+ The net result was a positive impact of approximately 300 billion won on operating profit compared to the previous quarter.
+ Next, I would like to share our business outlook.
+ In the first quarter, for semiconductor businesses,
+ Memory will actively address a projected recovery of demand,
+ and Foundry will push to stabilize yield and increase supply of key components for flagship products.
+ Our finished product businesses will focus on maintaining solid profitability by strengthening
+ leadership in premium segments,
+ with launches of new smartphones and TVs.
+ in memory
+ although there are
+ lingering uncertainties, we will
+ concentrate on
+ optimizing our business portfolio, including through increased sales of advanced node products
+ to support the server and PC demand recovery.
+ and also via sales growth of high-value-add products.
+ For System LSI, we will focus on supplying essential SOCs and CISs for our key customers'
+ flagship products. And for Foundry, we will continue to prioritize expanding supply by
+ improving production and yield at advanced processes.
+ In display, despite weak seasonality for smartphones, we expect the mobile panel business to deliver
+ improved results year-on-year driven by releases of new smartphones by major customers and an
+ expansion of the
+ foldable display customer base.
+ In the large panel business, losses are likely to be partially mitigated with the mass production of QD display.
+ In the Amex business, despite supply constraints,
+ We expect to deliver revenue and profit growth, as well as solid margin, led by releases of
+ new flagship models, expanded sales of 5G smartphones for the mass market, and increased
+ sales of tablets and wearables.
+ For network, we target to win new opportunities from European and other global customers.
+ For C businesses, amid weak seasonality for TVs and a projected dip in demand for home appliances,
+ we will endeavor to improve profitability by focusing on sales of premium products,
+ expanding our new category product lineup, and increasing the portion of online sales.
+ Now let's move on to the outlook for 2022.
+ Under expectations of a recovery in global I.T. demand,
+ Our component businesses will increase their advanced
+ node portion of production
+ and enhance leadership in next-generation products and technology.
+ And in the finished product businesses, we will continue to strengthen our leadership
+ and lineups in premium segments
+ as we strive to create new user experiences
+ by enhancing
+ connectivity and synergies
+ between our devices.
+ However, challenges associated with supply issues and COVID-19 are likely to persist.
+ During this year, we will also promote partnerships, secure technology, and execute investments
+ to gain leadership in future growth areas such as 5G, AI, cloud, IoT, and the metaverse.
+ For the memory business, we expect demand to increase as enterprises ramp up IT investments,
+ though there are uncertainties such as the extent to which supply issues will ease.
+ In accordance, we will continue to enhance our leadership
+ by expanding supply of high-performance products
+ and increasing application of our industry-leading EUV technology.
+ technology.
+ System MSI will grow its business by reinforcing its lineup of SOCs, including models targeting
+ the 5G volume zone.
+ And Foundry aims to outpace market growth by extending our technology leadership with
+ management.
+ production of the first generation
+ and GAA process, along with increasing supply to global customers.
+ For display, in the mobile panel business, we expect demand for OLED to continue to increase
+ based on rising penetration of 5G and growth of the foldable market.
+ And we will further strengthen the foundation for stable growth
+ by expanding OLED into new application areas as well.
+ The large panel business will work to secure technology leadership in the premium segment
+ with QD display while it closes the LCD lines as planned.
+ The MX business targets increasing market share
+ by concentrating on innovations in flagship products,
+ further differentiating user experiences, and also expanding our mass market 5G smartphone lineup.
+ Moreover, we will seek to grow sales of device ecosystem products by enhancing the value
+ delivered to customers.
+ For network, we will focus on capturing 5G network demand
+ and winning new global customers, all as we continue to further strengthen our technologies,
+ including custom development of core 5G chips.
+ For CE businesses, we will further solidify our market leadership and
+ growth by continuing to expand sales of premium product lines, such as Nail QLED and Bespoke,
+ and by diversifying the overall lineup with lifestyle and new home appliance products.
+ Next, I would like to share some of our key activities and achievements in sustainability management.
+ It's a CES keynote address on January 4th.
+ We outlined our eco-friendly initiatives for a sustainable future.
+ We believe that consumers and companies together
+ can contribute to a better future by embracing sustainable products.
+ To this end, we unveiled a range of ambitious, eco-friendly activities.
+ For example, in manufacturing displays, including for TVs, we are using 30 times more recycled
+ plastic this year than we did last year.
+ And we are moving toward incorporating recycled materials
+ in all mobile products and home appliances by 2025.
+ In addition, our company ranked fourth in the Digital Inclusion Benchmark, as announced
+ in December
+ by the World Benchmarking Alliance,
+ a global alliance dedicated to sustainability management.
+ We earned this accolade.
+ thanks to our strong support for the technology innovation ecosystem through CLAB Outside, an
+ initiative aimed at nurturing startups in korea
+ as well as disclosing our AEI ethics principles,
+ centering on equity, transparency, and responsibility.
+ Furthermore, we participated in a pilot project organized by Korea's Ministry of Environment
+ to reduce worksite waste.
+ And on December 31st, our Gihong campus received top honors for its efforts,
+ which included strengthening recycling programs
+ and offices, establishing a standard for minimizing the packaging for raw
+ in semi-processed materials
+ and expanding recycling of waste materials.
+ grills.
+ Our work in this area demonstrates our commitment to creating environmental and social value.
+ in addition to achieving growth.
+ and we will continue to strengthen our ESG management by fulfilling our
+ our social responsibility as a leading global company.
+ Let me now move on to capital expenditures.
+ The annual CAPEX for 2021 was $48.2 trillion,
+ with $43.6 trillion invested in semiconductor
+ and $2.6 trillion in display.
+ By business, memory concentrated its investments on capacity expansions and process migrations.
+ at FABs in Pyeongtaek and Xi'an to address demand for advanced nodes, including EUV-based
+ 15 nanometer DRAM
+ and sixth-generation VNAND, as well as on infrastructure at P3.
+ Investments in memory increased year on year
+ as we are at the lead of an inflection point in technology
+ and are thus preemptively investing in application of next-generation technologies, such as EUV.
+ We are executing the investments with a focus on technology leadership,
+ and as a result, we can maintain an efficient investment level
+ when considering our bid share from a mid- to long-term perspective.
+ For Foundry, investments concentrated on capacity expansions for advanced 5-nanometer EUV nodes
+ in Pyeongtaek.
+ Display investments centered on mobile modules and QD display.
+ Finally, let me address the shareholder return.
+ The Board of Directors today approved a quarterly dividend of $361.1 per share for common stock
+ and $362.1 per share for preferred stock.
+ The total payout for the fourth quarter is approximately $2.45 trillion won,
+ which is in line with the totals in 2021's previous quarters.
+ This represents one-fourth of the annual total of $9.8 trillion
+ in accordance with the current shareholder return policy.
+ The dividend will be paid after final approval at the annual general meeting of shareholders.
+ When we announced the current three-year shareholder return policy in January of last year,
+ we said that we will disclose the annual free cash flow each year
+ to enhance clarity on the shareholder return pool.
+ And if 50% of the free cash flow significantly exceeds the annual dividend, we would consider
+ and earlier return.
+ The total free cash flow for 2021 was $19.6 trillion, 50% of which is approximately $9.8 trillion.
+ 1. Considering the annual projected annual
+ dividend
+ for 2021
+ is also 9.8 trillion won.
+ There was no additional pull for an earlier return.
+ While we achieved solid results in 2021, as I mentioned earlier,
+ we required a considerable amount of CAPEX to accelerate migration to next-generation technologies and memory,
+ and to secure competitiveness in Foundry.
+ And there were also impacts of increased working capital, such as a need to secure additional
+ inventory amid uncertainties of component supply. Although we did not generate a surplus in 2021,
+ we believe our efforts will lead to significant future growth
+ and contribute to increasing shareholder value.
+ In 2022, we will once again step up our efforts to improve our performance by extending our
+ product and technology leadership, increasing cost competitiveness, and improving profitability,
+ while also enhancing capital management efficiency.
+ I will now turn the conference call over to the gentlemen from each business unit
+ to present fourth quarter performances and outlooks for their corresponding business segment.
+ We will start with the memory business.
+ Thank you.
+ Good morning.
+ This is Han Jin Man from Memory Global Sales and Marketing Office.
+ In the fourth quarter, memory demands centered on the server remained solid, but our performance
+ declines somewhat compared to the previous quarter due to a continuation of global supply
+ chain issues.
+ the slight drive-in ASP and payment of one-off special incentive.
+ We came in below.
+ initial bid growth guidance as we
+ refrain from making
+ excessive beach shipments
+ in consideration of our limited inventory conditions and also the market outlook.
+ In DRAM, impacts on SAP built from global supply chain issues differed by degree, but were felt throughout all applications.
+ For server, however, demand remained strong thanks to an increase in DLM content per box
+ will increase adoption of high-core CPUs amid a continuation of solid end-demand.
+ Graphics.
+ Graphics car supply shortage remained as demand stayed robust, backed by strong demand for gaming PCs, along with rising demand for crypto mining.
+ PC and mobile have felt relatively more effects of set-build disruptions caused by component supply issues.
+ For PC, consumers continue their tendency to adjust inventory.
+ mobile, major smartphone manufacturers released new 5G models with concurrent risk such as
+ the spread of a COVID variant impacted memory demand to some extent.
+ Based on preemptive product mix adjustment, we actively address an increase in server
+ including...
+ graphics demand
+ And to enhance competitiveness, we continue to increase our cutting-edge portion of processes.
+ Even so, we are below big growth guidance as we try to optimize supply plans considering
+ our inventory condition and market outlook.
+ Next, I will talk about the NAND market.
+ For server SSD, fundamental demand from major data sent to customers was robust.
+ but there are some marked effects related to disruptions in the IC component supply chain.
+ Demand for client SSD was somewhat stagnant because of inventory adjustment by some customers
+ and said bill disruptions caused by component supply issues.
+ In the case of mobile, supply and demand of APs were disrupted,
+ and memory demand fell slightly.
+ But the high-density trend continued thanks to impacts of peak end-year seasonality.
+ We focused on optimizing sales, such as reducing wave flow shipments, as well as strengthening high-value solution businesses.
+ consideration of our inventory situation while identifying impacts on
+ production caused by changes in line operation due to the lockdown in Xi'an.
+ In addition, we continue to strengthen our competitiveness by increasing our cutting-edge portion of processes
+ and by expanding the server business, we are actively addressing growth in high-end, high-capacity demand.
+ Now let me share the outlook for the first quarter.
+ In the case of D-Rab,
+ Some uncertainties are likely to persist.
+ But we expect issues related to component supply and demand to dissipate gradually.
+ We are seeing signs of improvement in set builds, mainly by server MPC.
+ For server, we expect demand to remain strong thanks to the high density trend alongside
+ Increasing investment centering on data centers, while the high-core CPU portion continues to increase.
+ As demand for PC improves, mainly for corporate-oriented high-end laptops, demand will increase for cutting-edge products such as DDR5.
+ And as some customers complete inventory adjustment, we think impacts of flow seasonality will partially ease.
+ For mobile, we expect the demand base to be reasonably solid
+ as major manufacturers launch products based on new form factors
+ and increase the portion of LPDDR5.
+ However, risks such as operation restrictions at some production sites
+ due to the spread of COVID variant
+ need to be carefully monitored.
+ We will keep working to maximize the quality of our business portfolio by selling products
+ of our cutting-edge nodes
+ and expanding sales of high-value products
+ while actively addressing customer demand from overall application.
+ In NAND, for server SSD, we expect demand for server builds to be robust, thanks to continuing investment, mainly data centers.
+ we should keep an eye on corporate demand, along with the spread of COVID variants.
+ In the PC market, we think build demand will recover, mainly for laptops, along with gradual
+ improvements in component supply issues.
+ And for mobile, despite being amid slow seasonality,
+ we expect the high-density trend for storage to persist as manufacturers launch new 5G models.
+ We plan to minimize risk of supply disruptions by securing a diverse product
+ portfolio centered on high-value products while returning to normal production operation
+ after the lockdown in Xi'an being lifted.
+ Now let's move on to the full-year outlook.
+ Under the risk of demand fluctuations, such as ones related to the pace of mitigation
+ of component supply constraints as well as chances of prolonged effects of a
+ COVID-19 variant, we ask for your understanding in that it is difficult to provide specific
+ annual pit growth guidance.
+ Therefore, I'd like to share a view of the market situation for each application.
+ First, for server, DM content per box is projected to keep rising
+ thanks to the adoption of new CPUs supporting DDR5
+ and the expansion of AI-oriented servers
+ centered on data center.
+ In addition, coupled with the expansion of investment by major companies, set-build demand
+ deferred by last year's component issues should lead to solid-set bill growth.
+ On the other hand, for PCs, we need to monitor detailed impacts on demand
+ as a delayed return to daily life triggered by a new variant would impact demand from
+ contactless services such as education, gaming, and others.
+ amid an expected increase in replacement demand,
+ and content per box
+ due to the spread of a new OS.
+ Mobile, with the resumption of 5G infrastructure investment by countries
+ and strengthening of 5G lineups
+ by manufacturers,
+ content per box is likely to keep rising, focusing on major manufacturers, and set
+ treatments
+ Centering on low-to-mid price models are also anticipated to rise amid growth in emerging markets.
+ based on preemptively
+ managing our product mix to align with market conditions, we will proactively address market
+ demand by expanding our supply
+ portion of high-performance products, such as HPVM for graphic and cutting-edge interspaces
+ like DDR5 and LPDDR5.
+ based on high-value solution-oriented portfolio management
+ And our industry-leading EUV capabilities will focus on qualitative growth through stable,
+ continual cost reductions and strengthened market leadership.
+ Good morning.
+ This is Kenny Han from the System LSI business.
+ In the fourth quarter last year, we reached a record high for quarterly revenue, driven
+ by an increase in demand for SOCs, DVIs, and PMICs as major mobile customers launched new
+ flagship products.
+ However, operating profits sold slightly due to the influence of spatial bonuses.
+ To improve our performance even further in the coming quarter, we have started to supply
+ our flagship 4nm SoC featuring an AMD GPU for the first time, as well as related products.
+ In addition, our 108-megapixel image sensors have been increasingly selected by our customers
+ for adoption in their upcoming major models.
+ In the first quarter of this year, effects of year-end week seasonality for the mobile
+ industry.
+ and inventory adjustment by Chinese set companies are likely to continue.
+ But demand for OLED DDI, NFC, ESE, and PMIC products is expected to stay strong.
+ As a major customer, we plan to focus on expanding supply of SOCs
+ with a significantly improved GPU, NPO capabilities, as well as ultra-high-resolution image sensors.
+ In 2022, by maximizing supply of volume drone 5G SOCs and technology leading 108 and 200
+ megapixels.
+ revenue growth to accelerate
+ your own ear
+ For a while, profitability should rise on the back of price adjustment.
+ Thank you.
+ Good morning.
+ This is Moon-Soo Kang from the Foundry business.
+ In the fourth quarter, we outpaced industry growth and set a new high for Q4 revenue.
+ In particular, we continue to increase sales to large-scale HPC customers and also
+ use technology.
+ the base for future growth by securing orders from new
+ large customers in HPC applications.
+ In addition, we work to improve our response to customer demand
+ with efforts to stabilize the global supply chain, confirming new PEP investments in Taylor, USA, and in Korea.
+ However, there were also had-beens as we were unable to fully satisfy customer demand amid
+ the supply disruption and profitability fell slightly due to delay in ramping of advanced
+ In the first quarter of 2022, we expect the industry to remain in tight supply across all nodes and our advanced node portion, which increased significantly from Q4, to keep rising.
+ Given this, we will focus on improving yield in advanced process nodes
+ to enhance our supply stability and profitability.
+ To strengthen our technology leadership, we will complete the qualification of first-generation GAA process, 3GAE, for mass production in the first half of this year.
+ and we will continue to develop
+ a second-generation GAA process, 3GAP, as scheduled.
+ For the foundry market in 2022, we expect supply to remain tight
+ due to rapid penetration of 5G technology, solid HPC demand,
+ and a need to build up safety inventory amid prolonged pandemic.
+ We will continue our technology leadership through mass production of the 3-GAE process
+ in the first half, and we aim to exceed market growth
+ on a full-year basis by expanding capacity of advanced nodes,
+ normalizing prices to ensure future investment, and adding new customers to our global client base.
+ Thank you.
+ Good morning. I'm Gonyoung Choi from the business planning department at Samsung Display.
+ In the fourth quarter, the mobile display business sustained upward trend in earnings
+ following the previous quarter backed by robust sales of smartphones with the overhead displays,
+ which are now mainstream in the premium segment
+ and also by the competitive limits and stability of Samsung's display supply chain management.
+ In addition to smartphones,
+ sales and revenues of products for notebook PCs and gaming increased steeply quarter-on-quarter,
+ contributing to our earnings growth.
+ Meanwhile, in the large display business, we have successfully mass-produced and delivered our QD displays for TVs and monitors,
+ which have garnered positive reviews from our customers.
+ Next, let me share the outlook for the first quarter of 2022.
+ for the mobile display business, we project that release of our new products by major customers
+ and increasing adoption of flexible displays will mitigate with effects of
+ weak seismality. However, given persistent certain products such as DDIs, for the large display
+ business. With QD display TVs and monitors having made their official market debut,
+ we expect losses to narrow gradually.
+ Finally, I will share.
+ I will look for the display market in Samsung Display's core strategies for 2022.
+ For the mobile display business, did macro risks such as are ones related to fat,
+ tapering as well as
+ Omicron's
+ variants of COVID-19, we expect adoption of already
+ displaced
+ to keep
+ expanding this year
+ driven by rising penetration of 5G smartphones and the growth of foldable display markets.
+ The market trend should create a favorable business environment for something this place.
+ As for the IT market, we expect growth to slow compared to last year, and rising sales
+ in the premium segment are likely to accelerate penetration of already displayed.
+ We plan to strike a balance in the mobile display business structure with both flexible and rigid OLD.
+ To that end, we plan to expand adoption of flexible OLED to more than just high-end devices
+ by providing its astounding technological capabilities to the mid-range segments as well.
+ We'll also diversify application for rigid OAD,
+ ranging from IT to gaming to automotive, based on our unrivaled production capacity and cost competitiveness.
+ For the large display business, we expect ultra-large displays and differentiated products to drive solid demand for premium TVs.
+ and will focus on securing leadership in the premium TV
+ and monitor segments through QD displays.
+ Thank you.
+ Good morning. This is Sungook Kim from the MX business.
+ I would like to discuss the Q4 2021 research and outlook for the MX and network business.
+ 2021, the market grew compared to the previous quarter due to year-end seasonality.
+ As for the MX business, despite the component supply shortage, revenue increased slightly QOQ.
+ In particular, in the new market that we created with an innovative form factor, our foldable
+ G-series models G4-3 and G-Flip-3 have garnered positive feedback for their enhanced design,
+ durability, and user experience that are tailored to foldable.
+ This contributed to increased sales and we believe foldables are smoothly entering the mainstream.
+ Also, the Galaxy S series maintained sales momentum thanks to active marketing and even
+ further enhanced user experience with the new One UI 4.0.
+ Accordingly, our premium smartphone sales increased.
+ Our device ecosystem products, including PCs, tablets, and wearable devices, with their enhanced
+ devices.
+ Seamless Connected Experience
+ also contributed to the program.
+ In the meantime, investments in active marketing to mainstream
+ marketing to mainstream media.
+ and preparations to launch new models in Q1 2022 affected profit.
+ to some degree.
+ The network business is prior to the previous quarter driven by the growth of domestic and overseas business.
+ Now, let me give you the outlook for Q1 2022.
+ to. Demand for smartphone and tablets is
+ is expected to decrease due to seasonality, as well as uncertainty surrounding component
+ supply
+ In our MX business, we will strive to expand the customer base for our flagship products
+ by fulfilling customer needs with the Galaxy S21 FE which preserves core user experience
+ Galaxy S21 and comes in a diverse range of color options are at an affordable
+ Also, a new Galaxy S-Series model featuring the best Galaxy performance and experience
+ will enhance customer retention of our premium products.
+ In turn, this will lift the standard for flagship products and contribute to increased
+ sales of our flagship smartphones
+ as well as an increase in overall smartphone ASP.
+ Also, our competitive 5G lineup for the mass market will act as a volume driver by addressing
+ replacement demand
+ and thus actively seize growth opportunities in the market.
+ In addition, we will continue to focus on increasing sales of our device ecosystem products,
+ such as wearables, PCs, and tablets, by actively promoting the enhanced
+ community.
+ Thank you.
+ With these efforts, we will strive to secure solid profitability in Q1 2022 amid an unstable
+ profitability.
+ The network business aims to secure additional new contracts in the global markets, including
+ from
+ Next, let me provide an outlook for 2022.
+ Despite current uncertainties, including prolonged pandemic and component supply issues,
+ We expect the following substantial growth while the wearable market is projected to see strong double-digit growth.
+ In our MX business, we will continue to pursue experience-driven innovation
+ to solidify leadership in the flexion market.
+ We will also strengthen the tailored experience of each product, including the ultimate flagship
+ experience with the Galaxy S series and optimized Galaxy G series experience to
+ to cater to various lifestyles and needs of our customers.
+ In the mass market, we will not only strengthen our 5G lineup, but also expand the application
+ of our convenient and differentiated experience
+ and enhance product completeness.
+ With these efforts, we aim to increase our smartphone market share.
+ Also, we will keep enhancing customer value by continually adding to our differentiated
+ user experience and convenient
+ connected experience across
+ devices in our device ecosystem.
+ and by further strengthening product competitiveness.
+ Furthermore, we expand such convenient connected experience beyond MX products to TVs and home
+ appliances to enrich the value that our customers experience in daily lives. By doing so, we will
+ strived to achieve material growth in 2022 and bolster profitability with an
+ improved product mix and enhanced operational efficiency.
+ The network business will focus on actively expanding its overseas business while also
+ responding to the news.
+ to extension of the 5G network.
+ Also, we will thoroughly prepare for the future with continual efforts to strengthen our technology
+ and competitiveness, including our own 5G chipset.
+ Thank you for your attention.
+ Good morning.
+ Good morning, I'm S.T. Chung from the sales and marketing team of Digital Appliances.
+ Then I will address business condition of three businesses.
+ First, I would like to review the market condition and our performance in the first quarter of
+ 2021.
+ So TV Market Group,
+ color on color amid
+ picks the novelty
+ or decreased
+ compared to the previous year when it was affected by its strong pent-up demand.
+ By working closely with the channel partner in advance,
+ Samsung preemptively targets seasonal remand starting at end October, an expanded stage
+ mainly of high-value products, such as Neo-QLED models and lifestyle screens.
+ Mm-hmm.
+ Forexing profit decreased slightly due to cost pressures such as global logistics issues.
+ For digital appliance in the
+ fourth quarter
+ Market growth is low due to diminishing impact of the pent-up demand, and material and logistic
+ cost stayed on an uptrend seen in the previous quarter.
+ Samsung actively advanced various consumer needs, and we improved our mix via increasing
+ stage with a focus of premium products such as bespoke and new category products.
+ In addition, through improving our operation efficiency and reducing cost, we will be able
+ We achieved better results compared to the previous score, despite numerous
+ numbers.
+ in the external environment.
+ Now, let us look at the outlook for the first quarter of 2022 and 2022 as a whole.
+ We expect the overall TV market in Q1 to decrease quarter-on-quarter following the year-end peak season
+ and also coming lower compared to the same period of last year.
+ when it was affected by a continuation of a strong effect of pent-up demand, mainly advanced markets.
+ We plan to push expand sales by capturing demand, mainly for premium products, by actively
+ revenue, revenue, and revenue.
+ a number of promotional opportunities, such as those associated with major sporting events.
+ Furthermore, we will lead the market by surrendering sales in the Lifestyle Queens category, including
+ the freestyle, which was released in CES this year, and improved our results.
+ For data appliance in the first quarter, we expect demand for home appliances to decline slightly year-on-year.
+ Also, we expect to continue to feel the effect of increases in logistics and material cost.
+ We will target the premium market more aggressively by expanding the BISPOKO line-up mainly in advanced markets such as North America and Europe.
+ Also, we plan to expand that by providing our customers with a differentiated experience
+ offering significantly expanded consumer contact points both online and offline.
+ In addition, we will secure
+ profitability by continuing to improve our cost efficiency throughout our operation regarding the
+ the TV market in 2022, we expect market uncertainties to consist, including those triggered by COVID-19
+ and external issues involving supply and logistics.
+ However, we also expect the demand to keep rising for premium and super big TV.
+ Samsung will focus on targeting demand for an increasing stage of innovative premium products,
+ including our next-gen micro-LED and neo-QLED models.
+ At the same time, we will strengthen our sales of lifestyle screens, our own differentiated product line, and expand the TV accessory ecosystem.
+ while also providing differentiated user experience and creating new demand.
+ Through various services and smart hub, it is optimized for in-home activities like media and gaming.
+ In the digital appliance market in 2022, market growth of home finances will probably be
+ in the future.
+ that she is only a
+ But we expect to see demand edge-off for the new category
+ products that reflect changing
+ rifle size
+ trend.
+ and also slight demand growth in the emerging market.
+ We'll continue to grow by strengthening global stage.
+ we are expanding the areas of, we offer, we differentiated bespoke product, also by expanding
+ line up by region.
+ And if to the market, we'll keep launching new category
+ products that reflect the change in consumer needs well.
+ Furthermore, by extending use of modular products and thus increasing productivity, we will
+ It will enhance operational efficiency and also secure supply continuity to preemptively
+ to manage future external risks.
+ Thank you.
+ sums up the fourth quarter results presentations. Before we move on to the Q&A session, I would like
+ to share several data points in key business areas.
+ Considering the heightened macro uncertainties, we will not be providing annual guidance at this time.
+ In the fourth quarter for DRAM, our bit growth decreased by a percentage in the mid-single digits.
+ and ASP declined by a similar magnitude.
+ In the first quarter of 2022, we expect market bid growth to fall by low single-digit percentage,
+ and we should be similar to the market.
+ Pranand, in the fourth quarter,
+ Both our bid growths and ASP declined in the low single-digit percentage range.
+ For the first quarter of 2022, we expect market bid growth to decrease by a low single digit,
+ and our bid growth should slightly outperform the market.
+ In the display business in the fourth quarter, our OLED portion of sales was in the high 90% range,
+ and OLEG sales volume grew by a low single-digit percentage.
+ Turning to wireless, sales volume in the fourth quarter was approximately 72 million units
+ for hansits
+ and 7 million units for tablets, with a blended ASP of 253 U.S. dollars.
+ The smartphone portion of handset sales volume
+ was in the mid-90% range.
+ For the first quarter of 2022, we expect to see sequential increases
+ in handset and tablet sales volume, as well as in blended ASP.
+ The smartphone portion of handset sales should stay similar in the mid-90s.
+ In the TV business in the fourth quarter of 2021, sales volume grew by a percentage approaching
+ the mid-teens
+ And in this quarter, we expect sales volume to decline by a low single-digit percentage.
+ Lizette, I will now move on to the Q&A session.
+ First, we will start taking questions from the conference call.
+ I'm going to start the answer.
+ If you have any questions, please press 1 and press 1.
+ If you want to ask,
+ to
+ write
+ in
+ Now, Q&A session will begin.
+ begin please press start 1 that is start n1 if you have any questions questions will be taken
+ according to the other U.S. press star and number 1.
+ For cancellation, please press start 2, that is start and 2 on your phone.
+ The first question will be presented by J.J. Park from J.P. Morgan. Please go ahead with your question.
+ Yes, thank you very much.
+ I have two questions.
+ .
+ DRAM이나 LAND POSTION이 어떻게 됐는지
+ Thank you very much.
+ .
+ Thank you very much.
+ ...
+ I'm not sure what's going on, but I'm not sure what's going on.
+ Shoulder Return Policy에 대해서 추가적으로
+ 고려하신 사항이 있으시면 말씀 부탁드리겠습니다.
+ I have two questions.
+ The first question is about the memory capex.
+ You said that the memory kept the slasher increase.
+ Can you give us that divided into the NAND versus the DRAM-related capex spending last year?
+ Also, can you give us some guidance for CAPEX memory this year?
+ Second question is about the shareholder return.
+ During the presentation, you mentioned that 50% of the free cash flow for last year is roughly the same as the distributable profits for this year,
+ and therefore there would not be any additional pool of funds available for
+ shareholder return, but I also noticed that the company does have on hand
+ more than 100 trillion won of net cash
+ And so maybe not last year, but perhaps this year, can we expect any upside on the shareholder return?
+ Is the company considering its net cash size when it decides shareholder return for this year?
+ Yes.
+ .
+ 20년 대비 증가한 수준으로 마감되었고요.
+ I think the breakdown of the breakdown is difficult, but the DRAM and NAND are all
+ in terms of the market.
+ To answer your first question about the memory CapEx, yes, as we mentioned, the overall memory CapEx in 2021 did increase year over year.
+ It's difficult to give you the breakdown between DRAM and NAN.
+ But overall, there was an increase in the facility equipment-related capex spending.
+ Mr.
+ .
+ To explain the reasons why there was an increase in CAPEX,
+ Mainly it's explained by how we have expanded our advanced node-related equipment
+ and also invested more in the node migration
+ in order to respond to the increasing demand that was above what was expected during the start of last year.
+ Also, another main reason for our CAPEX is our preemptive investments that we're making in next generation technology, such as EUV, as we go through a technology inflection point.
+ But this all is consistent with our CapEx policy of executing CapEx equipment investments
+ flexibly in line with the market situation.
+ .
+ ...
+ Thank you very much.
+ And so we believe that the supply bit growth that we are achieving is in line with the market demand levels because we execute flexibly our equipment related investments.
+ We do pursue bit growth around the leading technology nodes,
+ And I think that is why, compared to at least the bid share that we have, our investment
+ size in a mid- to long-term perspective is not high.
+ 2022년 투자에 대해서 조금 말씀드리자면
+ .
+ We have a lot of money, but we have a lot of money.
+ We will be able to build a new market.
+ Our 설비 반입 시점이 기존 예정보다 길어지는 추세가 있어서
+ So, this is a very important question.
+ You've all asked for some guidance for CAPEX this year.
+ Actually, given the various uncertainties, we are still actually discussing specific investment plans for this year.
+ But our basic approach is that we will tap both investments and productivity improvements
+ in order to generate the bid growth this year.
+ Also, as we prepare the planning and the execution of our investment plans,
+ we are aware that there is a tendency of equipment delivery lead times getting longer
+ Due to the supply chain issue.
+ The second question is from IR.
+ 저희가 작년 초에 2021년에서 23년까지
+ 3개년에 주주하는 정책을 발표했을 때
+ global 확실성과
+ 향후 현금 소유 증가 전망 등을
+ 고려해서 정책을
+ Thank you very much.
+ .
+ a second question.
+ When the three-year shareholder return policy that was announced early last year
+ covering periods of 2021 to 2023, actually took into account the global uncertainties
+ and the expected increase of cash needs for the company.
+ Now, looking back at the past one year,
+ The global uncertainty actually was more aggravated than we had anticipated,
+ and cash need increases increase as expected.
+ And so even though last year the business results improved,
+ our net cash position has stayed almost the same.
+ Yes, and we are in the IT industry's global supply chain, so we have a big deal of driving costs.
+ Also, Austin Hub's Cian Fab
+ was not expected to be the
+ Thank you very much.
+ Inorganic Growth에 대한 투자를 집행할 여력도 저희는 계속 유지하고 있어야 된다고 생각합니다.
+ to that. On the other hand, as you know, we
+ operate the largest
+ and the highest level of a global production network in the IT industry,
+ which requires a large scale of operating capital.
+ Last year, we also went through some unexpected production disruptions in Austin and the Xi'an fabs.
+ Also, we always need to keep the capabilities to execute inorganic growth opportunities
+ in order to maintain consistent growth.
+ So I think this is a big deal of money.
+ Thank you very much.
+ I will keep thinking about it.
+ Thank you.
+ So considering all of those factors, a company believes it is not appropriate at this point
+ to bring any major changes to its shareholder return policy
+ given the fact that conservative cash operation is necessary.
+ Now, that said, raising the efficiency of its capital management is something that the company continues to focus on.
+ Yes, next question.
+ 다음으로 질문해 주실 분은
+ Daewa증권의 김성규님입니다.
+ The next question will be presented by Songgyu Kim from Daiwa Capital Market.
+ Please go ahead with your question.
+ Yes, hello.
+ Yes, hello. I have a question for you.
+ I don't know.
+ Yes.
+ I'll ask you a question.
+ the Queen Room
+ Thank you very much.
+ DRAM, in so many we anticipate,
+ now we aim to UMK here,
+ Then D-RAM's
+ B-Cross 측면에서
+ 올해
+ The President of the United States has a strong development of the U.S.
+ and the U.S.
+ Thank you very much.
+ In addition to the stock market, we have to talk about the stock market.
+ I think it's been a lot of times when it comes to the cost of oil and oil and oil,
+ So, what are the consequences of this situation?
+ cuál에 대해서는 어떤 특별한 대응 전략이 있으신지 말씀 부탁드리겠습니다.
+ My first question is about the DRAM clean room space.
+ looking at the information
+ you may actually have a limited clean room space for your DRAM this year.
+ Also, your inventory levels are relatively low.
+ this may imply that you may actually in terms of fifth growth underperform the
+ market or your competitors on the DRAM
+ side.
+ there was a change of management at the end of last year
+ considering all of that can you share your opinion regarding the clean room
+ space limitations and
+ how you plan to respond to that.
+ Second question is about the CE business.
+ There is overall cost-increasing factors, including raw material prices and logistics cost increasing.
+ First of all, can you share from the company's perspective
+ Until when do you think the situation will continue?
+ what will be the implications to your CE business
+ and how do you plan to respond?
+ Climb�m 관련 답변 드리겠습니다.
+ .
+ This is a huge investment strategy for our memory company.
+ Clean room is a large amount of money, and a large amount of money.
+ 3-4년의 중장기적인 관점으로
+ So, I'm going to go back to the doctor's doctor, as a doctor.
+ I think it's going to be a big problem, so I think it's going to be a big issue.
+ Well, to answer your first question about the clean room, of course, securing enough
+ clean room in order to meet
+ the demand growth in the market is
+ one of the key critical investment strategies for the memory division.
+ clean rooms
+ It's actually a quite large investment.
+ and many factors need to be considered.
+ So deciding a clean room investment is a decision that should be made based on a midterm,
+ at least a three- to four-year horizon perspective.
+ Looking towards this year, at the current levels,
+ we do not expect any major problems in meeting the demand that's expected in the market this year.
+ Yes, I will answer the question.
+ Yeah, yeah.
+ Thank you very much.
+ Well, to answer your question about the heightened cost base for the consumer electronics business,
+ Of course, there are many reasons that are driving the elevated level of raw material and logistic prices.
+ large demand for logistics but there is a shortage of workers to man the ships
+ and the ports, and there is overall inflation driving an upward trend of raw material prices.
+ As we mentioned during the presentation, the company does expect this heightened level of raw material and logistics cost risk to continue throughout this year.
+ Yes.
+ .
+ I'm going to talk to you guys about this.
+ .
+ I think that's what I'm going to do.
+ BISFOCLE을 포함한 프리미엄 제품 판매를 확대하고
+ .
+ In response to this assumption of heightened risk,
+ First of all, we are thoroughly analyzing the situation of each of our key manufacturing hubs
+ in order to improve the overall supply competitiveness
+ by increasing the production efficiency for each region
+ and also executing overall operational improvements.
+ Also, we are preparing to respond to this on the sales side by accelerating revenue growth
+ through the increased sales of premium products such as bespoke
+ and continuously launching new models.
+ 다음 질문 받겠습니다.
+ The next question will be presented by Peter Lee from Citigroup.
+ Please go ahead with your question.
+ Yes, I'm City Group of Lee세철.
+ I'm going to ask a question about memory and mobile.
+ First of all, let me ask you a question.
+ This is a very interesting story about the 4th century of Samsung's memory.
+ We have a lot of different things about the 4th century of Samsung's memory.
+ This is a bit of a background.
+ I'm going to take a look at the next 2nd period.
+ Thank you very much.
+ smartphone市場 전망에 대해서 많은 관심을 갖고 있습니다
+ Samsung전자가 보는 올해의 스마트폰 수요 전망은 어떤지 궁금하고요.
+ , the last part is your planging so that I would like to add a view of the market ?
+ My first question is about the memory side.
+ Even though overall memory demand was quite solid last year,
+ Fourth quarter, we noticed that both your DRAM and NAN shipments
+ actually performed under the guidance and competitors.
+ Can you give us some explanation as to why this happened, which appears to be quite unusual,
+ especially given where the market and you were in the second quarter of last year,
+ We do notice that the company's management was changed at the end of the year.
+ is this an implication of any strategy change on the part of the company?
+ Second question is about the mobile side.
+ From the market, we're all wondering what the exact demand would look like for smartphones in year 22.
+ Can you share with us your demand outlook for smartphones this year?
+ And do you expect to increase your market share by outgrowing the market again?
+ 메모리 출하량이 가이든스 하회안 부분,
+ I'm going to talk about this.
+ It's been a long time in the 4th century, but it's been a long time since it's been a long time ago.
+ I think it's a lot of different types of products, but it's a lot of different types of products.
+ This has been a lot of memory loss.
+ In this situation, we are not going to be able to do that.
+ and the lockdowns of the production of the U.S.
+ and the production of the U.S.
+ .
+ To answer your question of why our bid growth was below market in fourth quarter, as you
+ mentioned, yes, in fourth quarter, demand was solid, but especially around the servers.
+ On the other side, there were some downstream production disruptions
+ due to the global supply chain issue,
+ even though the degree of the disruption varies depending on the customer.
+ And this did have an impact on memory demand in the fourth quarter.
+ Seeing that, we also considered that our inventory levels were not at high levels.
+ We also wanted to prepare against any production impact
+ due to the Xi'an lockdown.
+ And so we actually refrained from any aggressive sales in the fourth quarter.
+ And this was the main reason why our bid growth was below guidance in fourth quarter.
+ We've been working on some of the last two years, but this is the only way to the extent of the demand.
+ And this idea that we have all the different things that we've been talking about,
+ Thank you very much.
+ This is the most important thing that we have to think about it.
+ Now, the reason why we made that decision was because of our
+ insight into a change in the nature
+ of the market that
+ has been happening recently.
+ we do notice that the memory market actually is becoming more diversified.
+ The product lineup is much more diversified before.
+ And given the wide diversity of product lineup, we thought that most critical capability was the ability to supply the products that the customer needs based on having an optimized product mix.
+ And so I think the reason, I think the best way of understanding what happened in fourth quarter
+ was that it was our strategic choice in order for us to be able to supply the products
+ that the customer needs stably from a long-term perspective.
+ active.
+ mx 말씀드리겠습니다.
+ 22년 스마트폰 시장은
+ 2021년에 이어서
+ the fallable and 5c-concerned
+ and the growth of the 5c-concerned
+ Thank you very much.
+ ...
+ Thank you very much.
+ to answer your question about the smartphone first our outlook for the
+ smartphone market this year is that it will continue the growing trend continuing from last
+ year, main drivers being the mainstreaming of foldable phones and also the wider
+ penetration of 5G mobile phones.
+ Our strategy at the flagship level is to continue to expand the sales of flagships and to improve
+ our product mix by, first of all, maximizing the user base through our foldable Z-series,
+ which has been attracting not only the premium, super premium users,
+ but the MZ generation of females as well as the customers of the competitors.
+ Also, a part of our flagship strategy would be the S-Series,
+ the new model of the S-Series, which will contribute to retention of existing customers
+ and also to further widen the premium customer base through the S21 FE.
+ The MES model is 5G full line-up to global MES model, and the global mega-hit model, and the global mega-hit model, and the global mega-hit model.
+ I'm going to show you how to create a new volume drive.
+ This will be a plan for the 2022 smartphone market market.
+ premium leadership should be more.
+ Our strategy on the mass tier will be to actively absorb
+ the mass care 5G replacement demand globally
+ by preparing a wider 5G full lineup
+ and also to continue to produce global mega-hit models
+ in the mass tier that provide core user experiences
+ that the users appreciate.
+ Therefore, we will use the mass tier models to become clear volume drivers that can respond
+ preemptively to mass-tier brands.
+ By the two strategies, we plan to not only increase our entire market share
+ in the smartphone market this year
+ but also further increase the leadership we have in the premium market.
+ Thank you very much.
+ 다음 질문 받겠습니다.
+ Thank you very much.
+ The next question will be presented by Doyeon Che from Sinan Investments.
+ Please go ahead with your question.
+ Yes, hello.
+ Thank you very much.
+ Thank you.
+ Thank you very much.
+ I have a question for the mobile, the MX division.
+ Last year you successfully
+ mainstream, the foldable form factor
+ received strong response from the market
+ but you also have the Galaxy Series.
+ And so combining the two, can you share with us your overall strategy in the flagship this year?
+ We're going to focus on the flagship products' value of the hardware, software, service, ecosystem, and ecosystem growth in the future.
+ and the other customers' life style and needs to be able to improve the product.
+ S series is the flagship flagship, foldable G series is the flagship flagship.
+ We have a different experience of this.
+ Thank you very much.
+ We have a marketing strategy and marketing marketing.
+ We have a brand-new brand-new brand.
+ to answer your question actually the key point of our flagship tier premium tier strategy
+ would be to further concentrate on strengthening our user experience.
+ This will enhance the value of the flagship product by providing not only the best hardware,
+ but also software services and ecosystem.
+ Also, therefore, we will further enhance the differentiated experience for each of our premium products.
+ For example, S-Series providing the best flagship experience, Z-Series providing the
+ optimize foldable experience in order to satisfy the diverse lifestyles and needs of the consumers.
+ Also, we will be refocusing our marketing strategy around customer experience
+ and also continue a full-year brand marketing campaign to make the brand more aspired
+ and strengthen the premium brand position
+ to maximize our flagship sales volume.
+ Yes, thank you.
+ Thank you very much.
+ 다음으로 질문해 주실 분은 KB증권의 김동원님입니다.
+ The next question will be presented by Dongwon Kim from KB Securities.
+ Please go ahead with your question.
+ Yes, thank you very much.
+ I'll ask you a question about memory and display.
+ First, D-LAMS price.
+ DRAM 가격이 지난해 1분기 반등 이후에 3개 분기만에 하락하면서 향후 가격 반등에 대한 기대가 큰 것으로 보입니다.
+ However, in the middle of the D-RAM market, there is a lot of pressure on the D-RAM market.
+ at Samsung on the side of Samsung.
+ Check out the DMX price cycle cycle cycle.
+ Thank you very much.
+ QD Display,
+ Thank you very much.
+ My first question is about
+ the DRAM prices after
+ The Iran price being increased in first quarter, it's now back to a downward trend in three-quarters time.
+ There are different views as to where it will go further.
+ Some are expecting that DRAM prices will upturn again shortly.
+ others are saying
+ It's not likely the prices to improve in the second half of this year.
+ As a leader in this segment, what is your outlook on DRAM movement going forward?
+ Also, it appears that the cycle itself is getting shorter.
+ do you think the
+ cycle will stay this way
+ in the future. My second
+ question is about the QT
+ display. I'm hearing that
+ the customers have received a QD display supply.
+ can you share with us your customer's response to the QD display
+ and also can you share with us some details about where you think your technology level is
+ and how you compare in terms of cost competitiveness.
+ Yes, I'm going to talk about the market.
+ .
+ and the price of the stock market, and the risk of the stock market,
+ Thank you very much.
+ and the IT companies,
+ Thank you very much.
+ .
+ Thank you very much.
+ So, this is what we're looking for for mobile CEO, we're looking forward to the market outlook.
+ Now to answer your question about the market outlook, of course there are still various
+ areas.
+ that could impact supply and demand this year,
+ including at what pace
+ the parts supply issue
+ will be eased, the possibility of additional increase in raw materials, and various geopolitical
+ risk. But looking at the market, there are many factors that support a strong demand side. For
+ For example, there will be increased adoption of high-core CPUs, launch of new CPUs that
+ That supports DDR5 and also expected increase of IT investment by major companies.
+ So this supports the view that there will be fundamental strong demand, especially around
+ servers. Also, if we look at the mobile side, demand is expected to remain solid given the
+ likely penetration of 5G
+ and also the adoption of new form factors by the major mobile OEMs.
+ .
+ Thank you very much.
+ .
+ So the mix of things are increasing and are increasing.
+ I think it's important for the customer to be able to use the customer service.
+ Now on the supply side, there is definitely the lead time for the equipment overall and the industry is getting longer.
+ Also, it's becoming more and more challenging to maintain the node migration and investment efficiency.
+ And so given that, I think it is much more important ever than before to maintain the ability to respond to customer demand in a timely manner by maintaining the right product mix.
+ The price is a lot of cost.
+ We have the memory cycle of the change, and the change of the change, and the change of the change.
+ Here we go to our 재고도
+ The price of price is also difficult for us to predict the price at this point.
+ But we also noticed, as you mentioned, a clear tendency of the memory market cycle height and also the length getting shorter than before.
+ Also considering that our inventory remains to be at fair levels,
+ These are all signs that indicate possible stabilizing of the market.
+ Also recently, a third-party agency did announce its view that the market may actually change direction during the first half.
+ And so we are adding this as one of the possible scenarios.
+ We'll see you next time.
+ Thank you very much.
+ and the fact that it is a long-term outcome.
+ The change has been carol, and the growth of the growth of the product.
+ First of all, the audience's reaction is
+ The QD display is a product that has a great advantage.
+ Thank you very much.
+ Yeah.
+ Thank you very much.
+ 2021년에 이어 2022년에도 TV 및 모니터의 초대형 및 차별화 프리미엄 수요는 지속적으로 증가할 걸로 전망하고 있으며
+ In this case, the QD Display is a product that can be used as a product as a product.
+ To answer your question about the QD display, yes, we have heard that the market has high expectations, but also some concerns about the QD display.
+ We started mass production of the QT display fourth quarter last year
+ and have made deliveries to the customers.
+ The customer response is that the QD display has definitely advantages
+ compared to competing products.
+ We are currently working with customers to have TVs and monitors using the QD display be positioned in the higher end of the premium product lineup.
+ We believe that as our utilization improves,
+ we would also be able to increase the shipments of our QD display.
+ We believe that the QD display definitely will take position as a premium display,
+ and we believe that as we are able to increase our shipments
+ with improving utilization towards the end of this year.
+ we will be able to see an increase in demand, especially around the premium products,
+ by offering QD as a way of differentiating the performance in the ultra-large size TV and monitor market.
+ Thank you very much.
+ Next question.
+ Thank you very much.
+ The next question will be presented by
+ one sick leave
+ from Korea Investments and Securities.
+ Please go ahead with your question.
+ Thank you very much.
+ Yes, thank you very much for your time.
+ Thank you very much for your time.
+ Thank you very much.
+ On display, we have a plastic rated on the market market for the market market.
+ and the market of the market.
+ My first question is about the foundry.
+ There is continuous noise regarding your foundry, a low yield in the advanced nodes.
+ Can you give us an update of the yield and how you plan to address this?
+ Second question is about the flexible OLD market.
+ In the small and mid-sized, flexible, oily, the market competition is becoming more intense.
+ How do you plan to respond to this?
+ First question, I will answer the founder of Foundry.
+ The global global global market has led to the leadership leadership in the field.
+ However, the diversity and the fact that the economy is not enough to change the demand for the demand will be the most important.
+ It's a little bit better.
+ answer your first question.
+ yes as you know in response to global demand for the advanced nodes we have
+ been going through unprecedented scales of investments and development and is maintaining
+ the technology leadership in the
+ advanced nodes. As we move
+ on to the advanced notes.
+ the challenge of maintaining
+ and securing initial stable yield has increased.
+ .
+ ,
+ Infraspace 확보와 램프업을 위한 투자 시점 최적화를 통해 양산 멀티패스 구축을 앞당기고
+ We are trying to achieve the change of the project and the project and the project.
+ Now, in terms of response, even though there has been somewhat of a delay in our initial advanced node ramp-up versus our plan, we do expect this to improve and stabilize gradually.
+ And in order to address this, we're considering looking into, for example, establishing the
+ multipath faster than originally scheduled by securing the infrastructure space
+ and making the optimized timing of investments for ramp-up
+ and also working with the research center dividing roles in order to establish plans of better achieving yield early on in the advanced nodes.
+ Yes.
+ Thank you.
+聞 하신 것처럼 치열해지는 경쟁 하에서
+ 당사는 지속적인 기술 차별화와 성능 개선으로
+ OLED 시장에서의 프리미엄 가치를 인정받고 있으며
+ 이러한 지위를 유지하기 위해 다각도 노력을 하고 있습니다.
+ 사실 OLED는 당사가 처음 양산에 성공했고 개척했던 시장으로
+ We have a lot of research and research and research
+ Thank you very much.
+ We have a diamond pixel.
+ Thank you very much.
+ OLE 기술을 브랜딩하고 시장에 적극적으로 알리고 있는 활동들을 하고 있습니다.
+ And we can see the benefits of the government's rights to the government.
+ and the most important thing is that it is more than a more effective and more efficient way to keep the system in order to make the system.
+ So this is a good thing to use.
+ The value of the value of the stock market is our duty and duty.
+ So, in the ESG environment, we will be able to improve the SDGs and the SDGs.
+ To answer your second question, as you mentioned, the competition in the flexible way leading
+ market is getting more intense and we have been recognized the premium value in the oil leading
+ market with our continuous technology differentiation and performance improvements, and we are
+ continuing to focus from various angles to maintain that leadership we were the first company to
+ succeed in mass production, we pioneered
+ the oil leading market, and during the past several decades of investments in R&D, we
+ have accumulated a huge
+ body of patents and know-how. Also, in order to protect our differentiated technology and further
+ enhance the value.
+ We have actually
+ branded our proprietary
+ OLED technology such as diamond pixel or the echo to display OLED for low power technology
+ in order to establish our position and also to actively communicate to the market.
+ We also believe that receiving the recognition for our IP
+ and receiving the fair compensation for it is an important part of our obligations and responsibility.
+ And currently, we're looking into various ways in order to get that guaranteed.
+ the environment it's important that proper business practices are honored
+ and we will do our best to have that happen.
+ 네, 감사합니다.
+ Thank you.
+ Thank you very much.
+ 마지막으로 질문해 주실 분은 UBS의 니콜라 고도아입니다.
+ The last question will be presented by Nicola Godua from UBS.
+ Please go ahead with your question.
+ Yes, good morning.
+ Thanks for taking my question.
+ on non-flash
+ There's been several announcements from your peers on 7th generation 3D NAND technology,
+ as well as QLC, 4-bit sales for products, recently.
+ in bad context
+ could you
+ your data on
+ Samsung's strategy
+ and roadmap for both, please.
+ Thank you.
+ Yes,
+ 최근에 여러 회사들이 랜드 쪽에서 7세대 V-Land QLC에 대한 발표들을 했습니다.
+ .
+ Thank you very much.
+ Yes, I'm going to answer that.
+ We have 5-day VNAND-부터 CTF-based QLC를 제공한 그런 제품을
+ server and consumer
+ Thank you very much.
+ Thank you.
+ Yes, to answer your question, actually, we have been delivering for server and consumer
+ applications starting from the fifth generation of renans that actually adopt the ctf qlc technology
+ And also, we have actually maintained the technology leadership in the market, especially for the enterprise QLC SSDs.
+ .
+ QLC 시대를 준비하기 위해서
+ This is a partnership between the partners and partners of ECHO.
+ Now, for the seventh-generation VNAND, our focus is on establishing a technology leadership
+ that satisfies the demands of all applications, including SSD and e-storage.
+ And another focus is actually creating an ecosystem through cooperation with partners
+ in preparation of a wider adoption of QLC.
+ T.
+ T.
+ QAC's
+ is
+ a
+ .
+ Thank you very much.
+ .
+ So, it will be more than a customer's need to be more than a customer.
+ You've also asked about our road map.
+ And for the 7th Generation Renan QLC, the launching timing will be decided based on customer schedules, priorities, and also the market situation.
+ For reference, we're expecting at the PC application level, the demands of customers for QLC products will become more visible and tangible after this year.
+ Yes, thank you.
+ .
+ We'll be right back to our website, and we'll be right back to our website.
+ Thank you very much for your questions.
+ The majority of the people have been in the same way.
+ Thank you very much.
+ Thank you.
+ We'll answer questions that were submitted online in advance.
+ Starting from the last earnings call, we have been accepting questions via our web page
+ in advance of an earnings release as part of our efforts
+ to strengthen communication with individual investors
+ and to enhance understanding of the company.
+ A variety of questions were submitted this quarter as well.
+ I believe the majority of the submitted questions have already been sufficiently answered during
+ the Q&A session, so we will answer two more questions on topics that garnered a high level
+ of interest from shareholders, but we're not
+ addressed during the Q&A session.
+ The first question is that the company foundry is a new product for a new product.
+ On the other hand, we know that the market has been strong and strong.
+ .
+ The first question is the following.
+ The company has been treating the foundry like a new business to nurture, but the market is fiercely competitive.
+ I would like to hear your opinion on what distinctive advantage Samsung has over its competitors to accelerate growth.
+ This will be answered by EVP Moon Soo Kang on behalf of the Fauci Division.
+ .
+ Thank you very much.
+ partnership
+ Thank you very much.
+ To answer your question, as you mentioned, yes, in order to develop our foundry business,
+ we have been executing an unprecedented scale of investments
+ and also focused on developing technology.
+ And in addition to securing the technology leadership through these efforts, another
+ focus of our foundry business is to further expand the ecosystem by building strong partnerships
+ with other companies within the foundry industry.
+ We believe this will help alleviate customers' concerns about foundry source concentration
+ and also will be able to provide meaningful solutions for the entire foundry industry.
+ .
+ Thank you very much.
+ to be able to do it.
+ Also, our focus is on developing a total system level solution using, for example, advanced
+ packaging technology such as
+ 2.5d and 3d which can maximize both the density and performance also we're leveraging our
+ our collaborative relationship with the memory division in order to provide solutions that
+ are differentiated from other companies.
+ Yes, thank you.
+ Thank you very much.
+ .
+ Thank you very much.
+ the last question is the following the global market demand for 5g smart phones is expected
+ to grow significantly this year.
+ Against this backdrop, what are Samsung Electronics' strategy on the lineup and sales expansion?
+ this will be answered by
+ VP Sung-Kuk Kim of the MX Division.
+ Yes.
+ Okay.
+ Thank you very much.
+ of G-Series and flagship model entry level to 5G full line-up to build mass 5G
+ Yes, as you mentioned, the 5G smartphone market has been growing very rapidly.
+ It is expected to continue this growth.
+ A market outlook is that this year, 5G smartphones would account for more than half of the smartphone shipments in the entire market.
+ Now, in order to actively absorb this mass of 5G replacement demand,
+ we have prepared a full 5G lineup across the entire price range,
+ starting from the flagship models of the S family and the foldable Z series as
+ as well as the mass entry level.
+ ...
+ .
+ Thank you very much.
+ 5G 단말을 통한 사업자의 알프 확대 협업으로 확판을 추진하겠습니다.
+ We will continue to work with the growth of the growth of the market.
+ Our, especially our focus in terms of strategy, as we respond to the compete competition, the intense competition, and the mass segment is to leverage the galaxy experience that we have.
+ we have the excellent S-series experience
+ which we will roll out even to the mass tier model
+ so that all Galaxy users will be able to share and enjoy the premium Galaxy experience.
+ Also on the sales side, we will be proposing 5G handsets, mass 5G handsets to all of our channels,
+ and also look into collaboration with the carriers in order to increase 5G handset sales,
+ which will also benefit the carriers in terms of further upside in their ARPU.
+ Through these initiatives, we will focus on continuing the high growth momentum versus market this year.
+ Thank you very much.
+ Due to time constraints, we are unfortunately unable to answer every question that was submitted.
+ However, I would like to thank everyone who shared their opinion, providing us with valuable
+ information to refer in our decision-making process.
+ And that completes our conference call this quarter.
+ we wish all of you and those close to you
+ stay strong and in good health.
+ Thank you.

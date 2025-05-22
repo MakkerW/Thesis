@@ -1,0 +1,904 @@
+ Welcome to the Eversource Energy Q3 2020 results conference call.
+ My name is John, and I'm going to be the operator for today's call.
+ At this time, all participants are in listen-only mode.
+ Later, we will conduct a question-and-answer session.
+ During the question and answer session, if you do have a question, press star then 1 on your touchstone phone.
+ Please note that this conference is being recorded.
+ And I want to turn the call over to Jeffrey Kotkin.
+ Thank you very much, John
+ Good morning, and thank you for joining us.
+ I'm Jeff Kotkin, Eversource Energy's Vice President for Investor Relations.
+ During this call, we'll be referencing slides that we posted last night on our website.
+ And as you can see on slide one, some of the statements made during this investor call
+ may be forward-looking as defined within the meaning of the safe harbor provisions
+ of the U.S. Private Securities Litigation Reform Act of 1995.
+ These forward-looking statements are based on management's current expectations
+ and are subject to risk and uncertainty, which may cause the actual results to differ materially
+ for forecasts and projections.
+ These factors are set forth in the news release issued yesterday.
+ Additional information about the various factors that may cause actual results to differ
+ can be found in our annual report on Form 10-K for the year ended December 31, 2019,
+ and our Form 10-Q for the three months ended June 30, 2020.
+ Additionally, our explanation of how and why we use certain non-GAAP measures
+ measures and how those measures reconcile to gap
+ app results is contained within our news release and the slides we posted last night and in
+ our most recent 10K.
+ Speaking today will be Phil Lambeau, our Executive Vice President and CFO.
+ Also joining us today are Joe Nolan, our Executive Vice President for Strategy, Customer, and Corporate Relations,
+ John Marrera, our Treasurer and Senior VP for Finance and Regulatory,
+ and Jay Booth, our controller.
+ Now I will turn slide two and turn over the call to Phil.
+ Thank you, Jeff.
+ Good morning, everyone.
+ I hope everyone on the call remains healthy and that your families are safe and doing well.
+ This morning, I'll cover a variety of areas, review the results of the third quarter, discuss
+ recent regulatory developments, including the acquisition of the assets of Columbia
+ Gas of Massachusetts to provide an update on recent developments around our offshore wind
+ partnership with ORSES.
+ I'll start with slide two, noting that recurring earnings were $1.02 per share in the third
+ quarter of 2020, compared with recurring earnings of
+ 98 cents per share
+ in the third quarter of
+ 2019 gap results which include a charge of one cent per share relating to the
+ recently completed acquisition of the assets of Columbia Gas of Massachusetts, total $1.01
+ per share in the third quarter of 2020.
+ In the first nine months of 2020, our recurring earnings, excluding Columbia Gas Acquisition
+ College.
+ cost total $2.80 per share compared with recurring earnings of $2.69 per share in the first
+ nine months of 2019, and excluding the Northern Path transmission impairment charge. Gap results
+ for September of this year were $2.76 per share.
+ Turning to our business segments, our electric distribution segment earned $0.60 per share
+ in the third quarter of 2020, compared with earnings of $0.61 per share in the third quarter
+ of 2019.
+ The lower earnings were a result of both higher storm restoration costs and property tax expense,
+ as well as the impact of sub-share dilution.
+ Our electric transmission segment earned $0.36 per share in the third quarter of 2020,
+ compared with recurring earnings of $0.33 per share in the third quarter of 2019.
+ Improved results were driven by the continued investment and reliability in our transmission facilities, partially offset by shared dilution.
+ Our natural gas distribution segment lost $0.04 per share in the third quarter of 2020,
+ compared with a loss of $0.05 per share in the third quarter of last year.
+ improved results would be due to higher revenues.
+ I should note that because we didn't close on our acquisition of Columbia Gas of Massachusetts
+ assets until
+ October 9th, the
+ The transaction had no impact on this, the gas segment, this segment during the quarter.
+ Each quarter this year, we've booked acquisition-related costs at the parent
+ and have segregated them for increased transparency.
+ Beginning in the fourth quarter of this year, ongoing results of our new gas franchise,
+ which is named Eversource Gas Company of Massachusetts,
+ will be reflected in the natural gas segment.
+ Integration-related costs, however, will continue to be recorded separately at the parent and excluded from our recurring GAAP earnings.
+ Our water distribution segment earned $0.07 per share in the third quarter of 2020,
+ compared with earnings of $0.06 per share in the third quarter of 2019,
+ improved results were due to a $3.5 million after-tax gain on the sale of our Heenum,
+ Massachusetts area facilities to the town.
+ Evisoas Pirate earned $0.03 per share in the third quarter of 2020, excluding the Columbia
+ gas of Massachusetts asset acquisition cost equal to our earnings in the third quarter
+ of last year. As you probably noted in our earnings
+ earnings release and can see on slide three.
+ We are reaffirming our 2020 Earnings Per Share Guidance of $3.60 to $3.70, and that
+ It is excluding the non-recurring costs related to the purchase of Columbia Gas of Massachusetts assets.
+ We are also reaffirming a long-term EPS growth rate of 5% to 7%
+ from our core regulated business through the year 2024.
+ We continue to expect to be somewhere around the middle of that range,
+ Lastly, due to the investments we need to make on behalf of our customers as we follow
+ for you earlier in the year.
+ As a reminder, while we fully expect the Columbia gas assets to be accreted to our earnings
+ per share starting immediately in 2021, we have not yet updated our long-term financial
+ outlook to reflect the acquisition of Columbia Gas assets in our capital, our CapEx, or our
+ earnings growth.
+ In addition, as we've disclosed previously, earnings from offshore wind would be incremental
+ our core business
+ growth.
+ provide a comprehensive update
+ of our regulated capital investment forecast,
+ adding in
+ ever so much gas company
+ of Massachusetts projections and provide an update of our offshore wind partnership during
+ in our year-end call in late February.
+ From the third quarter results, I'll turn to slide four.
+ and our experience restoring power after Tropical Storm Isaias ravaged Connecticut on October 4th.
+ We serve 149 cities and towns in Connecticut, and every one of these communities suffered damage from East IEAS.
+ much of it catastrophic.
+ As you can see on the slide, we had nearly 22,000 damage locations that we had to address.
+ and brought in an army of electric restoration and tree crews to restore power, all the while
+ working on the restoration in a pandemic setting.
+ The restoration process lasted nine days, meaning we completed our work one to two days
+ faster than we had in the last two tropical storms that hit Connecticut, even though we
+ had 30 to 35% more damage locations.
+ And most importantly, we completed that work safely with no serious electrical contact
+ and no COVID exposure among the enormous workforce we brought to Connecticut.
+ Just a tremendous effort by all of our employees from across all parts of Eversource.
+ At this time, we estimate that deferred costs across all three states will total more than
+ 275 million dollars
+ with a vast
+ majority of that's incurred in Connecticut.
+ That figure will be adjusted as the actual invoices are received.
+ we're still we're still actively pursuing
+ uh... invoices from hundreds of vendors
+ that assisted us during the statewide restoration effort.
+ Where we were setting new poles or hanging miles of new wires
+ of replacing hundreds of transformers.
+ These related costs ought to be capitalized.
+ The ultimate recovery of storm costs and the evaluation of our performance in safely and
+ expeditiously restoring power to our customers is pending an ongoing review by the Connecticut
+ and Public Utilities Regulatory Authority, or Pura.
+ That review is scheduled to be completed in late April of 2021.
+ We're sticking with our regulated business.
+ Here is a slide five and a review of this year's distribution rate reviews.
+ This past Friday, the Massachusetts Department of Public Utilities
+ issued its decision in the NSTAR gas rate review that we filed last year.
+ It supports our continued investment in the NSTART YET system on behalf of our 300,000 customers.
+ The decision allows NSTAR GAP to increase distribution revenues by $23 million on an annualized basis.
+ The DPU approved an ROE of 9.9% and a capital structure with a
+ 54.77% equity.
+ It also permits us to implement performance-based rate-making for a 10-year term, which sounds
+ operating performance by NSTART.
+ again.
+ Well, we'll get to the next slide.
+ target annual base rate increases of inflation plus 1.03%. This is an earnings sharing mechanism
+ that would return 75% of the benefit to customers
+ should we see the ROE of 10.9% and sharing mechanism on the downside if our ROE falls
+ is below 8.4%.
+ Also exciting is the decision also approves our first-ever geothermal pilot program.
+ Our other long-standing rate proceeding involves public service of New Hampshire.
+ In New Hampshire last month, we and all the parties to the PSNH rate case filed a proposed
+ session.
+ settlement in the rate review that has been pending for nearly a year and a half.
+ particular slide.
+ We settled on a $45 million annualized rate increase that includes a 9.3% return on equity
+ and a 54.4% equity layer.
+ Should regulators approve the settlement, the permanent increase would take effect in
+ January, January
+ 1st of 2021.
+ You may recall that the New Hampshire Public Utility Commission
+ allowed us to implement a temporary rate increase of approximately $28 million
+ dollars back in July, July 1st of 2019. The final approved rates would be retroactive
+ rates.
+ after that date, or 18 months.
+ we would recover that in a true opt
+ over the course of the year 2021.
+ We can consider the settlement to be a constructive outcome to PSNH's first general increase
+ in about a decade, and have asked the New Hampshire PUC to approve the settlement before
+ the end of November.
+ number.
+ Great review.
+ Reviews, I'll turn to slide 6, and our recently completed acquisition of the assets of Columbia
+ Gas in Massachusetts.
+ for $1.1 billion of cash, excluding working capital adjustments.
+ Most of these assets were assigned to Eversource Gas Company in Massachusetts,
+ a new subsidiary I mentioned
+ that we formed in May of 2020.
+ As you can see on the slide, much of Eversource Gas' service territory is adjacent to NSTAR
+ Star Gas or Yankee Gas Service Territories.
+ Additionally, NSTAR Electric already provides electric service to about 20 of the communities
+ that Eversource gas serves with natural gas.
+ As a result, we expect to realize operational benefits
+ for our newest 330,000 natural gas customers in the communities where they live.
+ To finance the transaction, we sold approximately $500 million of equity in June,
+ and we financed the debt portion of the transaction in August.
+ And again, we are very confident that this transaction will be accretive to our earnings per share in 2021
+ and incrementally accretive in the years ahead.
+ A critical factor in ensuring that this transaction brings benefits to all stakeholders is an
+ eight-year rate plan that we negotiated with the Massachusetts Attorney General and other
+ key parties prior to a filing with the Massachusetts Department of Public
+ utilities.
+ The key elements of that plan are listed on slide 7.
+ It will allow us to make the necessary investments in our Ebersource Gaps of Mass system
+ and reflect those investments and rates
+ in a reasonably timely manner.
+ We're thankful that the DPU approved the settlement and the acquisition very quickly.
+ Now that we have the keys to the property and a long-term plan in place, we are focused
+ on providing our new Eversource Gas customers with the same high level of service that we
+ our other 550,000 natural gas distribution company customers that we have in Massachusetts
+ and Connecticut.
+ As I noted earlier, we plan to integrate
+ every source of gas of Massachusetts
+ into our updated five-year projections
+ that we'll provide you in February.
+ We continue to project approximately $3 billion of regulated company capital investments this
+ year. Despite the challenges posed by the pandemic and the need to take crews off of
+ capital projects for a significant part of August to deal with the aftermath of Tropical
+ storm Isaias.
+ September, our capital investments
+ totaled approximately $2.2 billion.
+ dollars. That's approximately
+ the same level as this time last year in 2019. We made considerable progress on our transmission
+ capital program in the third quarter
+ putting several projects into service at or below budget.
+ And these benefits of lower costs will flow through to New England's electric customers.
+ From the regulated business, I'll turn to offshore wind partnership with Orsted on slide 8.
+ We've had a few developments since our July 31st variance call.
+ The most significant development was that in August, the Bureau of Ocean Energy Management posted a complete review schedule for our 130-megawatt South Fork project on Long Island.
+ The schedule culminates in a decision on a Construction and Operations Permit, or COP,
+ as it's known, in mid-January of 2022.
+ They're also making progress on the other permits.
+ In September, we filed a settlement proposal with the New York Department of Public Service
+ to resolve much of the stakeholder feedback related to the construction, operations, and
+ maintenance of the project that lies within New York jurisdiction.
+ In October, several of New York state agencies signaled their support for this proposal by
+ signing on to the agreement.
+ We've structured
+ an agreement on host community payments
+ in the necessary real estate rights
+ with the town of East Hampton where the offshore cable would land
+ and will be connected to the Long Island grid.
+ New York Public Service Commission citing hearings for South Fork are scheduled to commence
+ the first week of December.
+ We continue to expect the state signing process to be completed in 2021 before BOEM issues the COPS.
+ Based on that schedule, we now expect the project to end to service in the fourth quarter of 2023.
+ This is consistent with the expectations we disclosed during our May and July earnings
+ calls while we were still waiting for the review schedule.
+ Turning to our other projects, you recall that we filed our BOEM application for Revolution Wind in March.
+ We expect BOEM to establish a review schedule for that project in the first quarter of 2021.
+ We do not expect to provide an updated in-service date for this project until the schedule is
+ issued but at this point it
+ it is unlikely
+ that the project
+ service by the end of 2023.
+ Also, we filed our Sunrise Wind application with BOEM on September 1st and expect BOEM
+ to establish a review schedule for the project next year.
+ Once we receive that review schedule, we'll be able to better estimate a more up-to-date
+ information.
+ service schedule.
+ But again, at this time, it would seem that the end of 24 in service is not likely.
+ we are very optimistic
+ Thank you.
+ offshore wind business and expect to have many opportunities over the coming months
+ and years.
+ to expand our offshore wind partnership beyond the 1,714 megawatts currently under contract.
+ As we mentioned before, we have enough leaf capacity to construct at least 4,000 megawatts
+ on the 550 square miles of ocean tracks that we have under long-term lease off the southeast
+ east coast of Massachusetts.
+ To this point, on October 20th, we submitted a number of alternative bids into the Second
+ New York offshore wind RRSP, where the state is looking for between 1,000 and 2,500 megawatts.
+ New York state officials have indicated that they expect to announce the winner or winners
+ before the end of the year.
+ our sunrise project
+ uh... as a reminder one of the largest portion
+ of New York's first IRMT last year, 880 megawatts.
+ additionally
+ just last week rhoda island governor gino raimondo uh... announced that her
+ Thursday, we'll target early next year for issuing an RFP to 600 megawatts of additional
+ offshore wind.
+ As you know, the majority of our revolution wind capacity, 400 megawatts, will be sold to Rhode Island, with the balance going to Connecticut.
+ Thank you very much for joining us this morning, and I'll turn the call back over to Jeff.
+ Thanks, Phil.
+ And I'll turn the call back to John just to remind you how to enter questions in the Q&A queue.
+ Thank you.
+ If you do have a question, press star than 1 on your touchtone phone.
+ Once again, that's Star Than One on your touchtone phone.
+ if you wish to be removed from the queue
+ please press the pound sign or the hash key.
+ Thank you, John.
+ Our first question this morning is from Char from Guggenheim.
+ Good morning, Char.
+ Good morning, Jeff.
+ Good morning, Phil.
+ Good morning, sir.
+ So a couple of questions here.
+ I just want to fill some of your language around sort of the growth rate, you know,
+ obviously, which still excludes Columbia Gas and offshore wind.
+ Obviously, these are very creative and you're already conservatively kind of well within your band.
+ So should we sort of be thinking about these incremental items as potentially rating your growth rate to maybe 6% to 8%
+ or something that will hit you to the top end
+ and then sort of extend that runway with your current trajectory.
+ I mean, the reason why I ask is 6% to 8% seems to be sort of that new top quartile bucket in our space where 5% to 7% is becoming a little bit more typical.
+ So here's how you're sort of thinking about this.
+ Do you see value to be in the top quartile, or do you think you're going to get rewarded for it?
+ So curious on that as we think about you layering its plan.
+ uh... chapter
+ You are doing well.
+ certainly the addition of
+ Columbia Gas and
+ will be additive
+ to our existing forecast.
+ So we're working through all the details of that, so we're able to provide you with a full update in February.
+ but we expect to get a significant benefit from that franchise.
+ And as we say, we also expect, as those offshore wind projects come online, to also be additive.
+ To remind folks, I know I said it, and you did, that the 5% to 7% growth rate is from the existing core business, which doesn't include Columbia assets.
+ It also doesn't include
+ Um, you know,
+ grid modernization activities that are currently pending in Connecticut and New Hampshire,
+ AMI that could be a potential to move forward relatively soon in Massachusetts in terms of
+ taking a look at that by the regulator.
+ here.
+ So I see that we have a number of levers to grow and grow at even a higher rate than we
+ I expected before.
+ Got it. That's helpful.
+ and then
+ And just lastly for me, can you just maybe talk a little bit about your expectations for the legislation in Connecticut?
+ I mean, the legislation that passed was more constructive than the draft legislation,
+ but obviously some disappointment with the refunds and penalties offset by the potential upside from, like, PBRs.
+ So how are you guys thinking about this internally?
+ Sure.
+ the energy legislation
+ And we've said consistently that PBR is a formula and a template that we think is effective.
+ We have PBR structures in other states, and we think that having a robust discussion on PBR in Connecticut makes a lot of sense.
+ And so we're very, very supportive of that provision.
+ And, you know, really, you know, the energy legislation directed Pura to evaluate that
+ and open a docket by the middle of next year or so, June of 2021.
+ and it authorizes
+ pure to establish storm standards and potential penalties, as you mentioned.
+ and there is an increased potential of penalties.
+ Currently, those penalties are 2.5% of our distribution revenues in Connecticut, and
+ and that goes up to 4%.
+ So, you know, it also gives pure some additional time, you know, to review cases.
+ which is also something that seems to be appropriate.
+ So the legislation, as you indicated, is out there, and PURE is working through the details of it,
+ and we expect to be working through that in a constructive way with them over the next several months.
+ Got it.
+ Terrific.
+ That's all I had today.
+ Thanks, guys.
+ All right.
+ Thanks, Char.
+ Our next question is from Steve Fleischman from Wolf.
+ Good morning, Steve.
+ Good morning.
+ Phil, can you hear me?
+ Yes, Steve, I can.
+ Yeah, great.
+ All right.
+ So just a question on the delays in your offshore wind projects.
+ Could you maybe talk to – I know we don't know the exact timing, but how should we think about the impact on the economics of those projects from delay or puts and takes, and is it hurting the economics of the projects you already have signed up to?
+ Yeah. Thanks for your questions, Stephen.
+ and I hope you and your family are doing well.
+ I guess
+ to go to the puts and takes
+ piece
+ You know, I don't think that folks should automatically think that schedule changes result in ups or downs.
+ there's some benefits or
+ that people may not
+ may not consider in that
+ So certainly if you are looking at adjusted schedules, you might be able to adjust your
+ installation vessel optimization better um you know the turbine sizes themselves are getting larger so
+ So you could move to larger turbine sizes if projects are due at a later time period
+ versus an earlier time period, and certainly the cost, supply chain,
+ and availability of materials and supply chain is only getting better.
+ So I'd say that, you know, there's opportunities for improved cost economics as you move into a schedule that, you know, you may not think of.
+ You know, I think people generally think of projects as, you know,
+ So if there's a delay, it's a cost increase, but there are other elements at work here
+ on the offshore wind business that offset that.
+ How about, how about any negatives?
+ How about, like, do you lose?
+ Are you going to lose any tax credits or anything else?
+ Yes, certainly.
+ I guess just time value?
+ Yeah.
+ in terms of the
+ The schedules we're looking at, we don't expect to have any impact on our tax assumptions,
+ But certainly significant delays, delays could have impacts on your tax assumption.
+ Delays could also have impacts on contracts that you have with counterparties.
+ but in our specific case, so that's the general case,
+ In our specific case, we're confident that we have the ability to work within both of those,
+ the tax area and the contract area in an effective way with where we see the schedules going in the future.
+ Okay. Thank you.
+ Thank you.
+ our next
+ question is from Angie
+ from Seaport Global.
+ Good morning, Angie.
+ Good morning.
+ So I have a question about Massachusetts.
+ You guys have this very constructive decision for NSAR gas, but the state is clearly looking at the future of gas LBCs.
+ And so, how do you guys see it, especially in light of the fact that you just acquired an additional gas utility in Massachusetts?
+ Good morning, Angie, and thank you for your question and hope you're doing well.
+ But, you know, the way that I would position it or the way that I think people should think about it
+ is that there's nobody, first of all, who's more aggressive in terms of looking at clean energy strategies
+ and carbon reduction than Eversource in terms of having a carbon-neutral goal.
+ By 2030, we have worked effectively with all parties in all states, but in Massachusetts,
+ It's where the Attorney General and others want to take a look at, you know, sort of
+ the future or the outlook
+ in terms of the gas business.
+ we've been working with
+ these intervening parties
+ for many years and we'll continue to work with them
+ on what we think an appropriate strategy is there.
+ So this is a long-term outlook in terms of that the state wants to have aggressive clean energy and carbon reduction targets.
+ we're fully supportive of that
+ and we look forward to working with all the parties there.
+ But we don't see it as a threat to the gas distribution business in the region at all.
+ Okay. And in Connecticut, you know, this recent back and forth between you guys and Pora about the extension of the lack of basically disconnections on the back of COVID.
+ But, I mean, it sounds a bit concerning that poor is pushing back so strong
+ that they don't need to sign off on that extension.
+ I mean I would assume that it's
+ a natural practice, normal practice
+ for a regulated utility to seek a recovery of these, you know, under-recovered revenues.
+ can you give us a sense
+ you know, how you see it in Connecticut, given the latest, you know, legislative changes
+ and also some deterioration and, you know,
+ regular relationships in the States.
+ Yes.
+ Yes. So we are not doing shutoffs across any of our franchises at this point.
+ And specifically, you know, we're working with customers.
+ We're working with fuel agencies, assistance agencies on an approach here that works best for customers.
+ We've also engaged with Pura, as you mentioned, and other government officials, you know, on this issue.
+ So I'm confident that we'll get to a good place here.
+ You know, nobody wants to burden customers with any more than we're all ready.
+ all of us are burdened with in terms of the economic conditions and COVID, et cetera.
+ So we're working through the issue.
+ We're working with customers, as I say, and some of the assistance agencies.
+ and I'm sure we'll get to a good
+ I'm coming here.
+ Very good.
+ Thank you.
+ Thank you, Angie.
+ Next question is from Julian from Bank of America.
+ Good morning, Julian.
+ Hey, good morning, team.
+ Thanks for the time.
+ I hope all of you are doing well and safe, families as well.
+ Perhaps just to pick up off of, or perhaps clarify, if I can, some of the last rounds of questions.
+ When you talk about the 4Q roll forward, are you going to be rolling to 2025?
+ And then more specifically, how do you think about including or excluding offshore wind in light of the uncertainties described?
+ Should we expect that offshore wind should continue to be at least for those
+ projects where there's an undetermined date to continue to be excluded there?
+ Julian, thanks for your question and your comments, and I hope you and your family are doing well too.
+ Just to clarify, we will – our history has been to add another year into the outlook,
+ So 2025 would be that year since our forecast goes through the 2024 time period.
+ So that is something that you should expect to see.
+ And really our view on how to look at offshore wind, it doesn't change by any of the schedule items we talked about today.
+ or we've looked at it as showing the core business as the driver
+ and the foundational element of the growth rate.
+ and then to show that wind is additive to that in what way.
+ So that would be the intent going forward.
+ but I think that when I've been asked this question before,
+ The answer is, was, and still is.
+ As more years of wind come in to the actual results of that particular year,
+ then, to me, it makes more sense to roll it all together.
+ But at this stage, the expectation, especially in this upcoming February update, would be
+ would be to have the core business, extend that through 2025, and then show offshore
+ in addition to that.
+ and if you don't mind
+ elaborating a little bit further.
+ I know that there's a certain degree of uncertainty on exactly the permitting schedule
+ that inhibits your ability to say when these projects are in a region of service.
+ Can you at least try to put some more parameters around what each of these pieces of the process could take,
+ such that there's like a window, if you will.
+ It may be too early.
+ Yeah, so in terms of, you know,
+ people have
+ realized out there
+ and we've been asked questions.
+ I think you've asked us the questions in terms of, you know, with delays on Vineyard Wind and other things,
+ There's been some delays in terms of BOEM's notice of intent to prepare their environmental impact statement.
+ And then, frankly, we would have expected in our regional schedules that some of these NOIs, you know,
+ to prepare the environmental impact statement would be out by now.
+ So these are expected, I believe, you know, the planned schedule for reviewing and releasing these is underway.
+ May, so I wouldn't expect a significant change in the schedule, but at this stage, it would
+ be prudent to wait to see that the schedule that comes out on the phone before we commit
+ to a final in-service date.
+ But I wouldn't expect it to be significant.
+ Got it. Excellent.
+ All right, I'll pass it from there.
+ Thank you so much, Steve.
+ All right.
+ Thanks, Julian.
+ And next question is from Dergesh from Evercore.
+ Good morning to Dash.
+ Hey, good morning, guys.
+ Thanks for taking my question.
+ Just following up on, you know, the offshore wind here,
+ what to expect
+ you know
+ So there's this EIS decision, I suppose, that is going to be out, or EIS statement rather this month or early December.
+ what to expect there and then how does that
+ and back your future project timelines.
+ Yeah.
+ these notes
+ of intents that they contain
+ a planned schedule
+ You know, in the NOIs, they have contained Boehm's planned schedule for reviewing each of the cops.
+ So that would be an important piece of information to have available.
+ So that's really what's included in that.
+ is a planned schedule for reviewing the cop
+ that comes out with the notice of intent.
+ All right, Phil.
+ I guess maybe I'm talking about the environmental impact statement.
+ Isn't there an environmental impact statement that Bohm is supposed to sort of put out here in the next few weeks?
+ You're talking about the one for Vineyard, right?
+ Yes.
+ Oh.
+ Yes.
+ Yeah, I'm not. I apologize.
+ you probably have to ask
+ Vineyard Windham about that.
+ Okay, but that doesn't have a read-through for you or your offshore wind project, right?
+ I guess that's sort of what my question was.
+ Well, certainly all of the developers off the coast, you know, that we've been going through this
+ cumulative impact study and looking at spacing of wind turbines, and we came up with a one
+ nautical mile by one nautical mile spacing, so certainly there could be components that
+ come out in any decision
+ for Vineyard Wind
+ that you'd have to, you know,
+ take a look at
+ to see if it has any impact, you know, to other developers, including us.
+ But in terms of what might be in that or the exact timing, I think Vignette might have a better perspective of that.
+ Okay, perfect.
+ That's all I had, guys.
+ Thank you so much.
+ All right.
+ Thanks, Jergesh.
+ Next question is from Jeremy from J.P. Morgan.
+ Good morning, Jeremy.
+ good morning
+ Thanks for having me.
+ just want to start off with uh what are the benefits of looping con ed into the proposed
+ with Sunrise Wind 2 RFP here.
+ Eversource has experience of building transmission.
+ I'm very curious what additional competitive advantages ConEd provides here to this specific project.
+ Can you provide details on potential ownership interest for each entity,
+ and does ownership interest change once construction is complete and the project is in service?
+ Thanks for your question, Jeremy.
+ I mean, hope you're doing well.
+ I guess I would say on the first part of the question that sort of obviously Con Ed has local knowledge of New York
+ and their service territory and the network and the operation of the transmission
+ and delivery system that are valuable to any party if you're operating in New York.
+ So I'd say they bring a knowledge and skill set of the area that certainly we don't have as depth a knowledge as they would.
+ So the sort of skill sets there that the local player would bring.
+ So in terms of what the components of a relationship would be, those things are all to be discussed
+ as we move through, but it's certainly beneficial, I think, to the project to have somebody with
+ and con-ed skill sets involved.
+ Got it.
+ And as far as potential ownership interest, is there any kind of thoughts on how that could develop?
+ Not at this time, no.
+ got it
+ And then, will the delay in offshore wind permitting have any impact on the current financing plans?
+ Is it fair to assume the $700 million of equity in your current five-year plan moves to the back end here?
+ and how is offshore wind capex spending track peter date versus the $300 million to $400 million range that you expected?
+ We haven't disclosed a range that we've expected.
+ We've talked about how much we expected to spend, you know, this year, you know, just for the year 2020.
+ and it's tracking somewhat close to that.
+ I'd say it's probably a little bit under what we expected at this time.
+ In terms of the financing, you're right that we announced a year ago, you know, there's
+ billion dollars of equity need
+ that would support the forecast, and we issued 1.3 of that.
+ So there's 700 million remaining.
+ And I would say the same thing as I've said all along is we'd be opportunistic
+ and consider what our capital forecasts are
+ and what the market conditions are, you know,
+ as we look to fulfill the rest of that offering that we discussed.
+ Got it.
+ That's helpful.
+ I'll leave it there.
+ Thank you.
+ All right. Thanks, Jeremy.
+ Next question is from Paul Patterson from Glenrock.
+ Good morning, Paul.
+ Good morning, guys.
+ Good morning, Paul.
+ I just wanted to
+ follow-up on the draft decision in Connecticut on Monday.
+ and what your thoughts were on it, if it were, in fact, to become a final order,
+ what the potential impact could be.
+ Are you talking about the draft information on rates, or can you be more specific?
+ Sure.
+ There was a draft decision on Monday in the Pura case associated with the rates, right?
+ But the rate review that was reversed, that proceeding, I can tell you the specific name.
+ No, that's okay
+ You know, I just wanted to be specific, because as somebody else mentioned, there's been a number of different...
+ Yeah, I measure a lot.
+ so this
+ so as you recall
+ We, the PURE, suspended the rates that we had implemented over the summer, both we and UI, to take an additional look.
+ I think this is what you're referring to.
+ So we did receive the draft order, and really it's kind of hot off the press.
+ So currently,
+ evaluating that
+ and we're going to, you know, see what comments we might have
+ and comments on the draft could do.
+ I think it's the 12th of November, so we have some time to flush out anything.
+ But it's consistent with, on first blush, I'd say, it's consistent with the purest desire to have some rate changes,
+ Instead of implementing rates at peak times of usage, maybe such as July, implement them
+ and change the time a little bit to implement it
+ maybe in a shoulder month, like May or something,
+ and move to annual reconciliations as opposed to semi-annual.
+ So this would, you know, if there's delay, if this could have, effectively this is a cash flow item,
+ and it could have an impact on our deferrals that we have in place there.
+ But, you know, I think it generally is consistent with the desire, as we said, to move off of these peak periods for making rate changes into shoulder periods and see where we go from there.
+ But we're actively reviewing that last night and today, and we will be – and have any comments that we would have to do, as I said, on the 12th.
+ Okay.
+ there was one part of it that would
+ reduce the carrying charges
+ from the
+ from whack to a prime rate
+ on a variety of reconciliation mechanisms.
+ Um, is there any, um, do we have any, I know this is off the press and everything, but
+ Do we have any sort of forecasts as to what those reconciliation mechanisms,
+ like how much capital might be tied up in those?
+ No, that is a point, too.
+ the
+ carrying cost
+ at Prime, which is consistent in some of the jurisdictions, I guess.
+ So, no, it's not a significant, you know, item, but it's certainly one that Pura had put out there in the draft is to recover the deferred balances with a prime rate versus a low act.
+ Okay.
+ Okay. And then just, we don't know who the president's going to be, it seems,
+ But if there was a change in administration, do you think that could have or not have maybe a significant impact on the BOEM permitting process with respect to offshore wind?
+ The permitting process, I mean, when we meet with BOM, you know, the Bureau of Ocean Energy Management, you know,
+ that people are active
+ We're actively working.
+ We're actively having, you know, Zoom meetings or Teams calls or whatever.
+ the video capabilities are that we're using.
+ but we're actively working that
+ and I can assure you that the people in the agencies are working full speed
+ regardless of, you know, who's, you know, president or what the election results are.
+ But certainly it would be good to have, you know, the results of the election.
+ And I think we've all, as a country, you know, that the election results are something that we've all targeted out there.
+ and wherever you fall on the political spectrum,
+ it's good to have certainty as opposed to uncertainty.
+ So I think we're all looking forward to what the final outcome is there so we can move forward.
+ Okay.
+ but just so
+ it uh... this uh... for my clarity
+ but the process of the deal we have it's pretty much the
+ agency, the bureaucratic process that's going on, really you don't see a significant change
+ one way or the other
+ the outcome of the presidential election.
+ is that a
+ I might understanding that.
+ that the work at the agencies
+ is going on.
+ You know, we've been meeting regularly, going through questions.
+ We're working through the various state agencies.
+ So, no, I'd say that the work is continuing at the, as you say, the bureaucrat level.
+ Awesome.
+ Thanks so much.
+ You're welcome.
+ Thanks, Paul.
+ Next question is from Mike Weinstein from Credit Suisse.
+ Good morning, Mike.
+ Hey, good morning.
+ when he filmed.
+ Good morning,
+ All right, good.
+ I hope you're doing well.
+ Hey, maybe you could just give a quick two-second update on what you think the outcome at FERC might be for transmission ROEs,
+ considering
+ I don't know if the election outcome has any effect on any of this accelerating an outcome.
+ Well, Mike, that's a very big crystal ball that you're asking.
+ and I hope
+ you're doing well
+ Thanks for your question.
+ I, you know, it's, I wish I had a, you know, a better answer than to say that, you know, it's working its way through.
+ We don't really have a specific clarity as to when FERC might, you know, come up with something.
+ on the New England before pending New England cases and certainly impact of the election
+ one way or the other, what that could have in terms of commissioners and that type of
+ things.
+ um...
+ You know, the only thing I know for certain is we're looking at our 10.57 rates
+ and reserving to that level and an 11.74
+ for CAP, and, you know, we'll just have to wait and see what the final outcome will look
+ at, but I don't really have an answer.
+ I know in years past when I've tried to think that one was coming or it was going a certain way,
+ It really hasn't materialized, so I think it's best to wait until the final order comes out at this point.
+ You know, borders as it may be.
+ Right.
+ Hey, and a bigger crystal ball question would be, you know,
+ I know that Hydro-Quebec has a pretty big long-term construction plan for, you know,
+ hydro generation up there
+ And I know that their long-term plans included lots and lots of Northern Pass-type transmission lines.
+ do you think there's ever a time
+ at some point where there might be another
+ another whacker
+ or another go at transmission at some point, you know,
+ big transmission project.
+ I think a lot of that is dependent upon what the states want to get, right?
+ So these are going to be processes now that are driven by state's clean energy policies
+ and the state's desire to have either offshore wind or solar or hydro in the mix.
+ So, you know, there are certainly, there's a lot of activity at the states now.
+ I mean, the states in our area all want aggressive carbon reduction targets, so we wouldn't be
+ asked a question to see if state, you know, want to, you know,
+ contract for more of that
+ but there's nothing
+ there's nothing planned on our end
+ There's nothing that I see at this stage on the state's agenda that would say that.
+ but when you say the word ever, you know, that's a long time.
+ So it seems like the offshore wind program really has kind of supplanted that, at least for the time being.
+ Yeah, I'd say that's a good way of looking at it.
+ Okay, great. Thank you very much.
+ Okay, man.
+ Thanks, Mike.
+ Our next question is from Insoo Kim from Goldman Sachs.
+ Good morning, Insu.
+ Hey, good morning, guys.
+ My only question is, and apologies if I missed this, but could you give just an update on the Connecticut grid mark filings
+ and any updates on expected decisions from the Commission and, you know, timing of investments, et cetera.
+ Thanks for your questions, and I hope you and your family are doing well.
+ you didn't
+ it's it
+ I
+ I mentioned
+ um
+ uh...
+ you know in terms of what items could be added to our
+ five to seven percent core business growth rate.
+ I alluded to grid mod in Connecticut or New Hampshire or potentially additional AMI dockets
+ in Massachusetts.
+ but there's really been no change that we all the parties filed comments and
+ plans back in July and certainly you can understand there's been a lot
+ There's been a lot going on, and I think I may have said Isaias was in October, but we all know that Isaias was in August.
+ So, since August, there's been a lot of, you know, there's been a lot of focus on storms.
+ forms and there's been a lot of dockets, and it's
+ somebody else mentioned, we have
+ dockets going on in terms
+ of moratoriums and whatnot.
+ on so that
+ you know the expectation that there was going to be another
+ sort of go-round in another process in Connecticut towards the end of the year.
+ I really haven't seen anything that would indicate a specific schedule, you know, on that.
+ So I guess our best guess is still, you know, it's still in the pipeline,
+ and you may see more activity on GridMod there in Connecticut as we move over the next several months.
+ but in terms of
+ So being in our forecast, you know, I want to be clear that there is currently no, you know, zero.
+ There's no grid mod spending in our capital forecast for any, you know, grid mod programs that haven't been approved, like in Connecticut or New Hampshire.
+ So, you know, once they are approved and once we see what our role would be in them,
+ And once we see what that looks like, then we have more confidence in putting it in the plan.
+ And so that could be something we have information on by the time we get to the February update.
+ So, you know, we'll have to stay tuned on that.
+ That makes sense.
+ That's all I had.
+ Thank you, guys, and stay safe.
+ All right, you too.
+ Thank you, too.
+ Next question is from David Arcaro from Morgan Stanley.
+ Good morning, David.
+ Good morning.
+ Hi, Jeff. Hi, Phil. Thanks so much for taking my question.
+ thank you
+ any quick
+ A quick follow-up on offshore wind.
+ And, you know, in light of some of the recent delays, I was wondering if that changes how you're strategizing around other bids that you're putting into future RFPs,
+ like baking in more contingency, anything that might give a greater level of comfort around the economics of future projects that you might win.
+ Thank you, Dave, for your comment, and I hope you and your family are doing well.
+ certainly
+ every
+ piece of information that you get
+ You know, and this isn't just offshore wind, you know.
+ So this is, you know, on our business, but I'll focus on offshore wind since that's the question.
+ And, you know, every month that goes by, every quarter that goes by,
+ we gain more insight and information about construction, about, um, you know, uh,
+ weights, about, you know, lots of factors.
+ is that all of those things, all of those things are factored into subsequent bids.
+ So the information that we have available to us as we're moving into a recent bid in New York
+ is different than we had from bids that we made, you know, in Rhode Island or Connecticut
+ or Massachusetts.
+ You said so.
+ every
+ data point is important to us, and we factor that into the next bid.
+ So I'd say that absolutely that schedules and how you make it through the siting process
+ and all of that informs, you know, subsequent bids.
+ And so I can assure you that all those things get, you know, up-to-the-minute attention before beat goes in.
+ Okay, got it. That's helpful.
+ And I just wanted to touch on just O&M costs and the O&M budget.
+ Could you remind us how you see that trajectory just for the overall business going forward?
+ You've got a great track record of controlling O&M.
+ So what are the key levers in your tool belt, Phil, that you would focus on going forward for managing O&M?
+ Certainly, you know, we've got people, process, and technology, right?
+ So all those things are leveraged to help, you know, our capital program as well as our operating program.
+ And so, you know, we continue to implement systems and technology that improves processes
+ that makes it more efficient and effective workforce.
+ So we have, you know, still a robust, I'd say, series of technology improvements.
+ improvements.
+ If you, if you, I'll start off by just setting the space.
+ the guidance we gave, we said that we expected O&M costs to be, you know, down this year
+ and then just for the forecast period kind of flat going forward.
+ So how are we able to do that?
+ it is by
+ some of these technology changes
+ and we've been implementing more productivity management tools
+ and tools for our individual line workers and gas fitters in the field
+ get their work, to update
+ their work, that we
+ We can then take that and automatically update
+ drawings and files.
+ We don't need, you know, to hand it off to somebody.
+ So there's still these productivity technology changes that are happening.
+ Some went in last year, some going in this year, and more planned for next.
+ So that will be, I'd say, the lever, the underpinning for us to have the ability to continue to improve processes
+ and take unneeded costs out of the business.
+ Okay, great.
+ that's helpful. Thanks so much for the caller. You're welcome. Thank you, David. Next question
+ is from bravis miller from morningstar
+ Good morning, Travis.
+ Good morning.
+ Thank you.
+ So a quick clarification on the storm cost, that $275 million number, if I heard you correctly.
+ How much did you expense in the quarter, and how much was either deferred or capitalized
+ or will be pending the regulatory filing that you mentioned?
+ So that amount that you repeated, was it deferred?
+ That's how much of a storm cost that we deferred in both tropical storm Isaias, and that was
+ across all states, but primarily in Connecticut.
+ So that's our deferral.
+ That would be, you know, once the storm gets to a certain level, it triggers a deferral.
+ So that all is deferred storm costs right now.
+ In terms of there are other storms, certainly we had an active quarter for storms in general,
+ but there are other storms other than Isaias that did impact the quarter.
+ i mean our storm costs were up
+ you know about ten million dollars for the quarter
+ that went through
+ you know
+ our O&M.
+ uh... you know for the quarter
+ It's at that level, and then the 274 or 5 that you mentioned is the deferred across the system.
+ Okay, great. That's very helpful. Thank you.
+ And then a quick follow-up to the discussion on the Connecticut legislation.
+ and there's some
+ The language in there, as I understood it, is about the General Assembly having some review power there.
+ So what's your thought in terms of the scope of what the General Assembly,
+ separate from Pura could do in terms of either taking back some earnings
+ or rate changes, stuff like that, separate from what's going on in the Pura.
+ Well, certainly the General Assembly can enact legislation that it feels is appropriate in any matter.
+ So, you know, I do think specifically to the energy legislation that was enacted recently in Connecticut that most, you know, things all were, you know, for the most part moved to Pura.
+ You know, so the regulator.
+ So I guess I'd look at it as the legislation would provide the intent, the framework, the
+ framework.
+ direction, and then Pura is the one who's going to be implementing, you know, they're
+ they're going to be the one to evaluate the performance-based rates.
+ They'll be the ones who initiate the storm standards and things like that
+ and look at, you know, should there be penalties or should there be food, you know, penalties and things like that.
+ So I think that effectively, you know, the General Assembly can certainly enact any and all legislation it feels it should.
+ and the way that this legislation seems to have turned out
+ was that the implementation of that legislation is in the hands of Pura.
+ Okay.
+ Okay, so the potential for any or the risk for any kind of clawbacks would likely go through Pura
+ instead of going through the General Assembly
+ based on that Connecticut legislation that you talked about.
+ Yeah, as I say, you know, the dockets are active and will be active over, you know,
+ there's a certain time
+ dates that the legislation
+ has given Pura.
+ So we expect that Pura will have the pen on this.
+ But, again, as I say, you know, legislation can always be enacted in any area.
+ Yep.
+ Okay, great. I appreciate it.
+ All right.
+ Thank you, Travis.
+ Our next question is from Andrew Wiesel from Scotia.
+ Good morning, Andrew.
+ Hey, good morning.
+ Thanks for squeezing me in.
+ First question is, with the two rate cases now completed,
+ Ed, can you remind us which subsidiaries might be next to file general rate cases?
+ We have plenty of regulatory items, of course, with GridMod and other initiatives, but for general rate cases?
+ Well, according to the requirements in Connecticut, Connecticut could be an area that is required to file by the existing framework that's there.
+ and that would be something that would be sort of a next year sort of event.
+ But other than that, we're pretty much out of the regulatory arena.
+ Okay, great.
+ Then on offshore winds,
+ can you just think
+ Can you share your latest thinking on how big you're willing to let that business get?
+ You've talked a lot about the opportunities that you're pursuing beyond the three existing projects.
+ Any thinking as far as from an earnings mix perspective, if there's a limitation,
+ or will you plan to just bid, bid, bid, and get as many projects as your leases will support?
+ Well, I want to be clear on this because I think it's a very important point that big, big, big isn't our strategy.
+ Our strategy is to have a financial discipline about growing that business in a way that provides appropriate levels of returns that benefit our shareholders.
+ So just by winning a bid, you know, doesn't do it.
+ It has to be, we have to, and we continue to maintain financial discipline in terms
+ of the amounts that we did
+ and the returns that we're looking for.
+ So as long as the returns are at an appropriate level,
+ that for that business
+ It makes sense to make the bid, win the bid, and expand the business there.
+ What we've said is our tracks, what we own off the coast of, or what we have access to
+ in terms of the lease areas, you know, we could do about 4,000, at least 4,000 megawatts of offshore wind.
+ And so there's kind of a, you know, that's the maximum capability that we have.
+ So it's not an infinite growth type of thing.
+ and we had indicated that when leases were available that are not in our region,
+ that we were not interested in them.
+ So leases in our region, like the ones we're involved in, are good, but other lease areas, you know, that's not for us in other parts of the mid-Atlantic, et cetera.
+ So we're constrained by the lease area, and we're guided by the financial discipline on our bids and our returns.
+ Got it. That's really helpful. I guess I should have said bid, bid, bid responsibly.
+ Okay, well, yeah.
+ Please come on, guys.
+ Thanks, and I hope you stay well, I understand.
+ All right, Andrew, thank you very much.
+ That sort of wraps up today.
+ If you have any follow-up questions, please give us a call or send us an e-mail,
+ and we look forward to speaking and seeing many of you during the virtual EEI conference next week.
+ And thank you, ladies and gentlemen.
+ This concludes today's conference.
+ Thank you for participating, and you may now disconnect.
+ All right.
+ Okay.
+ Thank you.

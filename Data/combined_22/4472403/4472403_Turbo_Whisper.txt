@@ -1,0 +1,877 @@
+ Good day, and welcome to the CD Project Group Financial Results for Q3 2021 Conference Call.
+ today's conference is being recorded
+ At this time, I would like to turn the conference over to Adam Kuczynski.
+ please go ahead.
+ Good evening. Welcome to the teleconference on CD Projekt Group's financial results for the third quarter of 2021.
+ I'll run this call together with Piotr Milbovic, member of the board, and CFO.
+ After the presentation, we will run the Q&A session.
+ The webcast of the presentation, along with audio feed, are also being streamed on our
+ corporate website
+ www.federbreak.com
+ and on our IR YouTube channel.
+ Let's begin with slide 2
+ where you will find a chart presenting the allocation of our development team to ongoing projects.
+ As you can see, a gradual shift to new projects is taking place.
+ especially as more and more developers
+ join the team working on the expansion to Cyberpunk.
+ Since its launch, Cyberpunk 2077 has already been significantly improved, which is, for
+ for example, reflected by the increasingly positive sentiment surrounding it on Steam.
+ set
+ you are still working hard to better gamers' experience on every platform.
+ and to deliver next-gen quality in the next-gen version.
+ Moving on to slide 3.
+ I would like to confirm that both the internal Cyberpunk team and the Saber team working on the next-gen version of The Witcher 3 World Hunt
+ are on track to meet the announced target release date for their project.
+ We'll share more details on both releases next year.
+ Moving on to grant.
+ Please have a look at slide 4.
+ As Gwen turns 5 years old, we've decided to make some adjustments to the game's operations.
+ We would like to remain as flexible as possible, which means Gwent will receive new updates
+ and content drops regularly, while at the same time, part of the team can support other
+ projects at the studio. When it comes to future plans for the game, we are going
+ to share more details
+ during Gwent Masters Season 3 Finals on the 5th of December.
+ So, stay tuned.
+ Now, let's move on to slide 5.
+ As we already know, The Witcher Monster Slayer, a location-based AR mobile game developed by Stokko,
+ launched in July, receiving high user scores on both Android and iOS.
+ Having ensured its high quality, our major goal right now is to improve retention and monetization mechanisms in the game.
+ Along with the newest update to Monsterslayer,
+ on November 24th.
+ we introduce a more effective LiveOps system that we believe will encourage more players to have fun within the game.
+ Moving on to slide 6, just a quick reminder of the two acquisitions that took place in the recent months.
+ In July, we acquired Digital Skates, a Canadian studio based in Vancouver that we had already been working with for a few years.
+ It has become to the Project Red's fourth development team after Warsaw, Krakow and Wroclaw.
+ In addition, in October, we joined forces with a Boston-based studio built by industry veterans, the Morathos Flak.
+ Both acquisitions enable us to actively further tap into international talent pools, creating
+ entirely new opportunities for growth. The Project Red Vancouver will support the studio with its
+ skills and expertise while working on current and new projects. As for the molasses flood,
+ it will closely work with CELEBRATE RED, developing its own unannounced project based on one of our IPs.
+ Our plan is to dynamically grow grow both studios in the coming years
+ Now, let's sum up the financials for the third quarter of 2021.
+ The floor is yours.
+ Thank you, Adam.
+ In this part of the presentation, I will guide you through our results for the third quarter of this year.
+ Let's start with the Consolidated Profit and Loss Account.
+ Friday.
+ In total, our sales revenues reached 144 million ZLOTEC, which is 38% above the sales revenues
+ of the third quarter of last year.
+ Most of the sales were based on our own products.
+ We achieved 104 million zloty here, which is 68% above the comparative quarter of last year.
+ Cyberpunk was the most important source of revenues this year and most of its sales continued to come from digital channels.
+ Revenues from sales of goods and materials amounting to nearly 40 million slots slightly decreased, but their main driver, GOG Digital Sales, actually increased by approximately 6%.
+ Costs of poor products and services sold amounted to 23 million Zloty.
+ The growth versus last year comes mainly from 17 million-loaded appreciation of historic expenditures on the development of cyberpunk,
+ non-existent in our P&L for the comparative period of 2020.
+ What is also worth mentioning is that this was the last quarter of depreciation
+ of initial expenditures on the development of Gwenzel's room breaker. Starting from disk Q4,
+ This will result in lower costs of products sold by approximately 5 million
+ dollars.
+ At the same time, costs of goods and materials sold, which came mostly from GOG, remained at a stable level.
+ All in all, our gross profit from sales reached over 91 million Zloteh, which is by one-third more than a year ago.
+ Moving to the operating costs.
+ During the third quarter of this year, our selling costs increased to 55 million Zloty.
+ The increase was mainly driven by cyberpunk servicing costs in the amount of 17 million
+ and Zlotych, as a large number of our developers and testers were working on updating the game.
+ We plan to release the next update together with the Next Gen Edition in Q1 next year.
+ Even though the amount we've dedicated to servicing Cyberpunk in Q3 is still substantial,
+ It is declining quarter by quarter since the release.
+ GNA costs also increased versus last year. Among others, we included in this position
+ some of the early project research-based costs in the amount of 4 million
+ of the year.
+ That was noted.
+ well as close to a 9 million lot of charge due to our incentive program since this charge is based
+ an actuarial valuation it's of a non-cash nature all in all our nest profit for the third quarter of
+ of this year with 16 million zloty.
+ as GOG posted negative results and net profit of 21 million Zloty was generated by FedExpress.
+ Regarding GOG, its performance does present a challenge and recently we are taking measures
+ to improve
+ of its financial spending.
+ First and foremost, we've decided that GOG should focus more on its core business activity,
+ which means offering a hand-picked selection of games with its unique
+ and pre-philosophy.
+ In line with this approach, there will be changes in the team structure.
+ some GOG developers who have already been working on online solution
+ used mainly by the studio, will transfer to the project.
+ Furthermore, at the end of this year, GOG will leave the Gwent Consortium.
+ This means that it will neither bear its portion of expenses nor obtain the corresponding share of revenues associated with this project.
+ Alongside all these changes we initiated through the organization of GOG's operations.
+ We believe that all of the changes we are introducing will allow GOG to focus more on
+ its core business and improve its financial effectiveness in 2022.
+ back to the group results. Although Q3 has never been my favorite quarter I
+ I would like to present it in a longer perspective.
+ Let's go to the next slide, number 9.
+ The total height of each of the bars represents revenues for each of the third quarters.
+ Revenue-wise, this was our best third quarter ever.
+ From these revenues, we covered our costs and expenses, marked gray, and earned our net profits, marked blue.
+ However, this year, our cost structure was different than before.
+ Please go to the next slide.
+ Substantial costs were either driven by time-limited activity, like the cyberpunk servicing expenses marked green, and early phase research costs marked red.
+ The latter are actually, in a way, an investment into our future products and sales.
+ Also, some new substantial costs were of a non-cash nature, like the cyberpunk depreciation costs marked yellow.
+ Let's move to the next slide, number 11.
+ our consolidated balance sheet
+ Over the third quarter of this year, our balance of expenditures on development projects remains stable.
+ Our investment into development of future products accounting-wise was similar to the release product depreciation.
+ But at the same time, our receivables decreased from 248 down to 166 million zloty, which
+ which is natural after a seasonally stronger second quarter.
+ At the same time, our long- and short-term other financial assets increased in line with
+ our purchases of t-bonds as a way of diversifying our financial reserves the total value of t-bonds
+ cash and deposits included in the positions marked with a star is summed up under the
+ total assets table to the amount of nearly 1 billion and 185 million zloty as of the end of september
+ This means that our financial reserves increased by 55 million Zloty during the third quarter.
+ The price group equity increased over the third quarter of 2021, mainly due to the retained profits for the period and capital bookings related to the long-term group's incentive program.
+ Among liabilities, our trade and other liabilities increased by 21 million ZL, whereas the total
+ level of provisions decreased by 49 million ZL.
+ This was mainly driven by the consumption of the previously set sales provisions.
+ I haven't elaborated much on the expenditures on development projects, so now please go to the next page, number 12.
+ The product wraps expenditures on research, development, and service of released game squadrons.
+ So this is a continuation of what I was presenting during our previous calls.
+ The yellow part represents our total cost of servicing our released games, mainly Cyberpunk and Gwent.
+ As I mentioned before, the amount dedicated to Cyberpunk continues to decline this year.
+ At the same time, the proportion of the team and, therefore, the total expenditures related
+ to future projects keeps growing it's represented by both the green slice
+ early phase research cost and the blue part actual development of new projects
+ This is in line with what Adam was presenting just now regarding the involvement of our team.
+ And finally, our simplified cash flow on slide 13.
+ Profits for the period were supported by the nearly 89 million slot reduction of receivables.
+ In cash terms, we expense 26.5 million Zloty on development of new projects,
+ while the non-cash book depreciation of historic expenditures on released products reached nearly 23 million slots.
+ All other flows and changes are below 10 million slots.
+ Among others, this amount includes payment of the purchase price for digital scapes.
+ currently to the Project Red Vancouver. Altogether, our financial reserves increased by 55 million
+ up to 1 billion and nearly 185 million zlotec in cash bank deposits and t-bonds as of the end of
+ September 2021.
+ That's all from me for now.
+ Thank you for your attention.
+ Let's now move on to the Q&A.
+ Thank you. If you would like to ask a question, please signal by pressing star 1 on your telephone keypad.
+ If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment.
+ Again, please press star 1 to ask a question.
+ We'll pause for just a few moments to allow everyone an opportunity to signal for questions.
+ We'll take our first question from Nick Dempsey with Barclays.
+ Yeah, good evening, guys. I've got sort of three questions, one question and another two-parter.
+ So first of all, if we look at the cyberpunk depreciation and the cyberpunk service lines in third quarter on slide 10,
+ And we know the depreciation line will continue at this level every quarter for basically another four years, I believe.
+ What about cyberpunk service line if you're working hard to sell cyberpunk units and we're trying to model you selling cyberpunk units
+ Should we continue to expect something like this for the Cyberpunk service line?
+ so in other words
+ should we continue to expect those two cost items to continue
+ at these sort of levels
+ for quite a while
+ um
+ second
+ second part
+ this question.
+ we can see that Cyberpunk 2077
+ has been priced very low in Black Friday promotions.
+ Numerous examples of that.
+ So, two questions on that.
+ First of all, after people have seen those prices and got used to that,
+ Is it possible to get Cyberpunk back to even as much as a $50 sticker price?
+ And the second question is,
+ Given that you guys aren't really chasing volume to get in-game revenue,
+ like Ubisoft or an EA,
+ you know
+ How much of those discounts do you kind of take part in and sanction?
+ how much of it is just the retail.
+ you're still getting full price
+ but it's just a
+ retailer having a heavy hit to the price.
+ Okay, so yes, the depreciation of the already expensed, prior to the release, expenditures on Cyberpunk development will be with us for the next five years from the release.
+ So we still have around four years in front of us.
+ And they are supposed to be flat at the level of 3% of the total budget of the game per quarter.
+ unlike the expenditures for servicing the game.
+ Obviously, we'll keep servicing the game as long as necessary.
+ However, I strongly hope it will not take five years.
+ And as I mentioned during my part of the presentation already this year,
+ this amount was decreasing quarter by quarter.
+ Right now, we are in a special moment, heading to the release of the next edition of Cyberpunk.
+ So part of the servicing expenses is also dedicated to the next patch
+ that will be out together with the next gen edition.
+ and still a substantial part
+ of the team focuses to work on it.
+ Obviously, after release of the next one edition,
+ there will still probably be some work to be done
+ and work to be taken care of.
+ However, naturally, I would expect that after that,
+ level of servicing expenditures
+ related to cyberpunk
+ should
+ should decrease
+ more
+ substantially.
+ Thank you.
+ that's all from my side
+ as far as the first question is concerned.
+ Thank you.
+ Good evening, I'll take the second one.
+ So, first and foremost, we are focused on bringing back the sentiment.
+ And that's our first goal.
+ Price matters, of course, but more gamers playing Cyberpunk, more happy they are.
+ But the future this franchise has, obviously.
+ regarding
+ pricing we are not planning
+ any
+ moves
+ in the nearest future
+ the next June update
+ will be for free
+ for all
+ who already bought the game
+ on the last chance
+ And the price of the next-gen version will be the same as the price of the current version, as this update is for free.
+ Of course, having more content in Cyberpunk, I mean, especially expansion, will allow us to offer new editions, but it's too early to talk about it.
+ i mean it's way too early but of course we are thinking about stabilizing prices but first and
+ foremost, we have to bring
+ back good sentiment
+ around the game.
+ Okay, thank you.
+ We'll take our next question from Matthew Walker with Credit Suisse.
+ Thanks a lot.
+ Good evening, everybody.
+ Thanks for taking the question.
+ So the first one is just a quick follow-up.
+ When you say that you're stabilizing the prices for, and that will be applied also to NextGen,
+ Do you need stabilizing at the sort of current level that we see on the various platforms?
+ or do you mean stabilizing it by getting it back to the original price of $60?
+ just if you could clarify that.
+ Secondly,
+ In the quarter, obviously, the sales, unfortunately, have missed people's expectations.
+ was that due to
+ units, or was it due to price, or was it a combination of the two things?
+ And then lastly, on expansion, you intended to do, or you still intend, I guess, to do expansion at some point in 2022.
+ Can you just clarify that that is your, that's your current intention to release the Cyberpunk
+ package.
+ sanction in 22.
+ Good evening, I'll take the first one
+ Adam
+ so
+ I meant that
+ now
+ you can see
+ and
+ number of promotions on cyberpunk
+ not only Black Friday and
+ some of them are arranged
+ together with us some
+ or independent
+ activities of
+ retailers
+ so after
+ next generation is released
+ we can
+ stabilize the price
+ in terms of promotion
+ but we are not going to rise the price
+ with
+ NextGen, we can
+ discuss, and we will discuss when we will be closer to expansion, what then, after
+ releasing expansions should be our pricing policy, but it's too early to
+ comment and I can take the third one and we haven't said anything about dates
+ and the scope of the expansion, so I don't want to pre-announce what is
+ It's going to be announced when we'll be ready.
+ Okay.
+ regarding commenting regarding commenting on the external expectations on ourselves
+ Honestly speaking, it's hard for me to comment on external expectations, whether any difference
+ comes from this or that factor
+ draw two
+ things that I would like to point
+ your attention to.
+ first and foremost q3 is always the one of the weakest of the weakest quarter of the year
+ and secondly
+ still most of the sales we generate come from the digital sales as our distributors
+ shipped a sizable number of units on release and therefore no additional
+ revenues are recognized by us on this part of the market therefore what we can
+ book into our current results are mostly reports received from the digital
+ distributors
+ That's all from my side.
+ I just have one quick follow-up, which is, can you just explain your restructuring of
+ And does that mean that we're going to see sales from that product line in the PML decrease
+ for the next few quarters and just give a bit more color on what's going on at GOG.
+ No, the restructuring of GOG is rather to allow the team to focus on its core business.
+ So GWENT operations will not be co-hosted or co-worked by GOG team.
+ entire operation will be done by
+ to the program we also decided to move some of the processes that are related
+ online features used mainly by CD Projekt Red, directly to CD Projekt Red and at
+ At the same time, we organize operations of the company internally, as far as the back
+ office of GOG is concerned so it should not have any direct and direct influence
+ on GOG sales, either
+ our or external products.
+ Okay. Thank you. Thanks a lot.
+ We'll take our next question from Maddie Lieutenant with Bernstein.
+ Thank you.
+ Good evening.
+ The first one on the sales of Witcher 3, or rather the Witcher franchise in total.
+ Could you give us a comment directionally?
+ was that
+ below
+ last year's level
+ Then a question on the promotions you're doing around Black Friday.
+ apart from the price promotions themselves,
+ is there significant marketing cost components related to that as well
+ and in general, paid media sort of marketing above, for example,
+ what you did for the summer sales.
+ And then finally on Gwent, you mentioned that you're potentially rescaling the team of Gwent.
+ Now, right now, the developer allocation to Gwent is quite considerable relative to the revenues, if I understand correctly.
+ So would that sort of materially change in the future?
+ Thank you.
+ Yes, so I'll take the first one.
+ uh sales of the key which are uh in 2021 where it was below 2020 uh results so uh yes it was below
+ 2020 results uh and there were i believe there were three major factors behind it
+ At the end of 2019, we released The Witcher on Switch, so that was a relatively trash release in 2020.
+ Secondly, 2020, especially the first half of it, was strongly supported by the pandemic situation.
+ and this effect is not that visible this year.
+ and thirdly
+ At the end of 2019, there was the premiere of the Netflix Witcher series, which extended
+ the potential audience
+ and recognition of the Witcher universe
+ which I believe also
+ in some parts supported
+ which is what she says.
+ while this year 2021 there was not much happening in the witcher universe from our side
+ However, as you know, we are focusing on releasing the next-gen edition next year,
+ which I believe
+ will be an important step
+ for the history of this game.
+ I'll take the second one
+ so extra
+ costs, marketing costs
+ related to Black Friday.
+ I would say no.
+ I'm close to zero.
+ we have some constant marketing
+ I'm sorry, I'm sorry, I'm sorry, I'm sorry.
+ Please hold on line.
+ I'm just gonna...
+ We are trying to reconnect your call.
+ Proszę czekać.
+ Twoja rozmowa będzie kontynuowana.
+ Hello?
+ Am I back?
+ All right, I'm back.
+ I was disconnected.
+ So I'll start from the beginning, answering the second question about marketing costs related to Black Friday.
+ I don't know when I was disconnected
+ So,
+ extra
+ costs are close to zeros. We have a constant low of marketing costs I would
+ say but there was no extra cosas associated to this or that that promotion
+ And Piotr, you will take the third one, right?
+ Yeah, so in case of GWENT, our primary goal is to optimize GWENT based on our experience from past years of operating the game.
+ Gwent is already available on several hardware platforms.
+ No need to further invest into this direction.
+ and right now we want to focus on the quality of experience provided within
+ the game itself, rather than on the extensive approach to the technology. At the same time, we
+ want Gwent to be flexible enabling us to use part of its team in other
+ Other projects underway address.
+ while ensuring that the game continues to receive regular updates and content drops.
+ So, the aim of it is to reduce part of the costs allocated directly to Gwent, while at
+ and at the same time continue supporting it with new content and releases.
+ Very helpful. Thanks, everyone.
+ Thank you.
+ Thank you. We'll take our next question from Jamie Bass with Bergenberg.
+ Bye, Matt.
+ Yeah, good evening.
+ thanks for the questions
+ And I've got three, please.
+ The first one, I don't know if you've covered it, I will cut off for a second, but can you
+ explain why your income tax for the quarter is so low compared to last year
+ is basically at zero.
+ second question
+ there was an article last week
+ about the steam performance of cyberpunk um is it a fair takeaway to say that the situation you know
+ we reckon to Q4 that the situation is improving on PC
+ and we're even trying to get better,
+ but it's sort of a pretty major struggle on console.
+ third question
+ is with all this news about COVID resurgence.
+ have you had to consider
+ closing in the studios
+ again and going back to working from home or are you still continuing to sort of open up and get
+ back to the after food.
+ Thank you.
+ So, I'll start with the first one.
+ the tax amount visible in the P&L statement is a combination of taxes calculated by
+ CD Projekt Red and GOG.com. As you may know, at CD Projekt Red we qualify to tax most of our revenues
+ coming from our intellectual properties with five percent uh so this positive talks from
+ So they're probably crats.
+ was relatively low, as a big part of that was tax-driven lower rate.
+ Unlike in the case of GOG, who had negative results and therefore was allowed to create a negative provision for the tax based on the tax rate of 19%.
+ So, the smaller negative gross profits multiplied by 19% on GOG's side
+ compensated bigger gross profits taxed by effectively lower tax rate and
+ and therefore the total amount of the two taxes
+ from the two test segments is slightly above zero.
+ above 0
+ So that's the answer to the question.
+ So I'll take the second one.
+ the situation is improving
+ on pc and consoles where it's more visible on pc as as scores are updated daily by by steam but
+ But we see improvement of the sentiment
+ so I think it's cyberpunk
+ on
+ network
+ platform
+ And the third one, COVID and home office.
+ we have
+ internal
+ commitment that will
+ continue home office for
+ those who would like to work from home till the at least meet next year while
+ we are preparing and analyzing the further model and our idea is to find
+ our own path based on some internal and external research and to propose the
+ optimal model for the group
+ and then iterate.
+ so it won't be like
+ The post-COVID model and full-stop will propose model, iterate, learn, and adjust.
+ we want to stay flexible even though we believe that working i'm working on the game and working
+ on in this kind of industry always it's always better easier when we work
+ together but but time is very and the
+ The position is very different and we have to be we have to be flexible. These days even though
+ as I said, people
+ a pin can work from home
+ We see up to 40, sometimes up to 50% of team members working from the office.
+ Thank you.
+ We'll take our next question from Terrell Zadia with Bank of America.
+ Thank you for taking my questions.
+ could you give any further details
+ on what caused the
+ the laser The Witcher 3 next gen to Q2 and Cyberpunk 2077 next gen to Q1 next year.
+ That's my first question.
+ And my second question is, are you experiencing any wage inflation in your local offices in Poland?
+ and do you anticipate any rate inflation in your new studios in Vancouver and Boston?
+ And finally, could you just talk a little bit more about your acquisition strategy, such
+ and what sort of studios are still here looking to acquire going forward.
+ Thank you.
+ So, I'll take the first one.
+ as I said
+ during the presentation
+ development of both games, next-gen games, is on track to their targeted
+ dates.
+ With CPU we are currently at the testing stage, so it's there, we have to be sure that what we are releasing is in a very, very good shape.
+ And this requires substantial effort since the next-gen version includes graphical updates
+ exploiting the potential
+ of the new consoles
+ along with a set of system level
+ improvements. I'm talking about
+ systems which are
+ you know
+ that are general to the game
+ not a revolution
+ but still they can interact
+ with other systems
+ So we have to be sure that there is no regression whatsoever, and mostly for this we need some extra time for testing.
+ With Witcher 3, next-gen version, the situation is a bit different.
+ The next-gen version is being developed by our trusted partner,
+ several
+ of the
+ interactive. Of course
+ collaboration with us
+ And as WIPER3 was originally released almost seven years ago, of course, technology has rapidly advanced since then.
+ and new solutions have emerged
+ some of which are
+ um
+ there were not
+ the game
+ the original game was lacking of them, like ray tracing, and this update is truly a technical update.
+ maybe so small
+ pack of
+ but we are working mostly on technical things and as we are talking about new
+ technologies apply to the
+ fairly old game, it turned out that we need a bit more time for this technical task.
+ Okay, I'll take the second question regarding the wage inflation.
+ Yes, indeed, we do experience wage pressure caused among others by the high rate of inflation
+ in Poland and also
+ competitors
+ competition on the remote work market that's mainly for Poland as far as the
+ Boston and Vancouver studios are concerned they are relatively new to the
+ company.
+ we work with them for for a couple of months so it's hard to talk about
+ visible inflation on our side I would say we are learning these markets and for
+ the first time we learn it in practice cooperating with them.
+ So it's too early for us to say whether we see the inflation there or not.
+ And I'll take the third one.
+ uh
+ that's
+ As we announced our strategy, we want to be more focused on M&As, and there are at least two ways.
+ first which is the the Vancouver way is to empower to the project Red Steam at the same
+ with
+ suspension of things
+ which we acquired years ago
+ in Wrocław, which is now
+ That's right.
+ and of course if there is any any talented team interested in joining the
+ break,
+ threat supporting our strategy.
+ we are open to discuss.
+ and the second way is to find
+ Talent in Teams
+ eager to grow and
+ develop games within our
+ franchises, but still
+ maintaining
+ partial independence.
+ I mean, they're an identity
+ And this is the molasses flap case
+ Kind of similar to Spokor, even though Spokor was not acquired, was established as a startup within the group.
+ It's fairly the same model.
+ the Molasses flat will be a bit more integrated with the studio, but still
+ there'll be more of a slot at the project studio, not at the project rack.
+ Thanks so much.
+ Thank you.
+ We'll take our next question from Gladimir Veseltov with VTV Capital.
+ Hello, thank you for the presentation and for taking my question.
+ I have actually two questions.
+ so one is on the early project research phase costs and are we going to see those
+ in 2022 or these are somehow related to your plans to develop in parallel to AAA games or whatever
+ starting from
+ next year and
+ this could be capitalized
+ from next year and
+ the other one
+ probably is on molasses plot and you mentioned that it's gonna work on a
+ separate project but is it like and that's how it's a separate project or you
+ Is it somehow related to those, again, plans to develop in parallel to AAA titles starting from next year?
+ and maybe one more short follow-up on your M&A activities. Do you have a pipeline
+ of potential acquisitions on the top of the two which you have already concluded and if not so what
+ So what would be the capital allocation strategy for the cash file that you have,
+ given that you keep generating quite a lot of cash.
+ Thank you.
+ okay so i'll take the first uh the first one however unfortunately i'm unable to give you a
+ precise guidance on that on one side I hope we will always keep researching new
+ projects and
+ exploring new
+ ideas, on the other
+ the new ideas should, you know, one day
+ in absolute
+ in most of the cases, transformed into development of specified projects.
+ And that's what we are heading to with the projects that are currently under the research base.
+ so that's still
+ for those ones
+ in front of us
+ Adam?
+ Yes, I'll tell you the second and the third.
+ The Morassa Smart project is on top of parallel AAA development.
+ This is plant for telepraic red, and telepraic red is responsible for this, and molasses
+ that is something on top
+ those projects
+ But, as I said, they'll work close again.
+ already started working closely with the project, but they have their special
+ expertise, and the project is something, as I said, on top of those internal
+ project. And with
+ pipeline of M&A
+ No, we don't have a
+ Pipeline, we have pipelines but we are not changing our strategy
+ the project was
+ built in an
+ organic way and we treat
+ those M&As as
+ a great
+ extension of our goals, but still we have our own strategy, we have two great
+ franchises and
+ we want to
+ the fellow who came
+ and we have even more plans within those franchises.
+ So we are rather looking for talented teams to support us, and we are not really looking for consolidating someone's revenues or PNLs.
+ So it's hard to say that we have
+ pipeline of M&A's.
+ but of course we are looking around we are talking to people and if
+ if you are coming across
+ a group of talented people
+ that are interested in joining us
+ then we can we can start a discussion so it brings to the conclusion that the
+ pile of
+ sketch we
+ have will be
+ I mean, have a different future allocation, but maybe, Piotr, you can help me with this, for sure, both of us.
+ I mean, we were always to keep huge buffers, triple A's are expensive, and we want to be aggressive and blessed in our strategy.
+ so I think that first and foremost
+ we need buffers
+ but we'd like to add something
+ regarding our cash application
+ fully confirmed
+ nothing to add
+ Thank you very much
+ Thank you.
+ We'll take our next question from Ken Rumpf with Jefferies.
+ Hello, gentlemen. Apologies if the first question has already been asked. I dropped off the line and came back again.
+ The first one was just, have you any further comment or quantification on the kind of early stage development that's been expensed?
+ may have been asked already
+ in which this is just directly back to the transcript.
+ I'll catch it later.
+ Then three quick questions.
+ Firstly, the message that the Molasses Flood, as I recall, was pitching two games at E3 in 2019, Drake's Hollow and another one.
+ Was the other game that they were working on
+ the one that you're
+ the ambitious project that you've kind of
+ taken them over for?
+ i.e. have you been kind of
+ somehow working with them for that long
+ Or maybe they had a game
+ that they subsequently decided would fit your IP.
+ Anyway, second question would be just an update on employee turnover.
+ Third question.
+ you
+ commented about
+ regarding
+ kind of commenting on the future
+ that you wouldn't, you'd kind of stick to a shorter time horizon.
+ Should we?
+ Do I imagine that that's a year?
+ have I imagined that
+ or is that the plan?
+ So, for instance, at the beginning of next year, at some point, might we get a kind of roadmap that says, okay, you know, here's the first expansion.
+ And at some point, we get a date or a name for it.
+ Or might you, for instance, map out all of the expansion plan?
+ is there a kind of
+ pattern that we should expect in terms of kind of forward roadmap.
+ Thank you.
+ So, I'll take the first one.
+ But there was a question before...
+ I'm sorry, before, whether we elaborated anything more specific on the early research base costs.
+ No, we did not. During Q3 we expensed 4 million Zlotych on it and naturally we didn't elaborate
+ more on what project it refers to
+ or what specifically was done
+ women's budget.
+ Okay, that's great.
+ Adel, thanks.
+ All right, the molasses flat.
+ well I think
+ That I have to skip this question because it's it's internal
+ thing and we are not
+ revealing too much about
+ what kind of project and
+ and
+ We are not guiding in any direction regarding our project.
+ Yes, they released two games
+ we were evaluating
+ what they have
+ been working on but
+ No further comments in this regard.
+ but
+ I can
+ month
+ I can add one comment
+ we didn't acquire them
+ and we didn't join forces for their game.
+ I mean, they'll work on... they've always started working on the game which is within one of our franchises,
+ which was not possible before we concluded the
+ the
+ Yeah, turn over.
+ Is it yours?
+ Yeah, over the past 10 months, our turnover was at a standard, I would say at a standard dozen or so percent, typical for the industry, where some churn typically occurs in the wake of each large project.
+ so people move on to other projects or to entirely different endeavors.
+ and we are within the industry standards and there is nothing surprising us
+ or nothing substantially different to what we experienced
+ after the release of The Witcher 3.
+ And I'll tell you the third one.
+ So, I think that we'll come back to the strategic plans after the next-gen version of Cybermonkey's release, because this is key.
+ I mean, the sentiment around Cyberpunk is absolutely key to our near-earth future, I mean, yes.
+ So, definitely not before.
+ let's release Cyberpunk, let's see where we are, and then let's talk about the next year or years.
+ Okay, makes sense.
+ Thank you all.
+ Thank you.
+ And again, if you would like to ask a question, please press star 1.
+ We'll take our next question from Thomas Rodak with Boss Volsig.
+ Hi, thanks for taking my question.
+ I would like to know if you if you're talking to physical distributors about
+ new-gen versions, releases of Cyberpunk and The Witcher 3?
+ Or are you already talking about these releases?
+ will you provide
+ Will you have to provide additional boxes for these releases or maybe there are already
+ enough boxes left from the time of the main premiere.
+ the first question
+ Yeah, the second question
+ In regards to the roadmap for Cyberpunk for the next year, I understand that you will
+ provide the roadmap after the next-gen version is released. That's what I understood from the
+ from the last
+ answer
+ could you confirm it
+ and
+ yeah, and the third question
+ is regarding
+ the mulatto slot
+ I wonder when will you be ready to reveal anything about the new game from the latest world?
+ That's it. Thank you.
+ So the first question, yes, obviously, we talked with our distributors on how to launch
+ next-gen edition
+ and how to use it
+ on dirt territories
+ but I'm afraid I have no details to show right now as not everything is agreed yet
+ and not everything will be initiated exactly at the same time so please stay
+ tunes and I'm sure
+ that's shortly
+ or in one day, we will announce more details on that.
+ Hi, I'll take the second one.
+ Roadmap.
+ Yes, after NG's next-gen edition of Cyberpunk,
+ Definitely.
+ but not like we are planning after and everything is set in stone.
+ We want to release the game, see the situation, and then decide when to update the strategy based on the data we'll have after the release.
+ So it's hard to commit to any date, depending on what we'll see after release.
+ And the third one, I will say the third one,
+ When?
+ well it's
+ wait
+ to say
+ we've
+ started but you know we are at the very beginning of the uh of the way we are establishing uh how we
+ corporate we are working on designs of course but but you know it's it's an
+ initial phase.
+ So I'm not going to guide when it will be.
+ it will be
+ and we'll be ready to talk about the game, to review design, and to explain this concept to gamers.
+ Thank you.
+ Thanks.
+ We'll take our next question from Nick Dempsey with Barclays.
+ Yeah, good evening.
+ I'm just going to squeeze in another one.
+ provisions were
+ a slightly confusing element in Q2.
+ Can I just confirm that there are no further dissolved provisions impacting the net sales
+ in this quarter
+ and no new provisions either.
+ so when we're
+ looking at provisions in your numbers
+ That just relates to the cost lines in this quarter.
+ Is that correct?
+ Yes, a major change in the provisions line comes from natural consumption of the provisions we set historically.
+ obviously there were some new cost provisions as it's natural for the
+ ongoing business but there was nothing like big new provision coming in or
+ cancellation or revaluation of the provisions we historically set.
+ Helpful, thank you.
+ That concludes today's question and answer session.
+ Speakers, at this time, I will turn the conference back over to you for any additional or closing remarks.
+ Thank you very much.
+ I think we've covered everything.
+ we have
+ comments
+ Oh, questions?
+ waking
+ on
+ on the top.
+ All right.
+ so so uh we can cover this i'll read it out loud and then we will then arrive so the first question
+ It's from Michal Wojciechowski from ePotona Securities
+ You announce patch 1.5 to be released in line with the next-gen version of the game.
+ why you are skipping
+ March 1.4.
+ is included in 1.5.
+ well it's a big update so we wanted to stress it with round number and it's
+ hard to say that we are skipping but that's true we are not releasing any
+ updates before
+ next gen addition
+ to pack the whole
+ batch of
+ improvement in one big update to support
+ the impact on NextGen
+ edition.
+ The next one is from Konrad Krasudzki, Bloomberg News.
+ How far are you from reaching new milestones with number of Cyberpunk copies sold?
+ so as you know we normally share such sales data as a marketing tool and
+ And therefore, we did not plan to release this information today,
+ neither precise information
+ or any information whether we are close or not that close.
+ So, excuse us, but today is not today.
+ we will
+ and operate more on that.
+ The next question from Mr. Krasuski is
+ is the technical stage
+ of operations of next gen.
+ How certain are you concerning Q1 as a date for Cyberpunk update?
+ So, as I told during the presentation, all the information we have from both teams, Cyberpunk,
+ our internal Cyberpunk team
+ working on Next Gen Edition
+ and Saber were working on
+ which are three.
+ during distance are saying that we are on track so so that's what what we can
+ what we can say
+ and in terms of the status of
+ of cyberpunk development.
+ And it's in a tasting phase.
+ so we are tasting
+ testing
+ so
+ testing the the game checking whether there everything is fine as as as I said
+ their
+ improvements and changes
+ in general systems which can interact with many other systems so we have to
+ truly test the game
+ to be sure
+ more than ever
+ that what we are releasing
+ is
+ It's well polished.
+ And the next question is from
+ Michał Wojciechowski, Popema Securities.
+ when exactly in 2022 you expect to start
+ Newton's full production of two AAA games.
+ and to announce
+ uh
+ actually
+ it's already started
+ but still we are in R&D sizes.
+ but we have two groups
+ of
+ we have a group of developers
+ working on
+ the next
+ to play, but
+ but it's not capitalized yet
+ but in
+ early next year
+ there will be stronger
+ After releasing Next Gen Edition, actually, it would be the right moment to say that,
+ Yes, we are producing AAA content within two franchises at the same time.
+ and I'll take
+ the next one
+ from Piotr Kuniatowski, M-Bank.
+ how many developers
+ work at Spoko
+ at the end of
+ due to
+ to anyone. And they're also
+ as simple, around 50.
+ Next question from Marek Kazimierczak, B.A.G. Sequels at TFI. Cyberpunk 2077, we have not heard anything about online or multiplayer. Could you elaborate on that?
+ Yes. I know I can add some color. The plan remains the same, so we are planning to add multi-layer functionalities in the future to both franchises, including Cyberpunk, gradually.
+ and we are not reviewing
+ which franchise
+ we will get the first multiplayer functionalities but the first will be the
+ The first attempt will be something we can learn from and then we can add more and more
+ So step by step, we want to open our single player experience.
+ We want to open doors to multiplayer, but adding some multiplayer activities gradually.
+ And the next question is from Kasper Kofron, Trigon.
+ Have you considered implementing Cyberpunk into a subscription service like Xbox Game Pass?
+ Can you discuss the advantages and disadvantages of such cooperation from a business point of view?
+ and I can answer
+ we
+ always consider
+ any
+ business
+ opportunity, but
+ this kind of
+ subscription model is good at a certain moment of the life cycle of the of the
+ product.
+ So not too early
+ but which are
+ three, one of the
+ which has, was for some time in subscription,
+ we have to weigh
+ the benefit
+ and cost each time
+ so we can have to compare it to sales, and so it's a rather decision based on data.
+ It's way too early for cyberpunk, definitely.
+ And as I can see, this is the end. I mean, it's close to 7 p.m. here in Warsaw.
+ so thank you very much
+ if you have
+ any further questions, please
+ contact our
+ IR, we are
+ It's a lot to help.
+ Thank you very much.
+ Bye-bye.
+ nice evening
+ This concludes today's call.
+ Thank you for your participation.
+ You may now disconnect.

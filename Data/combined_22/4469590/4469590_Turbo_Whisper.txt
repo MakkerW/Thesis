@@ -1,0 +1,922 @@
+ Good day and welcome to today's third quarter 2021 financial results conference call.
+ at this time
+ all participants are in a listen-only
+ mode. There will be a presentation
+ followed by question and answer session
+ at which time if you wish to ask a question you will need to press star and one on your telephone
+ keypad. I also must advise
+ you that this conference is being recorded
+ today and I would now like to hand a
+ conference.
+ Over to your first speaker today, Arman Arutunian.
+ Thank you.
+ Please go ahead, sir.
+ Thank you.
+ Hello everyone and welcome to Headhunter Group third quarter 2021 earnings call.
+ Joining me today to discuss our results are Mikhail Dukov, our Chief Executive Officer,
+ Dmitry Sergienkov, our deputy chief executive officer
+ and Gregory Moiseyev, our Chief Financial Officer.
+ Before we begin, we would like you to remind that today's discussion will contain forward-looking statements.
+ Actual results may differ materially
+ from the results predicted or implied by such statements.
+ and forward-looking statements made today
+ speak only to our expectations as of today.
+ We undertake no obligation to publicly update
+ or revise these statements
+ for a discussion of some of the risk factors
+ that could cause actual results to differ.
+ Please see the risk factors section in our most recent annual report on Form 20F filed with the SEC.
+ During this call, we will be referring to some non-FRS financial measures.
+ These non-IFRS financial measures are not prepared in accordance with IFRS.
+ A reconciliation of the non-IFRS financial measures to the most directly comparable
+ IFRS measures is provided in the earnings
+ released we issued today and the slide presentation.
+ each of which is available on our website at investor.hh.ru.
+ Now I'd like to turn the call over to Mikhail.
+ Thank you, Aron.
+ Good afternoon, everyone.
+ thanks for joining us today
+ this was an exceptionally
+ a solid quarter for our product
+ a business development.
+ Dmitry and Grigory will walk this through in detail later on but we have yet again managed
+ to double our revenue base compared to 2020 and hit
+ all major business KPIs.
+ Though user base strikes new historical records,
+ it's essential to stay laser focused on product innovation
+ and adaptation of our platform
+ to distant customer segments.
+ One of our key product priorities continues to be a seamless and enjoyable experience
+ for non-recruitment professionals from SMAs.
+ This customer category has been the key driver
+ of our business growth and foreign candidate migration
+ to mobile devices, we are now observing similar trends in that area.
+ That is why we decided to come up with a fully reworked employer mobile application built
+ on predictive interfaces
+ It's too early to draw any strong conclusions, but at the moment, we see that the key conclusions
+ to user-target actions in the new app have improved by 10 to 20 percent, thereby delivering
+ the app.
+ efficiency and business results for our clients on the job seeker site we launched
+ wide experiments with employer review functionality integrated with our strategic partner DreamJob
+ and that showed very encouraging engagement from both candidates and employers even though
+ It's an experimental phase
+ yet
+ At circa 15% of our vacancies already have corporate reviews, and we plan to scale the
+ functionality across the entire customer base.
+ in the next two quarters.
+ On the investment side,
+ We have finally made the deal with Udo,
+ And now we're institutionally ready to move along our joint strategy
+ in a self-employed market, where we continue to see major growth opportunities for us.
+ Now, I'll turn it to DEMA to walk you through the key highlights of the third core.
+ Thank you.
+ Thank you, Michel.
+ Good afternoon.
+ thank you for joining us on this call
+ This quarter our revenue was 4.7 billion rubles
+ and we managed to sustain, as Misha said, a triple-digit revenue growth
+ despite a much higher comparison base
+ than in the second quarter.
+ Market conditions remain very strong.
+ we have significant
+ expand our business across the key strategic areas, including acquisition of small and
+ medium businesses, and monetization of key accounts.
+ Despite a significant increase in marketing spend, our other cost items are significantly
+ behind the top line expansion
+ leading to elevated profitability.
+ In Q3, our adjusted EBITDA margin came at 60.4%.
+ This year, we follow conservative CAPEX policy, resulting in strong cash generation for shareholders.
+ Our CAPEX in Q3 is the percentage of revenue came at just circa 1%.
+ in terms of performance by operating segments.
+ in small and medium accounts
+ revenue increased by 106%
+ year-on-year, driven by both
+ increase the number of paying customers
+ NRPC grows.
+ Acquisition of new clients explains
+ in circle of 56 percentage points of revenue growth
+ in small and medium segment.
+ Our total customer base reached 450,000 clients, and this score already exceeding full year 2020.
+ in key account segment
+ average consumption growth
+ and monetization initiatives were the key drivers of our strong performance.
+ Notably, average check in this segment increased by 71% year-on-year, and that is largely explained
+ by a new monetization model for subscriptions,
+ gaining pace across the customer base.
+ Geographically, revenue from Moscow and St. Petersburg increased by 98% year-on-year,
+ or revenue from other regions of Russia
+ went up by 110%
+ which is totally in line
+ with our expensive strategy
+ in the Russian regions.
+ Product dynamics this quarter is somewhat similar
+ What we've seen in the second quarter, job postings remain the fastest-growing area
+ on the back of increased consumption in small, medium, and key accounts.
+ In this competitive environment, clients utilize advertising tools more intensely,
+ leading to ever-growing consumption per client.
+ As a result, the total number of vacancies on the platform reached a historical record of 1.1 million, of which over 1 million are paid vacancies.
+ CCDatabase access and bundle subscriptions demonstrated 94% and 89% growth year-on-year, respectively.
+ As you can see, the growth in subscriptions is kind of converging with listing product
+ thanks to immunization enhancement of the former.
+ Apart from our core products, we are very satisfied with the solid dynamics of our value
+ other services, including recruitment
+ automation, branding products, our
+ performance-based solutions, click me and
+ as a commercial recruiter.
+ skill has demonstrated yet another strong quarter
+ with customer-based expansion
+ when revenue came close to 300 rubles,
+ for a million rubles
+ representing
+ 200% growth year on year
+ and reaching GB down-breaking level first time in company history.
+ This group of value-added services generated over half billion revenues in Q3,
+ yielding growth of 136%.
+ So this just underscores market openness for innovative HR tech solutions in today's challenging environment.
+ now returning to our full year 2021 outlook
+ This year, as you understand, it's particularly difficult to make precise projections.
+ From the one hand, our business performance
+ exceptionally strong and market backdrop
+ is very robust but from the other hand
+ the pandemic stats in Russia
+ is far from being stable yet.
+ Taking those factors into consideration, we've decided to upgrade our full year 2021 outlook to 81-84% revenue growth range, indicating over 15 billion revenues of ProHead Hunter Group in total.
+ Now here's Gregory talk about
+ lower profitability and cash flow metrics.
+ Yeah, thanks, Dimo, and good afternoon, everyone.
+ let me give you some detail first
+ on our expenses and margins.
+ as Dima said in the
+ third quarter of 2021
+ you want the adjusted
+ So the EBITDA margin exceeded a milestone of 60%.
+ consolidation of
+ and skills,
+ value,
+ at margin by circle four percentage points so therefore our organic segments margin was even
+ higher in the ballpark of 64%, which is a significant improvement compared to 56.6%
+ in the same segments in the third quarter of 2020,
+ which was explained mostly by the increase in our revenue.
+ At the same time, with autumn being the busy season in recruiting, the third quarter is usually the highest quarter of any year in terms of revenue.
+ and consequently has the lowest expenses as percentage of revenue
+ and the highest margin.
+ therefore margin in Q3 is somewhat elevated
+ and we expect it to trend down in Q4.
+ Historically, over the last two years,
+ margin in the fourth quarter was 4 to 10 percentage points lower compared to a third quarter.
+ our total
+ upgrade and
+ expenses, exclusion, depreciation
+ and amortization were circa
+ 2 billion rubles in the third quarter of 2021, which was the increase of 69.5% compared to
+ the third quarter of 2020, adjusted for equity settled awards, SPO, and M&A-related costs,
+ operating expenses
+ were around 1.9 billion, which was an 85% increase compared to the third quarter of 2020.
+ And let me briefly discuss the growth drivers in the key expense buckets.
+ First of all, personnel expenses adjusted for equity-settled awards and SPO-related costs increased by 61% year-on-year.
+ About one-third of this growth is explained by consolidation of Zarklata and Skelos.
+ The other factors were the increase in our headcount by circa 15% or 126 people over the last 12 months.
+ and increasing our sales team bonuses
+ on the back of exceeding revenue targets
+ and wages inflation.
+ as a percentage of
+ frame in your
+ personal expenses
+ excluding equity settled awards
+ and their peer-related costs have decreased to 19.3% in the Q3 of 2021
+ from 24.3% in the third quarter of 2020,
+ at improving margin
+ by
+ 5 percentage points
+ We think that in the fourth quarter, we will sustain this operating leverage
+ and personnel expenses will be the key contributor
+ to our margin expansion in the full year 2021.
+ Speaking of personnel expenses, our equity settled awards increased to 136 million rubles
+ in the third quarter of 2021
+ compared to 56 million
+ for the third quarter last year
+ or by circa 80 million.
+ this was mostly due to a new
+ 2021 RSU plan
+ we established in July
+ under which we granted approximately 250,000 units
+ of circa 8% of the total program capacity
+ to approximately 100 of our employees.
+ Moving on to marketing expenses
+ They increased significantly by 140% year-on-year, outpatient revenue growth.
+ The increase in marketing was mostly due to our decision to increase spending
+ on both performance and brand awareness marketing in 2021.
+ on the back of the increased demand for candidates.
+ In addition, approximately one-third of this growth was due to Zerplato consolidation.
+ As a percentage of revenue, marketing increased to 12% in the third quarter of 2021
+ compared to 10% in the third quarter of 2020.
+ Going forward for the full year 2021, we think that the operating leverage potential in this bucket will be offset by our decision to increase spending.
+ of the general and administrative
+ expenses adjusted for SPO
+ and M&A related costs
+ increased by 90% compared to the third quarter last year.
+ the key drivers of this growth
+ where the addition of зарплата and skillas,
+ which contributed
+ almost half of the growth in the bucket,
+ as well as an increase in subcontractor costs in our Russia segment
+ due to the increase in revenue from other value-added services
+ and the increase in professional services.
+ As a percentage of revenue, other general and administrative expenses adjusted for SPO and
+ M&A related costs were
+ 8.4% relatively
+ flat compared to 9% in the third quarter of 2020.
+ In the full year 2021 results, we expect this expense bucket to remain relatively flat as percentage of revenue compared to last year.
+ Now moving on to other key indicators
+ our capex in the third quarter
+ of 2021
+ has decreased to 49 million
+ compared to $70 million in the third quarter last year
+ as we completed our Moscow office renovation project last year.
+ On the back of the increase in revenue, as Dima already said,
+ CapEx decreased to circa 1% of revenue in the third quarter.
+ this year compared to around 3%
+ in the third quarter of 2020.
+ him the networking
+ capital, as of the end of Q3, was
+ negative 5.1 billion rubles
+ compared to negative 3.8 billion
+ is of the end of 2020
+ and the change was primarily due to customer advances we received.
+ Income tax expense in the third quarter of 2021 was $548 million
+ compared to $264 million in the third quarter of 2020.
+ The increase was driven by the increase in revenues
+ and consecutive increase in the taxable profit.
+ The effective tax rate in the Q3 was 23.7% compared to the 31.1% in the third quarter last year.
+ this decrease was
+ mainly attributable to a non-deductible SPO-related expense last year, not occurring in this third quarter.
+ Now turning to cash generation metrics in the third quarter of 2021
+ we generated significant 2.5 billion rubles from operating activities
+ compared to 902 million in the third quarter last year,
+ primarily driven by the increase in sales
+ which generated
+ 16 million rubles
+ investing activities compared to
+ 50 million used in the third quarter
+ last year, mainly on the back of the
+ increase in interest income on cash deposits.
+ In financing activities, we used 2.4 billion rubles in the third quarter 2021,
+ mostly to pay an earlier announced dividend
+ for the year 2020,
+ compared to 2.1 billion we used in the third quarter last year,
+ which was also mostly attributable to a dividend payout.
+ Our net debt decreased from $5 billion as of the 2020 year-end
+ to $2.3 billion as of the end of Q3 2021,
+ primarily due to the increase in cash.
+ On the back of this increase in net debt and the increase in adjusted to be done,
+ Our leverage is now 0.3 times adjusted EBITDA compared to 1.2 times adjusted EBITDA as of the 2020 year-end.
+ Finally, starting from October 2021, we are making daily repurchases of our ADRs
+ through our broker in a form on an autonomous buyback program.
+ The program stipulates that during nine months until June 2022,
+ So, our broker should purchase ADRs for the
+ broker.
+ 27 million dollars
+ in more or less equal daily
+ Installments
+ Accordingly, as of November 8, 2021, the most recent date of the broker's report obtainable while we prepared this release,
+ we have repurchased twenty sorry fifty two thousand EDRs for circa three
+ million dollars this concludes our presentation of the results of the third quarter of 2021
+ and we are now opening the floor
+ to your questions.
+ Thank you.
+ thank you
+ we will now begin the question and answer session.
+ and as a reminder for those who
+ If you want to ask a question, just press star and one on your telephone keypad and wait for your name to be announced.
+ once again
+ Star N1 if you wish to ask a question.
+ Thank you.
+ We have questions that came through.
+ The first question comes from the line of Yashoslav Dikyarev from Goldman Sachs.
+ Your line is now open.
+ please go ahead
+ Yes, thank you very much for the call.
+ couple of questions.
+ So, firstly, how do you directionally think over 2022 budgeting?
+ obviously I know it's probably too early
+ But what are the key moving factors to keep in mind over the growth and margins for the next year?
+ Obviously, the base is quite high, but what are the key drivers that will be having a lasting effect in the medium term?
+ and maybe how would you split them
+ for the next year between volumes and pricing.
+ And my second question would be with regards to the mobile product for employers,
+ Can you elaborate what are the user cases there?
+ how popular is that
+ how differentiated is that
+ versus the competition
+ and maybe broadly new other product initiatives that are in the pipeline.
+ Thank you.
+ Yes, I was a good
+ I'm sorry, Jim.
+ Thank you.
+ Yeah, sure. I can quickly answer the first part of the first question on the budgeting and how we think about next year.
+ obviously you're not going to be
+ I'm duly surprised
+ that at this point of time
+ it's quite hard to give
+ kind of precise or official guidance for next year.
+ there are definitely
+ certain moving parts
+ mostly with regard to
+ the kind of customer base
+ growth next year
+ that would be a function of
+ overall mockery labor market
+ situation development
+ I think we're having pretty
+ at this point of time if you look
+ into the
+ 2022, we have
+ quite an optimistic view
+ on the health
+ are going to mix between monetization
+ and then the customer-based expansion.
+ on monetization
+ it's
+ it's more
+ kind of visible already
+ and predictable because
+ a certain initiative that we already kind of
+ kicked in this year
+ and we can
+ more or less
+ precisely
+ calculate the
+ impact for next year
+ Obviously, one of the major initiatives would be the kind of continuous rollout of our new subscription model.
+ as we said
+ this year
+ this product has been
+ performing
+ this product has been
+ absolutely well
+ and actually above our original expectation
+ and the guidance we gave
+ and I think next
+ next year, therefore, we're also kind of
+ upgrading our expectations. We believe
+ that this one
+ single kind of monetization that could define up to seven percent of revenue
+ growth next year
+ And on top of that, you have the other pricing initiatives.
+ We're going to inflate prices starting from January, not April, like this year.
+ So there will be some timing difference effect as well.
+ In terms of price increase, we expect at least 10% growth in subscriptions
+ and bigger packages of job postings,
+ we expect sort of 20% growth plus.
+ Of course, all these components will go on top of those.
+ I already mentioned
+ the subscription model
+ and we actually made a good progress
+ and upgrading our backend infrastructure
+ and business logic
+ for monetization this year
+ and next year we're going to be
+ kind of more intense on the differentiation by professions, roles, regions.
+ That should also give us incremental check growth
+ and also may actually help us to kind of differentiate
+ aid between small and medium businesses and
+ and key accounts.
+ so on monetization
+ is it looks very robust next year
+ On the customer base, I think it's, again, it's a bit premature to guide.
+ at the moment it looks quite strong
+ but again these situations
+ quite quickly so it would be hard
+ And I will defer to comment on expanses to Grisha.
+ Yeah.
+ so from me
+ we are kind of in the
+ middle of the
+ budget session
+ right now
+ and
+ as
+ we discuss
+ we
+ definitely
+ see
+ uh
+ several
+ areas for
+ growth
+ um
+ you know
+ the numerous
+ sensitive
+ sensible
+ initiatives for the 2022 and
+ It certainly doesn't make sense from our point of view to kind of just cut them off
+ just for the sake of the effort of profitability.
+ at you. Therefore,
+ as Dimo said
+ we are not prepared to
+ give any guidance
+ at this point on
+ on
+ 2022, actually, in both
+ revenue growth and margins
+ what I can say is that
+ the budget
+ will definitely contain
+ search on
+ in
+ investment component
+ in terms of
+ the expenses.
+ I think
+ also important to kind of
+ understand again that the
+ 2021 was the year of very steep revenue growth and sometimes in some areas we
+ struggled for resources, so it's probably kind of not the best reference point as well
+ for the future planning.
+ yep so I guess
+ that's the
+ uh
+ the
+ the comment I can give you on the
+ on the market front.
+ Thank you, Christian.
+ I think we can move on to the second question from Slava
+ on our new mobile product.
+ I can say that
+ historically we were a little bit
+ dismissive on kind of mobile
+ platform for employers
+ because we saw very limited use cases
+ And most of our clients actually prefer to use either mobile interface wire,
+ well actually just
+ via mobile devices but not in
+ in the app functionality
+ or they just continue to use desktop.
+ So historically, we didn't invest much in that area.
+ and
+ And over the last few years,
+ especially during COVID, that that situation has
+ significant change in our view
+ we saw so big up
+ in demand and usage
+ and predominantly from obviously small and medium businesses
+ from non-recruitment professionals.
+ and this is how actually
+ we designed this new app
+ So that's clearly designed for a very easy, simplified workflow with a kind of call-to-action approach
+ when there are a lot of predictive actions
+ when you don't need to fill out the details in the machine
+ using some machine learning instruments
+ and back-end trying to kind of predict the answers, right,
+ and kind of minimize
+ the questions we ask
+ So that's clearly targeted at the SMA usage.
+ At the same time, we try to kind of factor and incorporate the functionality that is usually very popular among the key accounts as well,
+ like for example they're working with
+ and the
+ integrations
+ with the
+ ETF
+ you
+ and, for example, communication platform that we introduced in our JobSeeker platform earlier this year.
+ we actually did the same
+ for employer app
+ Of course, it's becoming kind of core functionality.
+ and also our
+ We believe that our new app, especially on Android,
+ platform going to be much more stable
+ and all the metrics that we collected over the last one and a half months
+ since the launch of the Android platform
+ shows us that
+ that actually decays
+ And we look at the, again, it's earlier to draw some strong conclusions yet, right?
+ and there are a lot of product works required for this new app,
+ but we already see up to 20% improvement in conversions,
+ especially in registration, in purchases, et cetera.
+ and for small and medium is for
+ We believe that should be quite helpful for all the key metrics
+ and efficiency of our platform overall for this category.
+ Okay, thank you very much
+ Thanks, Walter.
+ Thank you.
+ And the next question comes from Ivan Kim from Excellus Capital.
+ Your line is now open.
+ Please go ahead
+ Ah, yes, good afternoon.
+ I guess three questions from my side, please.
+ Firstly,
+ on the fourth quarter
+ we didn't see
+ any impact on job postings
+ on your platform in November, but
+ if you can just comment
+ on what sort of impact lockdown had or has on your numbers so far.
+ Secondly, on skills, what sort of growth outlook you foresee for 2022 for
+ skills in particular um ballpark very wide ranges or directionally would be a great and related
+ question for that is whether
+ you consider further expansion to adjacencies and because as Kilo's
+ Um, experience shows you, um, increase your targets of wrestling market massively with
+ one small acquisition.
+ So just wondering, there was a ULU deal, obviously, but if you think about expansion there, more aggressively in 22 in adjacencies.
+ Thank you very much.
+ Thanks, Vanya.
+ I'll handle these questions.
+ the first
+ on the November lockdown.
+ of course
+ we saw deceleration
+ in billing and
+ billings and bookings of that week of
+ non-working days
+ luckily it was just just a week but for the majority of regions of course in
+ and certain regions extended the term.
+ So we saw a certain underperformance in the shorter-term products,
+ especially short subscriptions, small packages
+ of job postings to
+ tell you kind of the
+ in a rough
+ terms we lost that
+ week
+ circa
+ with 25 percentage points
+ of growth compared to the previous
+ the week before the lockdown.
+ that is clearly
+ better picture
+ that we observed last year
+ when we're on a constant
+ and one working mode, right, in June and May,
+ and that just shows that the business has been adopted
+ to the logic stand
+ I've been operating in this environment for more than a year already,
+ and especially in key accounts
+ we saw very little disruption
+ And we, most of our clients and big enterprises just continued operations as normal.
+ But, of course, in small-medium businesses,
+ there wasn't an impact
+ but it was not as severe as we saw it in previous lockdowns.
+ So that's on the lockdown, and I think on the fourth quarter, otherwise, so far, quarter to date, the performance is quite encouraging.
+ But no one knows actually what to expect in the next one month and a half, right?
+ So the risk of restrictive measures is quite high and it's not binary.
+ It's not that it's either there or not.
+ it's sort of regions that they can
+ so local decisions
+ so it's actually having impact on certain regions.
+ It's quite hard to predict the exact impact in the first quarter.
+ On the SKILAS, the fourth quarter traditionally is the strongest quarter.
+ you may expect that this large
+ contracts that they sign
+ they tend to be
+ kind of signed
+ at the kind of
+ last
+ last minute
+ when the budgets allocated
+ to the department kind of go off
+ and historically
+ I think two or three years
+ in a row
+ the fourth quarter was the strongest
+ Generally, we believe that they should post
+ circa 400 million
+ revenues this year
+ but there are certain
+ big contracts
+ with very large enterprises
+ that are underway
+ that actually may
+ kind of be a swing factor here, right?
+ because they're anxious to sleep.
+ Next quarter, therefore, it's, I think,
+ kill us at this point of time
+ of when they acquire new customers quite intensively,
+ they are a bit less kind of predictable
+ than compared to HeadHunter.
+ But we expect a strong quarter.
+ and the last one
+ I think it's quite the right one.
+ And it's exactly in line with our thinking that in today's environment,
+ We see a lot of opportunities in the JSON areas,
+ and many of them could be actually tackled in a quicker and more efficient way
+ were some smaller stage acquisitions and we actually were quite active in the search
+ out for this type of
+ That's the slide.
+ like Skilas, Dream Jovra, Yudu, etc.
+ So I would say I would guide that on quite high acquisitions for the next two, three years pursuing this opportunity.
+ Great.
+ Great. Thank you very much.
+ Thank you.
+ And the next question comes from the line of Luke Holbrook from Morgan Stanley.
+ your line is now open
+ please go ahead
+ Thank you for letting me on the call, and congratulations on a strong set of results.
+ I just had a question on market share dynamics, given your strong revenue performance this
+ quarter. I just wondered if you could comment
+ a bit on what you were seeing in the regions
+ in particular, how has the
+ to change that dynamic a bit as well, particularly around Siberia regions.
+ Do you feel that you're gaining share at this point in time?
+ and then I've just got a follow-up after that.
+ Yeah, sure.
+ Thanks for the question.
+ well the regional business is performing
+ stronger than in terms of
+ growth than in
+ the capital cities, in Moscow and in some
+ Pittsburgh it's 110 percentage growth
+ And in particular, in the Zerplata region and Gural and Siberia,
+ It's one of the strongest areas where we have probably the biggest market share, even compared to Moscow.
+ we recently made a survey
+ and that actually
+ kind of result
+ in a quite astonishing fact
+ that we deliver
+ over 95% of all applications
+ in
+ Yekaterinburg for example
+ so it's like the whole market delivers just 5%
+ if you take out the
+ ascensor plot on.
+ So it's a very, very strong, strong regions.
+ I would say Zarplat is a slightly underperforming headhunter,
+ and I think we always got it this way
+ because they are deprived of certain benefits
+ of nationwide very effective
+ marketing that we
+ enjoying the
+ Therefore, their revenue is not growing as fast as Headhunters.
+ so we're kind of grabbing share
+ from Zerplata, but
+ combined with
+ Zerplata collectively we definitely
+ in an ever strong position
+ So I think that actually kind of unlocks a lot of monetization potential as well for us.
+ Okay, thanks.
+ And just in terms of then your marketing spend that you mentioned there,
+ Is there a certain regional or product focus, or are you targeting more blue-collar or white-collar?
+ or do you split it like that internally?
+ any color there would be useful.
+ Yeah, Luke, this is Gregory.
+ really
+ I don't think I can give you
+ the kind of details
+ by marketing
+ channel or by segment
+ because for kind of competition reason,
+ would prefer not to go into
+ be so much
+ detail, right? But
+ What I probably can tell you is that in the second quarter of this year and in the third as well,
+ we are strengthening marketing
+ on both
+ brand awareness formats
+ such as outdoor campaign
+ for instance
+ and performance marketing
+ as well.
+ as we see
+ kind of high demand for candidates
+ and also
+ on the back of kind of low activity
+ of job seekers.
+ so we think it makes all the sense
+ to spend more
+ for audience acquisition to
+ balance with demand to provide better efficiency to customers who are essentially paying extra
+ nowadays uh to get the recruiting going um so uh we are frankly increasing across across the board
+ for instance
+ we had a significant outdoor campaign in Moscow recently
+ and we saw
+ sizable increase
+ in
+ Top of Mind Brand Awareness
+ by circa 8%
+ or I'd say
+ 8 percentage points probably
+ to 66%
+ according to
+ lower list
+ measure
+ will
+ see traffic going up at around between 20 and 30 percent as we increase more in
+ digital and digital channels so it's across the board and for other
+ successful
+ shake.
+ Great. Thank you very much. That's very clear.
+ Thank you.
+ And the next question comes from the line of Dimitri Vlasov from Wood & Company.
+ Your line is now open.
+ please go ahead
+ Oh, yeah, thank you very much for the opportunity to ask a question.
+ I have two, please.
+ The first one, could you please break down
+ the revenue growth for third quarter of 2021?
+ Basically, what came as a result of Zalplot and Skelos,
+ What came from the organic growth and what came from this labor market deficit, so to speak.
+ The other question is on the gig economy.
+ if you could maybe comment on
+ How big do you see the total address for market opportunity here?
+ like what's the
+ opportunity now and
+ How could it become once the transition from the gray market to the legal one will occur?
+ Thank you.
+ I'll handle both.
+ on the
+ on the first one
+ if we try to
+ decompose this growth
+ in the third quarter
+ 103%
+ or in absolute
+ term is
+ 2.4 billion
+ yeah we can actually
+ a split up
+ and or and
+ a low-base effect
+ then organic growth
+ and kind of more sustainable organic, right?
+ So in terms of law-based effect, obviously it's arbitrary, right?
+ because it depends on what you set as a base for last year.
+ but we estimate that
+ It's around 15% out of 103%,
+ which is equal to
+ $315 million
+ that is explained by a low base.
+ So the percentage is obviously going down compared to Q2 for this reason.
+ And then more or less equal impact came derived from inorganic growth, around 15%, also 350 million.
+ that's
+ collective impact from
+ SKILS and Applauded Consolidation
+ this year
+ and then so
+ Actually, if you take out these two buckets, 30%,
+ And then remaining 70% or 1.7 billion rubles could be also broken into three major guiding growth buckets.
+ I've always, I think, having in consideration
+ First, monetization.
+ second client-based expansion
+ and then the third consumption group.
+ so the first
+ explains
+ is a circle 40% of that 1.7 billion.
+ that's monetization or coin base,
+ of course, price definition
+ and coupled with the fact of a new subscription model,
+ the key contributors
+ I already said that pay-per-contact products
+ performing exceptionally well this year.
+ then 25%
+ of 1.7 billion
+ relates to increase consumption of services
+ that's
+ the impact of the market situation
+ and labor force shortage
+ and their general
+ low candidate activity in the market.
+ discuss last times
+ So part of it probably diminish over time.
+ so it's kind of semi-sustainable
+ Because we see that, for example, small menu businesses, they consume twice bigger packages than they usually do.
+ And the remaining 35% is the customer-based expansion,
+ predominantly small and medium businesses
+ predominantly regions
+ So that's driven by online adoption, our marketing investments and B2B channels, our product adoption, platform adoption, etc.
+ and that's the most encouraging number
+ program because that's just
+ helping us to grow the base
+ which we can monetize in the future.
+ so generally if you compare Q2
+ the low basis
+ effect went down, the immunization effect
+ went up
+ the other buckets
+ remain more
+ as the same.
+ And the second question was on gig economy.
+ I think we
+ we touched upon this
+ but I'm happy to repeat
+ that generally
+ we see globally
+ that the independence and independent workforce constitutes up to 30%,
+ We're not up to an average 30% of labor force.
+ quite a stable measure
+ if you look at
+ So in Russia, even including the unofficial gray market,
+ That's only 15%.
+ And, of course, 95% of that 15% are currently in the gray zone
+ because there were very limited incentives created
+ and upon the legislation change
+ in 2018 we saw
+ huge intake and
+ registration of
+ self-registered
+ so we believe
+ at the moment there are
+ in accordance with official statistics
+ Around 2 million self-employed.
+ And we expect, actually, this number to grow, say, 10x up to 20 million in the next three to five years.
+ That's a huge emerging market for us.
+ It's highly dynamic, and not only the volumes that matter,
+ but also the business model that could be applied matters
+ because if you compare
+ without additional
+ permanent work, it's much easier
+ in this market to cut into transaction
+ because it's a more frequent market.
+ It's quite similar to what we've seen in mass recruitment.
+ and therefore
+ it's much easier to cut in transaction processing
+ payroll, processing some admin work
+ so it's very sticky potentially
+ if you're happy, if you're
+ and successful in onboarding care,
+ especially big enterprises
+ So that's our strategy together with Udo.
+ we
+ kind of officially
+ declared this
+ strategic partnership in June
+ Then we tried to kind of test this solution with the clients and interaction was exceptional.
+ so we decided to invest
+ in UDU
+ as a minority partner at the stage
+ But, of course, it's a strategic type transaction for us.
+ we were having and securing all
+ and that's the best
+ best to control in the future
+ to consolidate this business
+ should it actually take off in the end
+ but we are very optimistic
+ and in the end
+ this temporary
+ market, contingent market could be
+ bigger in monetary terms than the permanent
+ sourcing market.
+ Thank you very much. Very clear.
+ thank you
+ And no further questions that came through.
+ I will now like to hand the conference back to your speaker, Dimitri Sarjinov.
+ Your line is now open, sir.
+ Let me go ahead.
+ Yeah, thank you.
+ I'll be right here.
+ Yeah, there's just a few, few, few remarks.
+ first of all
+ thanks for your participation
+ this is the last quarterly call
+ for this year
+ yeah time flies
+ very quickly
+ need us to say that
+ it's been an outstanding quarter
+ for us in terms of financial results
+ is probably
+ the
+ best quarter we've had since
+ within public
+ It's really nice to see how a strategy execution
+ folding we showcase how we can really continue to grow client volumes while concurrently
+ They're all layout differentiating monetization.
+ so it speaks of the
+ deaths of the
+ the market, it speaks of the
+ kind of pricing power
+ rising out of our competitive
+ position but what
+ what's even more
+ encouraging
+ I think
+ that kind of stems from the question
+ we just received from Buaya
+ on the
+ markets. In this challenging
+ kind of candid words, we clearly see
+ that the process of
+ kind of rethinking and upgrading
+ the role of HR function.
+ and HR funding within organizations.
+ So coupled with the recruitment interactions migrating online,
+ online
+ so this
+ creates
+ the new
+ window opportunities
+ beyond our
+ traditional market
+ boundaries
+ This is already evidence in our results in value-added service performance, including SKILAS dynamics, in our experiments with DreamJobs and UDO.
+ so we just want to stress that
+ for us as the market leader
+ in traditional market, it's really
+ important. We are in the best position to
+ kind of catch this opportunity.
+ it's an important strategic task
+ to kind of lead the next wave
+ for which are tech development in Russia.
+ That's our ambition and goal for the years to come.
+ Thanks for your attention. Have a great week. Goodbye.
+ Thank you.
+ That concludes our conference for today.
+ thank you all for participating you may now disconnect

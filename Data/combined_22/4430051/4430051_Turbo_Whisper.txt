@@ -1,0 +1,753 @@
+ Hello, I'm SkyTalcom.
+ IR 기획 담당 오중석입니다
+ The conference call is SK Telecom CFO and Corporate One Center in
+ yun풍영 센터장과
+ Hiangil Cooperate to Center장이
+ 2021년 1분기 실적과 함께 향후 경영계획과 전략방향을 말씀드린 후
+ GD 응답을 갖는 방식으로 진행되겠습니다.
+ Good afternoon. I am Chung Seok Oh, Head of IR Planning at SK Telecom.
+ Today's conference call will consist of the presentation on the earnings results for Q1 of 2021
+ and the Future Management Plans and Strategic Direction by Ponyoung Yoon,
+ CSO and head of Corporate Center One
+ and 형일하, Head of Corporate Center 2, followed by a Q&A session.
+ Today, achievements and strategic plans for MNO will be provided by
+ Pungyong Yoon, head of Corporate Center One
+ and 형일하, head of Corporate Center 2, will discuss that of the new ICT businesses.
+ Thank you very much.
+ Thank you so much for watching.
+ 그럼 CFO에 말씀이 있겠습니다.
+ Today's conference call will provide consecutive interpretation
+ and we have with us executives
+ from relevant business divisions
+ to help deepen your understanding.
+ Before we begin, we want to remind you that all forward-looking statements are subject to change
+ depending on the macroeconomic and market situations.
+ Let me now present our CFO.
+ Thank you.
+ Thank you very much.
+ Good afternoon.
+ This is Pung Young Yoon, CFO of SK Telecom.
+ First of all, let me express my appreciation to investors and analysts for their continued support.
+ Thank you very much.
+ On April 14, SK Telecom announced that it was reviewing a plan for a spin-off,
+ which would result in a telecom company and a holding company with semiconductor and new ICT assets.
+ The total cost of the new ICT has been able to ensure that the new ICT has been able to build a new project.
+ We plan to use the spin-off to increase shareholder value and create the most optimal structures for telecom business and new ICT businesses respectively, thereby accelerating their growth.
+ To fulfill the purpose of the spinoff, we completed the cancellation of Treasury shares worth $2.6 trillion in market value,
+ which accounts for 10.8% of the total issued stocks.
+ 말씀드린 분할 계획이 주주가치를 최우선으로 고려한 방향이라는 점에 대해 투자자 및 시장과 충분한 공감대를 형성하였다고 생각합니다.
+ The planned spin-off was designed to prioritize shareholder value
+ and we believe that we have gained a good understanding
+ of the investors and the market.
+ We will carry out the plan with a strong conviction
+ and make sure that all the necessary decisions
+ are finalized
+ within the first half of the year.
+ here.
+ .
+ Thank you very much.
+ Now let me discuss the consolidated earnings highlights for Q1 of 2021.
+ 2021년 1분기 연결 매출은 4조 7805억 원을 기록하였습니다.
+ Thank you very much.
+ Consolidated Revenue for Q1 of 2021 recorded 4,780,000,000,000,000.
+ All business divisions enjoyed growth year-on-year, and media and safety and care posted a double-digit growth,
+ marking a 7.4% year-on-year increase.
+ but the figure declined 1.2% two-on-two due to the base effect of higher seasonal sales in Q4.
+ Thank you very much.
+ Consolidated operating income increased by 29% year-on-year and 17.4% two-on-two to post 388.8 billion won.
+ MNO and media led the operating income improvement by achieving both revenue growth and cost efficiency.
+ SNC and Commerce also contributed to earnings with their YOI growth in operating income.
+ The price of the price is 5,720,000.
+ SK하이닉스 지문법 영향과 SK와이번스 매각 이익으로 전년 동기 대비 86.9% 증가하였고 전문기 대비로는 54.2% 증가하였습니다.
+ that. Net income
+ recorded 572 billion
+ posting an 86.9% growth year-in-year
+ and a 54.2% growth Q-on-Q thanks to equity method income on SK Hynix and sales profit of SK Wyverns.
+ Let me now discuss major achievements and strategic direction for each business.
+ SK텔레콤 별도기준 1분기 MNO 매출은 전년 동기 대비 1.9%, 전분기 대비 1.4% 증가한 2조 9,807억 원을 기록하였습니다.
+ Thank you very much.
+ in the last year,
+ the interest rate of 670.000 people
+ and the interest rate of 670.000 people
+ Non-consolidated MNO revenue for Q1 increased by 1.9% year-on-year
+ and 1.4% Q1-2 to post 2,980,7 billion won.
+ Celebrating the second anniversary of 5G on April 3rd,
+ we saw the number of 5G subscribers reach 6.74 million as of the end of Q1
+ and record the biggest quarterly net ads, thereby leading M&O revenue growth.
+ M&O 영업이익은 3073억 원을 기록하였습니다.
+ .
+ M&O operating income posted 307.3 billion won, a 19% growth year-on-year, and a 33.1% growth Q-on-Q as the market stabilization trend continued.
+ .
+ Thank you very much.
+ we introduced five new
+ 5G price plans
+ to strengthen the 5G price options.
+ They include three online-only on-tech plans that offer more benefits at lower prices
+ and two additional 5GX plans at $69,001 and $79,001.
+ We will continue to promote the transition to 5G services based on a variety of price plans that cater to diverse customer needs.
+ Thank you very much.
+ subscription services
+ nearly pursued by MNO division are expanding
+ partnerships and launching diverse
+ subscription services for
+ daily lives, including education,
+ rental, and F&B.
+ In the second half of the year, we plan to introduce an integrated subscription services
+ based on a new subscription marketing platform
+ where customers can enjoy optimal subscription life at reasonable prices.
+ We're developing flagship products that will raise customers' expectations for subscription services.
+ We will do our best to ensure high quality of these services.
+ Moving on to media, SK Broadband's Consolidated Revenue recorded 967 billion won.
+ With the T-Broad merger and IPTV subscriber growth, it rose by 17.6% year-on-year,
+ but declined by 4.1% Q-on-Q due to the base effect of seasonal sales in Q4.
+ Thanks to revenue growth and operational process improvements, operating income increased by 98.8% year-on-year
+ and 12.6% Q&Q to record 75.4 billion won.
+ Safety and Care Hub
+ Thank you very much.
+ 3,505억 원을 기록하였습니다.
+ Home 보안 및 융합보안
+ Cloud 보안 등
+ Thank you very much.
+ As for safety and care business, with the merger of ADT CABs and SK InfoSec, we changed
+ the name of the division from Security Division to Safety and Care Division to expand the
+ group of prisoners.
+ After the merger, the consolidated revenue, including ADT caps, recorded $350.5 billion won.
+ It increased by 20.3% year-on-year thanks to the solid growth of new businesses
+ such as home security, integrated security, and cloud security,
+ but it declined 5.5% Q-on-Q due to the characteristic of safety and care business in which revenue tends to peak into Q4.
+ The new businesses enjoyed both top-line growth and bottom-line improvement, resulting in
+ the quarterly operating income of $27.8 billion, a 9.4% year-in-year, and 14.9% Q&Q increase.
+ Comerce 사업은 매출은 2037억 원을 기록하였습니다.
+ The new connecting trend is a 7% increase.
+ automido gradually 성 diagrams In turn 1.3% should be reduced.
+ Evening sentiment red destin다는 relatedapt 45% increase in market and
+ 1분기 마케팅 비용이 다소 증가했지만
+ on the basis of the growth of the company's growth and growth.
+ Commerce revenue posted 203.7 billion won.
+ It increased by 7% year-on-year based on the continued contactless consumption trend
+ but decreased by 9.3% Q&Q due to concentrated promotions in Q4, including the 11th-day event.
+ Marketing expenses for 11th Street, NSK Store increased in Q1,
+ but operating income maintained the BEP level thanks to volume growth.
+ Next, Song Il-ha, Head of Corporate Center 2, will discuss the achievements and strategic direction for the new ICT businesses.
+ Thank you.
+ Good afternoon. I am Hongil Ha, Head of Corporate Center 2. Allow me to discuss the
+ achievements and plans for the new
+ ICT businesses.
+ First of all, media software.
+ First is the media business.
+ and escape road band
+ .
+ The number of paid TV subscribers of SK Broadband stands at 8.69 million as of the end of Q1.
+ SK Broadband
+ 1월 설립한
+ MPP, Media S
+ Thank you very much.
+ and SMCNC with the whole program of the 70% of the program
+ in other TV channels.
+ Established by SK Broadband in January
+ as a multiple program provider,
+ Media S began regular broadcasting in April.
+ In partnerships with Kakao Entertainment and SMCNC, 70% of the programs are exclusive
+ content unavailable on other
+ TV channels.
+ SK Broadband will strengthen the value chain in the media business that encompasses content, channels, and platforms.
+ waveforms.
+ .
+ Thank you very much.
+ Thank you.
+ Thank you very much.
+ WAVE will further enhance competitiveness of original content, such as taxi driver, that is enjoying high viewer rating.
+ We recently hired Chief Producer Chanho Lee, well-known for dramas such as Signal and Stranger, as Chief Content Officer.
+ and we're in the process of establishing a content planning studio.
+ 다음은
+ Safety and Care로 이름을 바꾼 보안사업부입니다.
+ Next is the Security Division, which is renamed as Safety and Care Division.
+ Last year, the ABT CAPS and SKINFORCEC
+ The ABT CAPS and SKINFORCEC
+ Thank you very much.
+ Launched in March, the emerged entity of ADT CAPS and SK InfoSec will leap forward as Korea's number one integrated security company.
+ In addition to achieving growth in the existing security domains, we will expand technology-based
+ technology.
+ business models in new security domains,
+ such as securities for home, unmanned stores, and cloud.
+ ADT-CAPS has recently partnered with AWS and cloud-based services for working with cloud-based services.
+ Thank you very much.
+ in terms of economic growth and economic growth.
+ ADTCAP has recently signed an agreement to
+ to cooperate with AWS for cloud security business.
+ By combining ADT's cloud security services with AWS solutions,
+ We will promote business together to gain market share in the financial and public sectors
+ where there is high demand for transition to cloud.
+ Also, ADT-CAPS will be completed in the process of the IPO.
+ Also, we're in the process of selecting a lead underwriter for IPO of ADTCAPS,
+ and we will do our best to prepare for the ideal.
+ 다음은
+ Next is Commerce Business.
+ Thank you very much.
+ Transifying market competition, commerce achieved growth in both revenue and profitability year-on-year.
+ 11번가는 우정사업본부와 함께 제공하는 풀필먼트 서비스를 통해 오늘 주문 내일 도착 서비스를 시작하였습니다.
+ Amore, 한국 P&G 등의 국내외 대표 브랜드들과 손잡고 생필품을 중심으로 인기 상품들을 판매하고 있습니다.
+ 11th Street started Order Today Delivered Tomorrow service through Fulfillment Service together with Korea Post.
+ It is also selling popular products including daily necessities in partnerships with major domestic and global brands such as Amore and P&G Korea.
+ In collaboration with Amazon, we are making preparations to allow customers to buy Amazon products on 11th Street.
+ We plan to announce more details as soon as the service is ready to be launched.
+ In addition to investment from Uber,
+ T-Mem Mobility has received
+ 400 billion won of investments
+ from financial investors
+ the based-on valuation of 1.4 trillion won.
+ TMAN Mobilityが Uber와 공동 투자하여 출범한 UTI는
+ Thank you very much.
+ UTI was launched through joint investment of T-Map Mobility and Uber,
+ and its differentiated services are expected to offer customers more choices
+ and provide drivers with more revenue.
+ Thank you.
+ Finally, let me move on to one store which is preparing for an IPO.
+ With continued GMV growth for 11 consecutive quarters,
+ one store received investments from KT and LG U+, thereby solidifying its position as Korea's representative at market.
+ We acquired Rock Media and established a content studio as a joint venture with ES24,
+ all of which are our efforts to secure K-Content IPs and develop them in a variety of formats.
+ CFO께 다시 마이크를 넘기겠습니다.
+ I will now hand it back to the CFO. Thank you.
+ Thank you, Mr. Ha for your presentation.
+ 이번 분기 시장 컨센서스를 크게 상해하는 좋은 실적을 전달할 수 있어 기쁘게 생각합니다.
+ Dear investors and analysts, we are pleased to have delivered earnings
+ that exceeded the market consensus in this quarter.
+ We announced a spin-off plan and canceled Treasury shares to enhance shareholder value.
+ We also demonstrated that the fundamentals in all our businesses have been strengthened.
+ I understand that many people want to know more about our dividend policy.
+ After final decisions concerning the spin-off are made at the board in the first half of the year,
+ We will share with you more details, including a decision on the quarterly dividend.
+ 성공적인 분할 추진을 위해 저희는 긴장의 끈을 놓지 않고 준비할 것이며
+ We will continue to do our best for a successful spin-off.
+ Let me reassure you that all the decisions we make will be to maximize shareholder value.
+ Thank you so much for your support and support.
+ We ask for your continued support and interest.
+ Thank you.
+ 그럼 지금부터 Q&A 세션을 진행하도록 하겠습니다.
+ Thank you.
+ I will start the question.
+ If you ask the question, 1 and 4 will press the button.
+ 1번과 4번을 누르신 순서대로 질문 기회를 드리겠습니다.
+ If you have any questions, please press 1 and 4 if you have any questions.
+ Questions will be taken according to the order you have pressed the number 1 and 4.
+ Please pass 1 and 5 if you want to cancel your questions.
+ The first question is from the 한국투자증권 of 오태완.
+ The final question will be provided by Taiwan Oh from Korea Investment and Securities.
+ Please go ahead.
+ Yes, thank you for your question.
+ There are two main questions.
+ First of all, Wave and Flow are not available to us.
+ ...
+ If you can share it with us, please share it with us.
+ Thank you very much.
+ And the second question is
+ Thank you very much.
+ Thank you very much for this opportunity.
+ I would like to ask two questions.
+ The first question is regarding the spin-off plan.
+ wave and flow were not
+ mentioned in your recent disclosure
+ So I'd like to learn how these businesses and other subsidiaries will be divided
+ between the surviving company and the spin-off company after the spin-off.
+ The second question is related to your subscription service plan.
+ You mentioned that in the second half of the year, you are going to launch an integrated subscription service.
+ So can you provide us with some updates on your subscription service business plan?
+ Yes.
+ Thank you very much.
+ Mr. Oh, thank you very much for your questions.
+ First, the first question is where Wave Flooding is going to where to go.
+ Let me first answer your question regarding where wave and flow will go after the spin-off.
+ен 변요 준속법인은 유무선 통신 인프라를 결집해서
+ AI 기반 구동 마케팅과 데이터 센터를 통해
+ 성장을 추구하는 AI 기반 인프라 컴퍼니로
+ after the spin-off, the surviving company will grow as an AI-based
+ the infra company by combining the fixed
+ and wireless telecommunication infrastructure
+ and pursuing growth based on AI-centered subscription marketing and data center business.
+ غ사랍 단체, 라이프 플랫폼, 글로벌 테크 시딩 영역을 중심으로
+ And the spin-off company will grow as an ICT investment company
+ that is specialized in making aggressive investments
+ in semiconductor life platforms
+ and global tech seeding, thereby making various investments
+ that will drive value up.
+ Waveflow 등 미디어 콘텐츠 자산은 Live Platform 영역에 해당되며
+ In your question, you asked about wave and flow.
+ they belong to media and content assets
+ thereby falling under the live platform area.
+ So under the spin-off company, they will become global businesses that will lead new lifestyles of customers.
+ As for the specific business portfolios of the surviving company and the spin-off company, these will be finalized at the board within the first half of the year.
+ Let me now address your question regarding the subscription services.
+ We have a lot of information about the subscription market.
+ We have a lot of information about it.
+ We have been accumulating know-how and expertise
+ in the subscription market
+ by utilizing our telecommunication services,
+ We believe that MNO is very competitive
+ in providing subscription services.
+ Thank you very much.
+ ...
+ .
+ In various areas such as telecommunications, media, and e-commerce, we have accumulated
+ a lot of information.
+ a large amount of data
+ and we have the digital infrastructure
+ they can cover product planning all the way to offering.
+ And we also have marketing competitiveness
+ in both online and offline channels.
+ So, this is a way to make sure that customers are not only 5,000 million people on the side of the market,
+ Can be done
+ Based on such expertise and capabilities, we believe that we can produce a sizable revenue not only based on SK Telecom customers but also 50 million Korean people.
+ Thank you very much.
+ AI 기술에 기반한 상품 큐레이션 및 오퍼링을 준비하고 있습니다.
+ Currently, we have been expanding the scope of subscription products to media, games, delivery, and education.
+ and we're now in the process of developing product curation
+ and offering based on AI technology
+ in order to offer optimal packages for our customers.
+ Also, in the past, we will be able to use the T-membership as a member of the T-membership.
+ Furthermore, we are going to transform the existing team membership platform into a
+ system.
+ subscription marketing platform that is provided
+ for entire population in Korea
+ in the second half of the year.
+ The subscription market in Korea was 49 trillion won in size last year, and it is expected to grow to 100 trillion won of market by 2025.
+ Thank you very much.
+ market share 20% 수준이 될 것으로 예상합니다.
+ Our target for the subscription products and services is having the number of subscribers reach 35 million by 2025
+ and achieve the revenue size of 1.5 trillion won by 2025
+ by expanding partnerships and business models.
+ I believe that we can take up about 20% of the market share
+ of the subscription market that we can address.
+ Thank you.
+ 다음으로 질문해 주실 분은 삼성증권의 최민아 님입니다.
+ Thank you very much for watching.
+ The next question will be provided by Meena Choi from Samsung Securities.
+ Please go ahead.
+ Thank you very much for your question.
+ My name is Hanson Jumbo.
+ First of all, I have two questions.
+ First is the 4th annual contract of the UNFACC
+ and the UNFACC
+ Thank you very much.
+ 최근 사업 현황에 대해
+ Thank you very much.
+ Thank you very much for this opportunity.
+ opportunity, I would like to ask two questions.
+ The first question is, in April, you made a disclosure that you will carry out the spinoff.
+ and you mentioned that
+ Decisions related to the spinoff will be made in the first half of this year.
+ Can you share with us the upcoming schedule regarding the spinoff?
+ The second question is related to the T-map mobility.
+ Recently, you received financial investments, and I believe that T-Map Mobility will start
+ to accelerate its growth trajectory.
+ So what is the current status of T-Map Mobility?
+ and as for UTI
+ which was launched in collaboration with WUBER,
+ can you provide us with some specific growth strategies
+ on this recently launched business?
+ Thank you very much for these questions.
+ I'm going to answer your question regarding the schedule for the spin-off, and
+ the Hyeong-il-ha will answer your question.
+ answer questions related to the T-net mobility.
+ Thank you.
+ Thank you very much.
+ We are reviewing the overall process regarding the spin-off
+ and we aim to table the spin-off plan
+ to the Board of Directors within the first half of the year.
+ in consideration of the board resolution process
+ and the overall process for the spin-off and relisting,
+ We believe that the relisting can be completed within November after the general shareholders meeting in October.
+ Over.
+ Thank you.
+ I am Hyeongil Ha, Head of Corporate Center 2.
+ I'd like to address your question related to the status of business of T-Map Mobility after the split-off.
+ T-map Mobility
+ After officially launched in December last year,
+ TMA Mobility is carrying out business in the four key areas,
+ including the T-MAP Life Platform, T-MAP Auto, Mobility on Demand, and Mobility as a Service.
+ the foundation for team mobility by receiving 400 billion won of financial investments from
+ financial investors, and we have
+ launched UTI in collaboration
+ with Uber in order to offer
+ differentiated services centered around taxis.
+ 2nd year, T-MAP Life Platform 사업 영역에서
+ Thank you very much.
+ In the second quarter, we plan to introduce a completely new type of subscription membership services
+ in the business area of T-MEP Life Platform,
+ and we also plan to launch a driver-on-demand service as a pilot for B2C customers.
+ These new services on the four core business areas will be launched as scheduled,
+ which are expected to provide differentiated customer experience.
+ Now, I'd like to discuss the future strategy and the upcoming schedules for UTI.
+ Thank you very much.
+ In the second half of the year,
+ UT plans to launch a new service by combining Uber Taxi and T-Map Taxi.
+ Initially, services will center around contracted taxi drivers and premium taxi services,
+ but going forward, we plan to offer
+ various mobile services and additional
+ value-added services based on the taxi
+ platform.
+ Thank you.
+ As a result, customers will be able to have more options in terms of taxi rides depending on the brands, price plans, and services.
+ And at the same time, taxi drivers will benefit from these new services by increasing their sales through differentiated services
+ and by reducing the time to drive around to spot customers.
+ We're not really able to give you any more details today,
+ but we will be sure to communicate them with the market when the services are ready.
+ Thank you.
+ 다음으로 질문해 주실 분은 대신증권의 김혜재 님입니다.
+ The next question will be provided by
+ Hwe Jae Kim from Taishin Securities.
+ Please go ahead.
+ .
+ Thank you very much.
+ .
+ So, the total amount is not going to be expected to be expected.
+ The total amount of time would be when we start.
+ Thank you very much.
+ 19년 12월에 2000억 원 투자 위치하면서 발표했던 내용은
+ free money to 1조 원의 가치를
+ in the past, and in 2023,
+ the year of the year,
+ Thank you very much.
+ And how do you create a new project?
+ 감사합니다.
+ Thank you for this opportunity.
+ I would like to ask two questions.
+ questions.
+ The first question is related to your dividend policy.
+ policy. You mentioned that
+ even though you start the
+ quarterly dividend payout, the total amount of
+ dividend payout will not go
+ down. I'd like to know from
+ when your quarterly dividend payout would begin
+ and what is the overall dividend payout policy
+ for the two
+ companies after the spinoff.
+ The second question is related to your investment plan and business plan for WAVE.
+ You mentioned that
+ by 2025 you are
+ are going to receive $1 trillion of investment
+ and you have various plants for WAVE,
+ but this is quite different from what you mentioned previously
+ when you're communicating with us
+ regarding wave plan by 2023.
+ So the amount of investment
+ and the amount of revenue seems to have declined slightly
+ when you are adjusting your target for 2025.
+ five. So can you provide us with
+ some color on what is your overall
+ investment plan for WAVE, which you
+ mentioned is going to be around $1,000,000,000
+ and what is your revenue plan
+ and schedule for ways going forward.
+ Thank you.
+ Thank you very much for your questions.
+ I'm going to address your question regarding the dividend policy,
+ and Mr. Ha from Corporate Center 2
+ will address your question regarding WAVE.
+ Even after the spin-off, we will continue to maintain the shareholder-friendly management principle.
+ We will make sure that regardless of the spin-off,
+ the surviving company's level of dividend payout
+ will be at least similar to that of last year.
+ Thank you very much.
+ IDF number one fixed and wireless telecommunications company
+ As the rollout of 5G is accelerating,
+ we believe that our operating income and the cash flow will be sustained going forward.
+ As such, we will make sure that we have the shareholder return policy so that earnings
+ growth will lead to increased shareholder returns,
+ including dividend payouts.
+ Thank you very much.
+ At the annual general shareholders meeting, we created a basis for quarterly dividend payout.
+ And after discussions at the Board of Directors, we will carry out this new dividend policy plan
+ so that we can start paying out the quarterly dividend by starting from the end of second quarter.
+ Yeah.
+ I'm sorry.
+ That's it.
+ I'm sorry.
+ Thank you very much.
+ The timing for the quarterly payout
+ for the first quarter
+ has already passed
+ but this portion will be combined
+ for the fourth quarter dividend payout
+ so that we can maintain the level of dividend payout
+ to our shoulders to be at least
+ same or similar to that of last year?
+ Thank you very much.
+ as for the spin-off company
+ which will become a specialized investment company
+ We will make sure that their growth potential of the investment portfolio will be recognized.
+ and by actively attracting investment and pursuing IPOs
+ will make sure that the corporate value
+ of these businesses
+ will be rightly recognizing the market.
+ 먼저 신설법임의 배당정책에 대해서는 분할이 결의되고
+ The new company's dividend policy, after the dividend policy of the new company,
+ after the spin-off is finalized
+ and after the board of directors is composed,
+ we will be able to communicate to the market more details later.
+ Corporate E2 Center장 하형일입니다.
+ WAVE 23년
+ Thank you very much.
+ I am Hyeong-il Ha, head of Corporate Center 2.
+ Let me first comment on the subscriber target and the revenue targets of WAVE before 2023.
+ The Wave is the original content release, the content release, the Penthouse Season 2, the last year we started on IU's show.
+ Thank you very much.
+ As we increase the original content line-up
+ and the popularity of Penthouse Season 2.
+ and as a result of the successful
+ advertising with IU
+ that began at the end of last year,
+ WAVE was able to enjoy the growth
+ and it's paid subscribers by reaching 2 million
+ within last year.
+ and this subscriber growth trend is continuing.
+ Wave is a content with original content,
+ 2023년, 유료 가입자 500만 명, 매출 5,000억 원 목표에 보다 빠르게 도달할 수 있을 것으로 예상하고 있습니다.
+ As we continue to differentiate wave services based on content from terrestrial broadcasting stations
+ and original content, we believe that we can achieve the initial target of having 5 million
+ patients.
+ subscribers, and the revenue of
+ 500 billion won by
+ 2023 and we believe
+ that we can achieve this earlier than
+ the original target.
+ WAVE 1조원 투자 자금 확보 방안에 대해 말씀드리겠습니다.
+ Let me now comment on the ways we want to secure 1 trillion won of investment for WAVE.
+ Thank you very much.
+ In March, Wave made an announcement of making an investment in original content,
+ which is worth 1 trillion won, which will be done by 2025.
+ SK텔레콤 유상증자 1,000억원 등 기존에 확보된 자금을 비롯하여
+ the financial sources for these investments will come from a variety of sources, including the rights offering of 100 billion won of Eski Telecom,
+ as well as external investments and reinvestment of profit from content business.
+ Web 투자 유치 관련해서는 19년에 2천억 원의 FI 투자를 받은 바 있고 현재 2차 펀딩을 계획 중에 있습니다.
+ As for raising external investments, we already received 200 billion won of financial investments in 2019, and we are now in the process of preparing for the second round of funding.
+ As for this second round, as soon as details are prepared,
+ we're going to communicate them with the market.
+ Thank you.
+ 다음으로 질문해 주실 분은 시티그룹의 이승현 님입니다.
+ The next question will be provided by Sean Lee from Citigroup.
+ City Group. Please go ahead.
+ Thank you very much for your question.
+ I have two questions.
+ First, it's a system of security.
+ The first one is a system of security.
+ ADDCAPS와 SKIMPORTSEC가
+ 현황, 그리고 어떻게 운영되고 있는지
+ And what we need to do is
+ So how do you think about the synergy and the synergy?
+ The second one is M&O.
+ 5G 가입자를
+ the end of the year, the end of the year, the end of the year, in the end of the year,
+ This is usually about 900 million dollars, but
+ 1분기에 가입자 순종 규모가 상당히 커서
+ Thank you very much.
+ Thank you for this opportunity.
+ I would like to ask two questions
+ The first question is related to your security business.
+ The ADT CAHPS and SK InfoSec were merged in the first quarter.
+ so what's the current status
+ and the operation of this merged entity
+ and what kinds of synergy
+ are you expecting from this merger?
+ The second question is related to your MNO business.
+ what is your 5G subscriber target
+ by the end of this year.
+ I understand that your initial target by the end of this year was $9 million, but there was a very big net ask in the first quarter, so I'm asking this question.
+ Yes, CTV Group's Isung연 의원님,
+ Thank you very much for your questions.
+ .
+ Thank you very much.
+ I will address your question related to the 5G subscriber growth trend
+ and Mr. Ha from Corporate Center 2
+ will answer your question
+ related to the security business.
+ 5G 신규 상품 출시와 서비스 품질 향상에 지속적으로 노력한 가운데
+ Thank you very much.
+ As we have made continued efforts to offer new 5G products and improve the service quality of 5G services,
+ and as we were
+ improving the 5G ecosystem with new flagship handset launches, we were able to achieve
+ of 5G
+ subscriber number to 6.74 million by the end of this quarter compared to last year so there was a net
+ out of 1.26 million compared to the end of last year.
+ Let's look at the 21st year of 5G, which is about 900 million people.
+ At the beginning of the year, we mentioned that our
+ Our 5G subscriber target for this year was 9 million,
+ but considering the current trend,
+ we think that we can achieve even 10 million.
+ Yes.
+ Thank you.
+ Thank you very much.
+ 5G 신규 요금제와 언택트 플랜이 고객의 선택권 확대와 합리적 가격으로
+ 5G Migration을 촉진할 것으로 기대하고 있습니다.
+ The new tariff schemes for 5G and on-tech price plans that SK Telecom has recently offered
+ to satisfy various customer needs are expected to provide customers
+ with more choices and reasonable prices,
+ thereby accelerating 5G migration.
+ Thank you.
+ Let me now respond to your question regarding the synergy of ADT CAPS and SK InfoSec.
+ Thank you very much.
+ We successfully completed the process
+ of merging ADT-CAPS and SK-Infosec in March.
+ As a result, we have the merged ADT caps
+ with the revenue size of 1.3 trillion won
+ and EBITDA of 357 billion won.
+ Mr 양사 보유한 인프라 및 역량의 결합을 기반으로
+ 총합 시너지 극대화를 위한 활동이 본격적으로 시작되고 있어
+ 21년 연간 매출은
+ 1.6조 원을 달성할 전망입니다.
+ Now various activities are underway in earnest in order to maximize synergy from these two
+ entities based on our infrastructure for security and various capabilities.
+ We expect the annual revenue for 21 to be 1.6 trillion won.
+ Also, Global Cloud Boat 전문기업으로 도약하기 위해
+ In addition, in order to become a global cloud security provider,
+ we have signed an agreement to pursue strategic cooperation with Amazon AWS in April.
+ 3.
+ 4.
+ 5.
+ I can discuss the effect of synergy from the customer perspective and product perspective.
+ First of all, the customer is a large enterprise center of SK InfoSec B2B customer and SME, SOHO center of ADTCAPS B2C customer.
+ First of all, from the customer perspective, SK InfoSec has a large volume of B2B customers, including large enterprises,
+ and ADC Cavs has B2C customers including small and medium enterprises and single businesses.
+ And by combining these different customer segments, we can create cross-selling opportunities.
+ Please.
+ We are looking for a product-based service, a product-based service, and a product-based service service.
+ From the product perspective, we are expected to provide customized one-stop services
+ that combine physical security, information security,
+ and building management as combined solutions.
+ For example, cyber-credits, a platform-credits, and a platform-credits,
+ Thank you very much.
+ For instance, if when there is a cyber intrusion or detection of malicious codes,
+ we can do video analysis
+ by utilizing the platform data
+ and by leveraging on our access control system,
+ we can detect any intruders to buildings and assets.
+ and such flexible response
+ will become more possible.
+ Thank you.
+ 네, 그러면 마지막으로 그 두 분 질문 받고 끝내겠습니다.
+ 진행해 주세요.
+ Yes, I will.
+ The next question will be provided by Neil Anderson from HSBC.
+ Please go ahead.
+ Thank you very much and good afternoon
+ just have one question please
+ and it relates to the media business.
+ and the sequential improvement in operating margin in the first quarter.
+ So for the three quarters last year, it was around 6.7%,
+ and it's increased to 7.8% in the first quarter.
+ So my question is how sustainable is that
+ and what are your margin targets for this year?
+ Thank you.
+ I'm just going to monitor.
+ I'm going to ask you a question about the media margin.
+ The 0.5% margin is about 6.5% and the 0.5% margin is about 7.8%
+ Yes.
+ Thank you very much.
+ Neil Anderson, thank you very much for your question.
+ We believe that there are various factors that have contributed to improvement in the operating margin of SK broadband.
+ First of all, T-Broad
+ Thank you very much.
+ 세 번째로 IPTV 가입자 역시 지속 증가하고 있고
+ The result is a result of the cost of the savings and the cost of the cost of the cost.
+ So these various factors include the effect of the T-broad merger.
+ That's the first factor.
+ The second factor is the increase in the subscriber base
+ and increase in the commission's income
+ from home shopping, broadcasting.
+ The third factor is the continued increase in the IPTV subscriber base.
+ And the final factor would be effective capex
+ implementation and cost efficiency.
+ 앞으로도 지속적인 가입자 증가와 함께 효율적인 운영을 통해 영업 실적을 지속적으로 개선할 수 있도록 노력하겠습니다.
+ Going forward, we will continue to make efforts to increase the subscriber
+ based and carry out our business
+ in a more efficient manner so that we can maintain
+ and increase profitability of the media business.
+ Thank you.
+ 다음으로 질문해 주실 분은 JP Morgan의 스탠리 양님입니다.
+ Good night.
+ The next question will be provided by Stanley Yang from J.B. Morgan.
+ Please go ahead.
+ Q.
+ The first question is
+ Thank you very much.
+ and if the system is in the future, if the system is in the future,
+ best interest rate
+ for you
+ I
+ love
+ us
+ I
+ Thank you very much.
+ launch
+ ,
+ I can't wait to see the new model.
+ So, this is a program called the
+ Launching of the MFs.
+ .
+ M&O
+ Thank you very much.
+ Thank you for this opportunity to ask questions.
+ The first question is related to your dividend policy.
+ You mentioned that detailed decisions regarding the payout, the dividend policy for the spin-off company will be made soon.
+ but can I safely assume that given the MNO dividend payout level of 10,000 won per share
+ and in a
+ In assuming that there will be dividend payout from the new spin-off company,
+ can we anticipate that the total amount of dividend payout from SK Telecom will increase going forward?
+ The second question is related to your subscription business model.
+ There are high expectations for subscription services, and I'd like to know if your subscription
+ model would be to push several subscription models and services separately or to follow
+ the model of Amazon
+ where you have one single subscription platform
+ where multiple services are provided.
+ and if you continue to launch these new subscription services,
+ are they going to be linked with your MNO telecom subscribers
+ or are they going to be operated separately?
+ J.P. Morgan's 양성욱 의원님 질문 감사드립니다.
+ Thank you very much.
+ Thank you very much for your questions.
+ I'm going to respond to your question on the dividend policy,
+ and Han Myung Jin, Head of Subscription Service Company, will answer the second question.
+ 대당과 관련해서는 위원님께서 이해하신 바가 맞습니다.
+ As a result, MNO's tax regime will be designed to be a bill of tax over the years.
+ The other thing is that the law has been in the past.
+ The law has been in the past.
+ Thank you very much.
+ As for the first question on our dividend policy,
+ Your understanding is correct.
+ The dividend payout from the MNO business as part of the surviving company will be similar
+ or more than the previous level of dividend payout.
+ And on top of that, we have not yet decided on the dividend policy of the spin-off company,
+ But if they start to pay out dividend, it's going to be a plus alpha.
+ Thank you very much.
+ As I mentioned earlier, when the Board of Directors is composed for the spin-off company
+ and when discussions on the dividend policy are made,
+ we're going to communicate them with the market.
+ it.
+ Yes.
+ Two more questions.
+ Thank you very much.
+ I am Han Myung Jin.
+ I'm the head of the subscription business, and let me address your second question.
+ Thank you.
+ As you may understand, we have many family businesses under the ICT umbrella,
+ and there are many different services and products that we're preparing
+ that will help enhance the likelihood of customers.
+ Yes, sir.
+ Thank you.
+ Thank you very much.
+ Basically, I can say that our model will be similar to Amazon Prime,
+ where there will be an integrated subscription paradigm.
+ In addition to that, we are planning to offer additional services and products for subscription.
+ So we're planning to charge a monthly subscription fee for the subscription customers.
+ MNO통신조금과 연계에 대해서는
+ Thank you very much.
+ As for your question regarding the connection with MNO services,
+ we are currently planning this
+ subscription platform to
+ to reach out to 50 million Korean population.
+ So we're currently not considering any linkage between the subscription services and the MNO fees.
+ Thank you.
+ 이상으로 2021년 1분기 실적에 대한 컨퍼런스 콜을 마치도록 하겠습니다.
+ We would now like to close our conference call for the first quarter of 2021.
+ Thank you.

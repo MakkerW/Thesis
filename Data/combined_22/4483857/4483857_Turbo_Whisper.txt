@@ -1,0 +1,1162 @@
+ Good morning, ladies and gentlemen, and welcome to Siemens Healthineers Conference Call.
+ As a reminder, this conference is being recorded.
+ Before we begin, I would like to draw your attention to the Safe Harbor Statement on
+ page two of the Siemens Healthineers presentation. This conference call may include forward-looking
+ statements. These statements are based on the company's current expectations and certain
+ assumptions, and are therefore
+ subject to certain risks and uncertainties.
+ At this time, I would like to turn the call over to your host today,
+ Mr. Mark Kubanik, Head of Investor Relations.
+ Please go ahead, sir.
+ Thanks, Operator.
+ And welcome, dear analysts and investors, to today's call, also from my side.
+ Our first quarter results were released at 7 a.m. CET this morning,
+ and you can find all the material, presentation, earnings release,
+ and the recording of the call on our IR webpage.
+ I'm sitting here with Bert Montag, CEO of Siemens Healthineers, and Jochen Schmitz, our CFO,
+ who will be taking you through our first quarter results in the usual detail.
+ After the presentation, you will have the chance to ask questions.
+ Please may I ask you to limit yourselves to two questions each.
+ Some things never change.
+ With this, I pass the word over to our CEO, Bernd Montag.
+ Bernd, the floor is yours.
+ Thank you, Mark.
+ Good morning, dear analysts and investors.
+ Thank you for dialing in and expressing your continued interest in Siemens Health Seniors.
+ It has been a few months since we last spoke at our 2021 Capital Market Day.
+ In case you missed it back then and have a few hours to spare, you can still watch it on our web page.
+ Let me start by shedding some light on our financial performance in Q1, which shows that
+ we have been able to improve our financial performance in Q1, which shows that we have
+ been able to take the momentum from
+ 2021 over into the new financial year, despite a quite challenging environment.
+ We increased our order backlog with an excellent equipment book-to-bill rate at 1.2, which is for all segments roughly on the same level.
+ Comparable revenue growth was strong with 9.5%,
+ driven by an excellent 20% growth in diagnostics, including €329 million of rapid antigen sales.
+ Varian had a very solid start
+ to the fiscal year and contributed 750 million euro to the revenue.
+ Imaging continues to be strong with 6% comparable revenue growth and advanced therapies with 3% growth.
+ The adjusted EBIT margin for the group came in at 17.6% in Q1.
+ foreign exchange
+ headwinds and currently higher
+ procurement and logistic costs were mostly offset by a better than expected rapid antigen
+ contribution.
+ Our adjusted earnings per share increased year on year and was 55 euro cents in Q1
+ Free cash flow was strong with 556 million euro.
+ We have raised the outlook for the group
+ In terms of comparable revenue, we now expect 3% to 5% growth from previously 0% to 2%.
+ For adjusted basic earnings per share, we expect 2.18 to 2.3 euro cents from previous
+ me 208 to
+ 2.20.
+ This increase is the result of higher than expected antigen revenues.
+ we now assume
+ 700 million of revenues
+ out of rapid antigen testing in fiscal year 22.
+ So while it looks like it's shaping up to be another successful year at Siemens Healthineers,
+ and Jochen will explain in more depth
+ the numbers of this successful start.
+ Let me recap a bit on what we told you at our Capital Markets Day.
+ What makes Siemens Healthineers so unique?
+ The basis for our success
+ is the set of unique capabilities which we have systematically built in the past years.
+ A set of capabilities which we keep strengthening every day
+ Patient winning.
+ precision therapy, and digital data and AI.
+ Patient training means adding more effective and efficient ways to accurately describe the state of an individual patient.
+ Having the ultimate vision of a digital twin of a patient in mind
+ on which diagnosis, therapy selection, and response control can be based very individually.
+ This is why we drive imaging to new levels of insights,
+ develop new diagnostics tests
+ and work on making imaging and diagnostics more productive and accessible.
+ position therapy means
+ using cutting-edge technologies
+ to deliver individualized therapies.
+ often with submillimeter accuracy, whether it's cancer, neuro, or cardiac disorders.
+ The importance of precision in treating patients is what makes variants so unique in cancer therapies.
+ It is also why Advanced Therapies is focusing on making more and more procedures minimally invasive
+ by image guidance and robotic assistance.
+ Precision improves results
+ reduces side effects, in short, makes
+ therapies better for patients.
+ Our third strength is our unique competence in digital, data, and AI.
+ It is key for scaling the application of technological advances, for having the next patient benefiting from the knowledge generated by diagnosing and treating millions of patients before, and for connecting patient training with precision therapy.
+ our unique capabilities
+ allow us to pioneer breakthrough
+ innovations to fuel further growth.
+ Let's look at some of the most recent examples.
+ First, the Magnetom 3-Max, our lightest, smallest, and most cost-effective MR system.
+ The Magnetron Free Max comes with a basically helium-free technology
+ that significantly reduces total cost of ownership
+ and therefore makes MR more accessible and consequently improves access to high-quality diagnosis globally.
+ Since its launch, we have seen more than 50% of systems being sold into new markets.
+ That means into settings where MR could not go before.
+ Buyer decisions are driven by favorable infrastructure requirements and ease of use, especially for those first-time users.
+ It was released in August 21
+ and we see a steady order ramp up
+ also for the little sister
+ the magnetome 3 star
+ The Neotome Alpha is the first FDA-cleared photon-counting CT on the planet.
+ After more than 15 years of development, over 280 patents and over 100 publications,
+ We have successfully launched Neotorium Alpha on November 18th, 21.
+ Described by the FDA as the first major imaging device advancements for a CT in nearly a decade,
+ Neoterm Alpha is seeing an impressive customer interest in both private and academic institutions.
+ Our customers confirm that photon counting technology has the potential to become the new global technical standard in CT in the decades to come
+ More than 35,000 patients were already scanned using the new system as of today,
+ and we started to book orders in 5th year 21 for a selected customer group of early adopters already.
+ Atelica CI-1900
+ Atelica Solutions Little Sister
+ is targeted towards mid-sized slabs
+ hub-and-spoke settings and the emerging countries.
+ It brings the Atelica philosophy of combining quality and throughput to even more customers worldwide.
+ Speaking of Atelica, in Q1 we were capable to sign a contract for more than 40 Atelica solution analyzers with Ascent in California,
+ making it one of the country's largest single-site Atelica solution locations.
+ locations.
+ turning the page over to Precision Therapy Ethos,
+ our AI-driven adaptive radiation therapy system,
+ provides data-driven personalized cancer care
+ with maximum impact while minimizing side effects.
+ Since launch, we have booked more than 110 orders for Ethos already.
+ around 50 systems are installed with a remarkable number of over 15,000 adaptive sessions since launch.
+ And with CorePath, we are on the way to advance endovascular robotics to better and more accessible state-of-the-art stroke treatment.
+ all of this
+ is enabled by the glue
+ of digital data and AI
+ like our AI
+ Red Companion or variants
+ oncology as a service offering.
+ As an example, we advance clinical decision-making with a comprehensive AI-powered portfolio
+ with our AI companions
+ providing solutions for anatomies,
+ covering 35% of imaging procedures.
+ By 2025, we aim to increase this number to 85%.
+ These breakthrough innovations, our unique capabilities and the focus and scale of our broad
+ products and solutions
+ portfolio allow us to
+ benefit from
+ and to
+ contribute to the three
+ company-wide growth vectors that we presented at our capital market day.
+ These growth opportunities include
+ fighting the most
+ Threatening Diseases
+ enabling efficient operations and expanding access to care.
+ Our unique technologies and competencies are tackling exactly these opportunities
+ and we tirelessly strengthen them even further.
+ As a result, we will have even more impact on global health care and accelerated growth.
+ And while we pursue these three company-wide growth factors,
+ each segment keeps a razor-sharp focus on its respective targets
+ and contributes to our midterm targets that we presented at our Capital Markets Day.
+ As a reminder, we aim to grow our comparable revenue growth by 6% to 8% per year
+ and our adjusted EPS by 12 to 15 percent per year in the years from 23 to 25.
+ Quickly turning to Varian, I highlighted already before the incredible success of Varian with the rollout of Ethos,
+ taking a lead in the adaptive therapy market.
+ However, besides this, Varian also delivered a very remarkable quarter.
+ Varian had a very solid start
+ with a very positive revenue growth across all regions,
+ with revenues reaching €750 million.
+ Euros. At the same
+ time, Varian has been capable
+ to further expand its
+ strong order backlog
+ with an equipment book to build of 1.23 in the first quarter.
+ Order.
+ Documentation of this strong performance
+ are two notable long-term partnerships
+ we signed with the Oulu University Hospital and the U.S. Oncology Network.
+ The partnership with Oulu University Hospital in Finland
+ is a 10-year strategic partnership to build a comprehensive
+ digital, diagnostic, and therapeutic ecosystem
+ that addresses
+ the entire
+ cancer treatment pathway and advances the quality of care for cancer patients in northern Finland.
+ Through this partnership,
+ Varian and Siemens Healthineers will provide Oulu University Hospital with a technology
+ and services package that includes both imaging and radiation therapy equipment
+ for cancer treatment, software solutions for improved workflow
+ and decision support and a range of services from equipment maintenance
+ to staff training and workforce development.
+ This is just one of many proof points of combined deals that we have in our pipeline.
+ So stay tuned for more combined deals to come.
+ At the same time, during the quarter,
+ Varian signed a multi-year agreement with the U.S. Oncology Network,
+ further extending the existing partnership.
+ The U.S. Oncology Network is the largest network of community oncologists in the United States.
+ The agreement includes software, service, and equipment solutions across the U.S.,
+ including service support for over 150 linear accelerators.
+ Also in terms of profitability, Varian achieved a strong quarter
+ with an adjusted EBIT of 117 million euros
+ and a margin of 15.7%
+ variant is already right in the middle
+ of its margin target range
+ of 15 to 17 percent
+ and therefore very well on track to deliver on what we have committed.
+ So before I hand it over to Jochen for the financials and our updated outlook,
+ Let me just say how proud I am
+ and how we as a team
+ have managed these challenging times and that we consistently work and deliver on our target
+ to pioneer breakthroughs in health care for everyone, everywhere.
+ and with this over to you Jochen
+ Thank you, Bernd, and also good morning, everyone, also from my side.
+ Glad that you are joining us again.
+ Let me take you through our financials of our first quarter in fiscal year 22.
+ as Bernd
+ highlighted before
+ we see the momentum from fiscal year 21 to continue in the first quarter of our fiscal year 22.
+ Let me start with giving some color on the dynamics and the equipment orders first.
+ We continue to post very good equipment order intake growth
+ in the high single digits, a very
+ healthy dynamic both year over year as well as sequentially underpinned by the again very good
+ equipment book to bill of 1.2 in Q1.
+ In revenue, we also continue to see good underlying revenue growth,
+ i.e. excluding rapid antigen revenue of 4.5% growth with growth across the board.
+ This is particularly good when you take into account that we grew by around 10% ex-antigen
+ last year, and this
+ again was on the last quarter
+ in fiscal year 20
+ which was not impacted by the pandemic.
+ This is, for me, a clear testimony not only to the accelerated growth momentum
+ and at the same time
+ as and as important
+ to our unique resilience
+ in extremely challenging environments.
+ In particular, the appearance of the Omicron variant
+ accelerated the momentum of the antigen business in Q1
+ with $329 million of revenue, primarily in EMEA,
+ which brings us to the overall
+ 9.5%
+ comparable revenue growth.
+ Bear in mind that we received the EUA approval for the U.S. market only at the end of December.
+ Therefore, we did not see U.S. revenue from the antigen business in Q1.
+ I will talk later in my presentation in detail on what we have assumed
+ for the antigen business in the remaining fiscal year.
+ In the geographies,
+ we also see the very good underlying momentum continuing.
+ Also in China, which saw very tough comms in the prior year quarter.
+ Last year in Q1, we saw significant equipment growth in China due to government-backed preparations for a potential second COVID-19 wave.
+ In Q1, we also saw tailwind from foreign exchange translation of around three percentage points.
+ So revenue in Q1 grew by around 12 percent.
+ if you take out portfolio effects only.
+ this grows
+ we saw also drop through
+ to the bottom line
+ with 12% growth on our adjusted earnings per share this quarter.
+ Obviously, there were some moving parts in between.
+ Adjusted EBIT margin came in at 17.6% below the stellar prior year quarter.
+ bear in mind that last year's Q1 was exceptionally good
+ since we posted the highest margin of the fiscal year in Q1,
+ which is quite unusual
+ so we see some degree of normalization in the Q1 margin this year.
+ On top of this, we saw two major headwinds this quarter.
+ headwinds from foreign exchange
+ on the bottom line
+ and currently higher costs from procurement and logistics
+ related to the current situation of global supply change in the COVID-19 pandemic.
+ On the other side, we saw tailwind from the higher rapid antigen contribution.
+ I will talk in more detail later in this presentation
+ on the different profit impacts this quarter
+ and what to expect in the course of the remaining fiscal year.
+ Below the ABIT line, we posted minus 30 million euros of financial income, which was above our normal run rate for interest expenses due to a negative impact from the valuation of smaller equity investments.
+ We continue to expect the targeted 50 to 70 million expenses financial income net for the full fiscal year unchanged to our guidance from early November.
+ Tax rate came in at 29%, slightly above prior year quarter.
+ Regarding cash, we had also a very strong start to fiscal year 2022 in generating free cash flow.
+ With a strong free cash generation of 556 million euros, despite significantly higher bonus payouts,
+ and the ongoing challenges in the supply chain with its impacts on inventory levels.
+ this was
+ largely driven by
+ excellent cash collection.
+ now let us have a look at the dynamics in the different segments
+ Bear in mind that Varian has no comparable prior year quarter yet
+ and therefore is not included in the comparable growth numbers yet.
+ we will include variant in our comparable growth from Q3 onwards.
+ Let us now have a look at our segment performance.
+ As Bernd has already covered Varian, I will be commenting the remaining three.
+ Imaging continues to be strong with 6% revenue growth, driven by very strong growth in molecular imaging, CT, and MRI on the back of very strong prior year growth, fueled both by healthy underlying growth in the core business as well as some pandemic-related demand.
+ On the adjusted EBIT line, imaging showed a good performance of 20% margin.
+ however it was
+ 340 base points below
+ prior year's record margin
+ partially due to headwinds from foreign exchange and procurement and logistic costs.
+ our marketing and sales activities
+ for the new product launches
+ in the first quarter also impacted the margin slightly negatively.
+ The diagnostics showed excellent growth driven by rapid antigen sales
+ as well as a very solid core business growth.
+ given the normalization of the
+ test volume for routine examinations, excluding the rapid antigen contribution core business
+ continues with solid growth
+ at more than 3%.
+ On the margin side, profitability was up by 530 base points year over year from the highly
+ a creative rapid antigen business.
+ excluding antigen
+ the core business sustained
+ solid underlying profitability.
+ I will give more detail
+ what this means for the diagnostic performance going forward on the next slide.
+ At the same time, we also saw an impact of around 300 base point headwinds from foreign exchange and procurement and logistics costs,
+ which were overcompensated, obviously, by the antigen contribution.
+ Advanced therapies
+ saw 3% growth
+ this quarter a decent performance
+ on a strong comparable of 6% in prior year and almost 10% in Q1 of fiscal year 20.
+ Despite a softer growth quarter, we see advanced therapies well on track for growth this year with a healthy order backlog.
+ Q1 margin in advanced therapies was down to 14.3% in Q1 versus a very strong prior year quarter
+ and in the guided range for this fiscal year.
+ In this quarter, the margin was negatively impacted by the headwinds from foreign exchange
+ and procurement and logistic costs of around 150 BIPs
+ and also by ongoing investments for Corindus.
+ in our diagnostic business
+ we now assume a higher rapid antigen revenue contribution of 700 million euros in fiscal year 2022,
+ up from previously communicated 200 million.
+ Since our fiscal year 2022 outlook announced in November,
+ Well, the situation has changed significantly with the Omicron variant wave.
+ adding to this
+ We have received the FDA Emergency Use Authorization approval in the United States.
+ states both
+ was not factored into our original guidance.
+ The team worked very hard to get the U.S. approval and meet the additional demand which arose from this opportunity.
+ However, the full-year visibility on the testing demand is still relatively low,
+ and the situation is still very dynamic.
+ based on the trends we experienced
+ over the last years
+ we anticipate strong demand in Q1 and Q2
+ and then softening demand during the summer month.
+ Additionally, pricing has come down substantially for tenders in Germany
+ and considering we are not
+ the only player to receive the U.S. approval for its COVID-19 antigens, we should see how
+ pricing and volumes evolve over time in the United States.
+ So the overall market becomes more and more competitive with more capacity overall.
+ Therefore, we expect revenues to decline sharply in the second half.
+ Profitability in this segment is largely a result of the development in volume and prices.
+ We expect profit accretion from rapid antigen peaking in the first half
+ to then decline sharply in the second half due to the expected lower demand and price erosion.
+ Finally, a few comments on the Q1 performance of diagnostics core business.
+ business. Excluding rapid antigen margin and creation, we continue to see that the core business is
+ developing according to our plans
+ with a solid underlying profitability
+ and this needs to be evaluated
+ taking into account the current global supply chain challenges.
+ taking everything into consideration
+ we can be very happy with the steady improvements in our diagnostic segment.
+ And we continue to be on track with our plans to turn around the business.
+ now let us have a closer look
+ at the different
+ profit impact that we expect to be
+ more material
+ in this fiscal year.
+ You see on this slide,
+ The four topics that we currently consider material and their year-over-year impact on adjusted EBIT in the first half and the second half of this fiscal year.
+ And you also see that they all have somewhat different profiles in terms of year-over-year comparison over the course of the year.
+ Let me start with what we just talked about, our rapid antigen testing.
+ We expect a very positive accretion in the first half year,
+ turning into a very negative year-over-year impact in the second half
+ due to the slowing demand
+ and at the same time comparing against the very strong second half of last fiscal year.
+ Regarding foreign exchange, as said before, we see a translational tailwind of around three percentage points this quarter, particular from the strengthening of the U.S. dollar.
+ and we expect this to continue throughout the year.
+ However, since we do hedging on a rolling basis for three to six months forward,
+ the impact to the EBIT line is usually trading the top-line impacts by the set three to six months.
+ Consequently, we expect a negative impact from foreign exchange on the first half bottom line,
+ turning in second half
+ The topic of impacts from incentives followed us during the course of last year.
+ So let me start that the updated assumption for rapid antigen for this fiscal year is already fully reflected in our books.
+ Also group incentives
+ related to antigen are kept this year.
+ So any incentive impacts from antigen will be limited to the diagnostic segment from now on
+ as the new assumption is already beyond the set cap.
+ For fiscal year 22, we expect an overall tailwind from incentives skewed towards the second half.
+ We expect the tailwind in the second half of the fiscal year to be larger.
+ since we booked in last year's Q4
+ the employee bonus provision of 56 million euros.
+ The tailwind from incentives in Q1 was largely compensated by higher travel and marketing costs.
+ And now to the impacts from procurement and logistic costs
+ related to the current situation of global supply chains.
+ We are aware that this is a big topic currently, also in the capital market.
+ So let me give you three main messages that sum up our current situation and what we expect for the remainder of the year.
+ First, very important, we did not see material impacts on our revenues from supply chain issues so far.
+ and we assume that we will not see material impacts going forward.
+ Obviously, there is uncertainty from the future development of the pandemic and, for example, from new variants, which we cannot foresee.
+ Second, we see the headwinds, mainly in procurement and logistic cost of around 100 base points in margins year over year, skewed towards the first half of the fiscal year.
+ These headwinds have two main drivers.
+ One driver is price increases due to shortages, most notable in the electronic components and in certain raw materials like metals.
+ the other driver is
+ logistic cost
+ including structural changes, e.g. switching from sea to air freight,
+ and mitigation measures in our manufacturing to secure production.
+ And this brings me to the third message.
+ Thanks to our team, we have been managing these challenges extremely well so far
+ and we expect to continue to manage the situation well going forward.
+ Our procurement, manufacturing, and R&D teams work closely together on mitigation and new solutions,
+ working together with our suppliers
+ who are closely integrated into our value chain.
+ Albeit, we manage the situation, relatively speaking, very well.
+ the 100 base points
+ year over year headwind
+ now reflects
+ the intensified global supply chain challenges
+ and of course
+ this is also reflected
+ in our updated outlook, which brings me directly to the next chart.
+ We raised the outlook for fiscal year 2022 due to the new assumption of €700 million
+ for rapid antigen revenues in fiscal year 2022.
+ Consequently, we raised the revenue target for diagnostics to low single-digit negative growth.
+ this race
+ this raises the
+ outlook for the group
+ to 3% to 5% comparable revenue growth.
+ We also raised the outlook for adjusted basic earnings per share.
+ The range for the adjusted EPS is now between €2.18 and €2.30.
+ sense. This new range
+ obviously include the different
+ profit impact
+ that we have discussed before.
+ e.g. the headwinds from procurement and logistic costs
+ as well as the higher
+ rapid antigen contributions in diagnostics.
+ This results in a net impact of around 10 cents higher outlook,
+ by which we increase the outlook for adjusted earnings per share.
+ The diagnostic margin in fiscal year 2020
+ 2 is now expected
+ in the low teens
+ driven by the higher contribution from the rapid antigen business
+ and all other targets for the segments and the other items of the previous outlook remain unchanged.
+ One comment on the margin target for imaging in the range of 22 to 23 percent.
+ We currently expect the imaging margin to be around the lower end of the range,
+ mainly due to the aforementioned headwinds from procurement and logistic costs.
+ This reflects an element of caution since there is uncertainty,
+ especially how
+ headwinds and
+ Mitigation measures will play out in the second half of the year.
+ Let me also add a comment on what we expect in Q2, where we have obviously better visibility.
+ for comparable revenue growth
+ We expect momentum from Q1 to continue into Q2 for all segments.
+ on the margin side
+ we expect imaging margins in Q2 to continue to be somewhat below the 22 to 23 margin range,
+ whereas we expect in the other segments some more pressure from procurement and logistic costs.
+ So margins in the other three segments might end up around or slightly lower compared to Q1.
+ And with this, I close my presentation and hand it over to you, Mark, for Q&A.
+ Thanks, Jochen.
+ I will be obviously managing the Q&A
+ but let me just hand it also briefly to the operator to start the Q&A session.
+ Thank you, gentlemen. We will start today's question and answer session where we would
+ like to ask you to limit yourself to two questions. If you wish to ask a question, please press the
+ Star key, followed by the digit 5 on your telephone keypad.
+ Again, ladies and gentlemen, please press star 5 on your telephone keypad.
+ So great, I see you're lining up here.
+ first caller on the line
+ would be Veronica Dubajova from Goldman Sachs.
+ Veronica, your line should be open.
+ please ask your questions
+ um
+ Hi, guys. Good morning, and thank you for taking my questions. I have two, please. One is on the COVID-19 guidance. I mean, obviously, you've already delivered $329 million of sales in the first quarter.
+ And just looking at the 700, it seems to me like there might be some room for upside, even just thinking about the second quarter.
+ So maybe, Johan, you can give us a little bit of your thinking on, you know,
+ why Q2 shouldn't be at least as good as Q1, and in that context, why the 700 might be
+ maybe a bit more cautious.
+ I know you mentioned pricing, but I'm just curious, you know, in terms of demand, if you can give us a little bit of insight into what you're seeing at the moment.
+ That would be my first question.
+ And then my second question is on the imaging margin.
+ and obviously coming in at around 20% in Q1 and assuming Q2 is similar,
+ That does leave you quite a lot of work in the second half to do.
+ how much visibility do you have
+ on component pricing and
+ transportation costs as you move into the second half of the year?
+ Or have you been able to lock in some prices there that help you?
+ and therefore, you know, how de-risked is that 22% on a full-year basis?
+ Thank you.
+ Yeah, hello, Veronica.
+ Thank you very much for the good questions.
+ on, let me start
+ with antigen first.
+ as you
+ as you know, we were
+ always
+ relatively
+ conservative with assuming
+ in our outlook
+ an anti-gen revenue portion
+ and we have good visibility on the 700 million
+ And I would also expect to see a relatively similar level of revenue in Q2 as we saw in Q1 at least.
+ And this leaves then some trailing out antigen revenue for the remaining quarters.
+ that is our current thinking
+ And there are a lot of, I would say, variables still open, pricing, availability, channel development in the United States and other things,
+ which led us to give you, I would say, a very balanced guidance for 700 million
+ assumption for 700 million
+ in our outlook.
+ On the imaging margin, I mean, you asked several questions around this.
+ last year
+ you saw quite some
+ quite some, I would say, spread in the margins
+ yeah
+ from
+ 18% in Q3 up to, I think, 20, 23, 24% in the highest quarters.
+ and we started now with
+ and ended up on average with 21%.
+ yeah
+ my
+ And we start now with 20% with significant headwind from foreign exchange
+ as well as procurement and logistic cost.
+ We expect those procurement logistic costs to be skewed towards the first half of the fiscal year.
+ Yeah, this is our assumption.
+ visibility is
+ is not
+ super great in this regard
+ but this is what we can't assume
+ and we have
+ a clear plan
+ to get
+ to the lower end of the range
+ as I highlighted
+ but
+ visibility is
+ is beside
+ backlog
+ where we have good visibility, strong, I would say.
+ I would say strong security on the top line.
+ I think we still have some limited visibility on certain cost items.
+ But I'm still confident that we can reach the lower end of the band.
+ Very clear.
+ Thank you so much, Johan.
+ thanks
+ Veronica
+ so then I would
+ head over to the next
+ person on the line is
+ would be Patrick Wood from Bank of America.
+ Patrick, you should be live now
+ Please ask your questions.
+ Perfect. Thank you very much for taking my questions.
+ I guess the first one, predictably on the margin side, I'm just curious as to, you know, you clearly have quite a lot of offset work going on within the business to manage some of those increased costs.
+ Just curious, what are some of the things
+ that you're actually doing
+ within the business to offset those costs, some detail there would be great.
+ The other side may be actually on the demand side of things.
+ You know, the Neotom, good to know it's in the, you know, the early launch phases with early adopters.
+ but if you were us
+ When should we expect it to become more in a full commercial launch?
+ is that a
+ you know really back off of this year or you know when do you feel you're going to be able to put
+ more
+ more of the pedal down and push the product in a more aggressive way.
+ Thanks.
+ Thank you, Patrick.
+ so
+ maybe I
+ rephrase the question here, how do we
+ offset the cost, I mean, the other
+ thing is also how do we preserve
+ of margins here because margin
+ is the difference of price and costs, yeah?
+ And I mean
+ one big topic is
+ is of course to very carefully
+ manage pricing
+ yeah
+ and also to make sure that we use our pricing power.
+ and there I'm
+ we have
+ we have good signals
+ that
+ we also make good progress on that front.
+ I mean, we see it also in the order book, that pricing quality is good.
+ so don't
+ only look at the
+ at the
+ At the cost side
+ Yeah
+ and
+ when it comes to the
+ component supply
+ aspects
+ I'm
+ I believe that we are getting into more and more stable waters,
+ which will
+ also help
+ ease the effect
+ from there. But in the end, I mean,
+ And I think, please bear in mind two things.
+ on the one hand
+ I think we did a great job
+ also compared to some of our competitors in safeguarding the top line,
+ which is I think the
+ first and big topic
+ to achieve
+ yeah
+ Um,
+ And secondly, we will manage very carefully the cost implications.
+ But on the other hand, there is a big topic when it comes to pricing power
+ and also passing some of these effects on, so to say.
+ When it comes to the photon counting, I mean, this year is the year of a rollout to selected customers.
+ where we will
+ so that the, I mean, an early commercial rollout, I would say,
+ the full commercial effect
+ you will see
+ in the next fiscal year
+ but what we
+ what we see so far
+ in terms of interest
+ in terms of also
+ real demand
+ but also in terms of
+ price realization is
+ very, very
+ encouraging
+ and maybe
+ Patrick, one other
+ aspect on that
+ margin topic.
+ we have made a deliberate decision
+ to have a clear prioritization
+ to be able
+ to deliver
+ our
+ products, to our customers.
+ candy that is
+ doesn't come
+ for free
+ We need to be clear about this.
+ this is a deliberate decision
+ and that's also why we
+ currently do not see any material impact on the top line
+ because of the strength of our team
+ but also based on the decision we made
+ you know
+ And I think we feel so far, in relative terms speaking,
+ comfortable with that decision
+ and
+ we will obviously
+ observe it very very carefully
+ if things would get out of control in this regard
+ yeah we would
+ might need to do things differently, but we don't expect this to happen.
+ Fabulous.
+ Thanks for taking the questions.
+ Any questions?
+ so next one on the line
+ would be Lisa Clive
+ from Bernstein. Lisa,
+ Line should be open.
+ Please ask your questions.
+ hi there i have two questions on the ibd business um first on your u.s antigen revenues um are you
+ selling to specific government programs, or are you going to pharmacies, more of a sort
+ of direct-to-consumer approach.
+ just curious as to the channels
+ and whether you may expand that over time.
+ And then second question, just on the IBD business X antigen,
+ And nice to hear that there's some, you know,
+ decent revenue growth and margin improvement there.
+ if we think about the underlying
+ demand for sort of routine tests. How close are we
+ to getting back to normal volumes?
+ Are we at sort of 85% or is it more or less than that?
+ Thanks.
+ Yeah, let me go first here.
+ I mean, the primary customer group when it comes to antigen testing or rapid tests in the United States is, let's say, large customers.
+ and we are not
+ you don't have the channels
+ and not the ambition
+ yet to go into the
+ into too much into
+ into a scattered retail space.
+ So number one is, of course, the big government programs.
+ This is also what our strength is and has been in Europe.
+ where the claim to fame
+ for Siemens Healthineers as a super agile company was
+ to make sure to deliver big quantities of super reliable tests with high confidence and certainty.
+ in terms of millions of tests
+ which need to be delivered at once
+ And this is also one aspect we are now living up to in the U.S.
+ when it comes to the government program.
+ We are also looking at larger retail chains, yeah, and we'll see how that market develops, yeah.
+ but that is currently baked into the forecast of the 700 million.
+ when it comes
+ to the core business.
+ I mean, yes, it had a in-diagnostics.
+ I'm very
+ happy with the
+ a nice continuation of the trend of a step-by-step improvement towards the targets we have set
+ for this business.
+ when it comes to how
+ how close this business
+ is to the, let's say, pre-pandemic levels.
+ I think it's pretty, it's, I can't give you a clear number, yeah?
+ I mean, but it is more in the 90% to 100% normal, yeah?
+ but what you still see
+ and which is
+ which is when you double click on it
+ is that when it comes to the testing menu,
+ there might be some
+ shifts compared to
+ what normally has been done
+ compared to two years ago
+ There were maybe two years ago more wellness tests,
+ and now there are still more secondary COVID-related tests here,
+ which are baked in
+ because of some COVID-related comorbidities or so.
+ but overall
+ we are largely
+ back to
+ to
+ to a normal
+ situation in that business.
+ Okay, thanks for that.
+ Thanks, Lisa.
+ Okay, next one on the line should be James from Jefferies.
+ James, your line should be open
+ so please ask your questions.
+ Thanks very much.
+ It's James Lane Tempest from Jefferies.
+ two questions please
+ So just on procurement and logistics, you mentioned you don't have a lot of visibility.
+ So I'm just curious, what's changed in the past three months when you first gave guidance?
+ You know, where were the additional pressures which weren't initially anticipated?
+ and without that visibility, how do you have confidence?
+ we won't see additional pressures in the second part of the year
+ And then my second question is just on Varian, actually.
+ I think, you know, you said it's going to be included in comparable sales growth from Q3 this year.
+ I think if we just look back a bit, I think in Q3 before, I think you said it was around 17%.
+ I can't remember the Q4 number off the top of my head, but from April, I think it's sort of low teens to expect.
+ So I just wonder if you can give us a flavor what that was in Q1 so we can see the trajectory for that.
+ Thank you.
+ Yeah.
+ Thanks for the question, James.
+ What has changed since the initial assumption was that I think we saw, I would say,
+ the shortages and the necessity to buy at spot rates
+ certain components has increased
+ relative to where we stand
+ at early November.
+ secondly
+ as I said beforehand
+ And we deliberately made the decision to prioritize the ability to be able to deliver to our customers.
+ and by this we had to do
+ because of the difficulties
+ because it's not only
+ price of
+ components. When you have
+ shortages, you also need to be super
+ agile and flexible in your internal
+ processes which
+ sometimes also lead to
+ I would say to certain disruptions
+ in your internal processes
+ which might also lead to later ability to manufacture things,
+ and therefore you also have certain logistic challenges following up
+ And that's also why I said structural changes from sea to air freight and things like this.
+ And I would say the tension just increased across the board.
+ But as Bernd said,
+ you know,
+ what we currently see is that we see
+ stabilization of some
+ in particular
+ and on the supply side
+ of components, certain things, which
+ gives us, I would say, some confidence in being able even to measure that even better
+ than we have already measured today.
+ And there's also the learning curve we currently walk through.
+ We are being under this pressure in the organization is helping to optimize our internal processes according to the challenging environments.
+ on the variant side
+ on a pro forma basis.
+ The growth rate on revenue in Q1 was in the low teens again.
+ again. A super strong
+ start fully in line
+ what we have guided for
+ for varying for the full fiscal year.
+ that's great thank you
+ Thanks, James.
+ So, next one online should be Julien Demois, Rick Zane.
+ Julien should be live.
+ Hello, good morning, Dan. Good morning, Joran. Thanks for taking my questions. I have two.
+ the first one
+ and sorry
+ if you mentioned that in your pre-pred remarks
+ but the line
+ was a bit patchy
+ but it relates to the diagnostics margin
+ excluding the COVID
+ contribution
+ I think you have a guidance
+ for fiscal year 2022
+ which is to reach
+ a
+ mid-single-digit to high single-digit
+ margin for the
+ the underlying diagnostics business.
+ So just curious whether the Q1 margin was in line with that guidance
+ or maybe marginally above, and any help in understanding
+ profitability of the COVID tests
+ in Q1 would also be helpful
+ I think you had previously indicated that the pricing had been maybe halved in some instances.
+ instances, so just willing to understand
+ was the profitability of the underlying business
+ and the COVID test, if possible.
+ And the second question relates, sorry for that again, to the logistics and procurement
+ cost
+ it's more looking at the mid-term
+ guidance that you had indicated
+ at your Capital Market Day back in November.
+ you have said that you expect
+ an improvement on that side in H2
+ so
+ you would say that there is nothing
+ structural there that
+ could prevent
+ you from
+ reaching your
+ midterm guidance, both in imaging and diagnostics for the next few years.
+ Thanks for the questions.
+ as you rightfully said, our
+ Guidance for
+ for the diagnostic business or core business for this fiscal year
+ is on the profitability side, mid-single-digit to higher-single-digit,
+ and we were at the lower end of this range, in the range,
+ but at the lower end
+ also due to the fact
+ that we had significant
+ and, as we highlighted,
+ significant headwind
+ from foreign exchange as well as
+ the procurement and logistic costs
+ in Diagnostics
+ it's primarily due to
+ You just take class, can't you, man?
+ Um,
+ and we feel
+ but we feel well on track
+ to stay in that line
+ and see progress as we proceed through the year.
+ Yeah, yeah.
+ on the
+ procurement and logistic
+ front
+ I do not see this as
+ a critical item for our
+ mid-term targets.
+ we consider this
+ temporary problem
+ which should
+ should be dealt with
+ over time and as
+ band already set before and we
+ We have also mitigation measures when you extend this topic,
+ not only to COVID-19
+ but also to the inflation topic
+ that we can
+ that we can also
+ I would say in a very
+ meaningful way address
+ it by
+ by significant price discipline.
+ and we have initiated the measures
+ and we will see
+ we expect to see also benefits from this
+ kicking in
+ in the
+ according to when the orders come in
+ and turn that into revenue
+ more in the later end of this fiscal year and then in the next years.
+ Yep.
+ Okay, thanks.
+ then I would
+ pass it over now to
+ Hassan from
+ Barclays. Hassan,
+ your line should be open.
+ Thank you.
+ I can't hear you.
+ Thank you.
+ Let me just a second.
+ I don't know if we have any technical issues here, maybe just a second.
+ Hasan, I hope we get you into the line.
+ In a second, or two.
+ Please record your name after the tone and press the pound key.
+ We'll be back.
+ The conference is in presentation mode.
+ Okay.
+ so we try it again
+ in the conference
+ are you live now Hassan
+ give us
+ yes hi i can hear you now mark thank you brilliant um i have two questions please so firstly just to
+ comments on the top line
+ your competitors have clearly seen headwinds
+ and have talked about deferred installations.
+ Is this something that you're seeing at all, or is this getting worse in fiscal Q2?
+ And then second, could you elaborate on your comments on pricing burned
+ and whether you have a meaningful ability to offset cost increases and pass them on to customers
+ or are you seeing an overall level of pricing deflation?
+ Thank you, Hassan.
+ I mean, first of all, and here I, coming back to Jochen's point,
+ where we say we made a decision to deliver,
+ but on the other hand,
+ We have the ability to deliver, which is, I think, something which sets us apart because here really this organization does a wonderful job in extremely quickly reacting to new situations.
+ I mean, it's similar to also what we do in the antigen tests and so on.
+ So it is very, very encouraging, and I'm very proud how the organization is dealing with the topics when it comes to, I mean, your question is more about, I understand it as outbound logistics.
+ the question of
+ is
+ Are customers ready to take the orders and so on?
+ So here we are very flexibly reacting and prioritizing then one customer over the other.
+ um,
+ we see,
+ CVR
+ confident when it comes to the visibility
+ we have in turning the order book
+ into revenue
+ also in the short term
+ that this challenge is not increasing.
+ and you can trust us
+ that the way we were able to handle it in Q1 will continue.
+ and here we really stand out in the market
+ and to some extent
+ our ability to deliver
+ helps us to
+ to
+ even gain
+ shear
+ yeah
+ because some of the delivery times of competitors
+ are just not what the market accepts.
+ and that brings me also to the other topic
+ when it comes to
+ when it comes to pricing
+ it is
+ uh
+ of course
+ some of the pricing
+ which we have
+ is
+ set by the
+ at the point of the order intake.
+ And as you know, in our business, typically on the imaging side, orders, the time between order and revenue or between book and bill is in the range of six to nine months.
+ so that means
+ the pricing measures
+ which we have initiated
+ and which we see in the order book here
+ will also materialize
+ towards the second half
+ of the year
+ and
+ we see actually
+ a good acceptance of this
+ both internally
+ so to say
+ in the sales force
+ but also that
+ many, many
+ when it comes to
+ when it comes to customers.
+ so
+ So, and as a last point, please also bear in mind here about 50% or more, 55% of our revenue is recurring revenue.
+ and in
+ And especially when it comes to the service aspects, we have also price adjustment clauses and so on
+ and are also protected when it comes to inflationary tendencies.
+ Perfect, thank you so much
+ Thanks, Hassan. Sorry for the technical problems.
+ so now we hand over to
+ Daniel Randolph
+ the second but last one on the
+ queue. Daniel,
+ your line should be open
+ please ask your questions
+ Yes, good morning, everyone. I hope you can hear me well. Thanks for taking my questions.
+ I have a question, the first question on the Varian top-line development.
+ maybe you can
+ tell us a bit
+ how
+ the combination
+ now with very important
+ him himself and he has helped
+ to that if at all
+ and maybe give a few examples what really drove the revenue line,
+ if it was help at all, by being part of
+ that's helping us
+ and then I have a
+ question on
+ the
+ Atelica Low-to-Mid-Throughput
+ solution, the CIA
+ 1-900
+ what is the key marketing message
+ you would give
+ customers here on this front
+ given that the Dan market
+ the slightly different competition is slightly different.
+ And so what is really the key thing standing out for the Italica solution in the mid to low to mid segment?
+ Thank you.
+ Okay. So thank you, Daniel.
+ Yeah, I mean, looking at Varian, there is, on the one hand, when it comes to the revenue development,
+ very,
+ very, very strong recovery of the business coming from the pandemic.
+ and which
+ on the one hand is triggered
+ by a very, very strong competitive situation of Varian as a, quote-unquote,
+ standalone business
+ but in addition
+ And that's what we see on the order book.
+ We see many deals.
+ some of them have already
+ been booked, yeah, like
+ like the one example I gave
+ on Oulu in Finland
+ but many are in what we call
+ the funnel, yeah, which is the
+ project, the science
+ Force is working on, where
+ there is a
+ a
+ super
+ encouraging
+ and momentum
+ across the entire globe
+ in the sales teams
+ to team up and to work jointly on opportunities.
+ and that goes in both directions.
+ This can be specialty oncology customers who are strongly tied to variants
+ or have strong connections
+ and who now want to go into the – or also expand the relationship to imaging,
+ and it can
+ be
+ using the strength we have in C-level relationships as Seemus Health Ineer's classic,
+ if you wish to pull in the variant team and to use this additional effect.
+ It is using our strength as Siemens Healthineers classic again, yeah, in parts of the world where Varian hasn't been as strong, yeah, in terms of sales presence, sometimes not even having a direct sales force.
+ So here we are extremely positive about the internal momentum,
+ and it also shows in the numbers
+ And looking at the order book, we see, I mean, it's not only a very strong start on the revenue side in Varian with the 750,
+ but you need to look at the book to bill of 1.23
+ so that the orders have been even 23% more than that.
+ here so here
+ are clearly very, very strong.
+ and
+ a
+ start and I'm very, very
+ bullish when it comes to this.
+ The second question was the CI90.
+ What is the positioning of the product?
+ Basically,
+ um
+ it
+ it expands
+ the philosophy of
+ Atelica solution, which is highest throughput, highest quality.
+ it
+ so highest quality
+ test and in
+ in high
+ throughput, yeah, so
+ the unique
+ mix we bring as Siemens Healthy
+ news as a
+ engineering company
+ in the lap
+ to new customer groups
+ And these are, on the one hand, the mid-sized labs in the developed countries.
+ very importantly
+ hub and spoke deployments
+ That means hospital networks who use the quote-unquote big Atelica, Atelica solution in the hub
+ And the small atelica in the associated spoke places, which brings them, on the one hand, so-called result concordance, the same test results, but also allows them to purchase the same reagents and so on.
+ So this is a big requirement in the market.
+ And the third topic is it is an ideal system for labs in the emerging countries.
+ Very good. Thank you.
+ So now we go over to the last one for today.
+ that should last but not least
+ Falco Friedrichs from Deutsche Bank
+ Falco, you should be live now.
+ Thank you and good morning.
+ I have two questions as well, please.
+ Firstly, on your new imaging launches, how would you describe the replacement behavior of your customers in light of these launches?
+ so is it that
+ the replacement
+ cycles might actually be shorted
+ a bit now because your customers
+ really want to get their hands on this new technology
+ or is that not really the case
+ And then secondly, on advanced therapies,
+ Can you just provide a bit more color on the underlying trends you see there at the moment with regard to the recovery from the pandemic and potential customer wins?
+ And also, was there anything specific that stood out in the quarter
+ that caused this very strong performance in the Americas.
+ Thank you.
+ Okay, thank you, Falco, on the imaging launches.
+ two
+ I think they come in two different buckets
+ on the one hand
+ when it comes to what we do with the Magnetom 3 max and also 3 star,
+ which is the smaller version of it
+ This is about creating new markets for MRI,
+ and it's bringing MR to places where it couldn't go before.
+ So from that point of view, it is independent of replacement cycles, to answer your question,
+ because it's so to say
+ comes on top of
+ the normal course of business.
+ and we are
+ very happy with what
+ We are seeing that the products exactly do that.
+ bringing MR to the
+ outpatient clinic, which so far
+ only had CT
+ or bringing MR to places in emerging countries which didn't do it
+ or bringing MR to clinical specialties outside radiology.
+ So, irrespective of replacement cycle, this is typically installations where there is no MRI before.
+ On the photon counting CT, this is – I mean, I commented before that this is in the early phase of launch,
+ where we have a lot of excited and exciting customers
+ who are coming either from the academic medical centers or very prestigious private institutions.
+ Here, the topic of shortening a replacement cycle can definitely happen
+ because one of the reasons to buy the product is to stay at the forefront of medical research.
+ this is more the academic
+ medical center type of thinking
+ or to be a quality leader in terms of what type of diagnosis you can offer
+ as a private imaging center, yeah?
+ So, and when your business model is to be competitive and an early adopter, because you are an innovator as a healthcare provider, it shortens the replacement cycle.
+ and the good thing is
+ that this effect of shortening the replacement cycle will over time migrate into broader segments of the market.
+ because I sometimes use this a little bit maybe trivial analogy
+ of comparing photon-counting CT to flat-panel TV or to HDTV
+ when a technology like this
+ is available, people
+ make the decision
+ to go to the next level product earlier than when the next generation
+ offers just little improvements.
+ maybe answering your question
+ on the America
+ as you just highlighted
+ that AT had a strong
+ quarter in the Americas. I think that is also
+ And this, as you know, this is not a book and bill business, so it was nothing which happened at the end of the day in the quarter from a market success.
+ This is a success we had over the last years with the strong order intake also on the AT side,
+ which then materialized
+ in the quarter as revenue
+ and by the way it was across
+ the Board of Americas was
+ It was not U.S. only but also on a much lower scale, very good revenue growth in Latin America on the AT side.
+ so I think nothing
+ what you can really point out to
+ particularly in the quarter,
+ but it was a particular driver of the revenue line in the quarter.
+ I don't know.
+ Okay, thank you.
+ So this ends our call for today.
+ Thanks for your participation, for your continued interest in Siemens Healthineers
+ and your questions in today's call.
+ we look forward to seeing some of you on our roadshow in the next days
+ or at the London conferences early March or at the Barclays conference in Florida in person, maybe.
+ till then
+ stay healthy
+ your head and yes team
+ That will conclude today's conference call.
+ Thank you for your participation, ladies and gentlemen.
+ A recording of this conference call will be available on the Investor Relations section of the Siemens Healthineers website.
+ The website address is corporate.seamens-healthandears.com
+ slash investor dash relations.
+ Transcription by CastingWords
+ Please record your name after the tone and press the pound key.
+ Beep.
+ The conference is in presentation mode. The conference will begin.
+ the
+ The conference is in presentation mode.
+ the conference will be
+ Healthineers.com slash investor dash relations.
+ Thank you.
+ Be available on the Investor Relations section of the C&A.
+ Stay healthy, your head's in your steam.
+ That will conclude today's conference call.
+ Thank you for your participation, ladies and gentlemen.
+ A recording of this conference call will be available on the Investor Relations section of the Siemens Healthineers website.
+ The website address is corporate.seamens-healthandyears.com
+ slash investor dash relations.
+ Thank you.

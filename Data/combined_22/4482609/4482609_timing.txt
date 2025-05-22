@@ -1,0 +1,3 @@
+Transcription time: 5515.96 sec
+Audio length: 5489.42 sec
+Realtime ratio: 1.00

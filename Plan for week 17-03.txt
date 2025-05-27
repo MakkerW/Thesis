@@ -32,6 +32,6 @@ transcription with the more accurate context based transcription. It also makes 
 
 
 - 
--Write in overleaf
+-Write in overleaf (Remember I deleted 1 file in korean)
 
 

@@ -1,112 +1,112 @@
 variant,keyword,correct,missing,substituted,total
-whisper-small,earnings,815,6,118,939
-whisper-small,fiscal,1008,4,102,1114
-whisper-small,sales,3182,24,246,3452
-whisper-small,revenue,3134,11,245,3390
-whisper-small,margin,2505,10,247,2762
-whisper-small,price,1032,22,136,1190
-whisper-small,operating,2075,9,160,2244
-whisper-small,expenses,1050,0,127,1177
-whisper-small,net,3587,18,388,3993
-whisper-small,income,1986,9,228,2223
-whisper-small,interest,496,7,37,540
-whisper-small,tax,1042,9,84,1135
-whisper-small,adjusted,1331,0,140,1471
-whisper-small,cost,1822,25,158,2005
-whisper-small,annual,506,3,56,565
-whisper-small,capital,1459,20,150,1629
-whisper-small,growth,5166,51,373,5590
-whisper-small,dividend,750,18,175,943
-whisper-small,cash,2792,22,349,3163
-whisper-small,debt,991,0,74,1065
-whisper-small,guidance,1362,13,171,1546
-whisper-small,ebitda,1892,12,286,2190
-whisper-small,shares,383,0,19,402
+whisper-small,earnings,782,18,106,906
+whisper-small,fiscal,999,14,92,1105
+whisper-small,sales,3098,59,202,3359
+whisper-small,revenue,3038,34,189,3261
+whisper-small,margin,2460,26,213,2699
+whisper-small,price,1011,30,125,1166
+whisper-small,operating,2012,19,135,2166
+whisper-small,expenses,1041,0,127,1168
+whisper-small,net,3527,52,348,3927
+whisper-small,income,1950,15,213,2178
+whisper-small,interest,493,7,37,537
+whisper-small,tax,1039,13,80,1132
+whisper-small,adjusted,1331,7,133,1471
+whisper-small,cost,1810,34,149,1993
+whisper-small,annual,488,9,50,547
+whisper-small,capital,1453,33,134,1620
+whisper-small,growth,5121,98,317,5536
+whisper-small,dividend,738,51,136,925
+whisper-small,cash,2744,42,320,3106
+whisper-small,debt,988,8,66,1062
+whisper-small,guidance,1347,46,138,1531
+whisper-small,ebitda,1838,24,250,2112
+whisper-small,shares,383,3,16,402
 whisper-small,monthly,113,0,3,116
-whisper-small,loss,374,0,55,429
-whisper-small,liability,85,3,6,94
-whisper-small,estimate,203,0,23,226
-whisper-small,return,480,3,33,516
-whisper-small,stock,298,0,26,324
-whisper-small,profit,1085,0,85,1170
-whisper-small,equity,561,9,57,627
-whisper-small,unit,293,2,30,325
-whisper-small,asset,398,2,52,452
-whisper-small,forecast,365,0,101,466
-whisper-small,ratio,737,3,45,785
+whisper-small,loss,362,0,43,405
+whisper-small,liability,70,6,3,79
+whisper-small,estimate,203,3,20,226
+whisper-small,return,480,12,24,516
+whisper-small,stock,298,6,20,324
+whisper-small,profit,1016,9,76,1101
+whisper-small,equity,546,12,54,612
+whisper-small,unit,293,8,24,325
+whisper-small,asset,398,8,46,452
+whisper-small,forecast,362,6,95,463
+whisper-small,ratio,722,8,37,767
 whisper-small,ebit,293,0,18,311
 whisper-small,valuation,33,0,6,39
-whisper-large-v3-turbo,earnings,808,9,110,927
-whisper-large-v3-turbo,fiscal,1006,1,107,1114
-whisper-large-v3-turbo,sales,3266,10,236,3512
-whisper-large-v3-turbo,revenue,3233,7,183,3423
-whisper-large-v3-turbo,margin,2606,12,171,2789
-whisper-large-v3-turbo,price,1077,16,115,1208
-whisper-large-v3-turbo,operating,2112,6,156,2274
-whisper-large-v3-turbo,expenses,1065,6,112,1183
-whisper-large-v3-turbo,net,3621,12,352,3985
-whisper-large-v3-turbo,income,1990,6,224,2220
-whisper-large-v3-turbo,interest,494,3,37,534
-whisper-large-v3-turbo,tax,1046,8,78,1132
-whisper-large-v3-turbo,adjusted,1329,0,154,1483
-whisper-large-v3-turbo,cost,1834,28,146,2008
-whisper-large-v3-turbo,annual,529,0,44,573
-whisper-large-v3-turbo,capital,1487,7,136,1630
-whisper-large-v3-turbo,growth,5295,27,292,5614
-whisper-large-v3-turbo,dividend,805,6,132,943
-whisper-large-v3-turbo,cash,2915,22,237,3174
-whisper-large-v3-turbo,debt,1013,3,55,1071
-whisper-large-v3-turbo,guidance,1376,19,159,1554
-whisper-large-v3-turbo,ebitda,1998,3,203,2204
+whisper-large-v3-turbo,earnings,769,18,101,888
+whisper-large-v3-turbo,fiscal,997,21,87,1105
+whisper-large-v3-turbo,sales,3140,51,186,3377
+whisper-large-v3-turbo,revenue,3101,16,144,3261
+whisper-large-v3-turbo,margin,2531,19,155,2705
+whisper-large-v3-turbo,price,1032,23,105,1160
+whisper-large-v3-turbo,operating,2016,30,117,2163
+whisper-large-v3-turbo,expenses,1056,19,96,1171
+whisper-large-v3-turbo,net,3546,41,317,3904
+whisper-large-v3-turbo,income,1948,18,209,2175
+whisper-large-v3-turbo,interest,491,3,37,531
+whisper-large-v3-turbo,tax,1043,4,82,1129
+whisper-large-v3-turbo,adjusted,1329,4,150,1483
+whisper-large-v3-turbo,cost,1819,31,143,1993
+whisper-large-v3-turbo,annual,502,9,35,546
+whisper-large-v3-turbo,capital,1472,23,120,1615
+whisper-large-v3-turbo,growth,5229,83,221,5533
+whisper-large-v3-turbo,dividend,790,24,111,925
+whisper-large-v3-turbo,cash,2852,46,204,3102
+whisper-large-v3-turbo,debt,1004,7,48,1059
+whisper-large-v3-turbo,guidance,1358,29,149,1536
+whisper-large-v3-turbo,ebitda,1923,19,175,2117
 whisper-large-v3-turbo,shares,372,0,30,402
 whisper-large-v3-turbo,monthly,113,0,3,116
-whisper-large-v3-turbo,loss,378,0,54,432
-whisper-large-v3-turbo,liability,88,3,3,94
-whisper-large-v3-turbo,estimate,207,0,16,223
-whisper-large-v3-turbo,return,498,3,21,522
+whisper-large-v3-turbo,loss,363,0,42,405
+whisper-large-v3-turbo,liability,73,3,3,79
+whisper-large-v3-turbo,estimate,207,3,13,223
+whisper-large-v3-turbo,return,498,9,15,522
 whisper-large-v3-turbo,stock,302,1,21,324
-whisper-large-v3-turbo,profit,1133,6,70,1209
-whisper-large-v3-turbo,equity,571,7,62,640
+whisper-large-v3-turbo,profit,1013,10,66,1089
+whisper-large-v3-turbo,equity,550,13,50,613
 whisper-large-v3-turbo,unit,302,3,20,325
 whisper-large-v3-turbo,asset,408,7,37,452
-whisper-large-v3-turbo,forecast,371,3,95,469
-whisper-large-v3-turbo,ratio,752,1,47,800
+whisper-large-v3-turbo,forecast,368,9,86,463
+whisper-large-v3-turbo,ratio,731,9,27,767
 whisper-large-v3-turbo,ebit,298,0,13,311
 whisper-large-v3-turbo,valuation,36,0,3,39
-GPT-4o mini Transcribe,earnings,782,3,125,910
-GPT-4o mini Transcribe,fiscal,1113,0,43,1156
-GPT-4o mini Transcribe,sales,3251,6,212,3469
-GPT-4o mini Transcribe,revenue,3181,1,216,3398
-GPT-4o mini Transcribe,margin,2545,4,182,2731
-GPT-4o mini Transcribe,price,1031,6,117,1154
-GPT-4o mini Transcribe,operating,2090,7,128,2225
-GPT-4o mini Transcribe,expenses,1092,0,88,1180
-GPT-4o mini Transcribe,net,3632,6,322,3960
-GPT-4o mini Transcribe,income,1970,4,211,2185
+GPT-4o mini Transcribe,earnings,752,21,107,880
+GPT-4o mini Transcribe,fiscal,1104,14,29,1147
+GPT-4o mini Transcribe,sales,3140,38,174,3352
+GPT-4o mini Transcribe,revenue,3046,13,171,3230
+GPT-4o mini Transcribe,margin,2497,21,150,2668
+GPT-4o mini Transcribe,price,1016,17,103,1136
+GPT-4o mini Transcribe,operating,2027,25,98,2150
+GPT-4o mini Transcribe,expenses,1080,4,81,1165
+GPT-4o mini Transcribe,net,3572,48,277,3897
+GPT-4o mini Transcribe,income,1937,22,190,2149
 GPT-4o mini Transcribe,interest,464,0,40,504
-GPT-4o mini Transcribe,tax,1021,0,90,1111
+GPT-4o mini Transcribe,tax,1018,1,89,1108
 GPT-4o mini Transcribe,adjusted,1360,0,103,1463
-GPT-4o mini Transcribe,cost,1813,13,127,1953
-GPT-4o mini Transcribe,annual,515,0,48,563
-GPT-4o mini Transcribe,capital,1482,0,123,1605
-GPT-4o mini Transcribe,growth,5265,11,246,5522
-GPT-4o mini Transcribe,dividend,798,6,136,940
-GPT-4o mini Transcribe,cash,2879,7,240,3126
-GPT-4o mini Transcribe,debt,994,0,53,1047
-GPT-4o mini Transcribe,guidance,1421,15,99,1535
-GPT-4o mini Transcribe,ebitda,1933,0,171,2104
-GPT-4o mini Transcribe,shares,385,0,23,408
+GPT-4o mini Transcribe,cost,1810,22,118,1950
+GPT-4o mini Transcribe,annual,494,6,42,542
+GPT-4o mini Transcribe,capital,1473,19,104,1596
+GPT-4o mini Transcribe,growth,5217,50,201,5468
+GPT-4o mini Transcribe,dividend,786,21,118,925
+GPT-4o mini Transcribe,cash,2828,22,219,3069
+GPT-4o mini Transcribe,debt,991,7,46,1044
+GPT-4o mini Transcribe,guidance,1400,30,84,1514
+GPT-4o mini Transcribe,ebitda,1861,18,135,2014
+GPT-4o mini Transcribe,shares,385,3,20,408
 GPT-4o mini Transcribe,monthly,113,0,3,116
-GPT-4o mini Transcribe,loss,373,0,50,423
-GPT-4o mini Transcribe,liability,94,0,0,94
-GPT-4o mini Transcribe,estimate,217,0,6,223
-GPT-4o mini Transcribe,return,504,3,18,525
+GPT-4o mini Transcribe,loss,361,0,38,399
+GPT-4o mini Transcribe,liability,79,0,0,79
+GPT-4o mini Transcribe,estimate,217,3,3,223
+GPT-4o mini Transcribe,return,504,12,9,525
 GPT-4o mini Transcribe,stock,291,0,22,313
-GPT-4o mini Transcribe,profit,1074,0,79,1153
-GPT-4o mini Transcribe,equity,594,3,30,627
-GPT-4o mini Transcribe,unit,302,0,21,323
+GPT-4o mini Transcribe,profit,1014,19,60,1093
+GPT-4o mini Transcribe,equity,579,12,21,612
+GPT-4o mini Transcribe,unit,302,6,15,323
 GPT-4o mini Transcribe,asset,398,1,34,433
-GPT-4o mini Transcribe,forecast,377,0,91,468
-GPT-4o mini Transcribe,ratio,728,0,34,762
+GPT-4o mini Transcribe,forecast,374,12,79,465
+GPT-4o mini Transcribe,ratio,719,7,27,753
 GPT-4o mini Transcribe,ebit,293,0,19,312
 GPT-4o mini Transcribe,valuation,36,0,3,39
